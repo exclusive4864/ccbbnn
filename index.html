@@ -221,6 +221,7 @@ function save(k,v){memory[k]=v;try{localStorage.setItem('writewise-v1',JSON.stri
 let view=saved('lastView','home'),selected=0,band=7,comparison=false,showNotes=true,cardIndex=0,filter='all',flipped=false;
 let timerLeft=2400,timerEnd=0,timerHandle=null;
 const navs=[['home','⌂','เริ่มฝึกวันนี้'],['writinglab','W','Writing Pattern Lab'],['speaking','S','Speaking Mirror'],['collocations','C','Collocation Lab'],['learn','7–9','เทียบคำตอบ'],['foundation','A','พื้นฐานทีละขั้น'],['write','✎','ห้องเขียน'],['roadmap','28','แผน 28 วัน'],['data','⇅','ข้อมูลของฉัน'],['sources','↗','เกณฑ์ & อ้างอิง']];
+wlIndex=Number(saved('wlIndex',0));speakTab=saved('speakTab','part1');speakIndex=Number(saved('speakIndex',0));collIndex=Number(saved('collIndex',0));collTopic=saved('collTopic','all');
 function toast(s){$('toast').textContent=s;$('toast').style.display='block';clearTimeout(toast.handle);toast.handle=setTimeout(()=>$('toast').style.display='none',3500);}
 function setView(v){view=v;save('lastView',v);render();$('main').focus();window.scrollTo({top:0,behavior:'instant'});}
 function header(n,title,sub){return `<div class="eyebrow">${n}</div><h1>${title}</h1><p class="muted">${sub}</p>`;}
