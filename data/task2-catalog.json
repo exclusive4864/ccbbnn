@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "app": "Writewise",
+  "section": "IELTS Writing Task 2",
+  "topics": [
+    {
+      "id": "education",
+      "label_en": "Education",
+      "label_th": "การศึกษา"
+    },
+    {
+      "id": "transportation",
+      "label_en": "Transportation",
+      "label_th": "การคมนาคม"
+    },
+    {
+      "id": "tourism",
+      "label_en": "Tourism",
+      "label_th": "การท่องเที่ยว"
+    },
+    {
+      "id": "technology",
+      "label_en": "Technology",
+      "label_th": "เทคโนโลยี"
+    },
+    {
+      "id": "family",
+      "label_en": "Family",
+      "label_th": "ครอบครัว"
+    },
+    {
+      "id": "health",
+      "label_en": "Health",
+      "label_th": "สุขภาพ"
+    },
+    {
+      "id": "environment",
+      "label_en": "Environment",
+      "label_th": "สิ่งแวดล้อม"
+    },
+    {
+      "id": "work",
+      "label_en": "Work",
+      "label_th": "การทำงาน"
+    },
+    {
+      "id": "crime",
+      "label_en": "Crime",
+      "label_th": "อาชญากรรม"
+    },
+    {
+      "id": "social-media",
+      "label_en": "Social Media",
+      "label_th": "สื่อสังคมออนไลน์"
+    }
+  ],
+  "questionTypes": [
+    {
+      "id": "agree-disagree",
+      "label_en": "Agree / Disagree",
+      "signal": "To what extent do you agree or disagree?"
+    },
+    {
+      "id": "discuss-both",
+      "label_en": "Discuss Both Views + Opinion",
+      "signal": "Discuss both views and give your own opinion."
+    },
+    {
+      "id": "positive-negative",
+      "label_en": "Positive / Negative Development",
+      "signal": "Is this a positive or negative development?"
+    },
+    {
+      "id": "advantages-disadvantages",
+      "label_en": "Advantages / Disadvantages",
+      "signal": "What are the advantages and disadvantages?"
+    },
+    {
+      "id": "outweigh",
+      "label_en": "Do Advantages Outweigh Disadvantages?",
+      "signal": "Do the advantages outweigh the disadvantages?"
+    },
+    {
+      "id": "problems-solutions",
+      "label_en": "Problems + Solutions",
+      "signal": "What problems does this cause, and how can they be addressed?"
+    },
+    {
+      "id": "causes-solutions",
+      "label_en": "Causes + Solutions",
+      "signal": "What are the causes, and what solutions can be taken?"
+    },
+    {
+      "id": "two-part",
+      "label_en": "Two-Part Question",
+      "signal": "Two explicit questions must both be answered."
+    },
+    {
+      "id": "direct-question",
+      "label_en": "Direct Question",
+      "signal": "Answer the specific question(s) directly."
+    }
+  ]
+}
