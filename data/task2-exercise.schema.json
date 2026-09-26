@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Writewise IELTS Task 2 Exercise",
+  "type": "object",
+  "required": [
+    "id",
+    "topic",
+    "questionType",
+    "question",
+    "targetBand",
+    "plan",
+    "modelEssay",
+    "thaiExplanation",
+    "patterns",
+    "vocabulary",
+    "studyNext"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "questionType": {
+      "type": "string"
+    },
+    "question": {
+      "type": "string"
+    },
+    "sourceNote": {
+      "type": "string"
+    },
+    "targetBand": {
+      "type": "string"
+    },
+    "stance": {
+      "type": "string"
+    },
+    "plan": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "modelEssay": {
+      "type": "object",
+      "required": [
+        "introduction",
+        "body1",
+        "body2",
+        "conclusion"
+      ],
+      "properties": {
+        "introduction": {
+          "type": "string"
+        },
+        "body1": {
+          "type": "string"
+        },
+        "body2": {
+          "type": "string"
+        },
+        "conclusion": {
+          "type": "string"
+        }
+      }
+    },
+    "thaiExplanation": {
+      "type": "object",
+      "properties": {
+        "introduction": {
+          "type": "string"
+        },
+        "body1": {
+          "type": "string"
+        },
+        "body2": {
+          "type": "string"
+        },
+        "conclusion": {
+          "type": "string"
+        }
+      }
+    },
+    "patterns": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "purpose_th": {
+            "type": "string"
+          },
+          "priority": {
+            "enum": [
+              "must-remember",
+              "useful"
+            ]
+          }
+        }
+      }
+    },
+    "vocabulary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "term": {
+            "type": "string"
+          },
+          "meaning_th": {
+            "type": "string"
+          },
+          "example": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "collocations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "phrase": {
+            "type": "string"
+          },
+          "meaning_th": {
+            "type": "string"
+          },
+          "example": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "studyNext": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "infographic": {
+      "type": "object",
+      "properties": {
+        "assetPath": {
+          "type": "string"
+        },
+        "approvedStyle": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}
