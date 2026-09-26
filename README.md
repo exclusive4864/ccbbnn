@@ -8,7 +8,7 @@
 
 **https://exclusive4864.github.io/ccbbnn/education-master.html**
 
-ต้นแบบบทเรียน Education แบบเต็ม: Model Essay + คำแปลไทย + Pattern + Vocabulary/Collocations + Paraphrase & Synonym Bank + Active Recall Lab + Teacher Coach พร้อม Hint ทีละขั้นและ feedback เมื่อเลือกคำตอบผิด
+Education Master ฉบับสมบูรณ์ 18 บท: 9 รูปแบบคำถาม × 2 ตัวอย่าง พร้อม Model Essay 4 ย่อหน้า, คำแปลไทย, Paragraph Analysis, Must-Remember Patterns, Vocabulary/Collocations, Paraphrase & Synonym Bank, Grammar/Linking Words, IELTS TR/CC/LR/GRA Review, Common Mistakes, Active Recall Lab, Teacher Coach, Hint ทีละขั้น และ Transfer Challenge
 
 
 ## เนื้อหา
