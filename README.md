@@ -4,6 +4,13 @@
 
 **https://exclusive4864.github.io/ccbbnn/**
 
+### Education Master Module
+
+**https://exclusive4864.github.io/ccbbnn/education-master.html**
+
+ต้นแบบบทเรียน Education แบบเต็ม: Model Essay + คำแปลไทย + Pattern + Vocabulary/Collocations + Paraphrase & Synonym Bank + Active Recall Lab + Teacher Coach พร้อม Hint ทีละขั้นและ feedback เมื่อเลือกคำตอบผิด
+
+
 ## เนื้อหา
 
 - Writing Pattern Lab 15 รูปแบบ: Task 2 เก้ากลุ่มคำสั่ง และ Academic Task 1 หกชนิด
