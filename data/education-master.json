@@ -3556,6 +3556,22 @@
     "subsidy": {
       "definition": "money provided to reduce the cost of a service or activity",
       "family": "subsidise · subsidy · subsidised"
+    },
+    "adaptable": {
+      "definition": "able to adjust successfully to new situations",
+      "family": "adapt · adaptable · adaptability"
+    },
+    "specialism": {
+      "definition": "a particular subject or professional area in which someone has detailed knowledge",
+      "family": "specialise · specialist · specialism"
+    },
+    "mentoring": {
+      "definition": "guidance given by a more experienced person to support another person's development",
+      "family": "mentor · mentoring"
+    },
+    "means-tested": {
+      "definition": "available only after a person's income or financial resources have been assessed",
+      "family": "means test · means-tested"
     }
   },
   "visualMemoryVersion": 1
