@@ -5,8 +5,8 @@ const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 function moduleKey(){return (DATA?.module||'writewise').toLowerCase().includes('transportation')?'transportation':'education'}
 function prefKey(){return 'writewise-visual-memory-'+moduleKey()}
-function loadPrefs(){try{prefs={...prefs,...JSON.parse(localStorage.getItem(prefKey())||'{}')}}catch(e){}}
-function savePrefs(){try{localStorage.setItem(prefKey(),JSON.stringify(prefs))}catch(e){}}
+function loadPrefs(){try{prefs={...prefs,...JSON.parse(localStorage.getItem(prefKey())||'{}')};const globalTheme=localStorage.getItem('writewise-display-theme');if(globalTheme)prefs.theme=globalTheme;else if(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)prefs.theme='night'}catch(e){}}
+function savePrefs(){try{localStorage.setItem(prefKey(),JSON.stringify(prefs));localStorage.setItem('writewise-display-theme',prefs.theme)}catch(e){}}
 function current(){const id=location.hash.slice(1);return DATA?.lessons?.find(x=>x.id===id)||DATA?.lessons?.[0]}
 function applyPrefs(){
  document.body.dataset.theme=prefs.theme;
