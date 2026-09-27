@@ -3817,6 +3817,26 @@
     "subsidy": {
       "definition": "money provided to reduce the cost of a service or activity",
       "family": "subsidise · subsidy · subsidised"
+    },
+    "feasible": {
+      "definition": "possible and practical enough to be carried out successfully",
+      "family": "feasible · feasibility"
+    },
+    "coverage": {
+      "definition": "the extent to which a service reaches different places or people",
+      "family": "cover · coverage"
+    },
+    "integrated": {
+      "definition": "combined and connected so that different parts work together effectively",
+      "family": "integrate · integrated · integration"
+    },
+    "commuting": {
+      "definition": "regular travel between home and work or study",
+      "family": "commute · commuter · commuting"
+    },
+    "land-use": {
+      "definition": "relating to how land is allocated and developed for different purposes",
+      "family": "land use · land-use planning"
     }
   },
   "visualMemoryVersion": 1
