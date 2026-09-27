@@ -104,7 +104,39 @@
         ],
         "I would largely disagree: online resources widen access and support self-paced review, but teachers still diagnose misunderstanding, adapt instruction and provide responsive guidance."
       ],
-      "wordCount": 278
+      "wordCount": 278,
+      "annotations": [
+        {
+          "text": "I largely disagree with this view",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "The strongest reason for attending university is that",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "structured knowledge",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "professional standards",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "academic",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "practical",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "agree-b",
@@ -207,7 +239,39 @@
         ],
         "I would largely disagree: employers should provide job-specific training, but individuals still need to develop transferable skills and take responsibility for continued learning."
       ],
-      "wordCount": 282
+      "wordCount": 282,
+      "annotations": [
+        {
+          "text": "I largely disagree with this view",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "One reason schools should share this responsibility is that",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "academic subjects",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "practical life skills",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "curriculum",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "academic",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "discuss-a",
@@ -310,7 +374,34 @@
         ],
         "Both sides address mobility, but I would prioritise public transport in dense cities because it can move more people using limited road space."
       ],
-      "wordCount": 278
+      "wordCount": 278,
+      "annotations": [
+        {
+          "text": "Both positions have merit, but I believe",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "team sports",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "written examinations",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "curriculum",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "academic",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "discuss-b",
@@ -413,7 +504,34 @@
         ],
         "Profit is necessary for survival and investment, but companies also affect workers, consumers and the environment, so their role cannot be reduced to profit alone."
       ],
-      "wordCount": 285
+      "wordCount": 285,
+      "annotations": [
+        {
+          "text": "I believe universities should pursue both aims rather than",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "career prospects",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "professional practice",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "adaptable",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "specialism",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "positive-a",
@@ -516,7 +634,34 @@
         ],
         "I would view the trend as largely positive because it reduces commuting and increases flexibility, provided that organisations maintain collaboration and support."
       ],
-      "wordCount": 282
+      "wordCount": 282,
+      "annotations": [
+        {
+          "text": "I regard this as a largely positive development",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "campus attendance",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "recorded lectures",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "participation",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "flexibility",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "positive-b",
@@ -619,7 +764,34 @@
         ],
         "It is positive when AI handles routine support while employees retain responsibility for judgement, verification and important decisions."
       ],
-      "wordCount": 285
+      "wordCount": 285,
+      "annotations": [
+        {
+          "text": "I consider this a potentially positive development",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "learning aid",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "academic work",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "personalised",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "verify",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "adv-a",
@@ -722,7 +894,34 @@
         ],
         "Working abroad can expand career and intercultural experience, but it may also create family separation, adjustment difficulties and financial uncertainty."
       ],
-      "wordCount": 271
+      "wordCount": 271,
+      "annotations": [
+        {
+          "text": "This choice can offer major academic and personal benefits, but it also creates",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "intercultural awareness",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "international tuition fees",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "intercultural",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "accreditation",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "adv-b",
@@ -825,7 +1024,34 @@
         ],
         "Digital systems improve storage, search and remote access, but they create dependence on technology and require strong security and backup procedures."
       ],
-      "wordCount": 283
+      "wordCount": 283,
+      "annotations": [
+        {
+          "text": "This shift can make educational resources more flexible and interactive, but it also introduces",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "digital learning materials",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "interactive exercises",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "interactive",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "accessibility",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "outweigh-a",
@@ -928,7 +1154,34 @@
         ],
         "For many knowledge-based jobs, the advantages can outweigh the disadvantages because flexibility and reduced commuting are substantial, while collaboration problems can often be managed through deliberate team practices."
       ],
-      "wordCount": 284
+      "wordCount": 284,
+      "annotations": [
+        {
+          "text": "I believe its advantages outweigh these disadvantages because",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "direct interaction",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "practical training",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "participation",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "flexibility",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "outweigh-b",
@@ -1031,7 +1284,34 @@
         ],
         "The benefits outweigh the costs only when infrastructure has lasting public value and spending is controlled; otherwise, short-term tourism gains may not justify the expense."
       ],
-      "wordCount": 279
+      "wordCount": 279,
+      "annotations": [
+        {
+          "text": "I believe the advantages generally outweigh the disadvantages when",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "financial pressure",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "intercultural communication",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "intercultural",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "adaptability",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "problems-a",
@@ -1134,7 +1414,34 @@
         ],
         "Weak communication can cause errors and poor teamwork; employers can address it through supervised projects, feedback and communication training tied to real tasks."
       ],
-      "wordCount": 281
+      "wordCount": 281,
+      "annotations": [
+        {
+          "text": "Schools can address the problem by",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "repayment obligations",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "financial literacy",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "readiness",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "literacy",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "problems-b",
@@ -1237,7 +1544,34 @@
         ],
         "Chronic stress can reduce concentration and increase turnover; employers can respond by improving workload planning, manager support and access to professional help."
       ],
-      "wordCount": 276
+      "wordCount": 276,
+      "annotations": [
+        {
+          "text": "Schools and parents can respond by",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "academic pressure",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "sustained stress",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "assessment",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "counselling",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "causes-a",
@@ -1340,7 +1674,34 @@
         ],
         "Declining use may reflect unreliable or inconvenient services; more frequent routes, better connections and real-time information could make public transport more attractive."
       ],
-      "wordCount": 290
+      "wordCount": 290,
+      "annotations": [
+        {
+          "text": "This trend is likely to result from",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "science-related subjects",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "career pathway",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "mentoring",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "qualification",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "causes-b",
@@ -1443,7 +1804,34 @@
         ],
         "The gap may result from unequal facilities and financial barriers; targeted investment, transport support and affordable primary care can reduce unequal access."
       ],
-      "wordCount": 287
+      "wordCount": 287,
+      "annotations": [
+        {
+          "text": "The main causes are",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "educational opportunity",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "low-income families",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "inequality",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "means-tested",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "two-a",
@@ -1546,7 +1934,39 @@
         ],
         "Career changes are becoming more common because industries evolve and people seek better-fitting work; overall, this is positive when workers can retrain without severe financial insecurity."
       ],
-      "wordCount": 286
+      "wordCount": 286,
+      "annotations": [
+        {
+          "text": "This is happening because",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "I consider the trend positive overall",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "part-time degree",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "lifelong learning",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "lifelong",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "qualification",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "two-b",
@@ -1649,7 +2069,39 @@
         ],
         "AI financial tools are common because they are accessible and responsive; the trend can be positive for routine guidance, provided that users verify important decisions and understand privacy risks."
       ],
-      "wordCount": 274
+      "wordCount": 274,
+      "annotations": [
+        {
+          "text": "This has become common because",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "I believe the trend can be positive, provided that",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "AI tools",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "independent practice",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "responsive",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "personalised",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "direct-a",
@@ -1752,7 +2204,34 @@
         ],
         "High-capacity public transport and safe walking/cycling networks should receive priority in dense areas, while elected authorities should decide with technical evidence and public consultation."
       ],
-      "wordCount": 284
+      "wordCount": 284,
+      "annotations": [
+        {
+          "text": "In my view, schools should prioritise",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "financial literacy",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "digital judgement",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "judgement",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "literacy",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "direct-b",
@@ -1855,7 +2334,34 @@
         ],
         "Essential healthcare should be publicly guaranteed, while funding can come mainly from taxation with limited personal contributions for non-essential services where appropriate."
       ],
-      "wordCount": 286
+      "wordCount": 286,
+      "annotations": [
+        {
+          "text": "I do not believe universal free tuition is the most effective approach",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "financial barrier",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "public funding",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "tuition",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "subsidy",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     }
   ],
   "lexicon": {
@@ -2937,5 +3443,120 @@
       "overall",
       "on balance"
     ]
-  }
+  },
+  "vocabCoach": {
+    "academic": {
+      "definition": "connected with education, study, or scholarly work",
+      "family": "academy · academic · academically"
+    },
+    "practical": {
+      "definition": "related to real action or use rather than theory alone",
+      "family": "practice · practical · practically"
+    },
+    "curriculum": {
+      "definition": "the subjects and learning activities included in a course or school programme",
+      "family": "curriculum · curricular"
+    },
+    "employability": {
+      "definition": "the skills and qualities that help someone get and keep suitable work",
+      "family": "employ · employment · employable · employability"
+    },
+    "prospect": {
+      "definition": "a possibility or chance of future success",
+      "family": "prospect · prospective"
+    },
+    "participation": {
+      "definition": "the act of taking part in an activity",
+      "family": "participate · participant · participation"
+    },
+    "flexibility": {
+      "definition": "the ability to change or adapt arrangements easily",
+      "family": "flexible · flexibility · flexibly"
+    },
+    "personalised": {
+      "definition": "designed to suit the needs of a particular person",
+      "family": "personal · personalise · personalised · personalisation"
+    },
+    "verify": {
+      "definition": "to check that information is true, accurate, or reliable",
+      "family": "verify · verification · verifiable"
+    },
+    "intercultural": {
+      "definition": "involving communication or understanding between different cultures",
+      "family": "culture · cultural · intercultural"
+    },
+    "accreditation": {
+      "definition": "official approval that a programme or institution meets required standards",
+      "family": "accredit · accredited · accreditation"
+    },
+    "interactive": {
+      "definition": "allowing active two-way participation or response",
+      "family": "interact · interaction · interactive"
+    },
+    "accessibility": {
+      "definition": "how easy something is to reach, use, or understand",
+      "family": "access · accessible · accessibility"
+    },
+    "barrier": {
+      "definition": "something that prevents progress or makes access difficult",
+      "family": "barrier · barriers"
+    },
+    "adaptability": {
+      "definition": "the ability to adjust successfully to new conditions",
+      "family": "adapt · adaptable · adaptability"
+    },
+    "readiness": {
+      "definition": "the state of being prepared for something",
+      "family": "ready · readiness"
+    },
+    "literacy": {
+      "definition": "knowledge and competence in a particular area",
+      "family": "literate · literacy"
+    },
+    "assessment": {
+      "definition": "the process of judging or measuring performance",
+      "family": "assess · assessment"
+    },
+    "counselling": {
+      "definition": "professional guidance and support for personal or emotional difficulties",
+      "family": "counsel · counsellor · counselling"
+    },
+    "perception": {
+      "definition": "the way a person understands or interprets something",
+      "family": "perceive · perception"
+    },
+    "pathway": {
+      "definition": "a route or sequence that leads to a particular result",
+      "family": "path · pathway"
+    },
+    "inequality": {
+      "definition": "an unfair difference in access, resources, or outcomes",
+      "family": "equal · unequal · equality · inequality"
+    },
+    "lifelong": {
+      "definition": "continuing throughout a person's life",
+      "family": "life · lifelong"
+    },
+    "qualification": {
+      "definition": "an official award or record showing education, training, or competence",
+      "family": "qualify · qualified · qualification"
+    },
+    "responsive": {
+      "definition": "able to react appropriately and quickly to needs or changes",
+      "family": "respond · response · responsive"
+    },
+    "judgement": {
+      "definition": "the ability to make sensible decisions after considering information",
+      "family": "judge · judgement"
+    },
+    "tuition": {
+      "definition": "teaching, especially at college or university; in tuition fees, the cost of instruction",
+      "family": "tuition · tutor"
+    },
+    "subsidy": {
+      "definition": "money provided to reduce the cost of a service or activity",
+      "family": "subsidise · subsidy · subsidised"
+    }
+  },
+  "visualMemoryVersion": 1
 }
