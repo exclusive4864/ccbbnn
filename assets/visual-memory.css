@@ -33,3 +33,14 @@ body[data-theme=night] .syn-chip{background:#192f40;border-color:#31536a}
 body[data-theme=night] .rubric div:nth-child(1),body[data-theme=night] .rubric div:nth-child(2),body[data-theme=night] .rubric div:nth-child(3),body[data-theme=night] .rubric div:nth-child(4){background:#17252d}
 body.focus .secondary,body.focus .memory-visual .micro{display:none!important}
 @media(max-width:760px){.memory-toolbar{position:static}.memory-legend{width:100%;margin-left:0}.coach-pop{right:14px;bottom:14px}.memory-toolbar button{flex:1 1 auto}}
+
+/* Pattern First Blueprint */
+.pattern-first{border:1px solid #e3c56b;background:linear-gradient(135deg,#fffaf0,#fff);border-radius:18px;padding:20px;margin-bottom:16px}
+.pattern-first h2{margin:0 0 6px}.pattern-first .pf-goal{color:var(--muted);margin:0 0 14px}
+.pattern-flow{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.pattern-step{border:1px solid var(--line);background:var(--white);border-radius:13px;padding:13px}
+.pattern-step b{display:block;color:#9a6800;margin-bottom:6px}.pattern-frame{font-family:Georgia,"Times New Roman",serif;line-height:1.65}
+.pattern-rule{margin-top:13px;padding:11px 13px;border-left:4px solid #d5a329;background:rgba(240,190,62,.10);border-radius:0 10px 10px 0}
+body[data-theme=night] .pattern-first{background:linear-gradient(135deg,#292619,#182229);border-color:#65582f}
+body[data-theme=night] .pattern-step{background:#111c22}body[data-theme=night] .pattern-step b{color:#e1b954}
+@media(max-width:1000px){.pattern-flow{grid-template-columns:1fr 1fr}}@media(max-width:600px){.pattern-flow{grid-template-columns:1fr}}
