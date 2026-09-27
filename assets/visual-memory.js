@@ -101,6 +101,16 @@ function annotateElement(el,annotations){
  if(!chosen.length)return;
  let out='',pos=0;for(const h of chosen){out+=esc(text.slice(pos,h.start));const actual=text.slice(h.start,h.end),kind=h.a.type;out+='<span class="memory-mark hl-'+kind+'" data-kind="'+esc(kind)+'" data-key="'+esc(h.a.text)+'" data-priority="'+esc(h.a.priority||'useful')+'" tabindex="0" role="button">'+esc(actual)+'</span>';pos=h.end}out+=esc(text.slice(pos));el.innerHTML=out;
 }
+function patternFirst(){
+ const l=current();if(!l||!DATA.patternBlueprints)return;
+ const main=$('#main');if(!main||main.querySelector('.pattern-first'))return;
+ const b=DATA.patternBlueprints[l.type];if(!b)return;
+ const essay=[...main.querySelectorAll('.para')][0]?.closest('.card');
+ if(!essay)return;
+ const sec=document.createElement('section');sec.className='pattern-first';
+ sec.innerHTML='<div class="eyebrow">PATTERN FIRST · '+esc(l.type)+'</div><h2>จำ “หน้าที่ของแต่ละย่อหน้า” ก่อนอ่านคำตอบ</h2><p class="pf-goal">'+esc(b.goal_th)+'</p><div class="pattern-flow">'+b.paragraphs.map((p,i)=>'<div class="pattern-step"><b>'+esc(p[0])+'</b><div class="pattern-frame">'+esc(p[1])+'</div></div>').join('')+'</div><div class="pattern-rule"><b>วิธีใช้:</b> อ่านโครงนี้ก่อน → ดู Model Essay → สังเกต ⭐ สีทองในคำตอบว่าประโยคจริงทำหน้าที่ตรงกับ Pattern ตรงไหน → จากนั้นเข้า Recall Mode แล้วลองสร้างประโยคของตัวเอง<br><span class="micro">Pattern เป็นโครงช่วยคิด ไม่ใช่ประโยคที่ต้องท่องคำต่อคำ และต้องปรับตามคำสั่งจริงของโจทย์เสมอ</span></div>';
+ essay.insertAdjacentElement('beforebegin',sec);
+}
 function applyAnnotations(){
  const l=current();if(!l)return;
  document.querySelectorAll('.para .en').forEach(el=>annotateElement(el,l.annotations||[]));
@@ -116,12 +126,12 @@ function events(){
  });
  document.addEventListener('dblclick',e=>{const mark=e.target.closest('.hl-vocabulary');if(mark){e.preventDefault();openVocab(mark.dataset.key)}});
  document.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.classList?.contains('memory-mark')){e.preventDefault();e.target.click()}});
- const main=$('#main');if(main)new MutationObserver(()=>requestAnimationFrame(applyAnnotations)).observe(main,{childList:true,subtree:true});
+ const main=$('#main');if(main)new MutationObserver(()=>requestAnimationFrame(()=>{patternFirst();applyAnnotations()})).observe(main,{childList:true,subtree:true});
 }
 function initMemory(){
  loadPrefs();toolbar();coachShell();events();
  const old=$('#focus');if(old)old.onclick=()=>{prefs.focus=!prefs.focus;savePrefs();applyPrefs()};
- applyPrefs();applyAnnotations();
+ applyPrefs();patternFirst();applyAnnotations();
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',initMemory);else initMemory();
 })();
