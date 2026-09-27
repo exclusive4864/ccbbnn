@@ -1,0 +1,35 @@
+/* Writewise Visual Memory & Night Study System */
+.memory-toolbar{position:sticky;top:0;z-index:15;background:color-mix(in srgb,var(--white) 94%,transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding:9px 16px}
+.memory-toolbar .memory-inner{max-width:1480px;margin:auto;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.memory-toolbar button{border:1px solid var(--line);background:var(--white);color:var(--ink);border-radius:10px;padding:8px 11px;min-height:42px}
+.memory-toolbar button.active{box-shadow:inset 0 0 0 2px currentColor;font-weight:800}
+.memory-legend{font-size:.8em;color:var(--muted);margin-left:auto}
+.memory-mark{border-radius:5px;padding:1px 3px;cursor:pointer;box-decoration-break:clone;-webkit-box-decoration-break:clone;transition:background .15s,color .15s}
+.hl-pattern{background:rgba(235,177,40,.25);border-bottom:2px solid #c98b00}
+.hl-collocation{background:rgba(36,163,137,.18);border-bottom:2px solid #168d77}
+.hl-vocabulary{background:rgba(111,103,220,.16);border-bottom:2px dotted #756dd8}
+body.hide-pattern .hl-pattern,body.hide-collocation .hl-collocation,body.hide-vocabulary .hl-vocabulary{background:transparent;border-bottom-color:transparent}
+body.recall-mode .memory-mark:not(.revealed){color:transparent!important;text-shadow:none!important;background:repeating-linear-gradient(135deg,rgba(110,125,135,.18),rgba(110,125,135,.18) 5px,rgba(110,125,135,.08) 5px,rgba(110,125,135,.08) 10px);border:1px dashed var(--muted);min-width:3.2em;display:inline-block}
+.coach-pop{position:fixed;z-index:40;right:18px;bottom:18px;width:min(430px,calc(100vw - 28px));max-height:min(72vh,680px);overflow:auto;background:var(--white);color:var(--ink);border:1px solid var(--line);border-radius:18px;box-shadow:0 18px 60px rgba(0,0,0,.25);padding:18px;display:none}
+.coach-pop.open{display:block}.coach-pop h3{margin:0 34px 8px 0}.coach-pop .close-coach{position:absolute;right:12px;top:10px;border:0;background:transparent;color:var(--ink);font-size:1.4em}
+.coach-pop .coach-label{font-size:.75em;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.coach-pop .coach-block{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}.coach-pop .coach-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.coach-pop button{border:1px solid var(--line);background:var(--white);color:var(--ink);border-radius:9px;padding:8px 10px}.review-star.active{background:var(--gold)}
+body[data-theme=night]{--bg:#0f171d;--white:#182229;--ink:#d7e2e4;--muted:#9eafb5;--line:#34454d;--sky:#172b39;--pink:#2b2029;--green:#183229;--gold:#332d1d;--blue:#8bbce8;--navy:#0b1c29;background:#0f171d;color:#d7e2e4}
+body[data-theme=night] .top{background:linear-gradient(120deg,#071a28,#0d314b)}
+body[data-theme=night] .card,body[data-theme=night] details,body[data-theme=night] .side,body[data-theme=night] .hero,body[data-theme=night] .mini,body[data-theme=night] .syn-card,body[data-theme=night] .memory-toolbar,body[data-theme=night] .coach-pop{background:#182229;color:#d7e2e4}
+body[data-theme=night] .para .th,body[data-theme=night] .tbl th,body[data-theme=night] details>summary,body[data-theme=night] .feedback{background:#14242d;color:#d7e2e4}
+body[data-theme=night] .thesis{background:#173027}body[data-theme=night] .q{background:#271d25}
+body[data-theme=night] .lex-note,body[data-theme=night] .coach{background:#2c281b;border-color:#5c5230}
+body[data-theme=night] .lab{background:linear-gradient(180deg,#13232c,#182229);border-color:#355a70}
+body[data-theme=night] .opt,body[data-theme=night] .reveal,body[data-theme=night] .coach-btn,body[data-theme=night] .short-input,body[data-theme=night] .short-area,body[data-theme=night] .memory-toolbar button,body[data-theme=night] .coach-pop button{background:#111c22;color:#d7e2e4}
+body[data-theme=night] .wrong{background:#321f22}body[data-theme=night] .right{color:#8bd7b6}
+body[data-theme=night] .hl-pattern{background:rgba(221,169,62,.22);border-bottom-color:#d4a53d}
+body[data-theme=night] .hl-collocation{background:rgba(77,178,153,.18);border-bottom-color:#62bfa8}
+body[data-theme=night] .hl-vocabulary{background:rgba(126,132,210,.18);border-bottom-color:#9aa1e7}
+body[data-theme=night] .memory-visual{background:linear-gradient(135deg,#142d3d,#302a1c)}
+body[data-theme=night] .map div{background:#172b39}body[data-theme=night] .collo{background:#17362e;border-color:#285f50}
+body[data-theme=night] .syn-chip{background:#192f40;border-color:#31536a}
+body[data-theme=night] .rubric div:nth-child(1),body[data-theme=night] .rubric div:nth-child(2),body[data-theme=night] .rubric div:nth-child(3),body[data-theme=night] .rubric div:nth-child(4){background:#17252d}
+body.focus .secondary,body.focus .memory-visual .micro{display:none!important}
+@media(max-width:760px){.memory-toolbar{position:static}.memory-legend{width:100%;margin-left:0}.coach-pop{right:14px;bottom:14px}.memory-toolbar button{flex:1 1 auto}}

@@ -104,7 +104,39 @@
         ],
         "I would largely agree: renewable energy deserves the larger share of new investment because it can reduce long-term emissions and diversify energy supply, although existing systems still require maintenance during the transition."
       ],
-      "wordCount": 288
+      "wordCount": 288,
+      "annotations": [
+        {
+          "text": "I largely agree that",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "The strongest argument for prioritising public transport is",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "dedicated bus corridor",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "travel demand",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "capacity",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "congestion",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "agree-b",
@@ -207,7 +239,34 @@
         ],
         "I would partly agree: unnecessary single-use plastics should be heavily restricted, but limited exemptions may be justified where safe, affordable alternatives are not yet available."
       ],
-      "wordCount": 290
+      "wordCount": 290,
+      "annotations": [
+        {
+          "text": "I partly agree with this approach",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "congestion charge",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "public transport",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "feasible",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "congestion",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "discuss-a",
@@ -310,7 +369,34 @@
         ],
         "Both approaches can help, but I would prioritise education and access to healthier choices because people are more likely to change behaviour when they understand the consequences and have practical alternatives."
       ],
-      "wordCount": 285
+      "wordCount": 285,
+      "annotations": [
+        {
+          "text": "Both approaches have merit, but I believe",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "financial incentive",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "fuel prices",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "coverage",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "integrated",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "discuss-b",
@@ -413,7 +499,34 @@
         ],
         "Both models have advantages, but I would concentrate highly specialised services where expertise can be sustained while distributing essential care widely so that basic access does not depend on location."
       ],
-      "wordCount": 290
+      "wordCount": 290,
+      "annotations": [
+        {
+          "text": "In my view, both are essential, but",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "rail investment",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "road network",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "corridor",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "freight",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "positive-a",
@@ -516,7 +629,34 @@
         ],
         "I would judge the trend by whether delivery mainly adds useful flexibility or becomes a routine substitute that increases packaging, fees and dependence on convenience."
       ],
-      "wordCount": 269
+      "wordCount": 269,
+      "annotations": [
+        {
+          "text": "I regard their growing use as a negative development overall",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "everyday commuting",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "public transport",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "ride-hailing",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "complement",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "positive-b",
@@ -619,7 +759,34 @@
         ],
         "I would regard this as positive if access for residents, deliveries and emergency services is planned carefully, because temporary traffic-free streets can create safer and more usable public space."
       ],
-      "wordCount": 267
+      "wordCount": 267,
+      "annotations": [
+        {
+          "text": "I consider this a positive development overall",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "marked parking area",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "replace short car trips",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "micromobility",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "regulation",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "advantages-a",
@@ -722,7 +889,34 @@
         ],
         "Centralisation can improve specialist capacity and equipment use, but it may increase travel burdens for patients; its value therefore depends on distance, demand and the availability of local basic care."
       ],
-      "wordCount": 273
+      "wordCount": 273,
+      "annotations": [
+        {
+          "text": "Their main disadvantages are",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "passenger demand",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "bus rapid transit",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "metro",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "capacity",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "advantages-b",
@@ -825,7 +1019,34 @@
         ],
         "Flexible study can reduce pressure on campus facilities, but lower daily attendance may weaken services and businesses that depend on a stable student population."
       ],
-      "wordCount": 288
+      "wordCount": 288,
+      "annotations": [
+        {
+          "text": "The main advantage is a reduction in peak-hour commuting",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "peak-hour commuting",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "central business district",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "revenue",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "commuting",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "outweigh-a",
@@ -928,7 +1149,34 @@
         ],
         "The benefits may outweigh the costs if the tax meaningfully reduces excessive consumption and the revenue supports health programmes, while low-income households are protected from unnecessary financial pressure."
       ],
-      "wordCount": 277
+      "wordCount": 277,
+      "annotations": [
+        {
+          "text": "I believe its advantages outweigh these disadvantages when",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "public transport",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "source of revenue",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "revenue",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "vulnerable",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "outweigh-b",
@@ -1031,7 +1279,34 @@
         ],
         "The advantages can outweigh the disadvantages for theory-based learning when online access increases flexibility and review opportunities, while courses preserve meaningful teacher contact and in-person practice where necessary."
       ],
-      "wordCount": 270
+      "wordCount": 270,
+      "annotations": [
+        {
+          "text": "I believe the advantages generally outweigh the disadvantages where",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "operational emissions",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "release airport capacity",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "high-speed rail",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "aviation",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "problems-a",
@@ -1134,7 +1409,34 @@
         ],
         "Heavy reliance on tutoring can widen inequality and reduce confidence in normal classroom teaching; schools can respond with stronger in-school support and accessible extra help for students who need it."
       ],
-      "wordCount": 271
+      "wordCount": 271,
+      "annotations": [
+        {
+          "text": "Governments can address these problems by",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "car-dependent city",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "transport inequality",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "dependence",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "inequality",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "problems-b",
@@ -1237,7 +1539,34 @@
         ],
         "Limited rural healthcare can delay treatment and force long journeys; mobile clinics, telemedicine and targeted support for regional facilities can improve access without trying to duplicate every urban service locally."
       ],
-      "wordCount": 287
+      "wordCount": 287,
+      "annotations": [
+        {
+          "text": "Solutions should therefore be flexible enough to",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "rural public transport",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "basic level of service",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "rural",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "infrequent",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "causes-a",
@@ -1340,7 +1669,39 @@
         ],
         "Waste may continue rising if overall consumption grows faster than recycling; reducing it requires less packaging, stronger reuse incentives and clearer systems that prevent waste before it is created."
       ],
-      "wordCount": 270
+      "wordCount": 270,
+      "annotations": [
+        {
+          "text": "This happens partly because",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "Reducing congestion therefore requires",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "road capacity",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "land-use pattern",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "capacity",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "land-use",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "causes-b",
@@ -1443,7 +1804,39 @@
         ],
         "Outdoor play may decline when safe spaces are distant and traffic makes independent movement difficult; neighbourhood design and accessible local facilities can make outdoor activity easier and more normal."
       ],
-      "wordCount": 279
+      "wordCount": 279,
+      "annotations": [
+        {
+          "text": "The main reasons are",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "Encouraging active travel therefore requires",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "active travel",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "protected cycle lane",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "active travel",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "protected",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "two-part-a",
@@ -1546,7 +1939,39 @@
         ],
         "Job changes may be driven by faster career progression and changing skills demand; the trend can be positive if mobility improves fit and learning, but excessive instability can weaken security."
       ],
-      "wordCount": 289
+      "wordCount": 289,
+      "annotations": [
+        {
+          "text": "This is happening mainly because",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "I consider the trend negative because",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "affordable housing",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "transport connection",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "commute",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "affordable",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "two-part-b",
@@ -1649,7 +2074,39 @@
         ],
         "Lower home ownership may reflect high prices and greater mobility; whether it is positive depends on whether renters still have secure, affordable housing rather than ownership itself."
       ],
-      "wordCount": 279
+      "wordCount": 279,
+      "annotations": [
+        {
+          "text": "This is happening because",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "I regard the trend as positive where",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "car ownership",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "shared mobility",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "ownership",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "insurance",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "direct-a",
@@ -1752,7 +2209,39 @@
         ],
         "Access to appealing books, time and positive reading routines are central; schools can provide resources and guidance, while families create regular opportunities to read at home."
       ],
-      "wordCount": 270
+      "wordCount": 270,
+      "annotations": [
+        {
+          "text": "The most important factors are",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "Responsibility should be shared",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "route coverage",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "door-to-door journey",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "reliability",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "frequency",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     },
     {
       "id": "direct-b",
@@ -1855,7 +2344,39 @@
         ],
         "I would favour targeted support rather than universal free tuition, with costs shared between public funding and those who can reasonably contribute because higher education creates both social and private benefits."
       ],
-      "wordCount": 290
+      "wordCount": 290,
+      "annotations": [
+        {
+          "text": "I do not support universal free fares",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "Public transport should therefore be funded through",
+          "type": "pattern",
+          "priority": "must-remember"
+        },
+        {
+          "text": "public transport fare",
+          "type": "collocation",
+          "priority": "must-remember"
+        },
+        {
+          "text": "universal free fares",
+          "type": "collocation",
+          "priority": "useful"
+        },
+        {
+          "text": "fare",
+          "type": "vocabulary",
+          "priority": "useful"
+        },
+        {
+          "text": "subsidy",
+          "type": "vocabulary",
+          "priority": "useful"
+        }
+      ]
     }
   ],
   "lexicon": {
@@ -3159,5 +3680,164 @@
       "overall",
       "on balance"
     ]
-  }
+  },
+  "vocabCoach": {
+    "capacity": {
+      "definition": "the amount that a system can carry, contain, or handle",
+      "family": "capacity · high-capacity"
+    },
+    "congestion": {
+      "definition": "a condition in which roads or systems are overcrowded and movement is slow",
+      "family": "congest · congested · congestion"
+    },
+    "restriction": {
+      "definition": "a rule or limit that controls what is allowed",
+      "family": "restrict · restriction · restrictive"
+    },
+    "pedestrian": {
+      "definition": "a person travelling on foot; also relating to people walking",
+      "family": "pedestrian · pedestrianise"
+    },
+    "incentive": {
+      "definition": "something that encourages a person to act in a particular way",
+      "family": "incentive · incentivise"
+    },
+    "fare": {
+      "definition": "the price paid for a journey on public transport",
+      "family": "fare · fares"
+    },
+    "corridor": {
+      "definition": "a main route or strip of land used for transport between places",
+      "family": "corridor · transport corridor"
+    },
+    "freight": {
+      "definition": "goods transported in large quantities by road, rail, sea, or air",
+      "family": "freight · freight transport"
+    },
+    "ride-hailing": {
+      "definition": "a service that lets passengers request a car through an app",
+      "family": "ride-hailing · ride-hailing service"
+    },
+    "complement": {
+      "definition": "to add something useful that makes another thing more complete",
+      "family": "complement · complementary"
+    },
+    "micromobility": {
+      "definition": "short-distance travel using small vehicles such as bicycles or e-scooters",
+      "family": "micromobility"
+    },
+    "regulation": {
+      "definition": "an official rule, or the process of controlling an activity through rules",
+      "family": "regulate · regulation · regulatory"
+    },
+    "metro": {
+      "definition": "an urban underground or rapid-transit railway system",
+      "family": "metro · metro network"
+    },
+    "investment": {
+      "definition": "money, time, or resources used now in order to gain future benefits",
+      "family": "invest · investment · investor"
+    },
+    "revenue": {
+      "definition": "money received by an organisation or government from its activities",
+      "family": "revenue · revenues"
+    },
+    "bottleneck": {
+      "definition": "a point where limited capacity slows the movement of people or traffic",
+      "family": "bottleneck · bottlenecks"
+    },
+    "reinvest": {
+      "definition": "to put money earned or collected back into an activity or system",
+      "family": "invest · reinvest · reinvestment"
+    },
+    "vulnerable": {
+      "definition": "at greater risk of harm or disadvantage",
+      "family": "vulnerable · vulnerability"
+    },
+    "high-speed rail": {
+      "definition": "rail transport designed to operate at much higher speeds than conventional trains",
+      "family": "high-speed rail"
+    },
+    "aviation": {
+      "definition": "the activity or industry of flying aircraft",
+      "family": "aviation"
+    },
+    "dependence": {
+      "definition": "a state of relying heavily on something",
+      "family": "depend · dependent · dependence"
+    },
+    "inequality": {
+      "definition": "an unfair difference in access, resources, or outcomes",
+      "family": "equal · unequal · equality · inequality"
+    },
+    "rural": {
+      "definition": "relating to the countryside rather than towns or cities",
+      "family": "rural · rurality"
+    },
+    "infrequent": {
+      "definition": "not happening often",
+      "family": "frequent · frequency · infrequent"
+    },
+    "active travel": {
+      "definition": "walking, cycling, or similar physically active ways of making journeys",
+      "family": "active travel"
+    },
+    "protected": {
+      "definition": "kept safe from danger or interference",
+      "family": "protect · protection · protected"
+    },
+    "commute": {
+      "definition": "to travel regularly between home and work or study",
+      "family": "commute · commuter · commuting"
+    },
+    "affordable": {
+      "definition": "not too expensive for people to pay for",
+      "family": "afford · affordable · affordability"
+    },
+    "ownership": {
+      "definition": "the state of legally possessing something",
+      "family": "own · owner · ownership"
+    },
+    "insurance": {
+      "definition": "an arrangement that provides financial protection against specified risks",
+      "family": "insure · insurance · insured"
+    },
+    "reliability": {
+      "definition": "the quality of being dependable and working as expected",
+      "family": "rely · reliable · reliability"
+    },
+    "frequency": {
+      "definition": "how often something happens or a service operates",
+      "family": "frequent · frequency"
+    },
+    "targeted": {
+      "definition": "directed at a particular group, problem, or objective",
+      "family": "target · targeted"
+    },
+    "subsidy": {
+      "definition": "money provided to reduce the cost of a service or activity",
+      "family": "subsidise · subsidy · subsidised"
+    },
+    "feasible": {
+      "definition": "possible and practical enough to be carried out successfully",
+      "family": "feasible · feasibility"
+    },
+    "coverage": {
+      "definition": "the extent to which a service reaches different places or people",
+      "family": "cover · coverage"
+    },
+    "integrated": {
+      "definition": "combined and connected so that different parts work together effectively",
+      "family": "integrate · integrated · integration"
+    },
+    "commuting": {
+      "definition": "regular travel between home and work or study",
+      "family": "commute · commuter · commuting"
+    },
+    "land-use": {
+      "definition": "relating to how land is allocated and developed for different purposes",
+      "family": "land use · land-use planning"
+    }
+  },
+  "visualMemoryVersion": 1
 }
