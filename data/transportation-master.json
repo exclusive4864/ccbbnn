@@ -3839,5 +3839,197 @@
       "family": "land use · land-use planning"
     }
   },
-  "visualMemoryVersion": 1
+  "visualMemoryVersion": 1,
+  "patternBlueprints": {
+    "Agree / Disagree": {
+      "goal_th": "กำหนดระดับความเห็นให้ชัด แล้วใช้ Body ทั้งสองย่อหน้าสนับสนุน position เดิม",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase the claim]. I largely agree/disagree that [claim] because [main reason], although [reasonable concession]."
+        ],
+        [
+          "P2 · Body 1",
+          "The strongest reason for my view is that [main idea]. This is because [mechanism]. For example, [specific example]. Therefore, [link back to position]."
+        ],
+        [
+          "P3 · Body 2",
+          "Although [opposing point], this does not mean that [opposing claim]. [Second reason / evaluation]. For instance, [example]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, I [degree] agree/disagree that [claim]. [Restate the decisive reasons briefly]."
+        ]
+      ]
+    },
+    "Discuss Both Views + Opinion": {
+      "goal_th": "อธิบายทั้งสองมุมมองอย่างเป็นธรรม และทำให้ความเห็นของเราเห็นชัด ไม่ใช่ซ่อนจนถึง Conclusion",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase both views]. Both positions have merit, but I believe [your overall opinion]."
+        ],
+        [
+          "P2 · Body 1",
+          "Supporters of [View A] argue that [main reason]. This is because [mechanism]. For example, [example]."
+        ],
+        [
+          "P3 · Body 2",
+          "By contrast, those who support [View B] point out that [reason]. I find this view more convincing / equally important because [evaluation]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, although [fair summary of View A], I believe [your final position on View B / balanced approach]."
+        ]
+      ]
+    },
+    "Positive / Negative Development": {
+      "goal_th": "ตัดสินภาพรวมว่าแนวโน้มเป็นบวกหรือลบ แล้วประเมินผลกระทบ ไม่ใช่เพียงลิสต์ข้อดีข้อเสีย",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Describe the trend]. I regard this as a largely positive/negative development because [criterion 1] and [criterion 2]."
+        ],
+        [
+          "P2 · Body 1",
+          "The main benefit/problem is that [central effect]. This occurs because [mechanism]. For example, [example]."
+        ],
+        [
+          "P3 · Body 2",
+          "However/Nevertheless, [counter-effect]. Even so, [evaluation showing why your overall judgement still stands]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, I consider this development [positive/negative] overall because [decisive reason]."
+        ]
+      ]
+    },
+    "Advantages / Disadvantages": {
+      "goal_th": "อธิบายข้อดีและข้อเสียให้ครบและสมดุล โดยไม่จำเป็นต้องตัดสินผู้ชนะหากโจทย์ไม่ได้ถาม",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase the development]. It offers [main advantage area], but it also creates [main disadvantage area]."
+        ],
+        [
+          "P2 · Body 1",
+          "One major advantage is that [benefit]. This is because [mechanism]. For example, [example]. As a result, [effect]."
+        ],
+        [
+          "P3 · Body 2",
+          "The main drawback is that [cost/problem]. This can occur when [mechanism]. For instance, [example]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, [development] can provide [benefit], but it may also lead to [drawback]."
+        ]
+      ]
+    },
+    "Do Advantages Outweigh Disadvantages?": {
+      "goal_th": "ต้องชั่งน้ำหนัก ไม่ใช่แค่เขียนข้อดีหนึ่งย่อหน้าและข้อเสียหนึ่งย่อหน้า ต้องบอกว่าด้านใดมีน้ำหนักมากกว่าและเพราะอะไร",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase]. Although [weaker side], I believe the advantages/disadvantages outweigh the other side because [decisive criterion]."
+        ],
+        [
+          "P2 · Body 1",
+          "The main disadvantage/advantage is [weaker consideration]. This matters because [explanation], although [limit its weight if appropriate]."
+        ],
+        [
+          "P3 · Body 2",
+          "However, the stronger consideration is [stronger side]. This carries greater weight because [comparison/evaluation]. For example, [example]."
+        ],
+        [
+          "P4 · Conclusion",
+          "On balance, the advantages/disadvantages outweigh the other side because [comparative reason, not a new idea]."
+        ]
+      ]
+    },
+    "Problems + Solutions": {
+      "goal_th": "ระบุปัญหาที่เกิดขึ้นจริง แล้วเสนอวิธีแก้ที่จับคู่กับสาเหตุหรือกลไกของปัญหา",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase the issue]. This can cause [main problem], but it can be addressed through [solution direction]."
+        ],
+        [
+          "P2 · Body 1",
+          "One major problem is that [problem]. This happens because [mechanism]. Consequently, [effect]. For example, [example]."
+        ],
+        [
+          "P3 · Body 2",
+          "The most effective response is to [solution]. This would address the problem by [mechanism]. A further measure is [supporting solution]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, [issue] can lead to [problem], but [matched solutions] can reduce its impact."
+        ]
+      ]
+    },
+    "Causes + Solutions": {
+      "goal_th": "อธิบายว่าทำไมปัญหาจึงเกิด แล้วออกแบบ solution ที่แก้ cause นั้นโดยตรง",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase the problem]. The main causes are [cause 1] and [cause 2], and these can be addressed through [solution direction]."
+        ],
+        [
+          "P2 · Body 1",
+          "One important cause is [cause 1]. A second factor is [cause 2]. These factors lead to [result/mechanism]."
+        ],
+        [
+          "P3 · Body 2",
+          "To address these causes, [actor] should [solution 1]. In addition, [solution 2] would [mechanism]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, [problem] is driven mainly by [causes], while [solutions] can reduce these pressures."
+        ]
+      ]
+    },
+    "Two-Part Question": {
+      "goal_th": "ตอบคำถามทั้งสองส่วนอย่างชัดเจน โดยให้ Body 1 และ Body 2 มีหน้าที่ต่างกันตามคำสั่ง",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase]. This is happening because [answer to Q1], and I believe/consider [direct answer to Q2]."
+        ],
+        [
+          "P2 · Body 1",
+          "Regarding the first question, [main answer]. This is because [mechanism]. For example, [example]."
+        ],
+        [
+          "P3 · Body 2",
+          "As for the second question, I believe [answer]. The main reason is [reason]. For instance, [example]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, [brief answer to Q1], and overall [brief answer to Q2]."
+        ]
+      ]
+    },
+    "Direct Question": {
+      "goal_th": "แยกคำถามตรง ๆ แล้วตอบทุกส่วน ไม่บังคับใช้สูตร opinion essay หากโจทย์ไม่ได้ถาม agree/disagree",
+      "paragraphs": [
+        [
+          "P1 · Introduction",
+          "[Paraphrase the topic]. In my view / My answer is that [direct answer to Q1], while [direct answer to Q2]."
+        ],
+        [
+          "P2 · Body 1",
+          "For the first question, [answer]. This is important because [mechanism]. For example, [example]."
+        ],
+        [
+          "P3 · Body 2",
+          "Regarding the second question, [answer]. This approach is preferable because [reason/evaluation]."
+        ],
+        [
+          "P4 · Conclusion",
+          "In conclusion, [Q1 answer] should [summary], while [Q2 answer] should [summary]."
+        ]
+      ]
+    }
+  },
+  "patternBlueprintVersion": 1
 }
