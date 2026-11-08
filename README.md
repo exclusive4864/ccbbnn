@@ -46,3 +46,15 @@ Education Master ฉบับสมบูรณ์ 18 บท: 9 รูปแบ�
 **https://exclusive4864.github.io/ccbbnn/transportation-master.html**
 
 Transportation ฉบับสมบูรณ์ 18 บท: 9 รูปแบบคำถาม × 2 ตัวอย่าง พร้อม Model Essay 4 ย่อหน้า, คำแปลไทย, Paragraph Analysis, Must-Remember Patterns, Vocabulary/Collocations, Paraphrase & Synonym Bank, Grammar/Linking Words, IELTS TR/CC/LR/GRA Review, Common Mistakes, Active Recall Lab, Teacher Coach, Hint ทีละขั้น และ Transfer Challenge
+
+
+
+## Speaking Vocabulary Coach — mobile step-by-step
+
+**https://exclusive4864.github.io/ccbbnn/vocabulary-coach.html**
+
+444 definition entries from 16 speaking topics in 95 small batches (up to five per batch). Original Thai explanations, usage frames, examples, situation-based recall prompts, and personal transfer questions. Duplicate canonical phrases share a review record. Self-rated spaced review uses 10 minutes for misses, one day for cued recall, and 1/3/7/14/30/60 days for successful due reviews on different days. This is learning support, not automated language scoring or guaranteed mastery.
+
+Progress and personal answers stay in this browser in the separate `writewise-speaking-coach-v1` storage key. Use this module's own JSON backup/import screen. No server upload, microphone request, account sync or automatic reminder. Optional audio uses the device speech-synthesis API. The main Writing and other existing modules remain unchanged except for links into the new module.
+
+The deployed HTML is self-contained. Source data is in `data/speaking-vocabulary.json`; source UI files are `assets/speaking-coach*`. Rebuild with `python scripts/build-speaking-coach.py`, then run `node tests/speaking-coach.test.js`. On mobile use the hosted link in Safari/Chrome rather than an HTML preview in Files.
