@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cam-because-of",
+    "title": "Cambridge: Because, because of and cos, cos of",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/because-because-of-and-cos-cos-for",
+    "notes": "because + clause และ because of + noun phrase"
+  },
+  {
+    "id": "cam-as-because",
+    "title": "Cambridge: As, because or since?",
+    "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/as-because-or-",
+    "notes": "การเน้นเหตุและความหมายของ as, because, since"
+  },
+  {
+    "id": "cam-cause-purpose",
+    "title": "Cambridge: Conjunctions, causes, reasons, results and purpose",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/conjunctions-causes-reasons-results-and-purpose",
+    "notes": "โครงสร้างเหตุ ผล และจุดประสงค์"
+  },
+  {
+    "id": "cam-adding",
+    "title": "Cambridge: Conjunctions, adding",
+    "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/conjunctions-adding",
+    "notes": "and และรูปเพิ่มข้อมูลที่ตามด้วย -ing"
+  },
+  {
+    "id": "cam-also",
+    "title": "Cambridge: Also, as well or too?",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/also-as-well-or-too",
+    "notes": "ตำแหน่งของ also และความแตกต่างในการใช้"
+  },
+  {
+    "id": "cam-such-as",
+    "title": "Cambridge: Such as",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/such-as",
+    "notes": "such as สำหรับยกตัวอย่าง"
+  },
+  {
+    "id": "cam-unless",
+    "title": "Cambridge: Unless",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/unless",
+    "notes": "unless หมายถึง except if"
+  },
+  {
+    "id": "cam-as-long-as",
+    "title": "Cambridge: As long as and so long as",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/as-long-as-and-so-long-as",
+    "notes": "as long as ในความหมายเงื่อนไขและเวลา"
+  },
+  {
+    "id": "cam-due-to",
+    "title": "Cambridge: Due to something",
+    "url": "https://dictionary.cambridge.org/dictionary/english/due-to",
+    "notes": "due to ในความหมาย because of"
+  },
+  {
+    "id": "cam-furthermore",
+    "title": "Cambridge: Furthermore",
+    "url": "https://dictionary.cambridge.org/dictionary/english/furthermore",
+    "notes": "การเพิ่มข้อมูลด้วย furthermore"
+  },
+  {
+    "id": "cam-moreover",
+    "title": "Cambridge: Moreover",
+    "url": "https://dictionary.cambridge.org/dictionary/english/moreover",
+    "notes": "การเพิ่มข้อมูลและน้ำหนักเหตุผลด้วย moreover"
+  }
+]

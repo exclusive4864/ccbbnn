@@ -1,0 +1,292 @@
+[
+  {
+    "lessonId": "agreement",
+    "examples": [
+      {
+        "en": "Does the owner of these shops live nearby?",
+        "th": "เจ้าของร้านเหล่านี้อาศัยอยู่ใกล้ ๆ หรือเปล่า",
+        "note": "หัวประธานคือ owner คนเดียว ไม่ใช่ shops จึงขึ้นคำถามด้วย Does; เมื่อ does รับการผันแล้ว กริยาหลักใช้ live ไม่ใช่ lives",
+        "tag": "รูปคำถาม"
+      },
+      {
+        "en": "The instructions on the first page do not explain this step.",
+        "th": "คำแนะนำในหน้าแรกไม่ได้อธิบายขั้นตอนนี้",
+        "note": "instructions เป็นหัวประธานพหูพจน์ แม้ page ที่อยู่ใกล้จะเป็นเอกพจน์ จึงใช้ do not explain ไม่ใช่ does not explain",
+        "tag": "รูปปฏิเสธ"
+      },
+      {
+        "en": "The researcher, together with two assistants, checks each sample.",
+        "th": "นักวิจัยพร้อมด้วยผู้ช่วยสองคนตรวจตัวอย่างแต่ละชิ้น",
+        "note": "หัวประธานคือ researcher; together with two assistants เป็นส่วนขยาย ไม่ได้ทำหน้าที่เหมือน and จึงใช้ checks หากเปลี่ยนเป็น The researcher and two assistants จะใช้ check",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "Are there enough chairs for all the guests?",
+        "th": "มีเก้าอี้พอสำหรับแขกทุกคนไหม",
+        "note": "ในคำถามแบบ there ให้ดูสิ่งที่มีอยู่ คือ chairs พหูพจน์ จึงใช้ Are there; enough บอกว่าพอหรือไม่ ไม่ได้เปลี่ยนจำนวนทางไวยากรณ์ของ chairs",
+        "tag": "ใช้จริง"
+      }
+    ]
+  },
+  {
+    "lessonId": "articles",
+    "examples": [
+      {
+        "en": "I found a wallet outside. The wallet had no name inside.",
+        "th": "ฉันพบกระเป๋าสตางค์ใบหนึ่งข้างนอก ข้างในกระเป๋าใบนั้นไม่มีชื่อ",
+        "note": "ครั้งแรกใช้ a wallet เพราะยังไม่ระบุว่าใบไหน ครั้งที่สองใช้ the wallet เพราะผู้ฟังระบุได้แล้วว่าเป็นใบที่เพิ่งกล่าวถึง ไม่ใช่ใช้ the เพียงเพราะคำนามเป็นเอกพจน์",
+        "tag": "ตามบริบท"
+      },
+      {
+        "en": "Do you have an umbrella I can borrow?",
+        "th": "คุณมีร่มให้ฉันยืมสักคันไหม",
+        "note": "umbrella เป็นนามนับได้เอกพจน์ที่ยังไม่เจาะจงและขึ้นต้นด้วยเสียงสระ จึงใช้ an; ถ้าใช้ the umbrella จะชวนให้เข้าใจว่าทั้งสองฝ่ายรู้ว่าหมายถึงร่มคันไหน",
+        "tag": "รูปคำถาม"
+      },
+      {
+        "en": "Children need sleep. The children in this study slept for nine hours a night.",
+        "th": "เด็ก ๆ ต้องการการนอนหลับ เด็กที่เข้าร่วมการศึกษานี้นอนคืนละเก้าชั่วโมง",
+        "note": "Children ประโยคแรกกล่าวถึงเด็กโดยทั่วไปจึงไม่ใส่ article; the children in this study ชี้กลุ่มเฉพาะ ส่วน sleep ที่หมายถึงการนอนหลับเป็นนามนับไม่ได้และกล่าวทั่วไป",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "This is a one-day workshop, not an online course.",
+        "th": "นี่เป็นเวิร์กช็อปหนึ่งวัน ไม่ใช่หลักสูตรออนไลน์",
+        "note": "one เริ่มด้วยเสียง /w/ จึงใช้ a one-day workshop แม้เขียนขึ้นต้นด้วย o; online เริ่มด้วยเสียงสระจึงใช้ an online course เลือกจากเสียงของคำที่ตาม article ทันที",
+        "tag": "เสียงกับรูป"
+      }
+    ]
+  },
+  {
+    "lessonId": "countability",
+    "examples": [
+      {
+        "en": "How much equipment do we need for the experiment?",
+        "th": "เราต้องใช้อุปกรณ์มากแค่ไหนในการทดลอง",
+        "note": "equipment ในความหมายรวมเป็นนามนับไม่ได้ จึงถาม How much equipment ไม่ใช่ How many equipments; ถ้าต้องการนับชิ้นให้ใช้ How many pieces of equipment",
+        "tag": "รูปคำถาม"
+      },
+      {
+        "en": "She has teaching experience, but this was a completely new experience.",
+        "th": "เธอมีประสบการณ์สอน แต่เหตุการณ์ครั้งนี้เป็นประสบการณ์ที่แปลกใหม่สำหรับเธออย่างสิ้นเชิง",
+        "note": "experience แรกหมายถึงความชำนาญสะสมจึงนับไม่ได้ ส่วน a new experience หมายถึงเหตุการณ์หรือสิ่งที่ได้ประสบหนึ่งครั้งจึงนับได้ คำสะกดเดียวกันไม่ได้มีการนับแบบเดียวเสมอ",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "We do not need any new furniture; these three desks are enough.",
+        "th": "เราไม่จำเป็นต้องซื้อเฟอร์นิเจอร์ใหม่ โต๊ะสามตัวนี้ก็พอแล้ว",
+        "note": "furniture หมายถึงเครื่องเรือนโดยรวม เป็นนามนับไม่ได้จึงไม่เติม s ส่วน desks เป็นสิ่งของที่นับแยกเป็นตัวได้ จึงใช้ three desks; ถ้าต้องการนับเฟอร์นิเจอร์หลายชนิดรวมกันใช้ pieces of furniture",
+        "tag": "หน่วยที่นับได้"
+      },
+      {
+        "en": "The researchers conducted three studies, but further research is needed.",
+        "th": "นักวิจัยทำการศึกษาสามชิ้นแล้ว แต่ยังจำเป็นต้องวิจัยเพิ่มเติม",
+        "note": "studies เป็นงานศึกษาแต่ละชิ้นจึงนับเป็น three studies ได้ ส่วน research หมายถึงกิจกรรมการวิจัยโดยรวมจึงไม่ใช้ three researches ในความหมายทั่วไปนี้ และจับคู่กับ is",
+        "tag": "งานวิชาการ"
+      }
+    ]
+  },
+  {
+    "lessonId": "tenses",
+    "examples": [
+      {
+        "en": "Were you waiting for the bus when I called?",
+        "th": "ตอนที่ฉันโทรหา คุณกำลังรอรถเมล์อยู่หรือเปล่า",
+        "note": "were waiting เป็น past continuous เพื่อถามถึงสิ่งที่กำลังดำเนินอยู่ ณ เวลาในอดีต ส่วน called เป็นเหตุการณ์ที่เกิดขึ้นในช่วงนั้น ไม่จำเป็นว่าการโทรทำให้การรอหยุดลง",
+        "tag": "เหตุการณ์ซ้อน"
+      },
+      {
+        "en": "I have not finished the draft yet, but I wrote the introduction yesterday.",
+        "th": "ฉันยังเขียนร่างไม่เสร็จ แต่เขียนบทนำแล้วเมื่อวาน",
+        "note": "have not finished ... yet มองสถานะจนถึงตอนนี้ ส่วน wrote ... yesterday ระบุเหตุการณ์ในเวลาที่จบแล้ว จึงเปลี่ยน tense ได้อย่างมีเหตุผล ไม่ต้องใช้ tense เดียวทั้งประโยค",
+        "tag": "รูปปฏิเสธ"
+      },
+      {
+        "en": "By the time we reached the platform, the train had left.",
+        "th": "กว่าพวกเราจะไปถึงชานชาลา รถไฟก็ออกไปแล้ว",
+        "note": "had left เป็น past perfect ชี้ว่ารถไฟออกก่อนจุดอ้างอิงในอดีตคือ reached; ถ้าใช้ The train left when we reached the platform จะสื่อว่ารถออกตอนที่เราไปถึง แทนที่จะออกไปก่อนแล้ว",
+        "tag": "ลำดับเวลา"
+      },
+      {
+        "en": "The graph shows that water use fell between 2015 and 2020.",
+        "th": "กราฟแสดงว่าการใช้น้ำลดลงระหว่างปี 2015 ถึง 2020",
+        "note": "shows เป็น present simple เพราะกล่าวถึงสิ่งที่กราฟแสดงให้เห็นขณะอธิบาย ส่วน fell เป็น past simple เพราะข้อมูลเป็นช่วงอดีตที่จบแล้ว การอธิบายกราฟจึงไม่จำเป็นต้องเป็นอดีตทุกกริยา",
+        "tag": "งานวิชาการ"
+      }
+    ]
+  },
+  {
+    "lessonId": "passive",
+    "examples": [
+      {
+        "en": "Must these forms be signed before we leave?",
+        "th": "แบบฟอร์มเหล่านี้ต้องได้รับการลงนามก่อนเราออกไปไหม",
+        "note": "คำถามนี้ใช้ Must + ประธาน + be + signed โดย signed เป็น past participle; หลัง modal ใช้ be ไม่ใช่ are และไม่ต้องระบุผู้ลงนามถ้าบริบทชัดอยู่แล้ว",
+        "tag": "รูปคำถาม"
+      },
+      {
+        "en": "The samples were not stored at the correct temperature.",
+        "th": "ตัวอย่างไม่ได้ถูกเก็บไว้ที่อุณหภูมิที่ถูกต้อง",
+        "note": "were not stored เป็น past simple passive: samples พหูพจน์จึงใช้ were และวาง not หลัง were; จุดสนใจคือวิธีเก็บตัวอย่าง ไม่ใช่ผู้เก็บ",
+        "tag": "รูปปฏิเสธ"
+      },
+      {
+        "en": "The shop raised its prices in June. Its prices were raised again in August.",
+        "th": "ร้านขึ้นราคาในเดือนมิถุนายน ราคาของร้านถูกปรับขึ้นอีกครั้งในเดือนสิงหาคม",
+        "note": "raised มีกรรมคือ prices จึงทำ passive เป็น were raised ได้ ต่างจาก prices rose ซึ่งใช้ rise แบบไม่มีกรรม หากต้องการความหมายว่าราคาสูงขึ้นเองให้ใช้ rose ไม่ใช่ were risen",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "The complaint was dealt with by a senior manager.",
+        "th": "ข้อร้องเรียนได้รับการจัดการโดยผู้จัดการอาวุโส",
+        "note": "ชุดกริยาคือ deal with และรูป past participle คือ dealt จึงคง with ไว้ใน was dealt with; by a senior manager ระบุผู้จัดการเรื่องนี้ ไม่ใช่ส่วนที่มาแทน with",
+        "tag": "คงคำที่จำเป็น"
+      }
+    ]
+  },
+  {
+    "lessonId": "sentences",
+    "examples": [
+      {
+        "en": "Because the lift was broken, we carried the boxes upstairs.",
+        "th": "เพราะลิฟต์เสีย เราจึงยกกล่องขึ้นบันได",
+        "note": "Because the lift was broken เป็นประโยคย่อยที่ให้เหตุผล ส่วน we carried the boxes upstairs เป็นใจความหลัก จึงสมบูรณ์ได้แม้ขึ้นต้นด้วย Because; หากหยุดหลัง broken จะเป็น fragment ในย่อหน้าอธิบายทั่วไป",
+        "tag": "ต่อใจความให้ครบ"
+      },
+      {
+        "en": "The number of online applications is increasing.",
+        "th": "จำนวนใบสมัครทางออนไลน์กำลังเพิ่มขึ้น",
+        "note": "ประธานคือ The number of online applications และกริยาเต็มคือ is increasing; increasing เพียงคำเดียวไม่เป็นกริยาที่ผันตามกาลในประโยคนี้ จึงต้องมี is ไม่ใช่เขียน The number of online applications increasing.",
+        "tag": "เติมกริยาที่ขาด"
+      },
+      {
+        "en": "The students sitting near the window cannot see the screen.",
+        "th": "นักเรียนที่นั่งใกล้หน้าต่างมองไม่เห็นหน้าจอ",
+        "note": "sitting near the window ขยาย students แต่กริยาหลักคือ cannot see; หากเหลือแค่ The students sitting near the window จะเป็นกลุ่มคำนาม ไม่ใช่ประโยคบอกเล่าสมบูรณ์ แม้จะมีคำรูป -ing",
+        "tag": "หากริยาหลัก"
+      },
+      {
+        "en": "Did the meeting end before noon?",
+        "th": "การประชุมจบก่อนเที่ยงหรือเปล่า",
+        "note": "คำถามนี้สมบูรณ์: Did เป็นกริยาช่วยวางหน้าประธาน the meeting และ end เป็นกริยารูปพื้นฐาน ประธานไม่จำเป็นต้องอยู่ต้นประโยคเสมอ จึงไม่ควรตรวจความสมบูรณ์ด้วยลำดับประธาน–กริยาแบบบอกเล่าเท่านั้น",
+        "tag": "รูปคำถาม"
+      }
+    ]
+  },
+  {
+    "lessonId": "punctuation",
+    "examples": [
+      {
+        "en": "The survey was brief; however, the results were useful.",
+        "th": "แบบสำรวจสั้น แต่ผลที่ได้มีประโยชน์",
+        "note": "ทั้ง The survey was brief และ the results were useful เป็นใจความหลัก จึงใช้ semicolon ก่อน however และ comma หลัง however; comma อย่างเดียวก่อน however จะไม่เชื่อมสองใจความหลักได้ตามแบบงานเขียนมาตรฐาน",
+        "tag": "เชื่อมใจความ"
+      },
+      {
+        "en": "The assistant checked the figures and corrected two errors.",
+        "th": "ผู้ช่วยตรวจตัวเลขและแก้ข้อผิดพลาดสองจุด",
+        "note": "checked และ corrected ใช้ประธาน The assistant ร่วมกัน จึงไม่ต้องใส่ comma หน้า and ในโครงสร้างเรียบง่ายนี้ การเห็น and ไม่ได้แปลว่าต้องเติม comma ทุกครั้ง",
+        "tag": "ใช้จริง"
+      },
+      {
+        "en": "The results, after a second check, were sent to the editor.",
+        "th": "ผลลัพธ์ถูกส่งให้บรรณาธิการหลังจากตรวจซ้ำอีกครั้ง",
+        "note": "after a second check เป็นส่วนแทรก จึงคั่น comma ให้ครบคู่ เมื่อตัดส่วนแทรกออกจะเหลือ The results were sent ... ไม่ควรเหลือ comma เดี่ยวระหว่าง results กับ were",
+        "tag": "ส่วนแทรก"
+      },
+      {
+        "en": "The students’ projects are displayed beside the children’s drawings.",
+        "th": "โครงงานของนักเรียนหลายคนจัดแสดงอยู่ข้างภาพวาดของเด็ก ๆ",
+        "note": "students เป็นพหูพจน์ลงท้าย s จึงแสดงเจ้าของด้วย students’ ส่วน children เป็นพหูพจน์ที่ไม่ลงท้าย s จึงใช้ children’s; apostrophe ในสองคำนี้แสดงเจ้าของ ไม่ได้ใช้สร้างพหูพจน์",
+        "tag": "แสดงเจ้าของ"
+      }
+    ]
+  },
+  {
+    "lessonId": "relatives",
+    "examples": [
+      {
+        "en": "The laptops that need new batteries are on the left.",
+        "th": "แล็ปท็อปที่ต้องเปลี่ยนแบตเตอรี่ใหม่อยู่ทางซ้าย",
+        "note": "that need new batteries ระบุว่าเป็นแล็ปท็อปกลุ่มใด โดยไม่ได้บอกว่าทุกเครื่องต้องเปลี่ยนแบตเตอรี่; that เป็นประธานของ need จึงละไม่ได้โดยคงโครงสร้างเดิม และใช้ which แทน that ใน defining clause นี้ได้",
+        "tag": "จำกัดกลุ่ม"
+      },
+      {
+        "en": "My two cousins, who live in Chiang Mai, are visiting next week.",
+        "th": "ลูกพี่ลูกน้องสองคนของฉัน ซึ่งอาศัยอยู่เชียงใหม่ จะมาเยี่ยมสัปดาห์หน้า",
+        "note": "คอมมาคั่น who live in Chiang Mai เป็นข้อมูลเสริมเกี่ยวกับทั้งสองคนที่กล่าวถึง ไม่ได้ใช้เลือกเฉพาะคนที่อยู่เชียงใหม่จากกลุ่มใหญ่กว่า; non-defining clause แบบนี้ไม่ใช้ that แทน who",
+        "tag": "ข้อมูลเสริม"
+      },
+      {
+        "en": "Have you read the article that I recommended?",
+        "th": "คุณอ่านบทความที่ฉันแนะนำหรือยัง",
+        "note": "ใน that I recommended ประธานคือ I และ that เป็นกรรมของ recommended จึงละได้เป็น the article I recommended; ไม่เติม it หลัง recommended เพราะจะเป็นกรรมซ้ำ",
+        "tag": "รูปคำถาม"
+      },
+      {
+        "en": "We visited a museum whose roof collects rainwater.",
+        "th": "เราไปพิพิธภัณฑ์แห่งหนึ่งที่หลังคารองรับน้ำฝนไว้ใช้",
+        "note": "whose roof หมายถึงหลังคาของพิพิธภัณฑ์ และทั้งกลุ่มเป็นประธานของ collects; whose แสดงความสัมพันธ์แบบเจ้าของกับสิ่งของหรืออาคารได้ ไม่จำกัดเฉพาะคน",
+        "tag": "จุดชวนสับสน"
+      }
+    ]
+  },
+  {
+    "lessonId": "conditionals",
+    "examples": [
+      {
+        "en": "If the internet connection fails, the app saves your work on the device.",
+        "th": "ถ้าการเชื่อมต่ออินเทอร์เน็ตขัดข้อง แอปจะบันทึกงานไว้ในอุปกรณ์",
+        "note": "fails และ saves ใช้ present simple เพื่ออธิบายการทำงานตามปกติของระบบ ไม่ใช่ทำนายเหตุการณ์เฉพาะครั้ง; ถ้าพูดถึงผลที่จะเกิดในครั้งหน้าสามารถใช้ will save ได้",
+        "tag": "กฎการทำงาน"
+      },
+      {
+        "en": "What would you study if you had a year off?",
+        "th": "ถ้าคุณได้หยุดพักหนึ่งปี คุณจะเรียนอะไร",
+        "note": "would ... study ถามผลของสถานการณ์สมมติ ส่วน had ใน if-clause เป็นรูปอดีตที่ใช้สร้างระยะห่างจากความจริง ไม่ได้หมายความว่าปีที่หยุดนั้นต้องอยู่ในอดีต",
+        "tag": "รูปคำถาม"
+      },
+      {
+        "en": "Unless you cancel by Thursday, we will keep your booking.",
+        "th": "หากคุณไม่ยกเลิกภายในวันพฤหัสบดี เราจะคงการจองของคุณไว้",
+        "note": "Unless you cancel หมายถึง if you do not cancel จึงไม่เติม not หน้า cancel อีกเมื่ออยากสื่อความหมายนี้; cancel ใช้ present simple แม้เส้นตายจะอยู่ในอนาคต",
+        "tag": "เงื่อนไขด้านลบ"
+      },
+      {
+        "en": "If I had not missed the bus, I would have arrived on time.",
+        "th": "ถ้าฉันไม่พลาดรถเมล์ ฉันก็คงไปถึงตรงเวลาแล้ว",
+        "note": "had not missed สมมติย้อนแย้งกับอดีตที่พลาดรถไปจริง ส่วน would have arrived เป็นผลในอดีตที่ไม่ได้เกิดขึ้น; ไม่ใช้ would arrive หากต้องการคงผลลัพธ์ให้อยู่ในอดีตแบบนี้",
+        "tag": "ย้อนมองอดีต"
+      }
+    ]
+  },
+  {
+    "lessonId": "comparison",
+    "examples": [
+      {
+        "en": "Does this printer use less ink than the old one?",
+        "th": "เครื่องพิมพ์เครื่องนี้ใช้หมึกน้อยกว่าเครื่องเก่าหรือเปล่า",
+        "note": "ink เป็นนามนับไม่ได้จึงใช้ less ink; the old one แทนเครื่องพิมพ์เก่า หากเปลี่ยนสิ่งที่นับเป็นจำนวนหน้า จะใช้ fewer pages ในงานเขียนมาตรฐานทั่วไป",
+        "tag": "รูปคำถาม"
+      },
+      {
+        "en": "The average rent in this district is higher than that in the next district.",
+        "th": "ค่าเช่าเฉลี่ยในเขตนี้สูงกว่าค่าเช่าเฉลี่ยในเขตข้างเคียง",
+        "note": "that แทน the average rent ทำให้เทียบค่าเช่ากับค่าเช่าอย่างชัดเจน ไม่ใช่ค่าเช่ากับตัวเขต; ไม่จำเป็นต้องใช้ that of เพราะ in the next district บอกสถานที่ของค่าเช่าที่นำมาเทียบอยู่แล้ว",
+        "tag": "เทียบสิ่งเดียวกัน"
+      },
+      {
+        "en": "Class A has twice as many students as Class B: forty compared with twenty.",
+        "th": "ห้องเอมีนักเรียนเป็นสองเท่าของห้องบี คือสี่สิบคนเทียบกับยี่สิบคน",
+        "note": "twice as many + นามนับได้พหูพจน์ + as ระบุอัตราส่วน 2 ต่อ 1 อย่างชัดเจน จำนวนนักเรียนคือ 40 กับ 20 จึงไม่ต้องใช้รูป two times more ที่อาจตีความคลาดเคลื่อนได้",
+        "tag": "บอกอัตราส่วน"
+      },
+      {
+        "en": "This is our least expensive option, but it is not the fastest.",
+        "th": "นี่เป็นตัวเลือกที่ราคาต่ำที่สุดของเรา แต่ไม่ใช่ตัวเลือกที่เร็วที่สุด",
+        "note": "least expensive เป็นขั้นสูงสุดทางด้านน้อย ใช้ our กำหนดคำนามแล้วจึงไม่เติม the หน้า least; the fastest ในส่วนหลังละคำว่า option ที่เข้าใจจากบริบทได้",
+        "tag": "ขั้นสูงสุด"
+      }
+    ]
+  }
+]

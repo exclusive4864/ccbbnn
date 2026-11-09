@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "link-bridges",
+    "number": 21,
+    "title": "But, however and nevertheless",
+    "thaiTitle": "เชื่อมความขัดแย้งให้ถูกโครงสร้าง",
+    "group": "เชื่อมความคิดอย่างแม่นยำ",
+    "minutes": 22,
+    "outcome": "เลือก but/yet หรือ however/nevertheless ให้เข้ากับชนิดของข้อความและวางเครื่องหมายได้ถูกต้อง",
+    "memory": "but เชื่อมโครงสร้าง • however เชื่อมความคิด • nevertheless เน้นแม้มีอุปสรรค",
+    "why": "คำที่แปลว่า แต่ เหมือนกันไม่ได้วางแทนกันได้ทุกตำแหน่ง การเลือกคำยาวขึ้นโดยไม่ปรับประโยคอาจทำให้เกิด comma splice หรือเปลี่ยนน้ำหนักความหมาย",
+    "steps": [
+      {
+        "title": "1 · ดูว่าเชื่อมอะไร",
+        "body": "but และ yet แบบคำสันธานเชื่อมหน่วยระดับเดียวกันได้ เช่น adjective กับ adjective หรือประโยคหลักสองประโยค หากสองฝั่งเป็นประโยคหลัก มักใช้ comma ก่อนคำเชื่อม",
+        "example": "The classroom is small but bright. The classroom is small, but it feels comfortable.",
+        "note": "ประโยคแรกเชื่อม small กับ bright จึงไม่ต้องใส่ comma ตามสูตรประโยคหลักสองประโยค"
+      },
+      {
+        "title": "2 · เปลี่ยนเป็นสะพานระหว่างประโยค",
+        "body": "however เป็นคำเชื่อมความหมาย ไม่ได้ทำหน้าที่ทางไวยากรณ์เหมือน but เมื่อสองฝั่งเป็นประโยคหลัก ใช้จุดหรือ semicolon ก่อน และโดยทั่วไปใช้ comma หลัง however",
+        "example": "The room was full; however, two students found seats.",
+        "note": "The room was full และ two students found seats อยู่เดี่ยวได้ทั้งคู่ จึงไม่เชื่อมด้วย comma อย่างเดียว"
+      },
+      {
+        "title": "3 · เลือกน้ำหนักของความขัดแย้ง",
+        "body": "however แสดงข้อที่ต่างหรือจำกัดข้อความเดิม ส่วน nevertheless, nonetheless และ even so เน้นว่าข้อหลังยังจริง แม้ข้อแรกน่าจะขัดขวาง ใช้ Still, ต้นประโยคในความหมายนี้ได้ด้วย",
+        "example": "The deadline was tight. Nevertheless, the team completed the report.",
+        "note": "งานเสร็จแม้เวลาน้อย เป็นความขัดแย้งกับสิ่งที่คาด ไม่ใช่แค่คุณสมบัติสองด้าน"
+      },
+      {
+        "title": "4 · ปรับตำแหน่งและระดับภาษา",
+        "body": "however แทรกในประโยคได้โดยคั่น comma สองข้าง nevertheless และ nonetheless มักให้น้ำเสียงเป็นทางการกว่า but หรือ even so ความเป็นทางการไม่ใช่เครื่องรับประกันว่างานเขียนดีขึ้น",
+        "example": "The second route, however, requires a transfer.",
+        "note": "เลือกคำให้พอดีกับผู้อ่าน ไม่จำเป็นต้องเปลี่ยน but ทุกครั้ง และไม่ต้องขึ้นต้นทุกประโยคด้วยคำเชื่อม"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The guide is brief but useful.",
+        "th": "คู่มือนี้สั้นแต่มีประโยชน์",
+        "note": "but เชื่อม adjective สองคำ ไม่ต้องขยายเป็นสองประโยค"
+      },
+      {
+        "en": "The task was difficult, yet everyone attempted it.",
+        "th": "งานนี้ยาก แต่ทุกคนก็ลองทำ",
+        "note": "yet เป็น coordinating conjunction เน้นผลที่ต่างจากความคาดหมาย"
+      },
+      {
+        "en": "The bus was crowded, but I found a seat.",
+        "th": "รถเมล์แน่น แต่ฉันหาที่นั่งได้",
+        "note": "สองฝั่งมีประธานและกริยาครบ ใช้ comma + but"
+      },
+      {
+        "en": "The bus was crowded. However, I found a seat.",
+        "th": "รถเมล์แน่น อย่างไรก็ตาม ฉันหาที่นั่งได้",
+        "note": "ใช้สองประโยคเมื่อเลือก however"
+      },
+      {
+        "en": "The route is longer; however, it avoids the tunnel.",
+        "th": "เส้นทางนี้ยาวกว่า อย่างไรก็ตาม เส้นทางนี้เลี่ยงอุโมงค์ได้",
+        "note": "semicolon แบ่งประโยคหลักที่สัมพันธ์กัน"
+      },
+      {
+        "en": "The evening class, however, is already full.",
+        "th": "แต่ชั้นเรียนรอบเย็นเต็มแล้ว",
+        "note": "however แทรกระหว่างประธานกับกริยาและคั่น comma"
+      },
+      {
+        "en": "The evidence was limited. Nevertheless, the question deserved further study.",
+        "th": "หลักฐานมีจำกัด ถึงกระนั้น คำถามนี้ก็ควรได้รับการศึกษาเพิ่ม",
+        "note": "ยอมรับข้อจำกัดก่อนคงข้อสรุปที่สองไว้"
+      },
+      {
+        "en": "The battery was low. Nonetheless, the device recorded the whole interview.",
+        "th": "แบตเตอรี่เหลือน้อย ถึงกระนั้น อุปกรณ์ก็บันทึกบทสัมภาษณ์ได้ครบ",
+        "note": "nonetheless ให้ความหมายใกล้ nevertheless ในบริบทนี้"
+      },
+      {
+        "en": "The ticket costs more. Even so, I would choose the direct train.",
+        "th": "ตั๋วแพงกว่า ถึงอย่างนั้น ฉันก็จะเลือกรถไฟตรง",
+        "note": "even so เน้นว่าราคาไม่เปลี่ยนการตัดสินใจ"
+      },
+      {
+        "en": "The lesson was demanding. Still, I enjoyed the discussion.",
+        "th": "บทเรียนหนักพอสมควร แต่ฉันก็สนุกกับการอภิปราย",
+        "note": "Still, ต้นประโยคนี้เป็นคำแสดงความขัดแย้ง"
+      },
+      {
+        "en": "The library still opens at eight.",
+        "th": "ห้องสมุดยังคงเปิดตอนแปดโมง",
+        "note": "still กลางประโยคนี้หมายถึงความต่อเนื่อง ไม่ใช่แทน however โดยตรง"
+      },
+      {
+        "en": "I expected a quick answer. But the problem needed more research.",
+        "th": "ฉันคาดว่าจะได้คำตอบเร็ว แต่ปัญหานี้ต้องค้นคว้าเพิ่ม",
+        "note": "ขึ้นต้นด้วย But ได้ในภาษาอังกฤษมาตรฐาน เลือกใช้ตามน้ำเสียงและแนวทางของงาน"
+      }
+    ],
+    "traps": [
+      {
+        "title": "comma ไม่ได้ทำหน้าที่แทน semicolon",
+        "body": "อย่าเชื่อมประโยคหลักสองฝั่งด้วย comma + however เพียงอย่างเดียว แก้เป็นจุดหรือ semicolon หรือเปลี่ยนเป็น comma + but",
+        "good": "The station was busy; however, the queue moved quickly.",
+        "source": "link-purdue-punctuation",
+        "contrast": "The station was busy, but the queue moved quickly."
+      },
+      {
+        "title": "nevertheless ไม่ใช่ but แบบยาว",
+        "body": "but เชื่อมคำสั้น ๆ ได้ แต่ถ้าใช้ nevertheless ควรสร้างประโยคที่รองรับคำเชื่อมระหว่างความคิด ไม่ใส่แทนลงในช่องเดิม",
+        "good": "The course is demanding but rewarding.",
+        "source": "link-cam-bridges",
+        "contrast": "The course is demanding. Nevertheless, it is rewarding."
+      },
+      {
+        "title": "ความต่างไม่จำเป็นต้องเป็นอุปสรรค",
+        "body": "however ใช้แสดงความต่างทั่วไปได้ ส่วน nevertheless ชวนให้ผู้อ่านมองว่าข้อแรกน่าจะทำให้ข้อหลังไม่เกิด อย่าเพิ่มนัยนี้หากไม่ตรงเจตนา",
+        "good": "The morning class is online. The evening class, however, meets on campus.",
+        "source": "link-cam-bridges"
+      },
+      {
+        "title": "still มีมากกว่าหนึ่งหน้าที่",
+        "body": "Still, ต้นประโยคอาจหมายถึง ถึงกระนั้น แต่ still ที่บอกสิ่งยังดำเนินอยู่ไม่ใช่คำแทน however ตำแหน่งและบริบทช่วยแยกความหมาย",
+        "good": "The train is still at the platform.",
+        "source": "link-cam-still",
+        "contrast": "The platform was crowded. Still, we boarded safely."
+      },
+      {
+        "title": "อย่าสร้างกฎห้ามขึ้นต้นด้วย But",
+        "body": "การขึ้นต้นด้วย But ไม่ผิดไวยากรณ์โดยตัวมันเอง แต่การใช้บ่อยอาจทำให้งานกระโดดหรือซ้ำ บางงานมีแนวทางสไตล์ที่ต้องปฏิบัติตาม",
+        "good": "The proposal has clear benefits. But the cost needs careful review.",
+        "source": "link-khan-coordination"
+      },
+      {
+        "title": "however ไม่ได้แปลว่า แต่ เสมอ",
+        "body": "ในโครงสร้าง however + adjective/adverb คำนี้อาจหมายถึง ไม่ว่าจะ…เพียงใด ไม่ใช่ sentence transition จึงไม่ใส่ comma หลัง however แบบสูตรเดิม",
+        "good": "However carefully we plan, delays are possible.",
+        "source": "link-cam-however"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "link-bridges-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำที่เชื่อม adjective สองคำได้โดยคงโครงสร้างเดิม",
+        "sentence": "The explanation is short ___ clear.",
+        "answers": [
+          "but"
+        ],
+        "hints": [
+          "ดูคำหน้าและหลังช่อง: short กับ clear",
+          "ช่องนี้ไม่มีประโยคหลักใหม่หลังคำเชื่อม"
+        ],
+        "explanation": "but เชื่อม adjective สองคำได้ ส่วน nevertheless เป็นคำเชื่อมระดับความคิด และ despite ต้องมีส่วนเติมเต็มแบบนามหรือ -ing",
+        "focus": "but เชื่อมคำ",
+        "options": [
+          "but",
+          "nevertheless",
+          "despite"
+        ],
+        "wrong": {
+          "nevertheless": "ไม่ใช้เชื่อม short กับ clear โดยตรงแบบนี้ ต้องปรับเป็นประโยคใหม่",
+          "despite": "clear เป็น adjective เดี่ยว ไม่ใช่นามหรือ -ing ที่ despite ต้องการ"
+        }
+      },
+      {
+        "id": "link-bridges-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกประโยคที่ใช้ however เชื่อมประโยคหลักได้ถูกต้องตามรูปแบบงานเขียนมาตรฐาน",
+        "sentence": "",
+        "answers": [
+          "The road was narrow; however, the bus passed safely."
+        ],
+        "hints": [
+          "แต่ละฝั่งยืนเป็นประโยคได้หรือไม่",
+          "เลือก semicolon ก่อน however และ comma หลังมัน"
+        ],
+        "explanation": "สองฝั่งเป็นประโยคหลัก จึงใช้ semicolon + however, ไม่ใช่ comma อย่างเดียว",
+        "focus": "แก้ comma splice",
+        "options": [
+          "The road was narrow, however, the bus passed safely.",
+          "The road was narrow; however, the bus passed safely.",
+          "The road was narrow however the bus passed safely."
+        ],
+        "wrong": {
+          "The road was narrow, however, the bus passed safely.": "comma ก่อน however ยังเชื่อมสองประโยคหลักไม่ได้ จึงเป็น comma splice",
+          "The road was narrow however the bus passed safely.": "ขาดเครื่องหมายแบ่งสองประโยคหลัก และขาด comma หลังคำเชื่อม"
+        }
+      },
+      {
+        "id": "link-bridges-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมคำจากวงเล็บในตำแหน่งที่ถูกต้อง: however",
+        "sentence": "The second timetable, ___, is easier to read.",
+        "answers": [
+          "however"
+        ],
+        "hints": [
+          "มี comma เตรียมไว้ทั้งสองข้าง",
+          "คำเชื่อมแทรกระหว่างประธานกับกริยาได้"
+        ],
+        "explanation": "however แทรกหลังประธานเพื่อเทียบกับตารางก่อนหน้า โดยคั่น comma สองด้าน",
+        "focus": "however กลางประโยค"
+      },
+      {
+        "id": "link-bridges-04",
+        "type": "order",
+        "phase": "guided",
+        "prompt": "เรียงชิ้นส่วนให้เริ่มด้วย The road และคงเครื่องหมายที่ให้มา",
+        "sentence": "",
+        "answers": [
+          "The road was closed; however, the bus arrived."
+        ],
+        "hints": [
+          "ประโยคแรกจบที่ closed;",
+          "however, นำประโยคหลักที่สอง"
+        ],
+        "explanation": "semicolon แยกสองประโยคหลัก ส่วน however บอกความขัดแย้ง",
+        "focus": "semicolon + however",
+        "tokens": [
+          "The",
+          "road",
+          "was",
+          "closed;",
+          "however,",
+          "the",
+          "bus",
+          "arrived."
+        ]
+      },
+      {
+        "id": "link-bridges-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ผู้เขียนต้องการสื่อว่า ถึงแม้หลักฐานมีจำกัด ก็ยังควรศึกษาเพิ่ม เลือกความสัมพันธ์ที่ตรงเจตนา",
+        "sentence": "The evidence is limited. ___, the topic deserves further study.",
+        "answers": [
+          "Nevertheless"
+        ],
+        "hints": [
+          "ข้อแรกเป็นข้อจำกัด ไม่ใช่สาเหตุที่ทำให้จำเป็นต้องศึกษาในโจทย์นี้",
+          "เลือกคำที่หมายถึง ถึงกระนั้น"
+        ],
+        "explanation": "Nevertheless คงข้อเสนอให้ศึกษาไว้แม้ยอมรับข้อจำกัด ส่วนตัวเลือกอื่นแสดงเหตุผลหรือการเพิ่มข้อมูล",
+        "focus": "concession ไม่ใช่ addition",
+        "options": [
+          "Therefore",
+          "Moreover",
+          "Nevertheless"
+        ],
+        "wrong": {
+          "Therefore": "สื่อว่าข้อแรกเป็นเหตุผลให้เกิดข้อสรุป ไม่ตรงเจตนา ถึงแม้…ก็ยัง… ที่โจทย์ระบุ",
+          "Moreover": "เพียงเพิ่มอีกประเด็น ไม่ได้ชี้ว่าข้อหลังยังจริงแม้มีข้อจำกัด"
+        }
+      },
+      {
+        "id": "link-bridges-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมคำ yet เพื่อเชื่อมประโยคหลัก คง comma ที่ให้มา",
+        "sentence": "The software is old, ___ it still works well.",
+        "answers": [
+          "yet"
+        ],
+        "hints": [
+          "yet ในบทนี้เป็นคำสันธาน ไม่ใช่คำบอกเวลาท้ายประโยค",
+          "มีประโยคหลักอยู่ทั้งสองฝั่ง"
+        ],
+        "explanation": "yet เชื่อมความขัดแย้งคล้าย but และมี comma คั่นประโยคหลัก",
+        "focus": "yet แบบคำสันธาน"
+      },
+      {
+        "id": "link-bridges-07",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่ still หมายถึง ยังคง ไม่ใช่ ถึงกระนั้น",
+        "sentence": "",
+        "answers": [
+          "The school still uses paper forms."
+        ],
+        "hints": [
+          "มองหาความต่อเนื่องของการกระทำ",
+          "still อยู่ก่อนกริยาหลัก uses"
+        ],
+        "explanation": "still ก่อน uses บอกว่าโรงเรียนยังใช้แบบกระดาษต่อไป อีกสองประโยคใช้ Still, แสดงความขัดแย้ง",
+        "focus": "แยกความหมาย still",
+        "options": [
+          "The school still uses paper forms.",
+          "The forms were long. Still, I completed them.",
+          "The room was small. Still, everyone fitted inside."
+        ],
+        "wrong": {
+          "The forms were long. Still, I completed them.": "Still, ต้นประโยคนี้หมายถึง ถึงกระนั้น แม้แบบฟอร์มยาวก็กรอกเสร็จ",
+          "The room was small. Still, everyone fitted inside.": "Still, ต้นประโยคนี้แสดงผลที่เกิดได้แม้ห้องเล็ก"
+        }
+      },
+      {
+        "id": "link-bridges-08",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมวลี even so เพื่อสื่อว่า ถึงอย่างนั้น",
+        "sentence": "The journey takes longer. ___, I prefer the quieter route.",
+        "answers": [
+          "Even so",
+          "even so"
+        ],
+        "hints": [
+          "วลีมีสองคำ",
+          "ประโยคใหม่เริ่มหลังจุด จึงใช้อักษรใหญ่ในงานเขียนจริง"
+        ],
+        "explanation": "Even so เชื่อมการเลือกเส้นทางไว้กับข้อเสียที่เพิ่งยอมรับ",
+        "focus": "even so + ประโยคหลัก"
+      },
+      {
+        "id": "link-bridges-09",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบ: เปลี่ยน but เป็น however ใช้ semicolon ก่อน however และ comma หลัง คงคำอื่นและลำดับเดิมทั้งหมด",
+        "sentence": "The room was noisy, but the students stayed focused.",
+        "answers": [
+          "The room was noisy; however, the students stayed focused."
+        ],
+        "hints": [
+          "แทน , but ด้วย ; however,",
+          "อย่าลบประธาน the students"
+        ],
+        "explanation": "เปลี่ยนชนิดคำเชื่อมแล้วต้องเปลี่ยนเครื่องหมายด้วย แบบฝึกนี้ตรวจรูปแบบที่กำหนด ไม่ได้ปฏิเสธการเขียนใหม่แบบอื่น",
+        "focus": "แปลง but → however"
+      },
+      {
+        "id": "link-bridges-10",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมคำ nonetheless ตามที่กำหนด เพื่อคงข้อสรุปแม้มีอุปสรรค",
+        "sentence": "The project had little funding. ___, it reached its target.",
+        "answers": [
+          "Nonetheless",
+          "nonetheless"
+        ],
+        "hints": [
+          "คำเดียว ไม่แยกเป็นสามคำ",
+          "วางต้นประโยคใหม่ก่อน comma"
+        ],
+        "explanation": "Nonetheless หมายถึงถึงกระนั้น เหมาะกับการบรรลุเป้าหมายแม้งบน้อย",
+        "focus": "nonetheless แสดง concession"
+      },
+      {
+        "id": "link-bridges-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำอธิบายที่ถูกต้องเกี่ยวกับ But ต้นประโยค",
+        "sentence": "",
+        "answers": [
+          "ใช้ได้ตามไวยากรณ์ แต่ควรคุมสไตล์และความถี่"
+        ],
+        "hints": [
+          "แยกกฎไวยากรณ์ออกจากคำแนะนำเรื่องสไตล์",
+          "คำสั้นไม่ได้ด้อยกว่าคำยาวโดยอัตโนมัติ"
+        ],
+        "explanation": "But เริ่มประโยคเพื่อเชื่อมกับความคิดก่อนหน้าได้ บางบริบทอาจต้องการสไตล์อื่น แต่ไม่ใช่ข้อห้ามไวยากรณ์ทั่วไป",
+        "focus": "ไวยากรณ์กับ register",
+        "options": [
+          "ผิดทุกครั้งในภาษาอังกฤษมาตรฐาน",
+          "ใช้ได้ตามไวยากรณ์ แต่ควรคุมสไตล์และความถี่",
+          "ใช้ได้ก็ต่อเมื่อเติม comma หลัง But ทุกครั้ง"
+        ],
+        "wrong": {
+          "ผิดทุกครั้งในภาษาอังกฤษมาตรฐาน": "นี่เป็นข้อห้ามที่กว้างเกินไป But สามารถเริ่มประโยคได้",
+          "ใช้ได้ก็ต่อเมื่อเติม comma หลัง But ทุกครั้ง": "ไม่ต้องมี comma หลัง But โดยอัตโนมัติ เช่น But the cost is high."
+        }
+      },
+      {
+        "id": "link-bridges-12",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบ: รวมสองประโยคด้วย comma + but โดยลบ Nevertheless, คงคำอื่นและลำดับเดิมทั้งหมด",
+        "sentence": "The station was crowded. Nevertheless, the queue moved quickly.",
+        "answers": [
+          "The station was crowded, but the queue moved quickly."
+        ],
+        "hints": [
+          "คงสองประธานไว้",
+          "แทนจุดและ Nevertheless, ด้วย , but"
+        ],
+        "explanation": "but เชื่อมสองประโยคหลักได้ แม้ไม่เน้นนัย ถึงกระนั้น ชัดเท่า Nevertheless รูปแบบเปลี่ยนจึงต้องปรับเครื่องหมาย",
+        "focus": "แปลง transition → coordinator"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับการเดินทางไปเรียนหรือทำงาน ระบุข้อเสียหนึ่งข้อ ผลที่ยังดีแม้มีข้อเสียนั้น และข้อแตกต่างอีกด้าน ใช้ but หนึ่งครั้งและ however หรือ nevertheless หนึ่งครั้ง",
+      "model": "The new bus route is slower, but it stops near my office. The buses are often crowded. Nevertheless, the service has made my journey easier.",
+      "translation": "รถเมล์สายใหม่ช้ากว่าแต่จอดใกล้ที่ทำงานของฉัน รถมักแน่น ถึงกระนั้น บริการนี้ก็ทำให้การเดินทางของฉันง่ายขึ้น",
+      "checklist": [
+        "but เชื่อมหน่วยที่ขนานกันหรือประโยคหลักสองฝั่ง",
+        "แยกประโยคก่อน however/nevertheless ด้วยจุดหรือ semicolon",
+        "คำเชื่อมตรงกับความขัดแย้งจริง ไม่ได้เติมเพื่อให้ดูยาก"
+      ]
+    },
+    "sources": [
+      "link-purdue-punctuation",
+      "link-wisc-transitions",
+      "link-cam-bridges",
+      "link-cam-still",
+      "link-khan-coordination",
+      "link-cam-however"
+    ]
+  },
+  {
+    "id": "link-concession",
+    "number": 22,
+    "title": "Although, even though and despite",
+    "thaiTitle": "แม้ว่า…ก็ยัง… เลือก clause หรือ noun ให้ถูก",
+    "group": "เชื่อมความคิดอย่างแม่นยำ",
+    "minutes": 23,
+    "outcome": "เขียนความหมายแบบยอมรับข้อขัดแย้งด้วย although/though/even though และ despite/in spite of โดยไม่ใช้โครงสร้างปนกัน",
+    "memory": "although + ประธานและกริยา • despite + นามหรือ -ing • even if ยังเป็นเงื่อนไข",
+    "why": "ภาษาไทยใช้ แม้ว่า ได้หลายโครงสร้าง แต่ภาษาอังกฤษแยกคำที่นำอนุประโยคออกจากคำที่นำกลุ่มนาม การรู้สิ่งที่ต้องตามหลังทำให้เลือกได้อย่างแม่นยำกว่าท่องคำแปล",
+    "steps": [
+      {
+        "title": "1 · เริ่มจากข้อเท็จจริงที่สวนความคาดหมาย",
+        "body": "although, though และ even though นำอนุประโยคที่โดยทั่วไปมีประธานและกริยา จากนั้นต้องมีประโยคหลักให้ใจความครบ even though เพิ่มน้ำหนักความแปลกใจ",
+        "example": "Although the lecture was long, the students remained attentive.",
+        "note": "อนุประโยค the lecture was long เป็นข้อที่ยอมรับ ส่วนใจความหลักคือ students remained attentive"
+      },
+      {
+        "title": "2 · เปลี่ยนส่วนตามหลัง despite",
+        "body": "despite และ in spite of ตามด้วยนาม สรรพนาม หรือรูป -ing ได้ ไม่ใส่ of หลัง despite ถ้าต้องการตามด้วยประธานและกริยา ใช้ the fact that เป็นสะพาน",
+        "example": "Despite the noise, I finished the assignment.",
+        "note": "the noise เป็นกลุ่มนาม ถ้าเก็บ clause ไว้ให้ใช้ Despite the fact that it was noisy, ..."
+      },
+      {
+        "title": "3 · คุมตำแหน่งและประธาน",
+        "body": "เมื่อขึ้นต้นด้วยอนุประโยคหรือวลี concession ให้คั่น comma ก่อนประโยคหลัก ถ้าวางไว้ท้าย มักไม่จำเป็นต้องมี comma เสมอไป ส่วน -ing ที่ไม่มีประธานของตัวเองควรอ้างถึงประธานของประโยคหลักอย่างชัดเจน",
+        "example": "Despite feeling tired, Mina checked the figures.",
+        "note": "Mina เป็นคนรู้สึกเหนื่อย หลีกเลี่ยง Despite feeling tired, the figures ... ซึ่งทำให้ figures ดูเหมือนเป็นคนเหนื่อย"
+      },
+      {
+        "title": "4 · แยกข้อเท็จจริงออกจากเงื่อนไข",
+        "body": "even though ในบริบททั่วไปยอมรับว่าข้อแรกจริง ส่วน even if บอกว่าผลยังเหมือนเดิมไม่ว่าเงื่อนไขจะจริงหรือไม่ though ยังใช้ท้ายประโยคแบบภาษาพูดได้ แต่ although ใช้ท้ายประโยคในแบบนั้นไม่ได้",
+        "example": "Even though it is raining, we will leave. Even if it rains, we will leave.",
+        "note": "ประโยคแรกบอกว่าฝนกำลังตก ประโยคที่สองไม่ได้ยืนยันว่าฝนตก จะตกหรือไม่ก็ออกเดินทาง"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Although the exam was difficult, I finished every section.",
+        "th": "แม้ข้อสอบยาก ฉันก็ทำครบทุกส่วน",
+        "note": "although ตามด้วยประธาน the exam และกริยา was"
+      },
+      {
+        "en": "I finished every section although the exam was difficult.",
+        "th": "ฉันทำครบทุกส่วนแม้ข้อสอบยาก",
+        "note": "ย้ายอนุประโยคไว้ท้ายได้ และในประโยคนี้ไม่จำเป็นต้องคั่น comma"
+      },
+      {
+        "en": "Though the bus arrived late, we reached school before nine.",
+        "th": "แม้รถเมล์มาช้า เราก็ถึงโรงเรียนก่อนเก้าโมง",
+        "note": "though ใช้เป็นคำเชื่อมอนุประโยคได้เช่น although"
+      },
+      {
+        "en": "Even though the instructions were clear, several people asked for help.",
+        "th": "แม้คำสั่งชัดเจนมากแล้ว หลายคนก็ยังขอความช่วยเหลือ",
+        "note": "even though เน้นความสวนทางกับความคาดหมาย"
+      },
+      {
+        "en": "Despite the delay, we completed the workshop.",
+        "th": "แม้เกิดความล่าช้า เราก็จัดเวิร์กช็อปจนจบ",
+        "note": "despite + กลุ่มนาม the delay"
+      },
+      {
+        "en": "In spite of the extra cost, the school kept the service.",
+        "th": "แม้มีค่าใช้จ่ายเพิ่ม โรงเรียนก็ยังคงบริการนี้ไว้",
+        "note": "in spite of มีสามคำและต้องมี of"
+      },
+      {
+        "en": "Despite practising every day, Leo still found the speech difficult.",
+        "th": "แม้ฝึกทุกวัน ลีโอก็ยังรู้สึกว่าการกล่าวสุนทรพจน์ยาก",
+        "note": "Leo เป็นคนฝึกและเป็นคนรู้สึกว่ายาก"
+      },
+      {
+        "en": "Despite the fact that the lift was broken, the meeting started on time.",
+        "th": "แม้ลิฟต์เสีย การประชุมก็เริ่มตรงเวลา",
+        "note": "the fact that ช่วยให้ตามด้วย clause ได้"
+      },
+      {
+        "en": "The journey was tiring. I enjoyed the views, though.",
+        "th": "การเดินทางเหนื่อย แต่ฉันก็ชอบวิว",
+        "note": "though ท้ายประโยคเป็นการเติมความขัดแย้งแบบสนทนา"
+      },
+      {
+        "en": "Even if the train is delayed tomorrow, the lesson will start at ten.",
+        "th": "แม้พรุ่งนี้รถไฟจะล่าช้า บทเรียนก็จะเริ่มสิบโมง",
+        "note": "ยังไม่ยืนยันว่ารถไฟจะช้า เป็นเงื่อนไขที่ไม่เปลี่ยนผล"
+      },
+      {
+        "en": "Although tired, the volunteers stayed to clean the hall.",
+        "th": "แม้เหนื่อย อาสาสมัครก็อยู่ทำความสะอาดห้องโถงต่อ",
+        "note": "reduced clause ละ they were ได้เมื่ออ้างถึง volunteers ชัดเจน เป็นรูปที่พบในงานเขียน"
+      },
+      {
+        "en": "The room was smaller than expected. Despite that, it met our needs.",
+        "th": "ห้องเล็กกว่าที่คาด แม้เป็นเช่นนั้น ห้องก็ยังตอบโจทย์เรา",
+        "note": "that เป็นสรรพนามแทนข้อเท็จจริงก่อนหน้า ไม่ใช่ that ที่นำ clause หลัง despite"
+      }
+    ],
+    "traps": [
+      {
+        "title": "อย่าใช้ despite of",
+        "body": "despite ใช้โดยไม่มี of ส่วน in spite of ต้องมี of เสมอในวลีนี้ อย่าสร้างรูปผสม in despite of",
+        "good": "Despite the heat, the fans stayed quiet.",
+        "source": "link-cam-despite",
+        "contrast": "In spite of the heat, the fans stayed quiet."
+      },
+      {
+        "title": "อย่าต่อ finite clause หลัง despite โดยตรง",
+        "body": "หากตามด้วยประธานและกริยาที่ผันตามประธาน เช่น it was ให้เลือก although หรือใส่ the fact that หลัง despite",
+        "good": "Although it was expensive, we repaired the roof.",
+        "source": "link-bc-concession",
+        "contrast": "Despite the fact that it was expensive, we repaired the roof."
+      },
+      {
+        "title": "although … but ไม่ใช่คู่เชื่อมของสอง clause เดียวกัน",
+        "body": "ในภาษาอังกฤษมาตรฐานไม่ใส่ but มารับประโยคหลักที่มี although นำอยู่แล้ว เลือก Although A, B หรือ A, but B ส่วน but ในอีกส่วนของประโยคอาจถูกต้องได้",
+        "good": "Although the task was short, it required concentration.",
+        "source": "link-cam-contrast-grammar",
+        "contrast": "The task was short, but it required concentration."
+      },
+      {
+        "title": "อย่าทำให้ -ing หลงประธาน",
+        "body": "ถ้า -ing ไม่มีประธานกำกับ ผู้อ่านมักโยงไปยังประธานของประโยคหลัก ถ้าคนละผู้กระทำให้เขียน clause เต็มเพื่อให้ชัด",
+        "good": "Despite feeling nervous, Arun answered the question.",
+        "source": "link-bc-concession",
+        "contrast": "Although Arun felt nervous, his answer was clear."
+      },
+      {
+        "title": "even if ไม่ได้ยืนยันข้อแรก",
+        "body": "ใช้ even though เมื่อกำลังยอมรับข้อเท็จจริงที่ขัดกับผล ส่วน even if เน้นว่าเงื่อนไขนั้นไม่เปลี่ยนผล อย่าสรุปจาก even if ว่าเหตุการณ์เกิดแล้ว",
+        "good": "Even if the fare rises, I will continue using the train.",
+        "source": "link-bc-advanced-contrast",
+        "contrast": "Even though the fare has risen, I continue using the train."
+      },
+      {
+        "title": "รูปย่อมีจริง แต่ไม่ใช่ย่อได้ทุกอย่าง",
+        "body": "Although + adjective เช่น Although tired เป็นรูปย่อของ clause ที่ประธานตรงกับประโยคหลัก ไม่ใช่หลักฐานว่า although ตามด้วยนามเดี่ยวแบบ despite ได้ทุกกรณี",
+        "good": "Although nervous, the speaker answered confidently.",
+        "source": "link-cam-although",
+        "contrast": "Despite her nerves, the speaker answered confidently."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "link-concession-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "คงโครงสร้างเดิม เลือกคำที่รับ clause the hall was noisy ได้",
+        "sentence": "___ the hall was noisy, the class continued.",
+        "answers": [
+          "Although"
+        ],
+        "hints": [
+          "the hall เป็นประธาน และ was เป็นกริยา",
+          "ต้องการคำที่นำอนุประโยค"
+        ],
+        "explanation": "Although นำ clause ได้ ส่วน Despite และ In spite of ไม่รับ finite clause นี้โดยตรง",
+        "focus": "although + clause",
+        "options": [
+          "Despite",
+          "Although",
+          "In spite of"
+        ],
+        "wrong": {
+          "Despite": "ต้องเปลี่ยนเป็น despite the noise หรือ despite the fact that the hall was noisy",
+          "In spite of": "ต้องตามด้วยกลุ่มนามหรือ -ing หรือเพิ่ม the fact that ก่อน clause"
+        }
+      },
+      {
+        "id": "link-concession-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกส่วนที่เติมหลัง despite ได้โดยไม่เพิ่มคำอื่น",
+        "sentence": "Despite ___, the team met its deadline.",
+        "answers": [
+          "the delay"
+        ],
+        "hints": [
+          "despite ต้องการกลุ่มนามหรือ -ing",
+          "มองหาตัวเลือกที่ไม่ใช่ clause แบบประธาน + กริยาผัน"
+        ],
+        "explanation": "the delay เป็นกลุ่มนามที่ใช้หลัง despite ได้",
+        "focus": "despite + noun",
+        "options": [
+          "the delay",
+          "it was delayed",
+          "of the delay"
+        ],
+        "wrong": {
+          "it was delayed": "เป็น finite clause ต้องใช้ although หรือ despite the fact that",
+          "of the delay": "despite ไม่เติม of ต่างจาก in spite of"
+        }
+      },
+      {
+        "id": "link-concession-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมคำที่ขาดจากวลี in spite of",
+        "sentence": "In spite ___ the traffic, we arrived before the gates closed.",
+        "answers": [
+          "of"
+        ],
+        "hints": [
+          "วลีนี้มีสามคำ",
+          "in spite + คำบุพบท + กลุ่มนาม"
+        ],
+        "explanation": "in spite of เป็นวลีคงรูปที่ต้องมี of แต่ despite ใช้เดี่ยวได้",
+        "focus": "in spite of"
+      },
+      {
+        "id": "link-concession-04",
+        "type": "order",
+        "phase": "guided",
+        "prompt": "เรียงชิ้นส่วนให้เริ่มด้วย Although และคงเครื่องหมายที่ให้มา",
+        "sentence": "",
+        "answers": [
+          "Although the train was late, we arrived on time."
+        ],
+        "hints": [
+          "clause แรกจบที่ late,",
+          "ประโยคหลักคือ we arrived on time"
+        ],
+        "explanation": "Although นำอนุประโยคก่อน comma แล้วตามด้วยใจความหลัก",
+        "focus": "ตำแหน่งอนุประโยค",
+        "tokens": [
+          "Although",
+          "the",
+          "train",
+          "was",
+          "late,",
+          "we",
+          "arrived",
+          "on",
+          "time."
+        ]
+      },
+      {
+        "id": "link-concession-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ข้อเท็จจริงคือฝนตกอยู่ตอนนี้ เลือกคำที่ยอมรับข้อเท็จจริงนั้นอย่างชัดเจน ไม่ใช่ตั้งเงื่อนไข",
+        "sentence": "___ it is raining now, the match is continuing.",
+        "answers": [
+          "Even though"
+        ],
+        "hints": [
+          "ต้องยืนยันว่าฝนตกจริง",
+          "even if ไม่ได้ยืนยันข้อเท็จจริงแบบนี้"
+        ],
+        "explanation": "Even though ยอมรับว่าฝนกำลังตกแล้วบอกผลที่ยังเกิด ส่วน even if วางเป็นเงื่อนไข",
+        "focus": "even though vs even if",
+        "options": [
+          "Even if",
+          "Even though",
+          "Despite"
+        ],
+        "wrong": {
+          "Even if": "เปลี่ยนเป็นความหมายไม่ว่าฝนตกหรือไม่ ไม่ยืนยันข้อเท็จจริงตามโจทย์",
+          "Despite": "ใช้หน้าประธาน it และกริยา is แบบนี้ไม่ได้ ต้องเพิ่ม the fact that"
+        }
+      },
+      {
+        "id": "link-concession-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "ใช้รูป -ing ของ study เพื่อเติมหลัง despite",
+        "sentence": "Despite ___ hard, Nita did not feel ready for the test.",
+        "answers": [
+          "studying"
+        ],
+        "hints": [
+          "despite รับ -ing ได้",
+          "study → studying ไม่ใช่ to study"
+        ],
+        "explanation": "studying เป็นรูป -ing และผู้ที่อ่านหนังสือคือ Nita เช่นเดียวกับประธานหลัก",
+        "focus": "despite + -ing"
+      },
+      {
+        "id": "link-concession-07",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบ: เปลี่ยน Although the road was wet เป็น Despite the wet road คงส่วนอื่นและเครื่องหมายเดิม",
+        "sentence": "Although the road was wet, the driver remained calm.",
+        "answers": [
+          "Despite the wet road, the driver remained calm."
+        ],
+        "hints": [
+          "clause the road was wet เปลี่ยนเป็นกลุ่มนาม the wet road",
+          "อย่าเพิ่ม of หลัง Despite"
+        ],
+        "explanation": "despite ตามด้วยกลุ่มนาม the wet road ทำให้คงใจความเดิมได้โดยเปลี่ยนโครงสร้าง",
+        "focus": "แปลง clause เป็น noun phrase"
+      },
+      {
+        "id": "link-concession-08",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่ระบุชัดว่าคนที่เหนื่อยคือ Maya และไม่ทำให้ประธานของ -ing กำกวม",
+        "sentence": "",
+        "answers": [
+          "Despite feeling tired, Maya checked the report."
+        ],
+        "hints": [
+          "หาใครเป็นประธานหลัง comma",
+          "ผู้รู้สึกเหนื่อยควรเป็นคน ไม่ใช่สิ่งของ"
+        ],
+        "explanation": "Maya เป็นทั้งคนเหนื่อยและคนตรวจรายงาน อีกสองตัวเลือกทำให้ -ing ดูเหมือนอ้างถึงสิ่งของ",
+        "focus": "หลีกเลี่ยง dangling modifier",
+        "options": [
+          "Despite feeling tired, Maya checked the report.",
+          "Despite feeling tired, the report was checked by Maya.",
+          "Despite feeling tired, the desk was covered in papers."
+        ],
+        "wrong": {
+          "Despite feeling tired, the report was checked by Maya.": "ประธานหลักคือ the report ทำให้ feeling tired หลงไปขยายรายงาน ควรระบุ Maya เป็นประธาน",
+          "Despite feeling tired, the desk was covered in papers.": "ประธานหลักคือ the desk แต่โต๊ะไม่ใช่คนเหนื่อย"
+        }
+      },
+      {
+        "id": "link-concession-09",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมคำ that เพื่อให้ despite ตามด้วย clause ผ่าน the fact that",
+        "sentence": "Despite the fact ___ the room was small, everyone found a seat.",
+        "answers": [
+          "that"
+        ],
+        "hints": [
+          "the fact + คำที่นำ clause",
+          "หลังช่องมีประธานและกริยาครบ"
+        ],
+        "explanation": "the fact that ทำหน้าที่พา clause เข้ามาในส่วนที่ตามหลัง despite",
+        "focus": "despite the fact that"
+      },
+      {
+        "id": "link-concession-10",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำเดียวที่ใช้ท้ายประโยคนี้ในความหมาย แต่ก็… แบบภาษาพูดได้",
+        "sentence": "The class was demanding. I enjoyed it, ___.",
+        "answers": [
+          "though"
+        ],
+        "hints": [
+          "แม้ although และ though ใกล้กัน แต่ตำแหน่งนี้ใช้ไม่เหมือนกัน",
+          "คำที่ใช้เป็น afterthought ท้ายประโยคคือ though"
+        ],
+        "explanation": "though ใช้ท้ายประโยคแสดงข้อขัดแย้งได้ ส่วน although และ even though ต้องมีส่วน clause ตามหลังในรูปแบบที่เรียนนี้",
+        "focus": "though ท้ายประโยค",
+        "options": [
+          "although",
+          "even though",
+          "though"
+        ],
+        "wrong": {
+          "although": "ไม่ใช้เดี่ยวท้ายประโยคแบบนี้เพื่อแทน however",
+          "even though": "ไม่ใช้เดี่ยวท้ายประโยคแบบนี้ ต้องนำอนุประโยค"
+        }
+      },
+      {
+        "id": "link-concession-11",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบ: ลบ but เพียงคำเดียวและช่องว่างที่เกิน คงคำอื่นและ comma เดิม",
+        "sentence": "Although the fare was high, but we took the express train.",
+        "answers": [
+          "Although the fare was high, we took the express train."
+        ],
+        "hints": [
+          "although ทำหน้าที่นำข้อขัดแย้งอยู่แล้ว",
+          "ไม่ต้องใส่ but รับประโยคหลักสองฝั่งนี้"
+        ],
+        "explanation": "สำหรับคู่ clause นี้เลือก Although A, B ไม่ใช้ Although A, but B",
+        "focus": "ไม่ซ้อน although กับ but"
+      },
+      {
+        "id": "link-concession-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม if หรือ though: ยังไม่รู้ว่าร้านจะเปิดหรือไม่ แต่จะไปถึงที่นั่นไม่ว่าอย่างไร",
+        "sentence": "Even ___ the shop is closed when we arrive, we will continue our walk.",
+        "answers": [
+          "if"
+        ],
+        "hints": [
+          "เหตุการณ์ยังไม่แน่นอน",
+          "ผลไม่เปลี่ยนไม่ว่าเงื่อนไขจริงหรือไม่"
+        ],
+        "explanation": "even if สื่อเงื่อนไขที่ไม่เปลี่ยนแผน ไม่ได้ยืนยันว่าร้านปิดแล้ว",
+        "focus": "เงื่อนไขที่ไม่เปลี่ยนผล"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับอุปสรรคในการเรียนหรือการเดินทาง ใช้ although หนึ่งประโยค despite หนึ่งประโยค และ even if หนึ่งประโยคเพื่อวางแผนสำหรับสิ่งที่ยังไม่แน่นอน",
+      "model": "Although my journey is long, I usually arrive on time. Despite feeling tired, I review my notes on the train. Even if the service is delayed tomorrow, I will join the lesson online.",
+      "translation": "แม้การเดินทางยาว ฉันก็มักถึงตรงเวลา แม้รู้สึกเหนื่อย ฉันก็ทบทวนโน้ตบนรถไฟ แม้พรุ่งนี้รถไฟจะล่าช้า ฉันก็จะเข้าเรียนออนไลน์",
+      "checklist": [
+        "หลัง although มี clause ครบ หรือรูปย่อที่ประธานชัดเจน",
+        "หลัง despite ใช้นามหรือ -ing และผู้กระทำไม่หลงประธาน",
+        "even if เป็นเงื่อนไข ไม่ได้ยืนยันว่าเหตุการณ์เกิดแล้ว"
+      ]
+    },
+    "sources": [
+      "link-bc-concession",
+      "link-bc-advanced-contrast",
+      "link-cam-despite",
+      "link-cam-although",
+      "link-cam-contrast-grammar"
+    ]
+  },
+  {
+    "id": "link-contrast",
+    "number": 23,
+    "title": "Whereas, in contrast and on the contrary",
+    "thaiTitle": "เทียบสองด้าน แย้งข้อกล่าว หรือเลือกสิ่งใหม่",
+    "group": "เชื่อมความคิดอย่างแม่นยำ",
+    "minutes": 24,
+    "outcome": "แยกการเปรียบเทียบ การหักล้างข้อความ และการเลือกสิ่งทดแทน แล้วใช้ whereas/while, on the other hand/in contrast, on the contrary, instead/rather ได้ตรงเจตนา",
+    "memory": "whereas เทียบ • on the other hand ชั่งสองด้าน • on the contrary แย้งว่าไม่จริง • instead เลือกแทน",
+    "why": "คำที่แปลเป็นไทยว่า ในทางกลับกัน อาจทำงานต่างกัน หากใช้ on the contrary ตอนแค่เทียบสองสิ่ง ผู้อ่านอาจเข้าใจว่าเราปฏิเสธข้อความก่อนหน้า ทั้งที่ต้องการยอมรับทั้งสองด้าน",
+    "steps": [
+      {
+        "title": "1 · เทียบข้อมูลด้วย clause",
+        "body": "whereas และ while เชื่อม clause สองด้านที่ต่างกันได้ โดยแต่ละด้านมักมีประธานและกริยา while ยังใช้หมายถึง ระหว่างที่ ได้ จึงเลือก whereas เมื่ออยากลดความกำกวมเรื่องเวลา",
+        "example": "The bus stops frequently, whereas the express train makes only two stops.",
+        "note": "เทียบรูปแบบการจอดของบริการสองชนิด ไม่ได้บอกว่าข้อแรกไม่จริง"
+      },
+      {
+        "title": "2 · ชั่งสองด้านหรือเทียบสองสิ่ง",
+        "body": "on the other hand แนะนำอีกด้านที่ควรพิจารณา มักพูดข้อดีและข้อเสียที่จริงพร้อมกันได้ ส่วน in contrast หรือ by contrast เน้นความต่างระหว่างสิ่งหรือสถานการณ์ ใช้เป็นวลีเชื่อมประโยค",
+        "example": "Online lessons are flexible. On the other hand, they require strong self-discipline.",
+        "note": "ความยืดหยุ่นและการต้องมีวินัยจริงได้พร้อมกัน ไม่ได้หักล้างกัน"
+      },
+      {
+        "title": "3 · หักล้างอย่างชัดเจน",
+        "body": "on the contrary ใช้เมื่อปฏิเสธสิ่งที่เพิ่งกล่าวหรือถูกเสนอ แล้วบอกว่าสิ่งตรงข้ามจริง ไม่ใช่คำทางการที่แทน however ได้ทุกครั้ง",
+        "example": "The course was not a waste of time. On the contrary, it changed how I study.",
+        "note": "ปฏิเสธว่าเสียเวลา แล้วให้ข้อที่ตรงกันข้ามคือมีผลดีชัดเจน"
+      },
+      {
+        "title": "4 · เปลี่ยนตัวเลือกหรือแก้คำอธิบาย",
+        "body": "instead เป็น adverb บอกการเลือกแทน ใช้ต้นหรือท้ายประโยคได้ instead of ตามด้วยนามหรือ -ing ส่วน rather ใช้แก้กรอบคำอธิบาย และ rather than ใช้เปรียบเทียบตัวเลือกโดยคุมโครงสร้างให้ขนานกัน",
+        "example": "We did not cancel the lesson. Instead, we moved it online.",
+        "note": "การย้ายออนไลน์เป็นสิ่งที่เลือกทำแทนการยกเลิก ไม่ใช่เพียงผลที่น่าแปลกใจ"
+      }
+    ],
+    "examples": [
+      {
+        "en": "Lena prefers printed notes, whereas Sami uses a tablet.",
+        "th": "ลีนาชอบโน้ตกระดาษ ขณะที่ซามีใช้แท็บเล็ต",
+        "note": "whereas เทียบพฤติกรรมคนสองคนด้วย clause สองฝั่ง"
+      },
+      {
+        "en": "While the first route is cheaper, the second is faster.",
+        "th": "เส้นทางแรกถูกกว่า ส่วนเส้นทางที่สองเร็วกว่า",
+        "note": "while แสดงความต่างในประโยคนี้ ไม่ได้หมายถึงเวลา"
+      },
+      {
+        "en": "I listen to podcasts while I walk to the station.",
+        "th": "ฉันฟังพอดแคสต์ระหว่างเดินไปสถานี",
+        "note": "while ตรงนี้เชื่อมเหตุการณ์ที่เกิดพร้อมกัน ไม่ใช่ contrast"
+      },
+      {
+        "en": "The course is affordable. On the other hand, the timetable is inconvenient.",
+        "th": "คอร์สราคาไม่แพง แต่อีกด้านหนึ่ง ตารางเรียนไม่สะดวก",
+        "note": "ข้อดีและข้อเสียของคอร์สเดียวกันอาจจริงพร้อมกัน"
+      },
+      {
+        "en": "The old buses were noisy. In contrast, the new ones are quiet.",
+        "th": "รถเมล์รุ่นเก่าเสียงดัง ต่างจากรุ่นใหม่ที่เงียบ",
+        "note": "in contrast เปรียบเทียบของสองกลุ่ม"
+      },
+      {
+        "en": "In contrast to the city centre, the outer districts have few cycle lanes.",
+        "th": "ต่างจากใจกลางเมือง เขตชั้นนอกมีช่องจักรยานน้อย",
+        "note": "in contrast to ตามด้วยกลุ่มนาม ไม่ใช่รูปเดียวกับ In contrast, + clause"
+      },
+      {
+        "en": "The change did not make the process harder. On the contrary, it removed two steps.",
+        "th": "การเปลี่ยนแปลงไม่ได้ทำให้ขั้นตอนยากขึ้น ตรงกันข้าม มันตัดไปสองขั้นตอน",
+        "note": "แย้งข้อเสนอว่ายากขึ้นด้วยผลที่ตรงกันข้าม"
+      },
+      {
+        "en": "The speaker was not ignoring the question. Rather, she was checking the figures.",
+        "th": "ผู้พูดไม่ได้เมินคำถาม แต่กำลังตรวจตัวเลขต่างหาก",
+        "note": "Rather, แก้คำอธิบายจากการเมินเป็นการตรวจสอบ"
+      },
+      {
+        "en": "We did not book a taxi. Instead, we used the airport train.",
+        "th": "เราไม่ได้จองแท็กซี่ แต่ใช้รถไฟสนามบินแทน",
+        "note": "Instead, บอกทางเลือกที่ทำจริงแทนตัวเลือกเดิม"
+      },
+      {
+        "en": "We used the airport train instead of a taxi.",
+        "th": "เราใช้รถไฟสนามบินแทนแท็กซี่",
+        "note": "instead of ตามด้วยกลุ่มนาม a taxi"
+      },
+      {
+        "en": "Instead of memorising every word, I practised explaining the main idea.",
+        "th": "แทนที่จะจำทุกคำ ฉันฝึกอธิบายใจความหลัก",
+        "note": "instead of + -ing และผู้ทำทั้งสองอย่างคือ I"
+      },
+      {
+        "en": "We chose to revise the draft rather than start again.",
+        "th": "เราเลือกแก้ร่างเดิมแทนที่จะเริ่มใหม่",
+        "note": "rather than เปรียบเทียบการกระทำ หลัง to revise ใช้ start แบบ base form ได้อย่างเป็นธรรมชาติ"
+      }
+    ],
+    "traps": [
+      {
+        "title": "on the contrary ไม่ใช่แค่ข้อมูลอีกด้าน",
+        "body": "ถ้าต้องการชั่งข้อดีและข้อเสียที่จริงทั้งคู่ ใช้ on the other hand อย่าใช้ on the contrary เว้นแต่กำลังหักล้างข้อความหรือข้อเสนอเดิม",
+        "good": "The train is fast. On the other hand, it is expensive.",
+        "source": "link-collins-contrary",
+        "contrast": "The train is not slow. On the contrary, it is the fastest option."
+      },
+      {
+        "title": "whereas ไม่ใช่ sentence transition แบบ however",
+        "body": "whereas นำ clause ที่เชื่อมกับอีก clause ในประโยค ไม่ใช้ Whereas, แล้วเริ่มประโยคหลักแบบรูป However, ...",
+        "good": "The morning shift is quiet, whereas the evening shift is busy.",
+        "source": "link-bc-advanced-contrast",
+        "contrast": "The morning shift is quiet. However, the evening shift is busy."
+      },
+      {
+        "title": "while อาจหมายถึงเวลา",
+        "body": "ดูว่ากำลังเทียบคุณสมบัติ หรือบอกเหตุการณ์ที่เกิดพร้อมกัน ถ้าเนื้อหาเปิดให้เข้าใจได้สองทาง whereas ช่วยชี้ว่าต้องการเปรียบเทียบ",
+        "good": "The office is closed while the engineers repair the wiring.",
+        "source": "link-bc-advanced-contrast",
+        "contrast": "The main office opens at eight, whereas the branch opens at nine."
+      },
+      {
+        "title": "in contrast กับ in contrast to ใช้คนละโครงสร้าง",
+        "body": "In contrast, นำประโยคใหม่ ส่วน in contrast to + กลุ่มนามระบุสิ่งที่นำมาเทียบ อย่าใส่ to หน้า finite clause โดยตรง",
+        "good": "In contrast to the first draft, the final version is concise.",
+        "source": "link-cam-contrasts",
+        "contrast": "The first draft was long. In contrast, the final version is concise."
+      },
+      {
+        "title": "instead ไม่ตามด้วยนามตรง ๆ",
+        "body": "ถ้าจะตามด้วยนามหรือ -ing ใช้ instead of ถ้าไม่บอกสิ่งที่ถูกแทนในตำแหน่งนั้น ใช้ instead เป็น adverb ได้",
+        "good": "We cycled instead of taking the bus.",
+        "source": "link-cam-instead",
+        "contrast": "The bus was cancelled, so we cycled instead."
+      },
+      {
+        "title": "rather than ไม่ใช่สูตร -ing อย่างเดียว",
+        "body": "rather than พบได้ทั้งกับกลุ่มนาม base verb หรือ -ing ตามโครงสร้างรอบข้าง อย่าใช้กฎของ instead of ไปบังคับทุกกรณี คุมสองตัวเลือกให้ขนานกัน",
+        "good": "She chose to walk rather than wait.",
+        "source": "link-cam-rather",
+        "contrast": "She prefers walking to waiting."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "link-contrast-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำที่เชื่อมสอง clause ในประโยคนี้ได้โดยไม่เปลี่ยนเครื่องหมาย",
+        "sentence": "The bus is cheaper, ___ the train is faster.",
+        "answers": [
+          "whereas"
+        ],
+        "hints": [
+          "ทั้งสองด้านมีประธานและกริยา",
+          "ต้องการคำเชื่อม clause ไม่ใช่คำที่ต้องแบ่งเป็นสองประโยค"
+        ],
+        "explanation": "whereas เชื่อมสอง clause เพื่อเปรียบเทียบได้ ส่วน however จะเกิด comma splice และ despite ต้องการโครงสร้างอีกแบบ",
+        "focus": "whereas + clause",
+        "options": [
+          "however",
+          "despite",
+          "whereas"
+        ],
+        "wrong": {
+          "however": "ถ้าเลือก however ต้องเปลี่ยน comma ก่อนเป็นจุดหรือ semicolon และใส่ comma หลัง",
+          "despite": "ไม่รับ finite clause the train is faster โดยตรง"
+        }
+      },
+      {
+        "id": "link-contrast-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "ผู้เขียนยอมรับทั้งข้อดีและข้อเสียของการเรียนออนไลน์ เลือกวลีแนะนำอีกด้าน",
+        "sentence": "Online lessons are convenient. ___, students may miss face-to-face contact.",
+        "answers": [
+          "On the other hand"
+        ],
+        "hints": [
+          "ข้อแรกไม่ได้ถูกกล่าวว่าเป็นเท็จ",
+          "กำลังชั่งสองด้าน ไม่ได้สรุปเหตุและผล"
+        ],
+        "explanation": "On the other hand ชี้อีกด้านที่ควรพิจารณา ทั้งความสะดวกและการขาดการพบหน้าอาจจริงพร้อมกัน",
+        "focus": "ชั่งสองด้าน",
+        "options": [
+          "On the contrary",
+          "On the other hand",
+          "Consequently"
+        ],
+        "wrong": {
+          "On the contrary": "สื่อว่ากำลังหักล้างข้อแรกหรือบอกตรงกันข้าม แต่โจทย์ยอมรับทั้งสองด้าน",
+          "Consequently": "สื่อผลสืบเนื่องจากความสะดวก ไม่ตรงเจตนาชั่งข้อดีข้อเสีย"
+        }
+      },
+      {
+        "id": "link-contrast-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติม of เพื่อให้ instead ตามด้วยกลุ่มนามได้",
+        "sentence": "We chose a seminar instead ___ a recorded lecture.",
+        "answers": [
+          "of"
+        ],
+        "hints": [
+          "instead เดี่ยวเป็น adverb",
+          "เมื่อตามด้วยสิ่งที่ถูกแทน ให้ใช้วลี instead of"
+        ],
+        "explanation": "instead of + a recorded lecture ระบุตัวเลือกที่เราไม่ได้เลือก",
+        "focus": "instead of + noun"
+      },
+      {
+        "id": "link-contrast-04",
+        "type": "order",
+        "phase": "guided",
+        "prompt": "เรียงให้เริ่มด้วย The bus และคงเครื่องหมายที่ให้มา",
+        "sentence": "",
+        "answers": [
+          "The bus is cheaper, whereas the train is faster."
+        ],
+        "hints": [
+          "clause แรกจบด้วย cheaper,",
+          "whereas นำ clause ที่สอง"
+        ],
+        "explanation": "whereas เชื่อมคุณสมบัติที่ต่างกันโดยไม่บอกว่าข้อใดผิด",
+        "focus": "เปรียบเทียบสอง clause",
+        "tokens": [
+          "The",
+          "bus",
+          "is",
+          "cheaper,",
+          "whereas",
+          "the",
+          "train",
+          "is",
+          "faster."
+        ]
+      },
+      {
+        "id": "link-contrast-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ผู้เขียนจะปฏิเสธคำกล่าวว่าแผนล้มเหลว และยืนยันผลตรงกันข้าม เลือกวลีที่หักล้างตรงที่สุด",
+        "sentence": "The plan did not fail. ___, it exceeded every target.",
+        "answers": [
+          "On the contrary"
+        ],
+        "hints": [
+          "ไม่ใช่แค่เสนอข้อมูลอีกเรื่อง",
+          "ข้อหลังชี้ว่าสิ่งตรงข้ามกับ fail เป็นจริง"
+        ],
+        "explanation": "On the contrary หักล้างข้อเสนอว่าแผนล้มเหลว แล้วบอกผลสำเร็จที่ตรงข้าม",
+        "focus": "หักล้างข้อเสนอ",
+        "options": [
+          "On the contrary",
+          "For example",
+          "Meanwhile"
+        ],
+        "wrong": {
+          "For example": "ใช้ยกตัวอย่าง ไม่ได้แสดงการหักล้างอย่างตรงตามโจทย์",
+          "Meanwhile": "สื่อเวลาเดียวกัน ไม่ได้หักล้างคำกล่าวว่าแผนล้มเหลว"
+        }
+      },
+      {
+        "id": "link-contrast-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "ใช้คำ contrast ให้ครบวลีเปรียบเทียบสองสถานการณ์",
+        "sentence": "The old station was dark. In ___, the new building is full of natural light.",
+        "answers": [
+          "contrast"
+        ],
+        "hints": [
+          "วลีเริ่มด้วย In และมี comma ตามท้าย",
+          "ต้องการสื่อความต่างระหว่างอาคารเก่ากับใหม่"
+        ],
+        "explanation": "In contrast, เชื่อมประโยคเพื่อเปรียบเทียบสองอาคาร ไม่ได้ปฏิเสธว่าอาคารเก่ามืด",
+        "focus": "In contrast, + clause"
+      },
+      {
+        "id": "link-contrast-07",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบ: รวมด้วย whereas หลัง comma ลบ In contrast, และคงคำอื่นกับลำดับเดิมทั้งหมด",
+        "sentence": "The first course is theoretical. In contrast, the second course is practical.",
+        "answers": [
+          "The first course is theoretical, whereas the second course is practical."
+        ],
+        "hints": [
+          "ประโยคที่สองยังต้องมีประธาน the second course",
+          "ใช้ comma + whereas ระหว่างสอง clause"
+        ],
+        "explanation": "whereas เชื่อมสอง clause ภายในประโยคเดียวแทนการใช้ In contrast ระหว่างสองประโยค",
+        "focus": "แปลง transition เป็น clause linker"
+      },
+      {
+        "id": "link-contrast-08",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่ while หมายถึง ระหว่างที่ ไม่ใช่การเปรียบเทียบ",
+        "sentence": "",
+        "answers": [
+          "The phone rang while I was checking the timetable."
+        ],
+        "hints": [
+          "หาเหตุการณ์สองอย่างที่เกิดในช่วงเวลาเดียวกัน",
+          "อีกสองตัวเลือกเทียบคุณสมบัติของคนหรือบริการ"
+        ],
+        "explanation": "while ในประโยคที่ถูกเชื่อมเวลาที่โทรศัพท์ดังกับเวลาที่ฉันตรวจตาราง",
+        "focus": "while แสดงเวลา",
+        "options": [
+          "While Ada prefers essays, Ben prefers presentations.",
+          "The phone rang while I was checking the timetable.",
+          "The bus is slow, while the train is fast."
+        ],
+        "wrong": {
+          "While Ada prefers essays, Ben prefers presentations.": "เทียบความชอบของคนสองคน ไม่ได้บอกช่วงเวลา",
+          "The bus is slow, while the train is fast.": "เทียบความเร็วของบริการสองแบบ ไม่ได้เล่าเหตุการณ์พร้อมกัน"
+        }
+      },
+      {
+        "id": "link-contrast-09",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูป -ing ของ wait หลัง instead of",
+        "sentence": "Instead of ___ for a reply, we checked the public timetable.",
+        "answers": [
+          "waiting"
+        ],
+        "hints": [
+          "หลัง instead of ใช้ -ing ได้",
+          "wait + ing ไม่ต้องเปลี่ยนตัวสะกด"
+        ],
+        "explanation": "waiting เป็นรูป -ing ที่เหมาะหลัง instead of และ we เป็นผู้ทำทั้งสองการกระทำ",
+        "focus": "instead of + -ing"
+      },
+      {
+        "id": "link-contrast-10",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "คงความหมายว่าปฏิเสธคำอธิบายแรกแล้วเสนอคำอธิบายที่ถูกกว่า เลือกคำเชื่อม",
+        "sentence": "The students were not being lazy. ___, they did not understand the instructions.",
+        "answers": [
+          "Rather"
+        ],
+        "hints": [
+          "โจทย์กำลังแก้คำอธิบาย ไม่ได้เพิ่มผลที่เกิดจากความขี้เกียจ",
+          "คำที่หมายถึง แต่ที่จริงแล้ว… ในตัวเลือกคือ Rather"
+        ],
+        "explanation": "Rather, ใช้แก้จากคำอธิบายว่าขี้เกียจเป็นคำอธิบายว่าไม่เข้าใจ",
+        "focus": "rather แบบแก้คำอธิบาย",
+        "options": [
+          "Therefore",
+          "Similarly",
+          "Rather"
+        ],
+        "wrong": {
+          "Therefore": "สื่อว่าการไม่ขี้เกียจเป็นเหตุให้ไม่เข้าใจ ไม่ใช่การแก้คำอธิบาย",
+          "Similarly": "สื่อความเหมือน ไม่ใช่การแทนคำอธิบายเดิมด้วยอีกคำอธิบาย"
+        }
+      },
+      {
+        "id": "link-contrast-11",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบ: รวมเป็นประโยคเดียว เริ่มด้วย We took the train แล้วใช้ instead of ตามด้วย a taxi คงกาลเดิมและปิดด้วยจุด",
+        "sentence": "We did not take a taxi. Instead, we took the train.",
+        "answers": [
+          "We took the train instead of a taxi."
+        ],
+        "hints": [
+          "เริ่มด้วย We took the train",
+          "สิ่งที่ถูกแทนอยู่หลัง instead of"
+        ],
+        "explanation": "instead of a taxi ระบุทางเลือกที่ไม่ได้ใช้ ไม่ต้องเขียน clause ปฏิเสธแยกอีกครั้ง",
+        "focus": "แปลง instead เป็น instead of"
+      },
+      {
+        "id": "link-contrast-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม than เพื่อเปรียบเทียบการกระทำสองทางเลือกด้วย rather than",
+        "sentence": "We decided to revise the draft rather ___ start again.",
+        "answers": [
+          "than"
+        ],
+        "hints": [
+          "วลีนี้คือ rather than",
+          "รูป start สอดคล้องกับ revise ในโครงสร้างนี้"
+        ],
+        "explanation": "rather than เปรียบเทียบการแก้ร่างกับการเริ่มใหม่ และ base form start ใช้ได้หลัง rather than ในรูปนี้",
+        "focus": "rather than + base verb"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเสนอทางเลือกเรียนออนไลน์กับเรียนในห้อง ใช้ whereas เพื่อเทียบหนึ่งจุด ใช้ on the other hand เพื่อพิจารณาอีกด้าน แล้วใช้ instead เพื่อบอกการตัดสินใจของคุณ ไม่ต้องใช้ on the contrary ถ้าไม่มีข้อกล่าวที่ต้องหักล้าง",
+      "model": "Online classes save travel time, whereas classroom lessons offer more face-to-face contact. Online study is convenient. On the other hand, I find it harder to concentrate at home, so I will take a classroom course instead.",
+      "translation": "ชั้นเรียนออนไลน์ช่วยประหยัดเวลาเดินทาง ส่วนการเรียนในห้องมีการพบหน้ามากกว่า การเรียนออนไลน์สะดวก แต่อีกด้านหนึ่ง ฉันตั้งสมาธิที่บ้านยากกว่า จึงจะเลือกเรียนในห้องแทน",
+      "checklist": [
+        "whereas เชื่อม clause สองฝั่งที่เปรียบเทียบกันจริง",
+        "on the other hand เพิ่มอีกด้าน ไม่จำเป็นต้องปฏิเสธประโยคก่อน",
+        "instead บอกทางเลือกที่ถูกเลือกแทนอย่างชัดเจน"
+      ]
+    },
+    "sources": [
+      "link-bc-advanced-contrast",
+      "link-cam-contrasts",
+      "link-cam-other-hand",
+      "link-collins-contrary",
+      "link-cam-instead",
+      "link-cam-rather"
+    ]
+  }
+]

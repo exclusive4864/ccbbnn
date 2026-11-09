@@ -1,0 +1,832 @@
+[
+  {
+    "id": "link-time",
+    "number": 27,
+    "title": "Time and sequence",
+    "thaiTitle": "ก่อน หลัง พร้อมกัน และท้ายที่สุด",
+    "group": "Linking Lab",
+    "minutes": 25,
+    "outcome": "เลือกคำเชื่อมเวลาให้ตรงลำดับเหตุการณ์ และแยก time clause ออกจากคำจัดลำดับประโยค",
+    "memory": "when มี clause; then จัดลำดับ; meanwhile พร้อมกัน; eventually หลังรอ",
+    "why": "คำว่า แล้ว ในภาษาไทยอาจหมายถึงทันที ต่อมา หรือสุดท้าย การเปลี่ยน then เป็น subsequently ทุกจุดทำให้ความหมายและน้ำเสียงเพี้ยนได้",
+    "steps": [
+      {
+        "title": "1. วาดเส้นเวลาก่อนเลือกคำ",
+        "body": "when ระบุเวลา; while เน้นช่วงที่ซ้อนกัน; before/after ระบุก่อนหลัง; until ให้เหตุการณ์ดำเนินถึงจุดสิ้นสุด; as soon as เน้นทันทีที่ ทั้งหมดนำ clause ที่มีประธานและกริยาได้",
+        "example": "While the students were presenting, the teacher took notes.",
+        "note": "สองกิจกรรมเกิดทับช่วงกัน ไม่ใช่ทำกิจกรรมหนึ่งเสร็จแล้วจึงทำอีกกิจกรรม"
+      },
+      {
+        "title": "2. วาง clause ให้ครบ",
+        "body": "Time clause ขึ้นต้นประโยคมักตามด้วย comma แล้วจึง main clause; ถ้าอยู่ท้ายประโยคโดยแนบกับใจความหลัก มักไม่ต้องใส่ comma ส่วน before/after/until ตามด้วยนามบอกเวลาได้ด้วย",
+        "example": "Before the workshop begins, please test the microphone.",
+        "note": "Before the workshop เป็นวลี; Before the workshop begins เป็น clause อย่าทิ้งไว้เดี่ยว ๆ เป็นประโยคสมบูรณ์"
+      },
+      {
+        "title": "3. อนาคตไม่ได้แปลว่าใส่ will ทุก clause",
+        "body": "ใน adverbial time clause ที่บอกเวลาของเหตุการณ์อนาคต ใช้ present simple หรือ present perfect ตามความหมาย โดยปกติไม่ใช้ will เพื่อบอกอนาคต อย่าเหมารวมกฎนี้กับ indirect question หรือ will ที่มีความหมายอื่น",
+        "example": "I will send the file as soon as I have checked the figures.",
+        "note": "have checked เน้นตรวจเสร็จก่อนส่ง; will อยู่ใน main clause ข้อยกเว้นเรื่องความเต็มใจไม่ใช่ใบอนุญาตให้ใส่ will หลังคำเชื่อมเวลาทุกคำ"
+      },
+      {
+        "title": "4. เลือกคำจัดลำดับตามหน้าที่",
+        "body": "then/next ใช้ลำดับทั่วไป; subsequently เป็นทางการและหมายถึงภายหลัง ไม่รับประกันว่าทันที; meanwhile หมายถึงระหว่างนั้น; finally ใช้ขั้นตอนสุดท้ายหรือผลหลังรอได้; eventually เน้นผลท้ายที่สุดหลังเวลาหรือความพยายาม",
+        "example": "The council tested the route. Subsequently, it added two stops.",
+        "note": "คำจัดลำดับเหล่านี้ไม่สร้าง subordinate clause แบบ after ใช้จุดหรือ semicolon แยก independent clauses ได้อย่างชัดเจน"
+      }
+    ],
+    "examples": [
+      {
+        "en": "When the bell rings, the students will change rooms.",
+        "th": "เมื่อกริ่งดัง นักเรียนจะเปลี่ยนห้อง",
+        "note": "rings เป็น present simple แม้เหตุการณ์ยังมาไม่ถึง"
+      },
+      {
+        "en": "The technician checked the cable while I restarted the screen.",
+        "th": "ช่างตรวจสายระหว่างที่ฉันเปิดจอใหม่",
+        "note": "while เชื่อมกิจกรรมที่ทับช่วงกัน; ไม่จำเป็นว่าทุก clause ต้องเป็น continuous"
+      },
+      {
+        "en": "Before you submit the form, check your email address.",
+        "th": "ก่อนส่งแบบฟอร์ม ให้ตรวจอีเมล",
+        "note": "ก่อนส่งคือ time clause; คำสั่งเป็น main clause"
+      },
+      {
+        "en": "We discussed the results after the guests had left.",
+        "th": "เราคุยผลกันหลังแขกกลับไปแล้ว",
+        "note": "had left เน้นเหตุการณ์ก่อนหน้า; after ช่วยบอกลำดับอยู่แล้ว จึงไม่ใช่ทุกบริบทที่ต้องใช้ past perfect"
+      },
+      {
+        "en": "Please remain seated until the train stops.",
+        "th": "กรุณานั่งต่อไปจนกว่ารถไฟหยุด",
+        "note": "until ให้การนั่งต่อเนื่องไปถึงจุดหยุด ไม่ได้แปลว่าให้ทำครั้งเดียวก่อนกำหนด"
+      },
+      {
+        "en": "As soon as the room is ready, we will open the doors.",
+        "th": "ทันทีที่ห้องพร้อม เราจะเปิดประตู",
+        "note": "as soon as เพิ่มความทันที ต่างจาก after ที่เพียงบอกว่าภายหลัง"
+      },
+      {
+        "en": "Save your draft. Then check the references.",
+        "th": "บันทึกร่าง แล้วตรวจเอกสารอ้างอิง",
+        "note": "then เหมาะกับขั้นตอนธรรมดา ไม่จำเป็นต้องทำให้เป็นทางการ"
+      },
+      {
+        "en": "First, select a route. Next, choose a departure time.",
+        "th": "ก่อนอื่นเลือกเส้นทาง ต่อไปเลือกเวลาออกเดินทาง",
+        "note": "next ชี้ขั้นตอนถัดไปอย่างชัดเจน"
+      },
+      {
+        "en": "The learners worked in pairs. Meanwhile, the tutor prepared the next activity.",
+        "th": "ผู้เรียนทำงานเป็นคู่ ระหว่างนั้นผู้สอนเตรียมกิจกรรมถัดไป",
+        "note": "meanwhile เชื่อมคนละประโยคและชี้ว่ากิจกรรมเกิดทับช่วงกัน"
+      },
+      {
+        "en": "The company opened a small office in April and subsequently hired three designers.",
+        "th": "บริษัทเปิดสำนักงานเล็กในเมษายนและต่อมาจ้างนักออกแบบสามคน",
+        "note": "subsequently เป็น adverb ก่อน hired; and เป็นตัวเชื่อม ไม่ได้บอกว่าจ้างทันทีในวันเปิด"
+      },
+      {
+        "en": "Finally, attach the cover sheet and submit the report.",
+        "th": "ขั้นตอนสุดท้าย แนบใบปะหน้าและส่งรายงาน",
+        "note": "finally ใช้ปิดรายการขั้นตอน ไม่ควรเปลี่ยนเป็น eventually เพียงเพื่อให้ดูยากขึ้น"
+      },
+      {
+        "en": "After several unsuccessful trials, the team eventually found a reliable method.",
+        "th": "หลังทดลองไม่สำเร็จหลายครั้ง ในที่สุดทีมก็พบวิธีที่เชื่อถือได้",
+        "note": "eventually ทำให้เห็นผลลัพธ์หลังความพยายาม ไม่ใช่แค่ข้อสุดท้ายของรายการ"
+      }
+    ],
+    "traps": [
+      {
+        "title": "then ไม่ได้แปลว่า subsequently ทุกครั้ง",
+        "body": "then อาจหมายถึงเวลานั้นหรือผลตามเงื่อนไข ส่วน subsequently หมายถึงภายหลัง การแทนกันได้บางประโยคยังเปลี่ยนระดับความเป็นทางการ",
+        "good": "If the hall is full, then we will use the courtyard.",
+        "source": "cam-link-subsequently",
+        "contrast": "The hall opened in May and was subsequently renovated."
+      },
+      {
+        "title": "will ในคำถามอ้อมไม่ใช่ time clause",
+        "body": "I do not know when ... เป็นเนื้อหาที่ไม่รู้ ไม่ใช่อนุประโยคขยายเวลาของการกระทำ จึงใช้ will บอกอนาคตได้; will ที่หมายถึงความเต็มใจพบได้ในบาง if clauses แต่ไม่ควรนำมาใช้แก้ตัวให้ ordinary future will ใน when clause",
+        "good": "I do not know when the bus will arrive.",
+        "source": "bc-conditionals",
+        "contrast": "I will call you when the bus arrives."
+      },
+      {
+        "title": "until กับ by ให้เส้นเวลาคนละแบบ",
+        "body": "until ใช้การกระทำหรือสภาพต่อเนื่องถึงเวลา ส่วน by ใช้เส้นตายที่ต้องเสร็จไม่เกินเวลานั้น",
+        "good": "Keep the library open until six.",
+        "source": "cam-link-until",
+        "contrast": "Return the books by six."
+      },
+      {
+        "title": "meanwhile ไม่ได้หมายถึงลำดับถัดไป",
+        "body": "ถ้าคนละเหตุการณ์เกิดพร้อมกัน ใช้ meanwhile; subsequently หมายถึงเหตุการณ์ที่ตามมาภายหลัง",
+        "good": "The chef prepared lunch. Meanwhile, the staff set the tables.",
+        "source": "cam-link-time",
+        "contrast": "The staff set the tables. Subsequently, they served lunch."
+      },
+      {
+        "title": "finally กับ eventually มีส่วนทับซ้อน แต่ไม่เท่ากัน",
+        "body": "ทั้งสองใช้กับผลหลังการรอได้ แต่ eventually ไม่เหมาะกับการประกาศหัวข้อสุดท้ายของรายการ",
+        "good": "Finally, we will discuss the training budget.",
+        "source": "cam-link-eventually",
+        "contrast": "The funding eventually arrived after three reminders."
+      }
+    ],
+    "sources": [
+      "cam-link-time",
+      "cam-link-subsequently",
+      "cam-link-eventually",
+      "bc-conditionals",
+      "purdue-punctuation",
+      "cam-link-until"
+    ],
+    "exercises": [
+      {
+        "id": "link-time-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกกริยาใน time clause ที่กล่าวถึงอนาคตตามปกติ",
+        "sentence": "I will email you when the office ___.",
+        "answers": [
+          "opens"
+        ],
+        "hints": [
+          "when clause บอกเวลาให้ email",
+          "ประธาน the office เป็นเอกพจน์"
+        ],
+        "explanation": "ใช้ opens ไม่ใช่ will opens/will open ใน time clause บอกอนาคตแบบนี้",
+        "focus": "อนาคตใน time clause",
+        "options": [
+          "opens",
+          "will opens",
+          "will open",
+          "opening"
+        ],
+        "wrong": {
+          "will opens": "หลัง will ไม่เติม s และบริบทนี้ไม่ต้องใช้ future will",
+          "will open": "นี่คือ time clause บอกเวลาในอนาคตตามปกติ ใช้ present simple",
+          "opening": "ไม่มี finite verb ใน clause"
+        }
+      },
+      {
+        "id": "link-time-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "ทั้งสองกิจกรรมเกิดพร้อมกัน เลือกคำที่แสดงความหมายนี้",
+        "sentence": "The students read quietly. ___, the teacher marked their homework.",
+        "answers": [
+          "Meanwhile"
+        ],
+        "hints": [
+          "ต้องเป็นคำเชื่อมระหว่างประโยค",
+          "มองหาคำว่า ระหว่างนั้น"
+        ],
+        "explanation": "Meanwhile บอกกิจกรรมที่เกิดทับช่วงกัน",
+        "focus": "พร้อมกัน",
+        "options": [
+          "Meanwhile",
+          "Subsequently",
+          "Afterwards",
+          "Next"
+        ],
+        "wrong": {
+          "Subsequently": "หมายถึงภายหลัง ไม่ตรงโจทย์พร้อมกัน",
+          "Afterwards": "หมายถึงหลังจากนั้น",
+          "Next": "ชี้ขั้นตอนถัดไป ไม่ใช่เกิดพร้อมกัน"
+        }
+      },
+      {
+        "id": "link-time-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมกริยา arrive ให้ถูกในประโยคอนาคตนี้",
+        "sentence": "We will start as soon as the trainer ___.",
+        "answers": [
+          "arrives",
+          "has arrived"
+        ],
+        "hints": [
+          "trainer เอกพจน์",
+          "ไม่ใช้ will ใน time clause นี้"
+        ],
+        "explanation": "ใช้ arrives หรือ has arrived ใน time clause นี้ได้ โดย present perfect เน้นว่าผู้สอนมาถึงแล้วก่อนเริ่ม ไม่ใช้ will เพื่อบอกอนาคตใน clause นี้",
+        "focus": "ทันทีที่"
+      },
+      {
+        "id": "link-time-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "ฝึกรูปแบบเฉพาะ: รวมสองประโยคด้วย Before ขึ้นต้น เปลี่ยน You should เป็น you should ใน main clause และใช้ comma",
+        "sentence": "The class begins. You should test the speakers.",
+        "answers": [
+          "Before the class begins, you should test the speakers."
+        ],
+        "hints": [
+          "วางสิ่งที่เกิดทีหลังไว้ใน before clause",
+          "Before + clause, main clause."
+        ],
+        "explanation": "การทดสอบเกิดก่อนเริ่มชั้นเรียน จึงให้ class begins อยู่หลัง Before",
+        "focus": "วาง time clause"
+      },
+      {
+        "id": "link-time-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำปิดรายการขั้นตอน ไม่ได้เล่าการรอนาน",
+        "sentence": "First, wash the fruit. Next, cut it into pieces. ___, place it in a bowl.",
+        "answers": [
+          "Finally"
+        ],
+        "hints": [
+          "นี่คือรายการขั้นตอน",
+          "หาคำสำหรับขั้นตอนสุดท้าย"
+        ],
+        "explanation": "Finally ปิดลำดับขั้นตอน ส่วน Eventually เน้นผลเมื่อเวลาผ่านไป",
+        "focus": "ขั้นตอนสุดท้าย",
+        "options": [
+          "Finally",
+          "Eventually",
+          "While",
+          "Until"
+        ],
+        "wrong": {
+          "Eventually": "ไม่ใช้แทน finally เพื่อประกาศขั้นตอนสุดท้ายของรายการ",
+          "While": "ต้องตามด้วย clause ที่ผูกกับ main clause ไม่ใช่ comma แบบนี้",
+          "Until": "เป็น time conjunction ไม่ใช่คำประกาศข้อสุดท้าย"
+        }
+      },
+      {
+        "id": "link-time-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม until หรือ by: ประตูต้องอยู่ในสภาพเปิดต่อเนื่องถึงสองทุ่ม",
+        "sentence": "The entrance will remain open ___ eight.",
+        "answers": [
+          "until"
+        ],
+        "hints": [
+          "remain open เป็นสภาพต่อเนื่อง",
+          "ไม่ใช่เส้นตายของงานที่ต้องเสร็จ"
+        ],
+        "explanation": "until ระบุปลายช่วงที่ประตูยังเปิดอยู่",
+        "focus": "จุดสิ้นสุดช่วงเวลา"
+      },
+      {
+        "id": "link-time-07",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบเฉพาะ: เปลี่ยน Then เป็น Subsequently และคงคำกับเครื่องหมายอื่นทั้งหมด",
+        "sentence": "The studio moved in June. Then, it hired a manager.",
+        "answers": [
+          "The studio moved in June. Subsequently, it hired a manager."
+        ],
+        "hints": [
+          "ความหมายตรงนี้คือภายหลัง",
+          "คงสองประโยคไว้"
+        ],
+        "explanation": "จุดนี้แทนได้เพราะหมายถึงเหตุการณ์ภายหลัง แต่ Subsequently ให้น้ำเสียงทางการขึ้น ไม่ได้แปลว่าทันที",
+        "focus": "then ที่แทนได้"
+      },
+      {
+        "id": "link-time-08",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงทุกชิ้นให้เป็นประโยคที่ขึ้นต้นด้วย After",
+        "sentence": "",
+        "answers": [
+          "After the lesson ends, we will clean the room."
+        ],
+        "hints": [
+          "time clause มาก่อน",
+          "วาง comma หลัง ends"
+        ],
+        "explanation": "ends เป็น present simple ใน time clause; will clean อยู่ใน main clause",
+        "focus": "เรียงประโยคเวลา",
+        "tokens": [
+          "we will",
+          "After",
+          "the room.",
+          "ends,",
+          "clean",
+          "the lesson"
+        ]
+      },
+      {
+        "id": "link-time-09",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่แปลว่า ฉันไม่รู้ว่ารถไฟจะออกเมื่อไร เป็นคำถามอ้อม",
+        "sentence": "",
+        "answers": [
+          "I do not know when the train will leave."
+        ],
+        "hints": [
+          "when clause เป็นเนื้อหาที่ไม่รู้",
+          "ใช้ลำดับ subject + will + verb"
+        ],
+        "explanation": "คำถามอ้อมไม่ใช่ time clause ขยายกริยา จึงใช้ future will ได้และไม่กลับลำดับเหมือนคำถามตรง",
+        "focus": "คำถามอ้อม",
+        "options": [
+          "I do not know when the train will leave.",
+          "I do not know when will the train leave.",
+          "I do not know when the train will leaves.",
+          "I do not know when the train leaving."
+        ],
+        "wrong": {
+          "I do not know when will the train leave.": "คำถามอ้อมใช้ subject ก่อน will",
+          "I do not know when the train will leaves.": "หลัง will ใช้รูป leave ไม่เติม s",
+          "I do not know when the train leaving.": "ขาด finite verb"
+        }
+      },
+      {
+        "id": "link-time-10",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม while หรือ after: ทั้งสองกิจกรรมกำลังเกิดพร้อมกัน",
+        "sentence": "I was checking tickets ___ my colleague was helping passengers.",
+        "answers": [
+          "while"
+        ],
+        "hints": [
+          "โจทย์ระบุพร้อมกัน",
+          "after จะเปลี่ยนเป็นก่อนหลัง"
+        ],
+        "explanation": "while เชื่อมช่วงเวลาที่ทับกัน",
+        "focus": "กิจกรรมทับช่วง"
+      },
+      {
+        "id": "link-time-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำที่ย้ำว่าประตูเปิดทันทีที่เจ้าหน้าที่อนุมัติ",
+        "sentence": "___ the guard gives permission, the doors will open.",
+        "answers": [
+          "As soon as"
+        ],
+        "hints": [
+          "ต้องสื่อความทันที",
+          "เลือกวลีที่ตามด้วย clause ได้"
+        ],
+        "explanation": "As soon as ระบุว่าประตูเปิดทันทีที่ได้รับอนุญาต ไม่ใช่เพียงช่วงใดช่วงหนึ่งภายหลัง",
+        "focus": "ความทันที",
+        "options": [
+          "As soon as",
+          "Subsequently",
+          "Eventually",
+          "Meanwhile"
+        ],
+        "wrong": {
+          "Subsequently": "เป็น adverb ไม่ได้นำ time clause ตามรูปนี้",
+          "Eventually": "ไม่ใช่ตัวนำ clause และไม่สื่อทันที",
+          "Meanwhile": "ไม่ได้นำ time clause แบบนี้"
+        }
+      },
+      {
+        "id": "link-time-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม eventually หรือ next: เน้นผลหลังพยายามมาหลายเดือน ไม่ใช่ประกาศขั้นตอนใหม่",
+        "sentence": "After months of negotiation, the teams ___ reached an agreement.",
+        "answers": [
+          "eventually"
+        ],
+        "hints": [
+          "มีระยะเวลายาวและความพยายาม",
+          "ต้องสื่อ ในที่สุด"
+        ],
+        "explanation": "eventually เน้นความสำเร็จท้ายที่สุดหลังช่วงที่ยาวนาน",
+        "focus": "ผลหลังความพยายาม"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคอธิบายการเตรียมอบรมในที่ทำงาน: ใช้ before หรือ as soon as 1 ครั้ง ใช้ meanwhile บอกงานที่ทำพร้อมกัน และใช้ finally ปิดขั้นตอน ตรวจว่าคำบอกเวลาไม่ขัดกัน",
+      "model": "Before the workshop starts, we will arrange the chairs. Meanwhile, the trainer will check the projector. Finally, we will welcome the participants.",
+      "translation": "ก่อนเริ่มอบรม เราจะจัดเก้าอี้ ระหว่างนั้นผู้สอนจะตรวจเครื่องฉาย ขั้นตอนสุดท้ายเราจะต้อนรับผู้เข้าร่วม",
+      "checklist": [
+        "time clause อนาคตใช้ present form ตามความหมาย",
+        "meanwhile เชื่อมงานที่เกิดพร้อมกันจริง",
+        "finally บอกขั้นตอนสุดท้าย ไม่ใช่ใส่เพียงเพื่อเพิ่มคำเชื่อม"
+      ]
+    }
+  },
+  {
+    "id": "link-restate",
+    "number": 28,
+    "title": "Restatement, summaries and alternatives",
+    "thaiTitle": "พูดใหม่ สรุป และเสนอทางเลือกให้ตรงหน้าที่",
+    "group": "Linking Lab",
+    "minutes": 25,
+    "outcome": "แยกการอธิบายซ้ำ ระบุให้ชัด สรุปภาพรวม และเสนอทางเลือก พร้อมจัด punctuation ให้ถูก",
+    "memory": "อธิบายใหม่ ≠ แก้ข้อมูล; ทางเลือก ≠ สิ่งที่เลือกแทน; overview ≠ ความเห็น",
+    "why": "คำเชื่อมที่ดูเป็นทางการไม่ได้แทนคำสั้นได้ทุกตำแหน่ง เช่น or เชื่อมนามได้ แต่ alternatively มักเชื่อมข้อเสนอเป็น clause หรือประโยค",
+    "steps": [
+      {
+        "title": "1. ต้องการพูดใหม่หรือเจาะจง",
+        "body": "in other words ใช้ถอดความเดิมให้ง่ายหรือชัดขึ้น; that is ใช้อธิบายขอบเขตหรือความหมาย; namely ระบุชื่อหรือรายการที่หมายถึง ไม่ใช่สุ่มยกตัวอย่างใหม่",
+        "example": "The pass is non-transferable; in other words, only its owner can use it.",
+        "note": "สอง clause สมบูรณ์ ใช้ semicolon ก่อน in other words และ comma หลังวลี หรือแยกเป็นสองประโยคได้"
+      },
+      {
+        "title": "2. สรุปให้อยู่บนข้อมูลเดิม",
+        "body": "in short ย่อสารให้สั้น; to sum up รวบประเด็นที่กล่าวมา; overall มองภาพรวมโดยยอมรับรายละเอียดที่ต่างกันได้; in conclusion ส่งสัญญาณปิดการอภิปราย โดยเฉพาะ essay",
+        "example": "Overall, bus use rose, although two rural routes lost passengers.",
+        "note": "Academic Task 1 ต้องสรุปลักษณะเด่นจากภาพข้อมูล ไม่เติมความเห็นหรือข้อแนะนำใหม่; overview อยู่ต้นหรือท้ายคำตอบได้ ไม่ต้องมี conclusion แยกอีกย่อหน้า"
+      },
+      {
+        "title": "3. เสนอทางเลือกหรือแทนสิ่งเดิม",
+        "body": "or เป็น conjunction เชื่อมคำ วลี หรือ clause ที่ขนานกัน; alternatively เป็น adverb เสนออีกวิธีหนึ่ง มักเปิดประโยคใหม่; instead บอกว่าสิ่งหนึ่งทำแทนอีกสิ่งหนึ่ง ส่วน instead of ตามด้วยนามหรือ -ing",
+        "example": "You can attend in person. Alternatively, you can join online.",
+        "note": "ยังเปิดสองทางเลือก ถ้าบอก I joined online instead. จะเน้นการเลือกวิธีออนไลน์แทนวิธีเดิม"
+      },
+      {
+        "title": "4. อธิบายซ้ำไม่ใช่แก้คำผิด",
+        "body": "in other words ต้องรักษาสารเดิม ไม่ควรใช้กลบข้อมูลที่ขัดกัน หากแก้ข้อมูลให้ใช้คำบอกการแก้ เช่น or rather หรือ to be precise และใช้ punctuation แยกส่วนแทรกให้ชัด",
+        "example": "The meeting is on Wednesday, or rather, Thursday.",
+        "note": "ผู้เขียนแก้วัน ไม่ได้ถอดความ Wednesday ให้เป็น Thursday; ไม่ใช่กฎว่า that is ห้ามใช้แก้ความหมายในทุกบริบท แต่ต้องทำให้ผู้อ่านรู้เจตนา"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The service runs every other day. In other words, it does not run daily.",
+        "th": "บริการนี้มีวันเว้นวัน กล่าวอีกอย่างคือไม่ได้มีทุกวัน",
+        "note": "ประโยคหลังช่วยอธิบายสารเดิม ไม่ได้เพิ่มสาเหตุใหม่"
+      },
+      {
+        "en": "The course is asynchronous; that is, learners do not have to attend at the same time.",
+        "th": "คอร์สเรียนแบบไม่ต้องเข้าพร้อมกัน กล่าวคือผู้เรียนไม่ต้องเข้าร่วมเวลาเดียวกัน",
+        "note": "that is อธิบายศัพท์; semicolon แยกสอง independent clauses"
+      },
+      {
+        "en": "Two teams joined the trial, namely the design team and the support team.",
+        "th": "มีสองทีมเข้าทดลอง ได้แก่ทีมออกแบบและทีมสนับสนุน",
+        "note": "namely ตามด้วย noun phrases ระบุทั้งสองทีมที่กล่าวถึง ไม่จำเป็นต้องตามด้วยประโยคเต็ม"
+      },
+      {
+        "en": "The app is quick to install, simple to use and free. In short, it is easy to try.",
+        "th": "แอปติดตั้งไว ใช้ง่าย และฟรี สรุปสั้น ๆ คือทดลองใช้ได้ง่าย",
+        "note": "in short ย่อใจความก่อนหน้าให้กระชับ"
+      },
+      {
+        "en": "To sum up, the plan reduces travel time but requires additional funding.",
+        "th": "สรุปแล้วแผนลดเวลาเดินทางแต่ต้องใช้เงินเพิ่ม",
+        "note": "to sum up รวบข้อดีและข้อจำกัดที่อธิบายมาแล้ว ไม่ใช่แนะนำหลักฐานใหม่"
+      },
+      {
+        "en": "Overall, cycling increased, while driving became less common.",
+        "th": "โดยรวมการปั่นจักรยานเพิ่มขึ้น ส่วนการขับรถพบได้น้อยลง",
+        "note": "เป็น overview ของข้อมูลสมมติ เหมาะกับรายงานแนวโน้ม ต้องตรงภาพข้อมูลจริงเมื่อนำไปใช้"
+      },
+      {
+        "en": "In conclusion, the college should retain both online and classroom options.",
+        "th": "โดยสรุป วิทยาลัยควรคงทางเลือกทั้งออนไลน์และในห้องเรียน",
+        "note": "เป็นข้อสรุปเชิงเหตุผลของ essay ได้เมื่อเนื้อหาก่อนหน้าสนับสนุน ไม่ใช่ overview กราฟ Task 1"
+      },
+      {
+        "en": "You can choose a morning or an evening class.",
+        "th": "คุณเลือกชั้นเรียนช่วงเช้าหรือช่วงเย็นได้",
+        "note": "or เชื่อม noun phrases ที่อยู่ระดับเดียวกัน เปลี่ยนเป็น alternatively ตรงช่องนี้ไม่ได้"
+      },
+      {
+        "en": "You can call the office. Alternatively, you can use the booking form.",
+        "th": "คุณโทรหาสำนักงานได้ อีกทางหนึ่งคือใช้แบบฟอร์มจอง",
+        "note": "alternatively เสนอทางเลือกอีกทาง พร้อมประธานและกริยาใหม่"
+      },
+      {
+        "en": "The lift was unavailable, so we used the stairs instead.",
+        "th": "ลิฟต์ใช้ไม่ได้ เราจึงใช้บันไดแทน",
+        "note": "instead อยู่ท้าย clause ได้ บอกสิ่งที่ทำแทน ไม่ใช่เพียงเปิดตัวเลือก"
+      },
+      {
+        "en": "Instead of printing the handout, the teacher shared a link.",
+        "th": "แทนที่จะพิมพ์เอกสาร ผู้สอนแชร์ลิงก์",
+        "note": "instead of + printing เป็น -ing; ส่วน teacher shared เป็น main clause"
+      },
+      {
+        "en": "The course lasts five weeks, or rather, six weeks.",
+        "th": "คอร์สยาวห้าสัปดาห์ ขอแก้เป็นหกสัปดาห์",
+        "note": "or rather แก้ข้อมูล ไม่ใช่บอกว่า five และ six มีความหมายเดียวกัน"
+      }
+    ],
+    "traps": [
+      {
+        "title": "or ไม่เท่ากับ alternatively ในช่องเดิม",
+        "body": "or เชื่อมคำหรือวลีได้โดยตรง ส่วน alternatively ไม่ใช่ coordinating conjunction ต้องปรับโครงสร้างให้เป็นทางเลือกอีกประโยค",
+        "good": "We can travel by bus or train.",
+        "source": "cam-link-or",
+        "contrast": "We can travel by bus. Alternatively, we can take the train."
+      },
+      {
+        "title": "ทางเลือกกับการแทนที่คนละมุมมอง",
+        "body": "alternatively เปิดอีกวิธีที่เป็นไปได้; instead เน้นสิ่งที่ใช้แทนสิ่งเดิม อาจพูดถึงแผนหรือสิ่งที่ทำแล้วก็ได้",
+        "good": "We could meet on Friday. Alternatively, we could meet on Monday.",
+        "source": "cam-link-alternatively",
+        "contrast": "Friday is impossible, so let us meet on Monday instead."
+      },
+      {
+        "title": "namely ไม่ใช่ for example",
+        "body": "namely ระบุสิ่งที่ผู้เขียนหมายถึงให้ชัด; for example ให้ตัวอย่างซึ่งไม่จำเป็นต้องเป็นรายการทั้งหมด ถ้าบอกว่ามีสองอย่างแล้วใช้ namely ควรระบุสองอย่างนั้น",
+        "good": "The study tracks two costs, namely rent and transport.",
+        "source": "cam-link-namely",
+        "contrast": "The study tracks several costs, for example rent and transport."
+      },
+      {
+        "title": "อย่าสร้าง comma splice ด้วย in other words",
+        "body": "ถ้าทั้งก่อนและหลังเป็น independent clauses ใช้จุดหรือ semicolon ไม่ใช่อาศัย comma เดี่ยวกับวลีนี้เป็นตัวเชื่อมหลัก",
+        "good": "Attendance is optional; in other words, you may choose not to come.",
+        "source": "purdue-punctuation",
+        "contrast": "Attendance is optional. In other words, you may choose not to come."
+      },
+      {
+        "title": "Task 1 overview ไม่ใช่ข้อเสนอแนะ",
+        "body": "Academic Task 1 ต้องมีภาพรวมของจุดเด่นในข้อมูล ไม่ต้องเพิ่ม conclusion แบบ essay อีกส่วน Overall ช่วยส่งสัญญาณได้ แต่คะแนนไม่ได้มาจากคำนี้ลำพัง และไม่ใช่ว่า In conclusion ผิดไวยากรณ์ทุกกรณี",
+        "good": "Overall, the town gained housing but lost green space.",
+        "source": "ielts-link-overview",
+        "contrast": "In conclusion, the town should protect its remaining parks."
+      },
+      {
+        "title": "พูดใหม่ต้องไม่บิดสาร",
+        "body": "in other words เป็นการ reformulate ไม่ใช่คำแก้ข้อเท็จจริง หากเลขหรือวันผิดให้ประกาศว่ากำลังแก้",
+        "good": "The seminar starts at ten, or rather, at eleven.",
+        "source": "cam-link-discourse",
+        "contrast": "The seminar is compulsory. In other words, everyone must attend."
+      }
+    ],
+    "sources": [
+      "cam-link-discourse",
+      "cam-link-or",
+      "cam-link-alternatively",
+      "cam-link-instead",
+      "ielts-link-overview",
+      "purdue-punctuation",
+      "cam-link-namely"
+    ],
+    "exercises": [
+      {
+        "id": "link-restate-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำเชื่อม noun phrases ที่ไม่ต้องเปลี่ยนโครงสร้าง",
+        "sentence": "Please choose tea ___ coffee.",
+        "answers": [
+          "or"
+        ],
+        "hints": [
+          "ทั้งสองฝั่งเป็นคำนาม",
+          "ต้องการ conjunction"
+        ],
+        "explanation": "or เชื่อมนามสองตัวเลือกโดยตรง ส่วน alternatively ต้องจัดโครงสร้างใหม่",
+        "focus": "เชื่อมตัวเลือก",
+        "options": [
+          "or",
+          "alternatively",
+          "instead",
+          "namely"
+        ],
+        "wrong": {
+          "alternatively": "เป็น adverb ไม่ใช้แทน or ระหว่างนามตามรูปนี้",
+          "instead": "ไม่ใช่ conjunction เชื่อม tea กับ coffee",
+          "namely": "เจาะจงสิ่งที่กล่าวไว้ ไม่ได้เสนออีกตัวเลือก และ tea ไม่ได้หมายถึง coffee"
+        }
+      },
+      {
+        "id": "link-restate-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกวลีที่อธิบายความเดิม ไม่ใช่เสนออีกทางหรือแก้ข้อมูล",
+        "sentence": "The ticket is valid for one journey. ___, you need another ticket to travel back.",
+        "answers": [
+          "In other words"
+        ],
+        "hints": [
+          "ประโยคหลังอธิบายผลของข้อจำกัดเดิม",
+          "ไม่ได้เปลี่ยนข้อเท็จจริง"
+        ],
+        "explanation": "In other words ขยายความหมายของตั๋วเที่ยวเดียวให้เข้าใจง่าย",
+        "focus": "ถอดความ",
+        "options": [
+          "In other words",
+          "Alternatively",
+          "Meanwhile",
+          "Or rather"
+        ],
+        "wrong": {
+          "Alternatively": "ไม่ได้เสนอทางเลือกอีกทาง",
+          "Meanwhile": "ไม่ได้กล่าวถึงเหตุการณ์ที่เกิดพร้อมกัน",
+          "Or rather": "ใช้แก้หรือปรับถ้อยคำ แต่ที่นี่ไม่ต้องแก้ข้อมูลเดิม"
+        }
+      },
+      {
+        "id": "link-restate-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติม namely หรือ for example: ระบุทั้งสองคนที่หมายถึงอย่างครบถ้วน",
+        "sentence": "Two tutors will attend, ___ Anna and Ben.",
+        "answers": [
+          "namely"
+        ],
+        "hints": [
+          "ระบุชื่อติวเตอร์สองคนทั้งหมด",
+          "ไม่ได้ให้เพียงตัวอย่างบางคน"
+        ],
+        "explanation": "namely ทำให้วลี two tutors เฉพาะเจาะจงด้วยรายชื่อครบ",
+        "focus": "ระบุให้ชัด"
+      },
+      {
+        "id": "link-restate-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "ฝึกรูปแบบเฉพาะ: แยกตรง or เป็นสองประโยค ประโยคที่สองขึ้นต้น Alternatively, you can และคงถ้อยคำอื่น",
+        "sentence": "You can book online or you can call the office.",
+        "answers": [
+          "You can book online. Alternatively, you can call the office."
+        ],
+        "hints": [
+          "เปลี่ยน or เป็นจุด แล้วใช้ Alternatively,",
+          "ทั้งสองส่วนมี subject + verb"
+        ],
+        "explanation": "การเปลี่ยนจาก or เป็น alternatively ต้องปรับขอบเขตประโยค ไม่ใช่เปลี่ยนคำตรงช่องเดิม",
+        "focus": "แปลงทางเลือก"
+      },
+      {
+        "id": "link-restate-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่ใช้ instead of ตามด้วย -ing ถูกต้อง",
+        "sentence": "",
+        "answers": [
+          "Instead of driving, we took the tram."
+        ],
+        "hints": [
+          "of เป็น preposition",
+          "ตามด้วย -ing ได้"
+        ],
+        "explanation": "Instead of driving เป็นวลีบอกสิ่งที่ไม่ได้ทำ แล้วตามด้วย main clause",
+        "focus": "instead of + -ing",
+        "options": [
+          "Instead of driving, we took the tram.",
+          "Instead of drive, we took the tram.",
+          "Instead driving, we took the tram.",
+          "Instead of drove, we took the tram."
+        ],
+        "wrong": {
+          "Instead of drive, we took the tram.": "กริยาหลัง of ใช้ -ing ไม่ใช่ bare infinitive",
+          "Instead driving, we took the tram.": "ถ้าตามด้วยกิจกรรมแบบนี้ต้องใช้ instead of",
+          "Instead of drove, we took the tram.": "หลัง of ไม่ใช้ finite past verb"
+        }
+      },
+      {
+        "id": "link-restate-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม instead หรือ alternatively: บอกสิ่งที่เลือกทำแทนการซื้อ",
+        "sentence": "We did not buy new desks; we repaired the old ones ___.",
+        "answers": [
+          "instead"
+        ],
+        "hints": [
+          "ตำแหน่งท้ายประโยคเน้นสิ่งที่ทำแทน",
+          "เหตุการณ์ได้เกิดขึ้นแล้ว ไม่ใช่เสนออีกทาง"
+        ],
+        "explanation": "instead รับความหมายการซ่อมแทนซื้อใหม่",
+        "focus": "สิ่งที่เลือกแทน"
+      },
+      {
+        "id": "link-restate-07",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ฝึกรูปแบบเฉพาะ: แก้ comma splice โดยเปลี่ยน comma หลัง permanent เป็น semicolon เท่านั้น",
+        "sentence": "The change is permanent, in other words, we cannot reverse it.",
+        "answers": [
+          "The change is permanent; in other words, we cannot reverse it."
+        ],
+        "hints": [
+          "สองฝั่งมีประธานและกริยาครบ",
+          "คง comma หลัง words"
+        ],
+        "explanation": "in other words ไม่ใช่ coordinating conjunction จึงต้องใช้ตัวคั่น independent clauses ที่เหมาะสม",
+        "focus": "punctuation"
+      },
+      {
+        "id": "link-restate-08",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงทุกชิ้นให้เป็นประโยคเสนอทางเลือกขึ้นต้น Alternatively",
+        "sentence": "",
+        "answers": [
+          "Alternatively, you can join the online session."
+        ],
+        "hints": [
+          "คำเชื่อมตามด้วย comma",
+          "you + can + join"
+        ],
+        "explanation": "Alternatively เป็น adverb เปิดประโยคใหม่ แล้วตามด้วย clause สมบูรณ์",
+        "focus": "ทางเลือกอีกประโยค",
+        "tokens": [
+          "the online session.",
+          "you",
+          "Alternatively,",
+          "join",
+          "can"
+        ]
+      },
+      {
+        "id": "link-restate-09",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "Academic Task 1: กราฟแสดงยอดรถไฟเพิ่ม ยอดรถเมล์ลด เลือก overview ที่รายงานข้อมูลโดยไม่เติมความเห็น",
+        "sentence": "",
+        "answers": [
+          "Overall, rail use rose, while bus use fell."
+        ],
+        "hints": [
+          "เลือกภาพรวมของข้อมูลที่ให้",
+          "อย่าเติมคำแนะนำหรือเหตุผลที่ไม่มีในภาพ"
+        ],
+        "explanation": "ประโยคนี้รวบสองแนวโน้มตามข้อมูล ไม่เพิ่มนโยบายหรือสาเหตุที่โจทย์ไม่ได้บอก",
+        "focus": "overview",
+        "options": [
+          "Overall, rail use rose, while bus use fell.",
+          "In conclusion, everyone should use trains.",
+          "Overall, buses are unpleasant to use.",
+          "To sum up, train fares must be reduced."
+        ],
+        "wrong": {
+          "In conclusion, everyone should use trains.": "เป็นข้อแนะนำที่ไม่ใช่ภาพรวมข้อมูล",
+          "Overall, buses are unpleasant to use.": "เป็นความเห็นที่กราฟไม่ได้แสดง",
+          "To sum up, train fares must be reduced.": "เป็นข้อเสนอนโยบายที่ไม่มีในข้อมูล"
+        }
+      },
+      {
+        "id": "link-restate-10",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม or rather หรือ in other words: ผู้พูดแก้วันจากอังคารเป็นพุธ",
+        "sentence": "The deadline is Tuesday, ___, Wednesday.",
+        "answers": [
+          "or rather"
+        ],
+        "hints": [
+          "สองวันไม่ใช่การถอดความกัน",
+          "ต้องแสดงการแก้ข้อมูล"
+        ],
+        "explanation": "or rather บอกว่ากำลังปรับแก้สิ่งที่เพิ่งพูด",
+        "focus": "แก้ข้อมูล"
+      },
+      {
+        "id": "link-restate-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำอธิบายหน้าที่ของ In short ให้ตรงกับบริบท",
+        "sentence": "The room is quiet, spacious and close to campus. In short, it suits our needs.",
+        "answers": [
+          "ย่อข้อดีที่กล่าวมาให้เป็นใจความสั้น"
+        ],
+        "hints": [
+          "ประโยคหลังไม่ได้เพิ่มรายการใหม่",
+          "ดูความสัมพันธ์กับสามข้อก่อนหน้า"
+        ],
+        "explanation": "In short สรุปสารให้กระชับ ไม่ได้ทำให้ประโยคเป็นทางการโดยอัตโนมัติ",
+        "focus": "สรุปสาร",
+        "options": [
+          "ย่อข้อดีที่กล่าวมาให้เป็นใจความสั้น",
+          "ระบุชื่อห้องสองห้องให้ครบ",
+          "แก้ข้อมูลว่าห้องจริง ๆ แล้วเสียงดัง",
+          "เสนออีกห้องหนึ่งแทน"
+        ],
+        "wrong": {
+          "ระบุชื่อห้องสองห้องให้ครบ": "ไม่ได้มีรายชื่อเฉพาะแบบ namely",
+          "แก้ข้อมูลว่าห้องจริง ๆ แล้วเสียงดัง": "ประโยคหลังสอดคล้องกับข้อมูลเดิม ไม่ใช่การแก้",
+          "เสนออีกห้องหนึ่งแทน": "ไม่มีตัวเลือกอีกห้องในประโยค"
+        }
+      },
+      {
+        "id": "link-restate-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมวลีอังกฤษ 3 คำที่หมายถึง สรุปแล้ว โดยใช้คำว่า sum",
+        "sentence": "___, the scheme saves time but costs more.",
+        "answers": [
+          "To sum up"
+        ],
+        "hints": [
+          "วลีขึ้นต้นด้วย To",
+          "ใช้เพื่อรวบประเด็นที่กล่าวมาแล้ว"
+        ],
+        "explanation": "To sum up เปิดการรวบข้อดีและข้อเสียที่อธิบายแล้ว ควรไม่แทรกหลักฐานใหม่ทันที",
+        "focus": "รวบประเด็น"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคแนะนำวิธีเข้าร่วมอบรม: ประโยคแรกเสนอหนึ่งวิธี ประโยคที่สองเริ่ม Alternatively เพื่อเสนออีกวิธี ประโยคสุดท้ายขึ้นต้น In short เพื่อสรุปโดยไม่เพิ่มเงื่อนไขใหม่",
+      "model": "You can attend the workshop on campus. Alternatively, you can join the same workshop online. In short, you can choose the format that suits you.",
+      "translation": "คุณเข้าอบรมที่มหาวิทยาลัยได้ อีกทางเลือกหนึ่งคือเข้าร่วมอบรมเดียวกันทางออนไลน์ สรุปสั้น ๆ คือคุณเลือกรูปแบบที่เหมาะกับตนเองได้",
+      "checklist": [
+        "Alternatively ตามด้วย clause สมบูรณ์",
+        "ประโยคสรุปรักษาข้อมูลเดิม",
+        "ไม่ใช้ instead ถ้ายังต้องการเปิดทั้งสองตัวเลือก"
+      ]
+    }
+  }
+]

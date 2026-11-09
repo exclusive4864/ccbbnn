@@ -58,3 +58,19 @@ Transportation ฉบับสมบูรณ์ 18 บท: 9 รูปแบบ
 Progress and personal answers stay in this browser in the separate `writewise-speaking-coach-v1` storage key. Use this module's own JSON backup/import screen. No server upload, microphone request, account sync or automatic reminder. Optional audio uses the device speech-synthesis API. The main Writing and other existing modules remain unchanged except for links into the new module.
 
 The deployed HTML is self-contained. Source data is in `data/speaking-vocabulary.json`; source UI files are `assets/speaking-coach*`. Rebuild with `python scripts/build-speaking-coach.py`, then run `node tests/speaking-coach.test.js`. On mobile use the hosted link in Safari/Chrome rather than an HTML preview in Files.
+
+## Grammar Coach — 20 original step-by-step lessons
+
+**https://exclusive4864.github.io/ccbbnn/grammar-coach.html**
+
+20 Thai-led grammar topics plus 8 deep Linking Lab packs, 328 original worked examples, 336 targeted exercises (multiple choice, fill, constrained rewrite and word ordering), and 28 personal transfer-writing tasks. Each lesson follows understand → notice → guided practice → independent practice → transfer. Tricky cases distinguish meaning, register and British/American variation and link to primary grammar references.
+
+The mistake notebook preserves the submitted answer, explanation and last eight attempts. Successful due reviews advance through 1/3/7/14/30-day intervals; early repeats and hinted answers do not advance the level. These are practice signals, not IELTS scores or guarantees of mastery. Free writing uses a self-checklist, not automated grammar grading. Exact-answer exercises accept listed variants and normalize case/spacing; final periods are optional except in the punctuation lesson.
+
+All progress stays in the independent `writewise-grammar-coach-v1` localStorage key. Its JSON backup/import flow is separate from older modules and requires confirmation before replacing local progress. No account, upload, automatic sync or notifications. The public teaching material contains no personal learner submissions or source-book excerpts.
+
+Source files: `data/grammar-part-{a,b,c}.json`, `data/grammar-linking-{a,b,c}.json`, `data/grammar-sources.json` and its linking supplements, `assets/grammar-coach*`. Build: `python scripts/build-grammar-coach.py`. Validate: `node tests/grammar-coach.test.js`; DOM regression: `node tests/grammar-coach-dom.test.js` and `node tests/grammar-coach-edge.test.js` (JSDOM; set `JSDOM_PATH` if outside normal module resolution); browser regression: `node tests/grammar-coach-browser.test.js` (requires Playwright and Chromium; set `BASE_URL` for a live target). The generated page is self-contained; use the hosted URL on mobile instead of a Files preview.
+
+The Linking Lab includes a same-idea sentence transformation selector and a comparison guide. It separates meaning, grammatical slot, punctuation and register, rather than treating short/common words as inferior or teaching a list of automatic “advanced” substitutions.
+
+Each main lesson now has 10 worked examples and each Linking Lab pack has 16. The additional four examples sit in an expandable section to keep mobile reading manageable. A plain-Thai grammar glossary explains terminology beside the teaching steps.

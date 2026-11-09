@@ -1,0 +1,292 @@
+[
+  {
+    "lessonId": "prepositions",
+    "examples": [
+      {
+        "en": "Will you stay here until six, or do you need to leave by five?",
+        "th": "คุณจะอยู่ที่นี่จนถึงหกโมง หรือจำเป็นต้องออกไปภายในห้าโมง",
+        "note": "until six บอกว่าการอยู่ดำเนินต่อไปถึงหกโมง ส่วน by five กำหนดเวลาออกอย่างช้าที่สุดว่าห้าโมง ออกก่อนห้าโมงก็ตรงเงื่อนไข จึงใช้สองคำนี้แทนกันตรง ๆ ไม่ได้",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "We are responsible for checking the equipment before each experiment.",
+        "th": "เรารับผิดชอบการตรวจอุปกรณ์ก่อนการทดลองแต่ละครั้ง",
+        "note": "จำชุด responsible for; for เป็นบุพบท จึงตามด้วย checking เมื่อใช้กริยาบอกกิจกรรม ไม่ใช่ responsible to check ในโครงนี้ ส่วน responsible to someone ใช้บอกว่าต้องรับผิดชอบต่อใคร",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "Which platform does the airport train leave from?",
+        "th": "รถไฟไปสนามบินออกจากชานชาลาไหน",
+        "note": "from แสดงจุดที่ออกเดินทางและวางท้ายคำถามได้ตามธรรมชาติ แบบ From which platform does the airport train leave? ก็ถูกแต่เป็นทางการกว่า การลงท้ายด้วยบุพบทไม่ใช่ข้อผิดพลาด",
+        "tag": "ใช้จริง"
+      },
+      {
+        "en": "The samples arrived last Friday, and we will test them next week.",
+        "th": "ตัวอย่างมาถึงวันศุกร์ที่แล้ว และเราจะทดสอบในสัปดาห์หน้า",
+        "note": "last Friday และ next week เป็นสำนวนเวลาที่ไม่เติม on หรือ in ข้างหน้าในโครงนี้ ต่างจาก on Friday และ in the next few weeks ซึ่งมีรูปและความหมายอีกแบบ",
+        "tag": "งานวิชาการ"
+      }
+    ]
+  },
+  {
+    "lessonId": "wordforms",
+    "examples": [
+      {
+        "en": "The results show a significant improvement; scores improved significantly after training.",
+        "th": "ผลแสดงว่ามีการพัฒนาขึ้นอย่างชัดเจน โดยคะแนนดีขึ้นอย่างชัดเจนหลังการฝึก",
+        "note": "significant เป็น adjective ขยายคำนาม improvement ส่วน significantly เป็น adverb ขยายกริยา improved เลือกรูปจากสิ่งที่คำนี้ขยาย ไม่ใช่จากคำแปลไทยที่คล้ายกัน ในบริบททั่วไปนี้ significant หมายถึงชัดเจนหรือสำคัญ ไม่ได้บอกผลทดสอบทางสถิติโดยตัวคำเพียงอย่างเดียว",
+        "tag": "เปลี่ยนรูป"
+      },
+      {
+        "en": "The team worked hard, but the score hardly changed.",
+        "th": "ทีมทำงานอย่างหนัก แต่คะแนนแทบไม่เปลี่ยน",
+        "note": "hard ขยาย worked และหมายถึงอย่างหนักได้โดยไม่เติม -ly ส่วน hardly แปลว่าแทบไม่ จึงไม่ได้บอกว่าคะแนนเปลี่ยนอย่างหนัก ทั้งสองเป็น adverb ได้แต่คนละความหมาย",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "Do you feel well enough to travel today?",
+        "th": "วันนี้คุณรู้สึกสบายดีพอที่จะเดินทางไหม",
+        "note": "well ในความหมายสุขภาพดีทำหน้าที่เป็น adjective หลัง linking verb feel ได้ จึงไม่ต้องเปลี่ยนเป็น good เพียงเพราะอยู่หลังกริยานี้; enough ตามหลัง adjective ที่มันขยาย",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "We could not explain the sudden disappearance of the signal.",
+        "th": "เราอธิบายการหายไปอย่างฉับพลันของสัญญาณไม่ได้",
+        "note": "หลัง the sudden ต้องการคำนามที่เป็นสิ่งซึ่งเราอธิบาย จึงใช้ disappearance ไม่ใช่กริยา disappear; ถ้าจะใช้กริยาให้เปลี่ยนโครงเป็น The signal disappeared suddenly โดยใช้ suddenly ขยาย disappeared",
+        "tag": "เปลี่ยนรูป"
+      }
+    ]
+  },
+  {
+    "lessonId": "verbpatterns",
+    "examples": [
+      {
+        "en": "Are you looking forward to meeting your new classmates?",
+        "th": "คุณกำลังตั้งตารอที่จะได้พบเพื่อนร่วมชั้นใหม่ไหม",
+        "note": "to เป็นส่วนของชุด look forward to และเป็นบุพบท จึงใช้ meeting ไม่ใช่ meet อย่าเลือก infinitive เพียงเพราะเห็น to; เทียบกับ hope to meet ซึ่งเป็นอีกโครงสร้าง",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "We stopped taking photos and stopped to check the map.",
+        "th": "เราเลิกถ่ายรูปแล้วหยุดเพื่อดูแผนที่",
+        "note": "stopped taking คือหยุดกิจกรรมถ่ายรูป ส่วน stopped to check คือหยุดสิ่งที่กำลังทำเพื่อดูแผนที่ to check บอกจุดประสงค์ ไม่ได้หมายถึงเลิกดูแผนที่",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The editor asked us not to include students' names in the report.",
+        "th": "บรรณาธิการขอให้เราไม่ใส่ชื่อนักเรียนในรายงาน",
+        "note": "ใช้ ask + ผู้ที่ถูกขอ + to-infinitive; วาง not หน้า to include เพื่อปฏิเสธการใส่ชื่อ ต่างจาก did not ask us to include ซึ่งบอกว่าไม่ได้ขอให้ใส่ ไม่จำเป็นต้องแปลว่าสั่งไม่ให้ใส่",
+        "tag": "ปฏิเสธให้ชัด"
+      },
+      {
+        "en": "The instructor made us repeat the test; we were made to repeat it twice.",
+        "th": "ผู้สอนให้เราทำแบบทดสอบซ้ำ โดยเราถูกให้ทำซ้ำสองครั้ง",
+        "note": "active ใช้ made + us + repeat โดยไม่มี to แต่เมื่อเปลี่ยนเป็น passive ใช้ were made to repeat ต้องเติม to ไม่ควรยกกฎของ active มาใช้กับ passive ตรง ๆ",
+        "tag": "เปลี่ยนรูป"
+      }
+    ]
+  },
+  {
+    "lessonId": "linking",
+    "examples": [
+      {
+        "en": "Although the sample was small, the findings were useful.",
+        "th": "แม้กลุ่มตัวอย่างจะเล็ก แต่ข้อค้นพบก็มีประโยชน์",
+        "note": "Although ตามด้วย clause ที่มี the sample และ was แล้วต่อใจความหลัก the findings were useful ไม่เติม but หน้าใจความหลักเพื่อเลียนแบบคู่ แม้...แต่... ในภาษาไทย",
+        "tag": "งานวิชาการ"
+      },
+      {
+        "en": "Despite the fact that the road was closed, the ambulance reached the village.",
+        "th": "แม้ว่าถนนจะปิด รถพยาบาลก็ไปถึงหมู่บ้าน",
+        "note": "despite รับกลุ่มคำนาม the fact ซึ่งมี that the road was closed ขยายอยู่ จึงใช้ full clause ได้ผ่าน the fact that; หากตัด the fact that เหลือ Despite the road was closed จะไม่ใช่โครงมาตรฐาน",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "The battery was almost empty, so I started uploading my work; however, the laptop shut down before the upload finished.",
+        "th": "แบตเตอรี่ใกล้หมด ฉันจึงเริ่มอัปโหลดงาน แต่แล็ปท็อปก็ดับก่อนอัปโหลดเสร็จ",
+        "note": "so เชื่อมเหตุไปผล คือแบตใกล้หมดจึงเริ่มอัปโหลดงาน ส่วน however นำเหตุการณ์ที่ขัดกับแผนว่าจะอัปโหลดให้เสร็จก่อนเครื่องดับ ใช้ semicolon ก่อน however และคอมมาหลังคำนี้เพื่อไม่เชื่อมสองประโยคหลักด้วยคอมมาตัวเดียว",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The interview was postponed because the researcher was ill, not because of a technical problem.",
+        "th": "การสัมภาษณ์ถูกเลื่อนเพราะผู้วิจัยป่วย ไม่ใช่เพราะปัญหาทางเทคนิค",
+        "note": "because รับ clause คือ the researcher was ill ส่วน because of รับกลุ่มคำนาม a technical problem ทั้งสองบอกเหตุผลได้เหมือนกัน แต่ต้องเปลี่ยนส่วนที่ตามมาให้เข้ากับโครง",
+        "tag": "เปลี่ยนรูป"
+      }
+    ]
+  },
+  {
+    "lessonId": "pronouns",
+    "examples": [
+      {
+        "en": "Could you divide the remaining tasks between her and me?",
+        "th": "ช่วยแบ่งงานที่เหลือระหว่างเธอกับฉันได้ไหม",
+        "note": "between เป็นบุพบท จึงใช้รูปกรรม her และ me แม้มี and เชื่อมอยู่ ไม่เปลี่ยนเป็น she and I และไม่ต้องใช้ myself เพื่อให้ฟังสุภาพ",
+        "tag": "ใช้จริง"
+      },
+      {
+        "en": "If someone needs a quieter seat, they can move to the front when they are ready.",
+        "th": "ถ้าใครต้องการที่นั่งที่เงียบกว่า คนนั้นย้ายไปด้านหน้าได้เมื่อพร้อม",
+        "note": "they อ้างถึง someone โดยไม่ระบุเพศได้ แต่กริยาหลัง they ยังคงใช้ are ไม่ใช่ is แม้อ้างถึงคนเดียว ส่วน needs ผันตาม someone ใน clause แรก",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "The device lost its settings, but it's working again now.",
+        "th": "อุปกรณ์สูญเสียค่าที่ตั้งไว้ แต่ตอนนี้กลับมาทำงานแล้ว",
+        "note": "its หน้า settings แสดงความเป็นเจ้าของและไม่มี apostrophe ส่วน it's ในที่นี้ย่อจาก it is ซึ่งตามด้วย working ถ้าลองขยายเป็น it is settings จะเห็นว่าความหมายไม่ตรง",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The university extended the library's opening hours. This change helped students who worked during the day.",
+        "th": "มหาวิทยาลัยขยายเวลาเปิดห้องสมุด การเปลี่ยนแปลงนี้ช่วยนักศึกษาที่ทำงานตอนกลางวัน",
+        "note": "This change ชี้กลับไปยังการขยายเวลาเปิดทั้งเหตุการณ์ ไม่ใช่แค่ university หรือ library; ใช้ This เดี่ยว ๆ ก็เป็นไปได้ แต่เติม change แล้วผู้อ่านเห็นสิ่งที่อ้างถึงชัดขึ้น",
+        "tag": "เขียนให้ชัด"
+      }
+    ]
+  },
+  {
+    "lessonId": "parallel",
+    "examples": [
+      {
+        "en": "The survey asks whether residents use buses and whether they would support a new route.",
+        "th": "แบบสำรวจถามว่าชาวเมืองใช้รถบัสหรือไม่ และจะสนับสนุนเส้นทางใหม่หรือไม่",
+        "note": "whether... สองส่วนทำหน้าที่เป็นเนื้อหาที่ถามเหมือนกัน จึงขนานกันได้ แม้ส่วนแรกใช้ use และส่วนหลังใช้ would support ไม่จำเป็นต้องทำกริยาทุกส่วนให้มีรูปเหมือนกันเมื่อความหมายต่างกัน",
+        "tag": "งานวิชาการ"
+      },
+      {
+        "en": "You can either pay online or pay at the reception desk.",
+        "th": "คุณเลือกชำระเงินออนไลน์หรือชำระที่โต๊ะประชาสัมพันธ์ก็ได้",
+        "note": "either และ or วางหน้ากริยาวลี pay... ทั้งสองข้าง จึงเห็นสองทางเลือกชัด จะใช้ You can pay either online or at the reception desk. ก็ได้ โดยจับคู่ส่วนบอกวิธีหรือสถานที่จ่ายแทน",
+        "tag": "ใช้จริง"
+      },
+      {
+        "en": "The course teaches not only writing skills but also research methods.",
+        "th": "หลักสูตรสอนทั้งทักษะการเขียนและวิธีวิจัย",
+        "note": "not only กับ but also อยู่หน้ากลุ่มคำนาม writing skills และ research methods ซึ่งเป็นสิ่งที่สอนทั้งคู่ ไม่จำเป็นต้องให้คำลงท้ายเหมือนกัน ขอให้ทำหน้าที่คู่กันในประโยค",
+        "tag": "จับคู่ให้ตรง"
+      },
+      {
+        "en": "The volunteers have checked the names, prepared the badges, and arranged the chairs.",
+        "th": "อาสาสมัครตรวจรายชื่อ เตรียมป้ายชื่อ และจัดเก้าอี้เรียบร้อยแล้ว",
+        "note": "have ใช้ร่วมกับ checked, prepared และ arranged ซึ่งเป็น past participle ทั้งสามรายการได้ ไม่ต้องเขียน have ซ้ำทุกตัว แต่ไม่เปลี่ยนรายการท้ายเป็น arranging ในโครงที่ใช้ have ร่วมกันนี้",
+        "tag": "เปลี่ยนรูป"
+      }
+    ]
+  },
+  {
+    "lessonId": "modals",
+    "examples": [
+      {
+        "en": "The floor is wet; someone must have spilled water here.",
+        "th": "พื้นเปียก ต้องมีใครทำน้ำหกตรงนี้แน่ ๆ",
+        "note": "must have + spilled ใช้อนุมานเหตุการณ์ในอดีตจากหลักฐานปัจจุบัน ไม่ได้บอกว่าใครมีหน้าที่ต้องทำน้ำหก หากพูดถึงหน้าที่ในอดีตใช้ had to + กริยารูปพื้นฐานแทน",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "You should have checked the address before leaving.",
+        "th": "คุณน่าจะตรวจที่อยู่ก่อนออกเดินทาง",
+        "note": "should have + checked มองย้อนกลับไปว่าสิ่งนั้นควรได้ทำแล้ว และในบริบทตำหนิหรือเสียดายเช่นนี้มักสื่อว่าไม่ได้ทำ ต่างจาก should check ที่แนะนำให้ตรวจตอนนี้หรือคราวหน้า",
+        "tag": "มองย้อนอดีต"
+      },
+      {
+        "en": "Does every visitor have to sign in, or can family members enter directly?",
+        "th": "ผู้มาเยือนทุกคนต้องลงชื่อเข้าไหม หรือสมาชิกครอบครัวเข้าไปได้เลย",
+        "note": "have to สร้างคำถามด้วย does และใช้ have รูปเดิม ส่วน can เป็น modal จึงย้ายไว้หน้าประธาน family members ได้โดยไม่เติม do และตามด้วย enter ไม่ใช่ to enter",
+        "tag": "เปลี่ยนรูป"
+      },
+      {
+        "en": "The new method may reduce waste, but we need more trials before making a firm claim.",
+        "th": "วิธีใหม่อาจลดของเสียได้ แต่เราต้องทดลองเพิ่มก่อนยืนยันอย่างหนักแน่น",
+        "note": "may ตามด้วย reduce รูปพื้นฐาน แม้ประธาน method เป็นเอกพจน์ และแสดงความเป็นไปได้ที่ยังไม่ยืนยันจากหลักฐาน ใช้ might หรือ could ได้ในหลายบริบทเช่นกัน ไม่ควรกำหนดเปอร์เซ็นต์แน่นอนให้แต่ละคำ",
+        "tag": "งานวิชาการ"
+      }
+    ]
+  },
+  {
+    "lessonId": "nounphrases",
+    "examples": [
+      {
+        "en": "A box of unused cables is under the desk.",
+        "th": "กล่องสายเคเบิลที่ยังไม่ได้ใช้อยู่ใต้โต๊ะ",
+        "note": "แกนประธานคือ box เอกพจน์ จึงใช้ is; of unused cables ขยายว่าเป็นกล่องอะไร ส่วน unused ขยาย cables อย่าผันเป็น are ตาม cables ซึ่งอยู่ใกล้กริยากว่า",
+        "tag": "หาแกนประโยค"
+      },
+      {
+        "en": "We booked a ninety-minute workshop; the workshop lasts ninety minutes.",
+        "th": "เราจองเวิร์กช็อปเก้าสิบนาทีไว้ โดยเวิร์กช็อปนี้ใช้เวลาเก้าสิบนาที",
+        "note": "ninety-minute หน้าคำนาม workshop เป็นคำขยายหน่วยเวลา ใช้ minute เอกพจน์และยัติภังค์ แต่ ninety minutes หลัง lasts บอกระยะเวลาโดยตรง จึงเติม s ที่ minutes",
+        "tag": "เปลี่ยนรูป"
+      },
+      {
+        "en": "The admissions policy is available on the university website.",
+        "th": "นโยบายการรับเข้าศึกษามีให้อ่านบนเว็บไซต์มหาวิทยาลัย",
+        "note": "admissions ขยาย policy ในสำนวนที่ใช้จริง ไม่ต้องตัด s เพียงเพราะเป็นคำนามขยายนาม ส่วน university ขยาย website โดยใช้รูปเอกพจน์ เลือกตามคำที่ใช้คู่กัน ไม่ใช่กฎตัด s ทุกคำ",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "Both of my older sisters work at the children's hospital.",
+        "th": "พี่สาวทั้งสองคนของฉันทำงานที่โรงพยาบาลเด็ก",
+        "note": "แกนประธานคือ sisters โดยมี Both of my older ขยาย จึงใช้ work; Both my older sisters ก็ใช้ได้ ส่วน children's มี apostrophe + s เพราะ children เป็นพหูพจน์ที่ไม่ได้ลงท้าย s และแสดงความสัมพันธ์กับ hospital",
+        "tag": "ขยายคำนาม"
+      }
+    ]
+  },
+  {
+    "lessonId": "quantifiers",
+    "examples": [
+      {
+        "en": "Most participants completed the survey, but most of the new participants skipped the final question.",
+        "th": "ผู้เข้าร่วมส่วนใหญ่ทำแบบสำรวจเสร็จ แต่ผู้เข้าร่วมใหม่ส่วนใหญ่ข้ามคำถามสุดท้าย",
+        "note": "most ต่อกับ participants ได้เลยเมื่อกล่าวถึงส่วนใหญ่ของกลุ่มตามบริบท แต่เมื่อมีกลุ่มเจาะจงด้วย the new participants ใช้ most of the ไม่ใช่ most the; ทำแบบสำรวจเสร็จไม่ได้แปลว่าตอบทุกข้อเสมอ",
+        "tag": "แยกขอบเขต"
+      },
+      {
+        "en": "Could we have some extra time? We have not collected any responses yet.",
+        "th": "ขอเวลาเพิ่มได้ไหม เรายังไม่ได้รับคำตอบเลย",
+        "note": "some ใช้ในคำขอที่หวังให้ตอบรับได้ แม้เป็นประโยคคำถาม ส่วน not...any ในประโยคหลังสื่อว่ายังไม่มีคำตอบเลย จึงอย่าท่องว่าคำถามต้องใช้ any ทุกครั้ง",
+        "tag": "ใช้จริง"
+      },
+      {
+        "en": "We have a little evidence, but little evidence of a long-term effect.",
+        "th": "เรามีหลักฐานอยู่บ้าง แต่มีหลักฐานเกี่ยวกับผลระยะยาวน้อยมาก",
+        "note": "a little evidence มองว่ามีหลักฐานบางส่วน ส่วน little evidence เน้นว่ามีน้อย โดยส่วนหลังจำกัดเฉพาะผลระยะยาว จึงไม่ขัดกับส่วนแรก evidence นับไม่ได้ในความหมายนี้ ไม่ใช้ a few evidence",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "Not all of the rooms have windows; three face an internal corridor.",
+        "th": "ห้องไม่ได้มีหน้าต่างทุกห้อง โดยสามห้องหันเข้าสู่ทางเดินภายในอาคาร",
+        "note": "Not all ปฏิเสธความหมายว่าทุกห้องมี จึงบอกว่ามีอย่างน้อยบางห้องไม่มี ไม่ได้แปลว่าทุกห้องไม่มี ถ้าต้องการบอกว่าไม่มีห้องไหนมีหน้าต่างให้ใช้ None of the rooms have windows",
+        "tag": "ปฏิเสธให้ชัด"
+      }
+    ]
+  },
+  {
+    "lessonId": "wordorder",
+    "examples": [
+      {
+        "en": "Can you explain why the experiment failed?",
+        "th": "คุณอธิบายได้ไหมว่าทำไมการทดลองจึงล้มเหลว",
+        "note": "คำถามหลักใช้ Can you... แต่ส่วน why the experiment failed เป็นคำถามแฝง จึงเรียงประธานก่อนกริยา ไม่ใช้ why did the experiment fail; รูปนั้นใช้เมื่อถามตรงว่า Why did the experiment fail?",
+        "tag": "คำถามแฝง"
+      },
+      {
+        "en": "Who approved the budget, and who did the manager consult?",
+        "th": "ใครอนุมัติงบประมาณ และผู้จัดการปรึกษาใคร",
+        "note": "Who แรกเป็นผู้ทำ approved จึงไม่ต้องเติม did ในคำถามธรรมดานี้ ส่วน who หลังเป็นกรรมของ consult โดยมี the manager เป็นผู้ทำ จึงใช้ did ก่อนประธานและ consult รูปพื้นฐาน",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "I sent only the summary to Arun, not the full report.",
+        "th": "ฉันส่งเฉพาะบทสรุปให้อรุณ ไม่ได้ส่งรายงานฉบับเต็ม",
+        "note": "only อยู่หน้า the summary เพื่อจำกัดสิ่งที่ส่ง ส่วน I sent the summary only to Arun. จำกัดผู้รับว่าเป็นอรุณคนเดียว ทั้งสองถูกไวยากรณ์แต่ตอบคนละคำถามว่า ส่งอะไร หรือ ส่งให้ใคร",
+        "tag": "เขียนให้ชัด"
+      },
+      {
+        "en": "We rarely cancel a session. Rarely do we cancel a session without offering another date.",
+        "th": "เราแทบไม่ยกเลิกกิจกรรม และแทบไม่เคยยกเลิกโดยไม่เสนอวันอื่นให้",
+        "note": "rarely ในตำแหน่งปกติอยู่ก่อน cancel ได้ แต่เมื่อยก Rarely ขึ้นต้นประโยคเพื่อเน้นในภาษาเขียนทางการ ต้องสลับ do ไว้ก่อน we และใช้ cancel รูปพื้นฐาน นี่เป็นการกลับลำดับเพื่อเน้น ไม่ใช่คำถาม",
+        "tag": "ต่อยอดทางการ"
+      }
+    ]
+  }
+]

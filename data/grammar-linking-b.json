@@ -1,0 +1,1210 @@
+[
+  {
+    "id": "link-reason",
+    "number": 24,
+    "title": "Reason, evidence and result",
+    "thaiTitle": "เชื่อมเหตุ หลักฐาน และผลให้ถูกทิศ",
+    "group": "Linking Lab",
+    "minutes": 25,
+    "outcome": "เลือก because / because of และเปลี่ยน so เป็น therefore โดยปรับเครื่องหมาย พร้อมแยกเหตุจริงออกจากหลักฐาน",
+    "memory": "เหตุ + because; ผล + so; เปลี่ยนชนิดคำต้องเปลี่ยนโครง",
+    "why": "คำว่า เพราะ กับ จึง ไม่ใช่เพียงคำประดับ การสลับทิศอาจทำให้ข้อสรุปหรือเหตุผลเปลี่ยน",
+    "steps": [
+      {
+        "title": "1. วางเหตุให้ถูกช่อง",
+        "body": "because, since และ as ในความหมายเหตุผลตามด้วย clause ที่มีประธานกับกริยา ส่วน because of และ due to ตามด้วย noun phrase หรือ -ing ที่ทำหน้าที่เป็นหน่วยนาม",
+        "example": "The workshop moved online because the room was unavailable.",
+        "note": "the room was unavailable เป็น clause; ถ้าใช้ because of ต้องปรับเป็น the room closure เป็นต้น"
+      },
+      {
+        "title": "2. เลือกน้ำหนักและลดความกำกวม",
+        "body": "because ชี้เหตุชัดและตอบ why ได้ตรง; since/as มักเสนอเหตุเป็นพื้นหลังที่ผู้อ่านรับรู้แล้ว แต่ since อาจหมายถึงเวลา และ as อาจหมายถึงขณะหรือวิธีการ เลือก because เมื่อจำเป็นต้องตัดความกำกวม",
+        "example": "Since the timetable is already fixed, we should book the room now.",
+        "note": "บริบทนี้เป็นเหตุผล; since Monday เป็นเวลา จึงแทนด้วย because ไม่ได้"
+      },
+      {
+        "title": "3. เดินจากเหตุไปผล",
+        "body": "A, so B เชื่อม clauses ในประโยคเดียว ส่วน therefore, as a result, consequently เป็นตัวเชื่อมความหมาย ไม่ใช่ตัวแทน so ในช่องเดิมทุกกรณี ใช้ A. Therefore, B. หรือ A; therefore, B.",
+        "example": "The main road was flooded; consequently, deliveries arrived late.",
+        "note": "consequently/as a result เน้นผลตามมา; therefore ใช้ทั้งผลและข้อสรุปเชิงเหตุผล"
+      },
+      {
+        "title": "4. แยกเหตุการณ์กับเหตุที่เชื่อ",
+        "body": "because อาจบอกสิ่งที่ทำให้เกิดเหตุการณ์ หรือหลักฐานที่ทำให้ผู้พูดสรุปเช่นนั้น therefore ก็ไม่ได้ทำให้ข้อสรุปเป็นข้อเท็จจริงโดยอัตโนมัติ",
+        "example": "The bakery must be open because its lights are on.",
+        "note": "ไฟติดเป็นหลักฐานให้อนุมาน ไม่ใช่สาเหตุที่ร้านเปิด และหลักฐานนี้ยังอาจไม่พอ"
+      }
+    ],
+    "examples": [
+      {
+        "en": "We postponed the picnic because the ground was wet.",
+        "th": "เราเลื่อนปิกนิกเพราะพื้นเปียก",
+        "note": "because นำ clause เหตุโดยตรง; ไม่ต้องเติม so หน้าผลในประโยคเดียวกัน"
+      },
+      {
+        "en": "Because the ground was wet, we postponed the picnic.",
+        "th": "เพราะพื้นเปียก เราจึงเลื่อนปิกนิก",
+        "note": "ย้ายเหตุขึ้นต้นและใส่ comma หลัง subordinate clause; เน้นเหตุได้"
+      },
+      {
+        "en": "As the venue is already booked, we can print the invitations.",
+        "th": "เนื่องจากจองสถานที่แล้ว เราจึงพิมพ์คำเชิญได้",
+        "note": "as เสนอข้อมูลพื้นหลัง; because ใช้แทนได้ในโครงนี้แต่ให้น้ำหนักเหตุชัดกว่า"
+      },
+      {
+        "en": "Since both teams have approved the design, production can begin.",
+        "th": "เมื่อทั้งสองทีมอนุมัติแบบแล้ว การผลิตก็เริ่มได้",
+        "note": "since ในที่นี้มีความหมายเหตุ ไม่ใช่จุดเริ่มเวลา"
+      },
+      {
+        "en": "The ferry was cancelled because of strong winds.",
+        "th": "เรือข้ามฟากถูกยกเลิกเพราะลมแรง",
+        "note": "because of ตามด้วย noun phrase strong winds; because strong winds ไม่ครบ"
+      },
+      {
+        "en": "The interruption was due to a damaged cable.",
+        "th": "การหยุดชะงักเกิดจากสายเคเบิลที่ชำรุด",
+        "note": "due to ใช้หลัง be ได้เป็นธรรมชาติ; มักพบในรายงาน ไม่ได้ดีกว่า because of เสมอ"
+      },
+      {
+        "en": "Due to scheduled maintenance, the lift is unavailable today.",
+        "th": "เนื่องจากการบำรุงรักษาตามกำหนด วันนี้ลิฟต์ใช้ไม่ได้",
+        "note": "due to ขยายทั้งประโยคพบได้ในภาษาอังกฤษปัจจุบัน; ไม่จำกัดว่าต้องตามหลัง be เท่านั้น"
+      },
+      {
+        "en": "The scanner failed, so we entered the codes by hand.",
+        "th": "เครื่องสแกนเสีย เราจึงกรอกรหัสด้วยมือ",
+        "note": "so เชื่อม clause ผล ใช้ comma ก่อน so เมื่อต่อสอง independent clauses"
+      },
+      {
+        "en": "All seats have been reserved. Therefore, new bookings are closed.",
+        "th": "ทุกที่นั่งถูกจองแล้ว ดังนั้นจึงปิดรับการจองใหม่",
+        "note": "therefore เปิดประโยคใหม่; ชี้ข้อสรุปเชิงนโยบาย"
+      },
+      {
+        "en": "The pipe burst; as a result, the basement flooded.",
+        "th": "ท่อแตก ผลคือชั้นใต้ดินน้ำท่วม",
+        "note": "as a result บอกผลของเหตุการณ์; semicolon แบ่งสองประโยคที่สมบูรณ์"
+      },
+      {
+        "en": "The shipment missed its connection. Consequently, it arrived a day late.",
+        "th": "สินค้าที่ส่งพลาดเที่ยวต่อ จึงมาถึงช้าหนึ่งวัน",
+        "note": "consequently พบในงานเขียนเชิงรายงาน; so ให้ผลพื้นฐานเดียวกันแต่ต้องปรับการเชื่อม"
+      },
+      {
+        "en": "Someone may be inside because a radio is playing.",
+        "th": "อาจมีคนอยู่ข้างในเพราะได้ยินวิทยุเปิดอยู่",
+        "note": "because นำหลักฐาน ไม่ใช่สาเหตุที่ทำให้คนอยู่ข้างใน; may รักษาระดับความไม่แน่ใจ"
+      }
+    ],
+    "traps": [
+      {
+        "title": "clause กับ noun phrase แทนตรง ๆ ไม่ได้",
+        "body": "เปลี่ยน because เป็น because of ต้องเปลี่ยนส่วนตามหลังด้วย ความหมายแกนเดียวกันได้ แต่รูปประโยคต่างกัน",
+        "good": "We waited because the gate was locked.",
+        "contrast": "We waited because of the locked gate.",
+        "source": "cam-because-of"
+      },
+      {
+        "title": "อย่าเชื่อมสองประโยคด้วย comma + therefore อย่างเดียว",
+        "body": "therefore ไม่ได้ทำหน้าที่ coordinating conjunction แบบ so; เลือก full stop หรือ semicolon ไม่ใช่แค่สลับคำ",
+        "good": "The battery was empty; therefore, the device stopped.",
+        "contrast": "The battery was empty, so the device stopped.",
+        "source": "purdue-punctuation"
+      },
+      {
+        "title": "since ไม่ได้แปลว่าเพราะทุกครั้ง",
+        "body": "since ตามด้วยจุดเริ่มเวลา หรือ clause ที่ระบุจุดเริ่มเวลาได้; ตรวจบริบทก่อนแทนคำ",
+        "good": "The studio has been quiet since the band left.",
+        "contrast": "The studio is quiet because the band has left.",
+        "source": "cam-as-because"
+      },
+      {
+        "title": "เหตุไม่เท่ากับหลักฐาน",
+        "body": "ประโยคแรกบอกสาเหตุที่ถนนเปียก ประโยคที่สองอนุมานว่าฝนตกจากถนนเปียก ซึ่งอาจมีคำอธิบายอื่น อย่าใช้ตัวเชื่อมทำให้ข้อสรุปดูแน่นอนเกินหลักฐาน",
+        "good": "The road is wet because it rained.",
+        "contrast": "It may have rained because the road is wet.",
+        "source": "cam-cause-purpose"
+      },
+      {
+        "title": "because…so ไม่ใช่คู่บังคับในงานเขียนมาตรฐาน",
+        "body": "เลือก because นำเหตุแล้วตามด้วย main clause หรือใช้ main clause เหตุแล้ว so นำผล ไม่ต้องใส่ทั้งสองเพื่อเลียนแบบ เพราะ…จึง ในภาษาไทย",
+        "good": "Because the map was unclear, we asked for directions.",
+        "contrast": "The map was unclear, so we asked for directions.",
+        "source": "cam-cause-purpose"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "link-reason-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำที่ตามด้วย clause ได้ในช่องนี้",
+        "sentence": "The class moved downstairs ___ the lift was broken.",
+        "answers": [
+          "because"
+        ],
+        "hints": [
+          "ดูว่าหลังช่องมีประธานและกริยาหรือไม่",
+          "เหตุแบบ clause"
+        ],
+        "explanation": "the lift was broken เป็น clause จึงใช้ because ไม่ใช่ because of/due to",
+        "focus": "เหตุแบบ clause",
+        "options": [
+          "because",
+          "because of",
+          "due to"
+        ],
+        "wrong": {
+          "because of": "ต้องตามด้วยหน่วยนาม เช่น the broken lift",
+          "due to": "ต้องตามด้วยหน่วยนาม ไม่ใช่ clause นี้"
+        }
+      },
+      {
+        "id": "link-reason-02",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติม because of เท่านั้นให้ตรงกับ noun phrase",
+        "sentence": "The match ended early ___ heavy rain.",
+        "answers": [
+          "because of"
+        ],
+        "hints": [
+          "heavy rain ไม่มี finite verb",
+          "เหตุแบบ noun phrase"
+        ],
+        "explanation": "heavy rain เป็น noun phrase จึงใช้ because of",
+        "focus": "เหตุแบบ noun phrase"
+      },
+      {
+        "id": "link-reason-03",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกประโยคที่เชื่อมสอง independent clauses ด้วย therefore ถูกต้องในงานเขียนมาตรฐาน",
+        "sentence": "เลือกการแบ่งประโยค",
+        "answers": [
+          "The file was corrupted; therefore, we restored a backup."
+        ],
+        "hints": [
+          "therefore ไม่ใช่ so",
+          "เครื่องหมายแบ่งประโยค"
+        ],
+        "explanation": "semicolon แบ่ง clauses ที่สมบูรณ์ และ comma ตามหลัง therefore",
+        "focus": "เครื่องหมายแบ่งประโยค",
+        "options": [
+          "The file was corrupted; therefore, we restored a backup.",
+          "The file was corrupted, therefore, we restored a backup.",
+          "The file was corrupted therefore we restored a backup."
+        ],
+        "wrong": {
+          "The file was corrupted, therefore, we restored a backup.": "comma อย่างเดียวเกิด comma splice",
+          "The file was corrupted therefore we restored a backup.": "ไม่มีเครื่องหมายแบ่ง independent clauses"
+        }
+      },
+      {
+        "id": "link-reason-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "เปลี่ยน because the hall was closed เป็น because of the hall closure เท่านั้น",
+        "sentence": "The rehearsal stopped because the hall was closed.",
+        "answers": [
+          "The rehearsal stopped because of the hall closure."
+        ],
+        "hints": [
+          "เปลี่ยน clause เป็น noun phrase",
+          "ปรับช่องหลังคำเชื่อม"
+        ],
+        "explanation": "because of รับ the hall closure ซึ่งเป็นหน่วยนาม; แบบฝึกนี้ตรวจรูปที่กำหนด ไม่ใช่ทุกวิธีเขียน",
+        "focus": "ปรับช่องหลังคำเชื่อม"
+      },
+      {
+        "id": "link-reason-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ในประโยคนี้ because นำข้อมูลประเภทใด",
+        "sentence": "The shop may be busy because several people are queuing outside.",
+        "answers": [
+          "หลักฐานที่ใช้คาดคะเน"
+        ],
+        "hints": [
+          "สังเกต may",
+          "เหตุเทียบกับหลักฐาน"
+        ],
+        "explanation": "คิวเป็นหลักฐานให้สันนิษฐานว่าร้านยุ่ง ไม่ได้ยืนยันสาเหตุเดียว",
+        "focus": "เหตุเทียบกับหลักฐาน",
+        "options": [
+          "หลักฐานที่ใช้คาดคะเน",
+          "จุดเริ่มต้นของเวลา",
+          "วัตถุประสงค์ของร้าน"
+        ],
+        "wrong": {
+          "จุดเริ่มต้นของเวลา": "ไม่มีการระบุว่าเริ่มเมื่อไร",
+          "วัตถุประสงค์ของร้าน": "คิวไม่ใช่เป้าหมายที่ร้านตั้งใจทำ"
+        }
+      },
+      {
+        "id": "link-reason-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม due to ตามรูปที่กำหนด",
+        "sentence": "The delay was ___ a missing document.",
+        "answers": [
+          "due to"
+        ],
+        "hints": [
+          "ตามหลัง was",
+          "due to + noun phrase"
+        ],
+        "explanation": "a missing document เป็น noun phrase ที่เป็นสาเหตุของความล่าช้า",
+        "focus": "due to + noun phrase"
+      },
+      {
+        "id": "link-reason-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม so เพื่อเชื่อมเหตุไปผล",
+        "sentence": "The screen was too small, ___ we used a projector.",
+        "answers": [
+          "so"
+        ],
+        "hints": [
+          "ส่วนหลังเป็นผลจากส่วนแรก",
+          "so เชื่อม clause ผล"
+        ],
+        "explanation": "so ต่อสอง independent clauses ในประโยคเดียวได้",
+        "focus": "so เชื่อม clause ผล"
+      },
+      {
+        "id": "link-reason-08",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "เปลี่ยน , so เป็น ; therefore, เท่านั้น คงคำอื่นเดิม",
+        "sentence": "The track was damaged, so the race was cancelled.",
+        "answers": [
+          "The track was damaged; therefore, the race was cancelled."
+        ],
+        "hints": [
+          "คงเหตุไว้ก่อนผล",
+          "therefore ต้องปรับเครื่องหมาย"
+        ],
+        "explanation": "ไม่ใช่แค่สลับคำ so แต่เปลี่ยน comma เป็น semicolon แล้วใส่ comma หลัง therefore",
+        "focus": "therefore ต้องปรับเครื่องหมาย"
+      },
+      {
+        "id": "link-reason-09",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกความหมายของ since ในประโยคนี้",
+        "sentence": "The museum has displayed the model since 2018.",
+        "answers": [
+          "ตั้งแต่จุดเริ่มเวลา"
+        ],
+        "hints": [
+          "2018 เป็นปี",
+          "since แบบเวลา"
+        ],
+        "explanation": "since 2018 ระบุจุดเริ่มต้น ไม่ใช่เหตุผล",
+        "focus": "since แบบเวลา",
+        "options": [
+          "ตั้งแต่จุดเริ่มเวลา",
+          "เพราะแบบจำลองเสีย",
+          "ผลของการจัดแสดง"
+        ],
+        "wrong": {
+          "เพราะแบบจำลองเสีย": "ไม่มีข้อความเรื่องความเสียหาย",
+          "ผลของการจัดแสดง": "2018 ไม่ใช่ผลลัพธ์"
+        }
+      },
+      {
+        "id": "link-reason-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียง tokens เป็นประโยคเหตุขึ้นต้น ใช้ทุกชิ้นหนึ่งครั้ง",
+        "sentence": "Because / the bridge / was closed, / we / took / a detour.",
+        "answers": [
+          "Because the bridge was closed, we took a detour."
+        ],
+        "hints": [
+          "วาง because-clause ก่อน",
+          "comma หลังเหตุขึ้นต้น"
+        ],
+        "explanation": "Because the bridge was closed เป็นส่วนเหตุ แล้วตามด้วย main clause",
+        "focus": "comma หลังเหตุขึ้นต้น",
+        "tokens": [
+          "Because",
+          "the bridge",
+          "was closed,",
+          "we",
+          "took",
+          "a detour."
+        ]
+      },
+      {
+        "id": "link-reason-11",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "รวมด้วย As a result เป็นสองประโยค: คงประโยคแรกเดิม เติม As a result, หน้าประโยคสองและเปลี่ยน The เป็น the",
+        "sentence": "A valve failed. The tank emptied.",
+        "answers": [
+          "A valve failed. As a result, the tank emptied."
+        ],
+        "hints": [
+          "ผลอยู่ประโยคที่สอง",
+          "as a result + clause"
+        ],
+        "explanation": "as a result แสดงผลตามมาโดยไม่เชื่อมสอง clauses ด้วย comma อย่างเดียว",
+        "focus": "as a result + clause"
+      },
+      {
+        "id": "link-reason-12",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ต้องการเหตุชัด ไม่เปิดช่องให้ as หมายถึงขณะ เลือกคำที่เหมาะสุดจากตัวเลือก",
+        "sentence": "The worker stopped ___ the alarm sounded.",
+        "answers": [
+          "because"
+        ],
+        "hints": [
+          "โจทย์ต้องการสาเหตุ ไม่ใช่เวลา",
+          "ลดความกำกวม"
+        ],
+        "explanation": "because ระบุเหตุโดยตรง; when/while เน้นเวลา ไม่ยืนยันเหตุ",
+        "focus": "ลดความกำกวม",
+        "options": [
+          "because",
+          "when",
+          "while"
+        ],
+        "wrong": {
+          "when": "อาจบอกเวลาที่หยุดแต่ไม่ระบุเหตุโดยตรง",
+          "while": "บอกเหตุการณ์ร่วมเวลา ไม่ใช่เหตุโดยตรง"
+        }
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับปัญหาการเดินทาง ระบุเหตุด้วย because of แล้วผลด้วย as a result จากนั้นให้ข้อสันนิษฐานที่มีหลักฐานและใช้ may",
+      "model": "The bus was delayed because of road repairs. As a result, several passengers missed the train. The next bus may be crowded because a large group is waiting.",
+      "translation": "รถบัสล่าช้าเพราะการซ่อมถนน ผลคือผู้โดยสารหลายคนพลาดรถไฟ รถบัสคันถัดไปอาจแน่นเพราะมีคนกลุ่มใหญ่รออยู่",
+      "checklist": [
+        "because of ตามด้วยหน่วยนาม ไม่ใช่ clause เปล่า",
+        "ประโยคผลแยกด้วยจุดหรือ semicolon ถูกต้อง",
+        "แยกผลที่เกิดจริงกับการคาดคะเนจากหลักฐาน"
+      ]
+    },
+    "sources": [
+      "cam-because-of",
+      "cam-as-because",
+      "cam-cause-purpose",
+      "purdue-punctuation",
+      "cam-due-to"
+    ]
+  },
+  {
+    "id": "link-addition",
+    "number": 25,
+    "title": "Addition and examples",
+    "thaiTitle": "เพิ่มข้อมูลหรือยกตัวอย่าง อย่าใช้สลับกัน",
+    "group": "Linking Lab",
+    "minutes": 25,
+    "outcome": "แยก and ที่เชื่อมโครงสร้าง ออกจาก also และตัวเชื่อมระดับประโยค พร้อมวาง such as และ for example ให้ถูก",
+    "memory": "and เชื่อมหน่วย; also เพิ่ม; such as ยกสมาชิก; for example ยกกรณี",
+    "why": "ทุกคำอาจแปลว่า อีกทั้ง หรือ เช่น ได้ แต่ใช้คนละตำแหน่งและบอกความสัมพันธ์ของความคิดต่างกัน",
+    "steps": [
+      {
+        "title": "1. จับหน่วยที่ and เชื่อม",
+        "body": "and เชื่อมคำ วลี หรือ clauses ที่ทำหน้าที่เทียบกันได้ จัดรูปให้ขนานกัน; เมื่อเชื่อมสอง independent clauses มักใช้ comma ก่อน and",
+        "example": "The course teaches planning and editing.",
+        "note": "ทั้ง planning และ editing เป็นหน่วย -ing ขนานกัน; and ไม่ได้ใช้เฉพาะประโยคเต็ม"
+      },
+      {
+        "title": "2. วาง also ตามกริยา",
+        "body": "ตำแหน่งกลางที่พบบ่อยคือก่อน main verb, หลัง be ที่เป็น main verb และหลัง auxiliary/modal ตัวแรก นอกจากนี้ Also, เปิดประโยคเพื่อเพิ่มประเด็นได้ ไม่จำเป็นต้องห้ามต้นประโยค",
+        "example": "The guide also explains the ticket system.",
+        "note": "also เพิ่มการอธิบายอีกเรื่อง; ตำแหน่งและบริบทช่วยบอกว่ากำลังเพิ่มใครหรือเพิ่มการกระทำ"
+      },
+      {
+        "title": "3. เพิ่มประเด็นในงานเขียน",
+        "body": "In addition, Furthermore, Moreover, ตามด้วย clause เพื่อเพิ่มข้อมูล โดย furthermore/moreover มักใช้ในงานเขียนที่พัฒนาเหตุผลและอาจเพิ่มน้ำหนักให้ประเด็น เลือกตามความสัมพันธ์ ไม่ใช่ความยาวของคำ",
+        "example": "The proposal reduces waste. Moreover, it lowers storage costs.",
+        "note": "สองข้อสนับสนุนข้อเสนอเดียวกัน; moreover ไม่เหมาะหากประโยคหลังเป็นเพียงตัวอย่างของข้อแรก"
+      },
+      {
+        "title": "4. แยกเพิ่มข้อมูลกับยกตัวอย่าง",
+        "body": "for example / for instance เปิดประโยคตัวอย่างหรือแทรกในประโยคได้ ส่วน such as มักตามหลังหมวดนามแล้วตามด้วยตัวอย่างสมาชิก; in addition to ตามด้วย noun phrase หรือ -ing ต่างจาก In addition, + clause",
+        "example": "We need reusable supplies, such as jars and cloth bags.",
+        "note": "jars และ cloth bags เป็นตัวอย่าง supplies ไม่ใช่ข้อสนับสนุนใหม่"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The toolkit contains a ruler and a small torch.",
+        "th": "ชุดเครื่องมือมีไม้บรรทัดและไฟฉายขนาดเล็ก",
+        "note": "and เชื่อม noun phrases ไม่ต้องใส่ comma ระหว่างสองรายการนี้"
+      },
+      {
+        "en": "The team checked the figures and corrected the labels.",
+        "th": "ทีมตรวจตัวเลขและแก้ป้ายกำกับ",
+        "note": "and เชื่อม verb phrases ที่ใช้ประธานร่วมกัน"
+      },
+      {
+        "en": "The lobby has new seats, and the entrance has a ramp.",
+        "th": "โถงมีที่นั่งใหม่และทางเข้ามีทางลาด",
+        "note": "สองส่วนมีประธานกับกริยาของตัวเอง จึงใช้ comma ก่อน and ได้"
+      },
+      {
+        "en": "The app also stores offline maps.",
+        "th": "แอปยังเก็บแผนที่แบบออฟไลน์ด้วย",
+        "note": "also ก่อน main verb stores; เป็นคุณสมบัติเพิ่มจากบริบทก่อนหน้า"
+      },
+      {
+        "en": "The courtyard is also accessible at weekends.",
+        "th": "ลานยังเข้าใช้ได้ในวันสุดสัปดาห์ด้วย",
+        "note": "also หลัง be ที่เป็นกริยาหลัก"
+      },
+      {
+        "en": "Visitors can also borrow umbrellas.",
+        "th": "ผู้มาเยือนยังยืมร่มได้ด้วย",
+        "note": "also หลัง modal can และก่อน main verb borrow"
+      },
+      {
+        "en": "The hostel offers breakfast. In addition, guests can use the kitchen.",
+        "th": "โฮสเทลมีอาหารเช้า นอกจากนี้แขกยังใช้ครัวได้",
+        "note": "In addition เปิดประโยคเพิ่มสิ่งอำนวยความสะดวก"
+      },
+      {
+        "en": "The route avoids narrow streets. Furthermore, it passes two hospitals.",
+        "th": "เส้นทางเลี่ยงถนนแคบ อีกทั้งผ่านโรงพยาบาลสองแห่ง",
+        "note": "furthermore เพิ่มข้อสนับสนุนในคำอธิบายเส้นทาง; ไม่ใช่คำแทน and ระหว่างคำนาม"
+      },
+      {
+        "en": "The material is durable; moreover, it can be recycled.",
+        "th": "วัสดุทนทาน อีกทั้งรีไซเคิลได้",
+        "note": "moreover เพิ่มเหตุผลสนับสนุนโดยใช้ semicolon ระหว่าง independent clauses"
+      },
+      {
+        "en": "In addition to repairing chairs, the workshop restores old desks.",
+        "th": "นอกจากซ่อมเก้าอี้แล้ว โรงงานยังบูรณะโต๊ะเก่าด้วย",
+        "note": "in addition to + -ing; ไม่ใช่ in addition to it repairs chairs"
+      },
+      {
+        "en": "Some classes use practical tasks. For instance, learners build a simple bridge.",
+        "th": "บางชั้นเรียนใช้กิจกรรมปฏิบัติ เช่น ผู้เรียนสร้างสะพานง่าย ๆ",
+        "note": "for instance นำกรณีเฉพาะที่เป็นตัวอย่างของ practical tasks; for example ใช้แทนได้ตรงนี้"
+      },
+      {
+        "en": "Quiet activities, such as sketching and reading, are available upstairs.",
+        "th": "มีกิจกรรมเงียบ ๆ เช่น วาดภาพและอ่านหนังสือที่ชั้นบน",
+        "note": "such as แทรกตัวอย่าง noun/-ing หลังหมวด activities; comma สองข้างล้อมข้อมูลเสริม"
+      }
+    ],
+    "traps": [
+      {
+        "title": "also ไม่ใช่ตัวเชื่อมสองประโยคแทน and",
+        "body": "also เป็น adverb ต้องมีเครื่องหมายแบ่งประโยคหรือ conjunction เมื่อต่อ independent clauses",
+        "good": "The room has a balcony. It also has a desk.",
+        "contrast": "The room has a balcony, and it also has a desk.",
+        "source": "purdue-punctuation"
+      },
+      {
+        "title": "in addition ต่างจาก in addition to",
+        "body": "ตัวแรกใช้เชื่อมประเด็นแล้วตามด้วย clause ตัวหลังเป็นชุด preposition ที่รับหน่วยนามหรือ -ing",
+        "good": "In addition, the centre runs evening classes.",
+        "contrast": "In addition to daytime courses, the centre runs evening classes.",
+        "source": "cam-adding"
+      },
+      {
+        "title": "ตัวอย่างไม่เท่ากับเหตุผลเพิ่ม",
+        "body": "for example/for instance ยกกรณีที่อยู่ในข้อกล่าวอ้างก่อนหน้า ส่วน moreover เพิ่มข้อใหม่ที่สนับสนุนทิศเดียวกัน; การสลับอาจเปลี่ยนตรรกะ",
+        "good": "The club lends equipment. For example, members can borrow helmets.",
+        "contrast": "The club lends equipment. Moreover, membership is free.",
+        "source": "cam-such-as"
+      },
+      {
+        "title": "such as ต้องมีสิ่งที่กำลังยกตัวอย่าง",
+        "body": "รูปเรียนหลักคือ category + such as + examples ไม่ใช้ Such as, + ประโยคเต็มแทน For example,",
+        "good": "Several rooms, such as the studio and the library, need repainting.",
+        "contrast": "Several rooms need repainting. For example, the studio walls are marked.",
+        "source": "cam-such-as"
+      },
+      {
+        "title": "คำทางการไม่ทำให้งานดีขึ้นอัตโนมัติ",
+        "body": "furthermore/moreover เหมาะกับการต่อเหตุผลในบางงานเขียน แต่ and/also มักตรงและเป็นธรรมชาติ ไม่ต้องเรียงตัวเชื่อมหลายตัวในประโยคเดียว",
+        "good": "The bag is light and easy to clean.",
+        "contrast": "The bag is light. It is also easy to clean.",
+        "source": "cam-adding"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "link-addition-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำที่เชื่อมคำนามสองคำในรายการนี้",
+        "sentence": "Please bring paper ___ pencils.",
+        "answers": [
+          "and"
+        ],
+        "hints": [
+          "ช่องนี้อยู่ระหว่างคำนาม",
+          "and เชื่อมหน่วยขนาน"
+        ],
+        "explanation": "and เชื่อม paper กับ pencils โดยตรง",
+        "focus": "and เชื่อมหน่วยขนาน",
+        "options": [
+          "and",
+          "moreover",
+          "in addition"
+        ],
+        "wrong": {
+          "moreover": "ไม่ใช้เป็น conjunction ระหว่างนามสองคำในรูปนี้",
+          "in addition": "ต้องปรับเป็น in addition to หรือแยกประโยค"
+        }
+      },
+      {
+        "id": "link-addition-02",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติม also เท่านั้น ในตำแหน่งที่เตรียมไว้",
+        "sentence": "The centre is ___ open on Sundays.",
+        "answers": [
+          "also"
+        ],
+        "hints": [
+          "is เป็น main verb be",
+          "also หลัง be"
+        ],
+        "explanation": "ตำแหน่งกลางทั่วไปของ also คือหลัง main verb be",
+        "focus": "also หลัง be"
+      },
+      {
+        "id": "link-addition-03",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกประโยคที่ใช้ in addition to ถูกโครงสร้าง",
+        "sentence": "เลือกการเพิ่มกิจกรรม",
+        "answers": [
+          "In addition to painting walls, they repair windows."
+        ],
+        "hints": [
+          "to ในวลีนี้เป็น preposition",
+          "in addition to + -ing"
+        ],
+        "explanation": "painting walls เป็น -ing clause ใช้หลัง in addition to ได้",
+        "focus": "in addition to + -ing",
+        "options": [
+          "In addition to painting walls, they repair windows.",
+          "In addition to they paint walls, they repair windows.",
+          "In addition to paint walls, they repair windows."
+        ],
+        "wrong": {
+          "In addition to they paint walls, they repair windows.": "ไม่รับ finite clause เปล่าในตำแหน่งนี้",
+          "In addition to paint walls, they repair windows.": "to ในวลีนี้ไม่ใช่ infinitive marker จึงไม่ตามด้วย paint"
+        }
+      },
+      {
+        "id": "link-addition-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "เติม also ระหว่าง can กับ print เท่านั้น",
+        "sentence": "The machine can print labels.",
+        "answers": [
+          "The machine can also print labels."
+        ],
+        "hints": [
+          "ดู modal can",
+          "also หลัง modal"
+        ],
+        "explanation": "also อยู่หลัง modal ตัวแรกและก่อน main verb ในรูปที่ฝึก",
+        "focus": "also หลัง modal"
+      },
+      {
+        "id": "link-addition-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกตัวเชื่อมที่บอกว่าประโยคสองเป็นตัวอย่างของ skills",
+        "sentence": "The course teaches useful skills. ___, students learn to mend clothes.",
+        "answers": [
+          "For example"
+        ],
+        "hints": [
+          "การซ่อมเสื้อผ้าเป็นหนึ่งในทักษะ",
+          "ตัวอย่างไม่ใช่ข้อใหม่ขัดแย้ง"
+        ],
+        "explanation": "For example นำกรณีของ useful skills ที่กล่าวไว้",
+        "focus": "ตัวอย่างไม่ใช่ข้อใหม่ขัดแย้ง",
+        "options": [
+          "For example",
+          "Nevertheless",
+          "As a result"
+        ],
+        "wrong": {
+          "Nevertheless": "ไม่มีความขัดแย้งกับ useful skills",
+          "As a result": "เปลี่ยนเป็นผลที่เกิดตามมา ไม่ใช่ความสัมพันธ์การยกตัวอย่างที่โจทย์กำหนด"
+        }
+      },
+      {
+        "id": "link-addition-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม such as เพื่อยกตัวอย่างหน่วยนาม",
+        "sentence": "The stall sells local fruit, ___ guavas and pomelos.",
+        "answers": [
+          "such as"
+        ],
+        "hints": [
+          "มีหมวด fruit อยู่ก่อน",
+          "such as + examples"
+        ],
+        "explanation": "guavas และ pomelos เป็นสมาชิกตัวอย่างของ local fruit",
+        "focus": "such as + examples"
+      },
+      {
+        "id": "link-addition-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม In addition ตามรูปที่กำหนด ไม่เติม to",
+        "sentence": "The garden has a pond. ___, it has a shaded path.",
+        "answers": [
+          "In addition"
+        ],
+        "hints": [
+          "หลัง comma มี clause เต็ม",
+          "เพิ่มระดับประโยค"
+        ],
+        "explanation": "In addition เชื่อมประเด็น; ถ้าเติม to ต้องเปลี่ยนโครงตามหลัง",
+        "focus": "เพิ่มระดับประโยค"
+      },
+      {
+        "id": "link-addition-08",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "แทน For instance ด้วย For example เท่านั้น",
+        "sentence": "For instance, the library lends sewing machines.",
+        "answers": [
+          "For example, the library lends sewing machines."
+        ],
+        "hints": [
+          "คงคำอื่นและ comma เดิม",
+          "ตัวเชื่อมตัวอย่างที่แทนกันได้"
+        ],
+        "explanation": "ในตำแหน่งนี้ for instance และ for example นำกรณีตัวอย่างแบบเดียวกัน",
+        "focus": "ตัวเชื่อมตัวอย่างที่แทนกันได้"
+      },
+      {
+        "id": "link-addition-09",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกเวอร์ชันที่แบ่งสอง independent clauses ถูกต้อง",
+        "sentence": "ต้องใช้ moreover",
+        "answers": [
+          "The plan saves space; moreover, it reduces noise."
+        ],
+        "hints": [
+          "moreover ไม่ใช่ and",
+          "เครื่องหมายกับ moreover"
+        ],
+        "explanation": "ใช้ semicolon ก่อน moreover และ comma หลังคำเปิดประโยค",
+        "focus": "เครื่องหมายกับ moreover",
+        "options": [
+          "The plan saves space; moreover, it reduces noise.",
+          "The plan saves space, moreover, it reduces noise.",
+          "The plan saves space moreover it reduces noise."
+        ],
+        "wrong": {
+          "The plan saves space, moreover, it reduces noise.": "comma อย่างเดียวต่อสอง independent clauses ไม่พอ",
+          "The plan saves space moreover it reduces noise.": "ไม่มีเครื่องหมายแบ่งประโยค"
+        }
+      },
+      {
+        "id": "link-addition-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงคำให้ also อยู่ก่อนกริยาหลัก",
+        "sentence": "The museum / also / offers / free / workshops.",
+        "answers": [
+          "The museum also offers free workshops."
+        ],
+        "hints": [
+          "offers เป็น main verb",
+          "also ก่อน main verb"
+        ],
+        "explanation": "ประโยคนี้ไม่มี auxiliary จึงวาง also ก่อน offers ในรูปเป้าหมาย",
+        "focus": "also ก่อน main verb",
+        "tokens": [
+          "The museum",
+          "also",
+          "offers",
+          "free",
+          "workshops."
+        ]
+      },
+      {
+        "id": "link-addition-11",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "เปลี่ยน , and it เป็น . It also เท่านั้น คงคำอื่นเดิม",
+        "sentence": "The pass covers buses, and it covers trams.",
+        "answers": [
+          "The pass covers buses. It also covers trams."
+        ],
+        "hints": [
+          "จบประโยคแรกที่ buses",
+          "เปลี่ยน conjunction เป็น adverb"
+        ],
+        "explanation": "การใช้ also แทนการเชื่อมด้วย and ต้องปรับขอบเขตประโยคด้วย",
+        "focus": "เปลี่ยน conjunction เป็น adverb"
+      },
+      {
+        "id": "link-addition-12",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "คำใดทำให้ clause หลังเป็นข้อดีเพิ่มเติม ไม่ใช่ตัวอย่างหรือความขัดแย้ง ตามจุดประสงค์โจทย์",
+        "sentence": "The panel is inexpensive. ___, it is easy to install.",
+        "answers": [
+          "Furthermore"
+        ],
+        "hints": [
+          "สองข้อเป็นข้อดีที่แยกกัน",
+          "เพิ่มเหตุผลทิศเดียวกัน"
+        ],
+        "explanation": "Furthermore เพิ่มข้อดีอีกข้อ โดยไม่อ้างว่า ease of installation เป็นตัวอย่างของ low cost",
+        "focus": "เพิ่มเหตุผลทิศเดียวกัน",
+        "options": [
+          "Furthermore",
+          "For instance",
+          "However"
+        ],
+        "wrong": {
+          "For instance": "ติดตั้งง่ายไม่ใช่ตัวอย่างของราคาไม่แพง",
+          "However": "บอกความขัดแย้งซึ่งโจทย์ไม่ได้ต้องการ"
+        }
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเสนอชมรมหลังเลิกเรียน: ข้อดีหนึ่งข้อ เพิ่มข้อดีใหม่ด้วย In addition และยกตัวอย่างข้อดีนั้นด้วย For example",
+      "model": "The club helps students practise teamwork. In addition, it teaches practical skills. For example, members learn to repair bicycles.",
+      "translation": "ชมรมช่วยให้นักเรียนฝึกทำงานเป็นทีม นอกจากนี้ยังสอนทักษะปฏิบัติ เช่น สมาชิกเรียนการซ่อมจักรยาน",
+      "checklist": [
+        "ประโยคเพิ่มเสนอข้อมูลใหม่",
+        "ประโยคตัวอย่างเป็นกรณีของข้อความก่อนหน้า",
+        "แบ่งประโยคครบและไม่ใช้ also เชื่อมด้วย comma อย่างเดียว"
+      ]
+    },
+    "sources": [
+      "cam-adding",
+      "cam-also",
+      "cam-such-as",
+      "purdue-punctuation",
+      "purdue-parallel",
+      "cam-furthermore",
+      "cam-moreover"
+    ]
+  },
+  {
+    "id": "link-purpose",
+    "number": 26,
+    "title": "Purpose and conditions",
+    "thaiTitle": "บอกเป้าหมาย ตั้งเงื่อนไข และแยกผลจริง",
+    "group": "Linking Lab",
+    "minutes": 25,
+    "outcome": "ใช้ infinitive หรือ so that ตามผู้กระทำ และแยก if/unless/otherwise ออกจาก even if",
+    "memory": "เพื่อ = เป้าหมาย; ถ้า = เงื่อนไข; แม้ = ยอมรับสิ่งขัดคาด",
+    "why": "การตั้งใจให้เกิดบางอย่างไม่ได้แปลว่าเกิดสำเร็จ และการบอกข้อแม้ต่างจากการบอกว่าจะทำแม้มีอุปสรรค",
+    "steps": [
+      {
+        "title": "1. ใช้ to กับเป้าหมายของผู้ทำ",
+        "body": "to, in order to และ so as to ตามด้วยกริยารูปฐาน; ผู้ทำ infinitive มักเป็นประธานของประโยคหลัก แต่ต้องดูบริบทด้วย เช่น อุปกรณ์อาจเป็นสิ่งที่ทำหน้าที่ตามเป้าหมาย to กระชับที่สุด ส่วน in order to/so as to ทำจุดประสงค์ชัดและอาจมีน้ำเสียงเป็นทางการขึ้น",
+        "example": "We labelled the boxes to speed up unpacking.",
+        "note": "we เป็นผู้ติดป้ายและผู้ตั้งใจเร่งการแกะกล่อง ไม่ได้ยืนยันว่างานเร็วขึ้นแล้ว"
+      },
+      {
+        "title": "2. เปลี่ยนผู้กระทำด้วย so that",
+        "body": "so that ตามด้วย subject + verb มักมี can/could/will/would ตามบริบท จึงระบุผู้ทำเป้าหมายต่างจากผู้ทำประโยคหลักได้; ปฏิเสธเป้าหมายใช้ in order not to หรือ so as not to ได้ชัด",
+        "example": "I lowered the shelf so that visitors could reach the books.",
+        "note": "I ปรับชั้น แต่ visitors เป็นผู้หยิบหนังสือ; อย่าเปลี่ยนเป็น to reach แล้วทำให้ I กลายเป็นผู้หยิบ"
+      },
+      {
+        "title": "3. ตั้งข้อแม้ด้วยเงื่อนไข",
+        "body": "if เสนอเงื่อนไขทั่วไป; provided that และ as long as เน้นข้อแม้ที่ต้องรักษา; unless หมายถึง except if ไม่ใช่คำแทน if โดยไม่เปลี่ยนขั้วปฏิเสธ ในเงื่อนไขอนาคตทั่วไปใช้ present ใน if-clause",
+        "example": "You can use the studio as long as you leave it tidy.",
+        "note": "as long as ที่นี่เป็นข้อแม้ ไม่ใช่ระยะเวลา; provided that ใช้ได้ในบริบทนี้และอาจเหมาะกับข้อกำหนดทางการ"
+      },
+      {
+        "title": "4. ตรวจผลที่ตั้งใจ กับผลจริง และข้อยกเว้น",
+        "body": "so that อาจบอกเป้าหมายหรือผล ต้องอ่านบริบท; so + adjective/adverb + that บอกระดับที่นำไปสู่ผล ส่วน otherwise ในความหมายเงื่อนไขคือ ถ้าไม่เช่นนั้น และ even if บอกว่าผลยังคงเดิมแม้เงื่อนไขเกิด",
+        "example": "Save a copy; otherwise, you may lose your changes.",
+        "note": "otherwise อ้างย้อนว่า ถ้าไม่บันทึกสำเนา; ต้องแบ่ง independent clauses ให้ถูก"
+      }
+    ],
+    "examples": [
+      {
+        "en": "We opened the windows to cool the room.",
+        "th": "เราเปิดหน้าต่างเพื่อให้ห้องเย็นลง",
+        "note": "to + base verb; เป้าหมายยังไม่ใช่หลักฐานว่าห้องเย็นลงจริง"
+      },
+      {
+        "en": "We opened the windows in order to cool the room.",
+        "th": "เราเปิดหน้าต่างเพื่อให้ห้องเย็นลง",
+        "note": "in order to แทน to ได้ในโครงเป้าหมายนี้ เพิ่มความชัดของเจตนา ไม่ได้เพิ่มคุณภาพอัตโนมัติ"
+      },
+      {
+        "en": "The team left early so as to avoid the traffic.",
+        "th": "ทีมออกแต่เช้าเพื่อเลี่ยงรถติด",
+        "note": "so as to + avoid; มักพบในภาษาเขียนที่ระบุจุดประสงค์"
+      },
+      {
+        "en": "I used headphones so as not to disturb the neighbours.",
+        "th": "ฉันใช้หูฟังเพื่อไม่รบกวนเพื่อนบ้าน",
+        "note": "not อยู่ระหว่าง as กับ to ในรูป so as not to ซึ่งเป็นรูปบอกจุดประสงค์เชิงปฏิเสธที่ใช้ทั่วไป"
+      },
+      {
+        "en": "The tutor enlarged the diagram so that everyone could see it.",
+        "th": "ผู้สอนขยายแผนภาพเพื่อให้ทุกคนเห็น",
+        "note": "ผู้ทำหลักคือ tutor ผู้เห็นคือ everyone; so that แยกประธานได้"
+      },
+      {
+        "en": "We will add signs so that visitors can find the exit.",
+        "th": "เราจะเพิ่มป้ายเพื่อให้ผู้มาเยือนหาทางออกได้",
+        "note": "can สื่อความสามารถที่ตั้งใจให้เกิดในอนาคต ไม่จำเป็นต้องใช้ will หลัง so that เสมอ"
+      },
+      {
+        "en": "The speaker was so quiet that the audience missed the instructions.",
+        "th": "ผู้พูดพูดเบามากจนผู้ฟังไม่ได้ยินคำแนะนำ",
+        "note": "so + adjective + that เป็นระดับและผล ไม่ใช่จุดประสงค์ที่จะทำให้คนพลาด"
+      },
+      {
+        "en": "If the weather improves, we will test the boat.",
+        "th": "ถ้าอากาศดีขึ้น เราจะทดสอบเรือ",
+        "note": "if + present simple ในเงื่อนไขอนาคตทั่วไป; will อยู่ main clause"
+      },
+      {
+        "en": "Unless the weather improves, we will keep the boat indoors.",
+        "th": "ถ้าอากาศไม่ดีขึ้น เราจะเก็บเรือไว้ในอาคาร",
+        "note": "unless = except if; ถ้าอากาศดีขึ้น ข้อยืนยันว่าเก็บไว้ข้างในไม่ใช้บังคับ แต่ไม่ได้รับประกันว่าจะนำออก"
+      },
+      {
+        "en": "You may borrow the camera provided that you return it by Friday.",
+        "th": "คุณยืมกล้องได้โดยมีข้อแม้ว่าต้องคืนภายในวันศุกร์",
+        "note": "provided that เน้นเงื่อนไขการอนุญาต; if ใช้ได้แต่มีน้ำหนักข้อแม้น้อยลง"
+      },
+      {
+        "en": "We can hold the event outside as long as the path remains clear.",
+        "th": "เราจัดงานข้างนอกได้ตราบที่ทางเดินยังโล่ง",
+        "note": "as long as เน้นเงื่อนไขต่อเนื่อง; ไม่ได้หมายความว่าต้องจัดนานเท่าทางเดิน"
+      },
+      {
+        "en": "We will practise indoors even if the sun comes out.",
+        "th": "เราจะซ้อมในอาคารแม้แดดจะออก",
+        "note": "even if แสดงว่าแผนไม่เปลี่ยน ไม่เหมือน if the sun comes out ซึ่งตั้งแดดออกเป็นเงื่อนไข"
+      }
+    ],
+    "traps": [
+      {
+        "title": "เป้าหมายไม่ใช่ผลสำเร็จ",
+        "body": "to บอกเจตนา ส่วน so ที่เชื่อมสอง clauses บอกผลตามมาในบริบทนี้ อย่าแทนกันแล้วอ้างว่าผลเกิดขึ้นแน่",
+        "good": "We shortened the form to reduce errors.",
+        "contrast": "We shortened the form, so fewer users made errors.",
+        "source": "cam-cause-purpose"
+      },
+      {
+        "title": "ประธานเปลี่ยน ต้องรักษาประธานไว้",
+        "body": "การลด so that เป็น to โดยไม่ดูผู้กระทำอาจเปลี่ยนความหมาย ประโยคแรกให้ช่างเห็น ประโยคสองให้ I เห็น",
+        "good": "I held the light so that the mechanic could inspect the engine.",
+        "contrast": "I held the light to inspect the engine.",
+        "source": "cam-cause-purpose"
+      },
+      {
+        "title": "unless ไม่ใช่ if และไม่ควรกลับขั้วซ้ำ",
+        "body": "ในเงื่อนไขทั่วไป unless the train is late ตรงกับ if the train is not late; ถ้าใส่ not หลัง unless ความหมายเปลี่ยน ไม่ใช่รูปผิดไวยากรณ์ทุกกรณี",
+        "good": "We will arrive by noon unless the train is late.",
+        "contrast": "We will arrive by noon if the train is not late.",
+        "source": "cam-unless"
+      },
+      {
+        "title": "เงื่อนไขกับ concession คนละตรรกะ",
+        "body": "if ทำให้แผนขึ้นกับเงื่อนไข ส่วน even if บอกว่าแม้เงื่อนไขนั้นเกิด แผนยังคงเดิม; even though มักเสนอเหตุที่เป็นจริงแล้ว",
+        "good": "We will cancel if it rains.",
+        "contrast": "We will continue even if it rains.",
+        "source": "bc-conditionals"
+      },
+      {
+        "title": "otherwise ต้องอ้างเงื่อนไขให้ชัด",
+        "body": "ในความหมาย ถ้าไม่เช่นนั้น otherwise อ้างการไม่ทำสิ่งก่อนหน้า และเป็น adverb ไม่ใช่ conjunction แบบ or",
+        "good": "Confirm your place today; otherwise, it may be offered to someone else.",
+        "contrast": "Confirm your place today, or it may be offered to someone else.",
+        "source": "purdue-punctuation"
+      },
+      {
+        "title": "as long as อาจเป็นระยะเวลา",
+        "body": "as long as สื่อได้ทั้งข้อแม้และความยาวเวลา; อ่านว่ากำลังอนุญาตแบบมีเงื่อนไขหรือเปรียบระยะเวลา",
+        "good": "You can stay as long as you keep the room clean.",
+        "contrast": "You can stay for as long as you need.",
+        "source": "cam-as-long-as"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "link-purpose-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกวลีที่ตามด้วยกริยา check ได้โดยตรง",
+        "sentence": "We arrived early ___ check the equipment.",
+        "answers": [
+          "in order to"
+        ],
+        "hints": [
+          "check เป็นกริยารูปฐาน",
+          "purpose infinitive"
+        ],
+        "explanation": "in order to รับกริยารูปฐาน; so that/if ต้องตามด้วย clause",
+        "focus": "purpose infinitive",
+        "options": [
+          "in order to",
+          "so that",
+          "if"
+        ],
+        "wrong": {
+          "so that": "ต้องเพิ่มประธาน เช่น so that we could check",
+          "if": "ต้องมี clause เงื่อนไข ไม่ใช่ check เปล่า"
+        }
+      },
+      {
+        "id": "link-purpose-02",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติม so that ตามรูปที่กำหนด",
+        "sentence": "The guide spoke slowly ___ new visitors could follow.",
+        "answers": [
+          "so that"
+        ],
+        "hints": [
+          "guide กับ visitors เป็นคนละประธาน",
+          "so that + subject + verb"
+        ],
+        "explanation": "so that ระบุผู้ฟังเป็นผู้ทำเป้าหมายได้ โดยคงผู้พูดเป็นประธานหลัก",
+        "focus": "so that + subject + verb"
+      },
+      {
+        "id": "link-purpose-03",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกความหมายที่ตรงกับ unless",
+        "sentence": "Unless the parcel arrives today, we will contact the supplier.",
+        "answers": [
+          "If the parcel does not arrive today, we will contact the supplier."
+        ],
+        "hints": [
+          "unless = except if",
+          "ระวังขั้วปฏิเสธ"
+        ],
+        "explanation": "การไม่มาถึงวันนี้เป็นเงื่อนไขให้ติดต่อ",
+        "focus": "ระวังขั้วปฏิเสธ",
+        "options": [
+          "If the parcel does not arrive today, we will contact the supplier.",
+          "If the parcel arrives today, we will contact the supplier.",
+          "Even if the parcel arrives today, we will contact the supplier."
+        ],
+        "wrong": {
+          "If the parcel arrives today, we will contact the supplier.": "กลับขั้วเงื่อนไข",
+          "Even if the parcel arrives today, we will contact the supplier.": "บอกว่าจะติดต่อแม้มาถึงแล้ว ซึ่งต้นฉบับไม่ได้รับรอง"
+        }
+      },
+      {
+        "id": "link-purpose-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "แทน to ด้วย in order to เท่านั้น",
+        "sentence": "They installed a screen to block the wind.",
+        "answers": [
+          "They installed a screen in order to block the wind."
+        ],
+        "hints": [
+          "คงเป้าหมายของการติดตั้งฉากไว้",
+          "purpose infinitive ที่แทนกันได้"
+        ],
+        "explanation": "ในความหมายจุดประสงค์นี้ in order to ใช้แทน to ได้ ฉากเป็นสิ่งที่ช่วยกันลม และ they เป็นผู้ติดตั้งเพื่อเป้าหมายนั้น",
+        "focus": "purpose infinitive ที่แทนกันได้"
+      },
+      {
+        "id": "link-purpose-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "แผนคือไปต่อไม่ว่าฝนจะตกหรือไม่ เลือกคำเชื่อม",
+        "sentence": "We will continue ___ it rains.",
+        "answers": [
+          "even if"
+        ],
+        "hints": [
+          "ผลไม่เปลี่ยนแม้อุปสรรคเกิด",
+          "condition กับ concession"
+        ],
+        "explanation": "even if รักษาแผนไปต่อแม้ฝนตก",
+        "focus": "condition กับ concession",
+        "options": [
+          "even if",
+          "only if",
+          "unless"
+        ],
+        "wrong": {
+          "only if": "ทำให้ฝนตกเป็นเงื่อนไขจำเป็นของการไปต่อ",
+          "unless": "บอกข้อยกเว้นเมื่อฝนตก แผนอาจเปลี่ยน"
+        }
+      },
+      {
+        "id": "link-purpose-06",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปของ stay สำหรับเงื่อนไขอนาคตทั่วไป",
+        "sentence": "If the road ___ dry, we will cycle to the station.",
+        "answers": [
+          "stays"
+        ],
+        "hints": [
+          "road เอกพจน์",
+          "present ใน if-clause อนาคตทั่วไป"
+        ],
+        "explanation": "ใช้ stays เป็น present simple ไม่ใช้ will stays หรือ stay กับ road ในรูปนี้",
+        "focus": "present ใน if-clause อนาคตทั่วไป"
+      },
+      {
+        "id": "link-purpose-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม otherwise ตามรูปที่กำหนด",
+        "sentence": "Charge the tablet; ___, it may stop during the tour.",
+        "answers": [
+          "otherwise"
+        ],
+        "hints": [
+          "ถ้าไม่ชาร์จ",
+          "otherwise อ้างเงื่อนไขย้อน"
+        ],
+        "explanation": "otherwise ย่อความว่า if you do not charge the tablet และใช้ semicolon แบ่ง clauses",
+        "focus": "otherwise อ้างเงื่อนไขย้อน"
+      },
+      {
+        "id": "link-purpose-08",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "แทน if you do not ด้วย unless you เท่านั้น",
+        "sentence": "You cannot enter if you do not show a ticket.",
+        "answers": [
+          "You cannot enter unless you show a ticket."
+        ],
+        "hints": [
+          "ตัด do not เมื่อต้องการเงื่อนไขเดิม",
+          "unless กับ if not"
+        ],
+        "explanation": "unless you show a ticket หมายถึง except if you show a ticket ไม่ได้ยืนยันว่ามีตั๋วแล้วเข้าได้ในทุกสถานการณ์",
+        "focus": "unless กับ if not"
+      },
+      {
+        "id": "link-purpose-09",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ประโยคนี้แสดงอะไร",
+        "sentence": "The suitcase was so heavy that the handle broke.",
+        "answers": [
+          "ระดับความหนักและผลที่เกิด"
+        ],
+        "hints": [
+          "ดู so + adjective + that",
+          "result ไม่ใช่ purpose"
+        ],
+        "explanation": "ความหนักมากนำไปสู่หูหิ้วหัก ไม่ใช่เจตนาให้มันหัก",
+        "focus": "result ไม่ใช่ purpose",
+        "options": [
+          "ระดับความหนักและผลที่เกิด",
+          "จุดประสงค์ของผู้ถือ",
+          "ข้อแม้ในการยืมกระเป๋า"
+        ],
+        "wrong": {
+          "จุดประสงค์ของผู้ถือ": "ไม่มีการบอกเจตนาของใคร",
+          "ข้อแม้ในการยืมกระเป๋า": "ไม่มีเงื่อนไขการอนุญาต"
+        }
+      },
+      {
+        "id": "link-purpose-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียง tokens เพื่อบอกข้อแม้ ใช้ทุกชิ้นครั้งเดียว",
+        "sentence": "You may / use the desk / provided that / you / leave it / tidy.",
+        "answers": [
+          "You may use the desk provided that you leave it tidy."
+        ],
+        "hints": [
+          "main clause ตามด้วยข้อแม้",
+          "provided that + clause"
+        ],
+        "explanation": "provided that นำเงื่อนไข leave it tidy โดยมี you เป็นประธาน",
+        "focus": "provided that + clause",
+        "tokens": [
+          "You may",
+          "use the desk",
+          "provided that",
+          "you",
+          "leave it",
+          "tidy."
+        ]
+      },
+      {
+        "id": "link-purpose-11",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "แทน to avoid ด้วย so as not to cause เท่านั้น",
+        "sentence": "We moved the chairs quietly to avoid a disturbance.",
+        "answers": [
+          "We moved the chairs quietly so as not to cause a disturbance."
+        ],
+        "hints": [
+          "เปลี่ยน avoid เป็น not cause ตามที่กำหนด",
+          "negative purpose"
+        ],
+        "explanation": "so as not to cause บอกเป้าหมายเชิงปฏิเสธ โดยไม่อ้างว่าประสบผลสำเร็จแน่",
+        "focus": "negative purpose"
+      },
+      {
+        "id": "link-purpose-12",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ต้องการให้เด็กอ่านป้ายได้ ไม่ใช่ให้ผู้เขียนอ่าน เลือกประโยค",
+        "sentence": "เลือกโครงที่รักษาผู้ทำเป้าหมาย",
+        "answers": [
+          "I used large letters so that the children could read the sign."
+        ],
+        "hints": [
+          "เป้าหมายมีประธาน the children",
+          "รักษาประธานใน so that"
+        ],
+        "explanation": "so that คงเด็กไว้เป็นผู้ที่อ่านป้ายได้",
+        "focus": "รักษาประธานใน so that",
+        "options": [
+          "I used large letters so that the children could read the sign.",
+          "I used large letters to read the sign.",
+          "I used large letters because the children read the sign."
+        ],
+        "wrong": {
+          "I used large letters to read the sign.": "ทำให้ I เป็นผู้อ่านในโครงเป้าหมายนี้",
+          "I used large letters because the children read the sign.": "เปลี่ยนเป้าหมายเป็นเหตุที่ผู้เขียนใช้ตัวใหญ่"
+        }
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับพื้นที่เรียน: บอกเป้าหมายด้วย so that โดยใช้ประธานต่างกัน ตั้งข้อแม้ด้วย provided that และบอกผลหากไม่ทำด้วย otherwise",
+      "model": "We added lamps so that students could read comfortably. They may use the room provided that they keep it quiet. Please close the windows before leaving; otherwise, rain may damage the books.",
+      "translation": "เราเพิ่มโคมไฟเพื่อให้นักเรียนอ่านได้สบาย พวกเขาใช้ห้องได้โดยมีข้อแม้ว่าต้องรักษาความเงียบ โปรดปิดหน้าต่างก่อนออกไป มิฉะนั้นฝนอาจทำให้หนังสือเสียหาย",
+      "checklist": [
+        "so that มีประธานและกริยาของตัวเอง",
+        "ข้อแม้ไม่ถูกเขียนเป็น even if โดยผิดความหมาย",
+        "otherwise มีเงื่อนไขอ้างย้อนชัดและแบ่งประโยคถูกต้อง"
+      ]
+    },
+    "sources": [
+      "cam-cause-purpose",
+      "cam-unless",
+      "cam-as-long-as",
+      "bc-conditionals",
+      "purdue-punctuation"
+    ]
+  }
+]

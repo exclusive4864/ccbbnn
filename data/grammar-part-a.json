@@ -1,0 +1,2463 @@
+[
+  {
+    "id": "agreement",
+    "number": 1,
+    "title": "Subject–verb agreement",
+    "thaiTitle": "จับประธานให้เจอ แล้วคุมกริยา",
+    "group": "รากฐานประโยค",
+    "minutes": 18,
+    "outcome": "เลือกกริยาให้เข้ากับประธาน และอธิบายได้ว่าคำใดเป็นหัวประธาน",
+    "memory": "ดูหัวประธาน ไม่ใช่คำนามที่อยู่ใกล้กริยาที่สุด",
+    "why": "ประธานกับกริยาที่สอดคล้องกันช่วยให้ผู้อ่านตามได้ว่าใครหรืออะไรทำสิ่งนั้น",
+    "steps": [
+      {
+        "title": "1. วงประธานแล้วหาหัวคำ",
+        "body": "ในประธานที่ยาว ให้มองว่ากลุ่มคำพูดถึงอะไรเป็นหลัก ส่วน of หรือ with มักเพียงขยายคำนามนั้น",
+        "example": "The price of these tickets is high.",
+        "note": "หัวประธานคือ price เอกพจน์ ไม่ใช่ tickets จึงใช้ is"
+      },
+      {
+        "title": "2. เลือกรูปกริยา",
+        "body": "ใน present simple ประธาน he, she, it หรือคำนามเอกพจน์ทั่วไปใช้กริยาเติม -s/-es ส่วน I, you, we, they ใช้รูปพื้นฐาน; be และ have มีรูปเฉพาะ",
+        "example": "My neighbour works nearby, but her children study abroad.",
+        "note": "neighbour → works; children → study"
+      },
+      {
+        "title": "3. ตรวจประธานที่ซ่อนหรือพิเศษ",
+        "body": "ใน there is/are ให้ดูคำนามที่ตามมา; each และ everyone มักใช้กริยาเอกพจน์ แม้ความหมายเกี่ยวข้องกับหลายคน",
+        "example": "There are two empty desks. Each desk has a lamp.",
+        "note": "two desks → are; each desk → has"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The list of workshops is on the wall.",
+        "th": "รายชื่อเวิร์กช็อปอยู่บนผนัง",
+        "note": "list เป็นหัวประธานเอกพจน์"
+      },
+      {
+        "en": "Two cyclists wait beside the gate.",
+        "th": "นักปั่นสองคนรออยู่ข้างประตู",
+        "note": "cyclists พหูพจน์จึงใช้ wait"
+      },
+      {
+        "en": "My sister and I share a desk.",
+        "th": "ฉันกับพี่สาวใช้โต๊ะร่วมกัน",
+        "note": "สองคนเชื่อมด้วย and โดยทั่วไปเป็นประธานพหูพจน์"
+      },
+      {
+        "en": "Everyone needs a quiet place to work.",
+        "th": "ทุกคนต้องการที่เงียบ ๆ เพื่อทำงาน",
+        "note": "everyone ใช้กริยาเอกพจน์ needs"
+      },
+      {
+        "en": "There is a printer in the office.",
+        "th": "มีเครื่องพิมพ์หนึ่งเครื่องในสำนักงาน",
+        "note": "คำนามหลัง there คือ a printer"
+      },
+      {
+        "en": "The news seems encouraging.",
+        "th": "ข่าวนั้นดูน่ายินดี",
+        "note": "news ลงท้าย s แต่ใช้เป็นคำนามนับไม่ได้และกริยาเอกพจน์"
+      }
+    ],
+    "traps": [
+      {
+        "title": "คำนามหมู่มีความต่างตามสำเนียง",
+        "body": "team, family และ staff อาจใช้กริยาเอกพจน์เมื่อมองเป็นหน่วยเดียว หรือพหูพจน์เมื่อเน้นสมาชิก โดยเฉพาะใน British English อย่าตัดสินรูปหนึ่งว่าผิดเสมอ",
+        "good": "The team is ready for its presentation.",
+        "source": "cam-agreement",
+        "contrast": "The team are discussing their individual roles."
+      },
+      {
+        "title": "neither of ไม่ใช่ข้อห้ามพหูพจน์ทุกบริบท",
+        "body": "งานเขียนทางการมักเลือกกริยาเอกพจน์หลัง neither of แต่พหูพจน์พบได้ในการใช้ทั่วไป แบบฝึกจะระบุรูปทางการหากต้องการคำตอบเดียว",
+        "good": "Neither of the proposals is ready.",
+        "source": "cam-agreement"
+      },
+      {
+        "title": "singular they ใช้รูปกริยาแบบ they",
+        "body": "เมื่อ they หมายถึงคนคนเดียวที่ไม่ทราบเพศหรือใช้สรรพนามนี้ ยังคงใช้ are/have ไม่ใช่ is/has",
+        "good": "A new tutor has arrived. They are waiting downstairs.",
+        "source": "cam-agreement"
+      },
+      {
+        "title": "data มีสองแนวใช้",
+        "body": "งานวิชาการบางสาขาใช้ data เป็นพหูพจน์ ขณะที่งานทั่วไปอาจใช้เป็นคำนามนับไม่ได้เอกพจน์ ให้ตามแนวของสาขาหรือคู่มือรูปแบบ",
+        "good": "The data are consistent across the trials.",
+        "source": "cam-agreement",
+        "contrast": "The data is stored securely."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาโดยมองหัวประธาน",
+        "sentence": "The box of old notebooks ___ blue.",
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "หัวประธาน box เป็นเอกพจน์ จึงใช้ is",
+        "focus": "หัวประธาน",
+        "options": [
+          "is",
+          "are",
+          "be"
+        ],
+        "wrong": {
+          "are": "notebooks ขยาย box ไม่ใช่หัวประธาน",
+          "be": "ประโยคบอกเล่า present simple ต้องใช้รูปผัน"
+        },
+        "id": "agreement-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยา present simple",
+        "sentence": "Every passenger ___ a ticket.",
+        "answers": [
+          "needs"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "every + คำนามเอกพจน์ จึงใช้ needs",
+        "focus": "every",
+        "options": [
+          "need",
+          "needs",
+          "needing"
+        ],
+        "wrong": {
+          "need": "every passenger เป็นเอกพจน์",
+          "needing": "รูป -ing อยู่เดี่ยว ๆ เป็นกริยาหลักในประโยคนี้ไม่ได้"
+        },
+        "id": "agreement-02",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม is หรือ are",
+        "sentence": "There ___ three routes to the campus.",
+        "answers": [
+          "are"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "คำนามที่บอกว่ามีอยู่คือ three routes พหูพจน์",
+        "focus": "there is/are",
+        "id": "agreement-03",
+        "phase": "guided"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยนเฉพาะกริยาให้เข้ากับประธาน แล้วพิมพ์ประโยคเต็ม",
+        "sentence": "The timetable for the buses change weekly.",
+        "answers": [
+          "The timetable for the buses changes weekly."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "หัวประธาน timetable เอกพจน์ กริยาจึงเป็น changes",
+        "focus": "ประธานยาว",
+        "id": "agreement-04",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยา present simple",
+        "sentence": "My cousins ___ near the station.",
+        "answers": [
+          "live"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "cousins เป็นพหูพจน์ ใช้ live",
+        "focus": "พหูพจน์",
+        "options": [
+          "lives",
+          "live",
+          "living"
+        ],
+        "wrong": {
+          "lives": "cousins เป็นพหูพจน์ ไม่เติม s ที่กริยา",
+          "living": "ต้องมีกริยาช่วยหากใช้รูป continuous"
+        },
+        "id": "agreement-05",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาให้ประธานสองคน",
+        "sentence": "Nora and Ben ___ the evening class.",
+        "answers": [
+          "attend"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "Nora and Ben หมายถึงสองคน จึงใช้ attend",
+        "focus": "and",
+        "options": [
+          "attends",
+          "attend",
+          "is attending"
+        ],
+        "wrong": {
+          "attends": "ชื่อสองคนเชื่อม and เป็นพหูพจน์",
+          "is attending": "is ไม่ตรงกับประธานสองคน"
+        },
+        "id": "agreement-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม has หรือ have",
+        "sentence": "Each student ___ a locker.",
+        "answers": [
+          "has"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "each student มองทีละคน จึงเป็นเอกพจน์และใช้ has",
+        "focus": "each",
+        "id": "agreement-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม is หรือ are โดย they หมายถึงอาจารย์คนเดียว",
+        "sentence": "Our new lecturer uses they/them pronouns. They ___ very helpful.",
+        "answers": [
+          "are"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "singular they ยังคงจับคู่กับ are",
+        "focus": "singular they",
+        "id": "agreement-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยนเฉพาะกริยาให้ถูกต้อง แล้วพิมพ์ประโยคเต็ม",
+        "sentence": "The results of the survey shows a clear trend.",
+        "answers": [
+          "The results of the survey show a clear trend."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "หัวประธาน results เป็นพหูพจน์ ไม่ใช่ survey",
+        "focus": "ประธานยาว",
+        "id": "agreement-09",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงคำเป็นประโยคบอกเล่า เริ่มด้วย The",
+        "sentence": "",
+        "answers": [
+          "The keys are inside the drawer."
+        ],
+        "hints": [
+          "เริ่มจากประธาน แล้วหากริยาหลัก",
+          "วางส่วนขยายและเครื่องหมายตามความสัมพันธ์ของความหมาย"
+        ],
+        "explanation": "keys เป็นพหูพจน์จึงใช้ are; ส่วนสถานที่ตามหลัง",
+        "focus": "พหูพจน์",
+        "tokens": [
+          "The",
+          "keys",
+          "are",
+          "inside",
+          "the",
+          "drawer."
+        ],
+        "id": "agreement-10",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาสำหรับคำนาม news",
+        "sentence": "The news ___ surprising.",
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "news ใช้กริยาเอกพจน์ is",
+        "focus": "คำนามรูปพิเศษ",
+        "options": [
+          "are",
+          "is",
+          "be"
+        ],
+        "wrong": {
+          "are": "news ไม่ใช่พหูพจน์แม้ลงท้าย s",
+          "be": "ต้องใช้รูปผันของ be"
+        },
+        "id": "agreement-11",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม is หรือ are ตามรูปแบบงานเขียนทางการที่เลือกเอกพจน์หลัง neither of",
+        "sentence": "Neither of the answers ___ complete.",
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "โจทย์กำหนดแนวทางการที่ใช้ neither เป็นเอกพจน์ จึงตอบ is; are พบได้ในการใช้ทั่วไป",
+        "focus": "neither of",
+        "id": "agreement-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคเกี่ยวกับห้องเรียนหรือสำนักงาน ใช้ประธานยาวที่มี of หนึ่งประโยค และ each อีกหนึ่งประโยค",
+      "model": "The layout of the classrooms is simple. Each room has a large window. Students enjoy the natural light.",
+      "translation": "การจัดผังห้องเรียนเรียบง่าย แต่ละห้องมีหน้าต่างบานใหญ่ นักเรียนชอบแสงธรรมชาติ",
+      "checklist": [
+        "ขีดเส้นใต้หัวประธานของแต่ละประโยค",
+        "ตรวจรูปกริยาของ each และประธานพหูพจน์",
+        "อ่านใหม่โดยตัดส่วนขยายออกชั่วคราว"
+      ]
+    },
+    "sources": [
+      "cam-agreement"
+    ]
+  },
+  {
+    "id": "articles",
+    "number": 2,
+    "title": "Articles",
+    "thaiTitle": "เลือก a, an, the หรือไม่ใส่ article",
+    "group": "รากฐานประโยค",
+    "minutes": 18,
+    "outcome": "เลือก article จากความนับได้ จำนวน และความชัดเจนของสิ่งที่พูดถึง",
+    "memory": "ครั้งแรกและหนึ่งชิ้น: a/an; รู้ว่าชิ้นไหน: the",
+    "why": "article ช่วยบอกว่าพูดถึงสิ่งใดสิ่งหนึ่ง สิ่งที่ระบุชัด หรือสิ่งต่าง ๆ โดยทั่วไป",
+    "steps": [
+      {
+        "title": "1. เช็กว่านับได้ไหมและกี่ชิ้น",
+        "body": "คำนามนับได้เอกพจน์ทั่วไปต้องมีตัวกำหนด เช่น a, the, my หรือ this ไม่ควรวางเดี่ยว ๆ",
+        "example": "I bought a notebook.",
+        "note": "notebook เป็นคำนามนับได้เอกพจน์และยังไม่ระบุว่าเล่มไหน"
+      },
+      {
+        "title": "2. เลือก a หรือ an จากเสียง",
+        "body": "ใช้ an หน้าเสียงสระ และ a หน้าเสียงพยัญชนะ ดูเสียงเริ่มต้น ไม่ใช่ตัวอักษรแรก",
+        "example": "She found an unusual route to work.",
+        "note": "unusual เริ่มด้วยเสียงสระ จึงใช้ an"
+      },
+      {
+        "title": "3. ถามว่าผู้อ่านระบุได้หรือยัง",
+        "body": "ใช้ the เมื่อผู้อ่านรู้ว่าสิ่งไหนจากบริบท การกล่าวถึงก่อน หรือคำขยายที่ระบุสิ่งนั้นชัด",
+        "example": "I rented a bicycle. The bicycle had a basket.",
+        "note": "กล่าวถึงครั้งแรกใช้ a; ครั้งถัดไปรู้ว่าคันเดิมจึงใช้ the"
+      },
+      {
+        "title": "4. ถ้าพูดทั่วไป อย่ารีบเติม the",
+        "body": "คำนามพหูพจน์และคำนามนับไม่ได้ที่กล่าวโดยทั่วไปมักไม่ใส่ article แต่ถ้าเจาะจงชุดหนึ่งใช้ the ได้",
+        "example": "Libraries provide information.",
+        "note": "กล่าวถึงห้องสมุดและข้อมูลโดยทั่วไป ไม่ได้ชี้ชุดใดชุดหนึ่ง"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A volunteer showed me the entrance.",
+        "th": "อาสาสมัครคนหนึ่งชี้ทางเข้าให้ฉัน",
+        "note": "a volunteer ยังไม่ระบุคน; the entrance คือทางเข้าที่เข้าใจได้จากสถานการณ์"
+      },
+      {
+        "en": "We waited for an hour.",
+        "th": "เรารอเป็นเวลาหนึ่งชั่วโมง",
+        "note": "hour เริ่มเสียงสระเพราะ h ไม่ออกเสียง"
+      },
+      {
+        "en": "She studies at a university near the coast.",
+        "th": "เธอเรียนที่มหาวิทยาลัยแห่งหนึ่งใกล้ชายฝั่ง",
+        "note": "university เริ่มเสียง /j/ คล้าย ย จึงใช้ a"
+      },
+      {
+        "en": "The notes on your desk are mine.",
+        "th": "โน้ตที่อยู่บนโต๊ะคุณเป็นของฉัน",
+        "note": "ส่วนขยาย on your desk ชี้ชุดโน้ตที่พูดถึง"
+      },
+      {
+        "en": "Public transport reduces traffic.",
+        "th": "ขนส่งสาธารณะช่วยลดการจราจร",
+        "note": "transport และ traffic ในความหมายนี้เป็นนามนับไม่ได้ที่กล่าวทั่วไป"
+      },
+      {
+        "en": "My manager bought a useful guide.",
+        "th": "ผู้จัดการของฉันซื้อคู่มือที่มีประโยชน์เล่มหนึ่ง",
+        "note": "my เป็นตัวกำหนดอยู่แล้ว; useful เริ่มเสียง /j/ จึงใช้ a"
+      }
+    ],
+    "traps": [
+      {
+        "title": "เสียงสำคัญกว่าตัวสะกด",
+        "body": "ตัว u อาจเริ่มด้วยเสียงสระหรือเสียง /j/ และ h บางคำไม่ออกเสียง",
+        "good": "It was an honest mistake.",
+        "source": "cam-articles",
+        "contrast": "It was a useful reminder."
+      },
+      {
+        "title": "ไม่ซ้อน article กับ my/this",
+        "body": "ในโครงสร้างพื้นฐาน my, this และ article ทำหน้าที่กำหนดคำนามตำแหน่งเดียวกัน จึงไม่เขียน the my desk",
+        "good": "This desk is mine.",
+        "source": "cam-articles"
+      },
+      {
+        "title": "ชื่อสถานที่มีกฎย่อย",
+        "body": "ชื่อเมืองและประเทศส่วนใหญ่มักไม่มี article แต่บางชื่อใช้ the เป็นส่วนหนึ่งของรูปมาตรฐาน จึงควรตรวจชื่อเฉพาะ ไม่ใช้กฎเดียวครอบทุกชื่อ",
+        "good": "She works in Japan.",
+        "source": "cam-articles",
+        "contrast": "Her colleague works in the Netherlands."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "กล่าวถึงเครื่องพิมพ์เป็นครั้งแรก เลือก article",
+        "sentence": "We need ___ printer for our office.",
+        "answers": [
+          "a"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "printer นับได้เอกพจน์และยังไม่ระบุเครื่อง จึงใช้ a",
+        "focus": "นามเอกพจน์",
+        "options": [
+          "a",
+          "an",
+          "ไม่ใส่ article"
+        ],
+        "wrong": {
+          "an": "printer เริ่มด้วยเสียงพยัญชนะ",
+          "ไม่ใส่ article": "printer เป็นคำนามนับได้เอกพจน์และยังไม่มีตัวกำหนด"
+        },
+        "id": "articles-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกตามเสียงแรกของคำ",
+        "sentence": "The repair took ___ hour.",
+        "answers": [
+          "an"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "hour เริ่มด้วยเสียงสระ ใช้ an",
+        "focus": "เสียง",
+        "options": [
+          "a",
+          "an",
+          "ไม่ใส่ article"
+        ],
+        "wrong": {
+          "a": "hour ไม่ออกเสียง h จึงเริ่มด้วยเสียงสระ",
+          "ไม่ใส่ article": "hour เป็นนามนับได้เอกพจน์"
+        },
+        "id": "articles-02",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม a หรือ the ให้หมายถึงแผนที่แผ่นเดิม",
+        "sentence": "I picked up a map. ___ map showed all the bus stops.",
+        "answers": [
+          "The"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "ครั้งที่สองผู้อ่านรู้ว่าเป็นแผนที่แผ่นเดิม ใช้ The ต้นประโยค",
+        "focus": "กล่าวซ้ำ",
+        "id": "articles-03",
+        "phase": "guided"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้เฉพาะ an เป็น article ที่ถูกต้อง แล้วพิมพ์ประโยคเต็ม",
+        "sentence": "He gave us an useful suggestion.",
+        "answers": [
+          "He gave us a useful suggestion."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "useful เริ่มด้วยเสียง /j/ ซึ่งเป็นเสียงพยัญชนะ จึงใช้ a",
+        "focus": "เสียง",
+        "id": "articles-04",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "พูดถึงจักรยานโดยทั่วไป เลือกคำเติม โดย ∅ หมายถึงไม่ใส่ article",
+        "sentence": "___ bicycles need regular maintenance.",
+        "answers": [
+          "∅"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "bicycles เป็นพหูพจน์ที่กล่าวทั่วไป ไม่ต้องมี article",
+        "focus": "พหูพจน์ทั่วไป",
+        "options": [
+          "A",
+          "An",
+          "∅"
+        ],
+        "wrong": {
+          "A": "a ใช้กับนามนับได้เอกพจน์",
+          "An": "an ใช้กับนามนับได้เอกพจน์"
+        },
+        "id": "articles-05",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกตัวกำหนดโดยคำนามมี my อยู่แล้ว; ∅ คือไม่เติมอะไร",
+        "sentence": "I left ___ my coat upstairs.",
+        "answers": [
+          "∅"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "my กำหนด coat อยู่แล้ว ไม่เติม article",
+        "focus": "ตัวกำหนด",
+        "options": [
+          "a",
+          "the",
+          "∅"
+        ],
+        "wrong": {
+          "a": "ไม่ใช้ a ซ้อนหน้า my ในโครงสร้างนี้",
+          "the": "ไม่ใช้ the ซ้อนหน้า my"
+        },
+        "id": "articles-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม a หรือ an",
+        "sentence": "She sent ___ email to the library.",
+        "answers": [
+          "an"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "email เริ่มด้วยเสียงสระและเป็นนามนับได้เอกพจน์",
+        "focus": "เสียง",
+        "id": "articles-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม a หรือ the เพื่อชี้ประตูที่ผู้พูดกับผู้ฟังรู้จักจากบริบท",
+        "sentence": "Please close ___ door behind you.",
+        "answers": [
+          "the"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "บริบท behind you ระบุประตูที่พูดถึงได้ จึงใช้ the",
+        "focus": "สิ่งที่ระบุได้",
+        "id": "articles-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "ลบเฉพาะ The เพื่อให้หมายถึงข้อมูลโดยทั่วไป แล้วพิมพ์ประโยคเต็มขึ้นต้นตัวใหญ่",
+        "sentence": "The information is valuable.",
+        "answers": [
+          "Information is valuable."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "information เป็นนามนับไม่ได้ เมื่อกล่าวทั่วไปไม่ใช้ the",
+        "focus": "นามนับไม่ได้ทั่วไป",
+        "id": "articles-09",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงคำโดยเริ่มด้วย A",
+        "sentence": "",
+        "answers": [
+          "A student opened the window."
+        ],
+        "hints": [
+          "เริ่มจากประธาน แล้วหากริยาหลัก",
+          "วางส่วนขยายและเครื่องหมายตามความสัมพันธ์ของความหมาย"
+        ],
+        "explanation": "a student แนะนำคนหนึ่ง ส่วน the window ชี้หน้าต่างที่รู้กัน",
+        "focus": "a กับ the",
+        "tokens": [
+          "A",
+          "student",
+          "opened",
+          "the",
+          "window."
+        ],
+        "id": "articles-10",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือก article ตามเสียง",
+        "sentence": "She wears ___ uniform at work.",
+        "answers": [
+          "a"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "uniform เริ่มด้วยเสียงพยัญชนะ /j/ จึงใช้ a",
+        "focus": "เสียง",
+        "options": [
+          "a",
+          "an",
+          "ไม่ใส่ article"
+        ],
+        "wrong": {
+          "an": "uniform เริ่มด้วยเสียง /j/ ไม่ใช่เสียงสระ",
+          "ไม่ใส่ article": "uniform ในประโยคนี้เป็นนามนับได้เอกพจน์"
+        },
+        "id": "articles-11",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม a หรือ an",
+        "sentence": "They interviewed ___ engineer yesterday.",
+        "answers": [
+          "an"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "engineer เริ่มด้วยเสียงสระ ใช้ an เมื่อกล่าวถึงคนหนึ่ง",
+        "focus": "เสียง",
+        "id": "articles-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคเล่าของที่ซื้อมาใช้เรียน แนะนำของด้วย a/an แล้วกล่าวถึงชิ้นเดิมด้วย the และเพิ่มประโยคพูดทั่วไปได้อีกหนึ่งประโยค",
+      "model": "I bought a small lamp for my desk. The lamp helps me read at night. Good lighting makes studying easier.",
+      "translation": "ฉันซื้อโคมไฟเล็ก ๆ สำหรับโต๊ะ โคมไฟนั้นช่วยให้ฉันอ่านหนังสือตอนกลางคืน แสงสว่างที่ดีช่วยให้เรียนได้ง่ายขึ้น",
+      "checklist": [
+        "คำนามนับได้เอกพจน์มีตัวกำหนดแล้วหรือยัง",
+        "a/an ตรงกับเสียงแรกหรือไม่",
+        "the ชี้สิ่งที่ผู้อ่านระบุได้จริงหรือไม่"
+      ]
+    },
+    "sources": [
+      "cam-articles"
+    ]
+  },
+  {
+    "id": "countability",
+    "number": 3,
+    "title": "Countable and uncountable nouns",
+    "thaiTitle": "นับชิ้นได้ไหม ก่อนเลือกคำบอกจำนวน",
+    "group": "รากฐานประโยค",
+    "minutes": 18,
+    "outcome": "แยกคำนามนับได้และนับไม่ได้ แล้วใช้หน่วยนับกับคำบอกจำนวนได้",
+    "memory": "นับไม่ได้ในความหมายนี้: ไม่เติม s และไม่ใช้ a/an ตรง ๆ",
+    "why": "ภาษาไทยกับอังกฤษแบ่งสิ่งที่นับได้ไม่ตรงกัน การตรวจความหมายช่วยเลี่ยงคำอย่าง informations",
+    "steps": [
+      {
+        "title": "1. ดูความหมายที่ใช้จริง",
+        "body": "นามนับได้มีรูปหนึ่งชิ้นและหลายชิ้น ส่วนนามนับไม่ได้มักมองเป็นวัสดุ มวล หรือแนวคิด",
+        "example": "The office has three chairs and new furniture.",
+        "note": "chairs นับเป็นตัวได้ แต่ furniture ในความหมายรวมเป็นนามนับไม่ได้"
+      },
+      {
+        "title": "2. เลือกคำบอกจำนวนให้ตรง",
+        "body": "many และ a few ใช้กับนามนับได้พหูพจน์; much และ a little ใช้กับนามนับไม่ได้ ส่วน some และ a lot of ใช้ได้ทั้งสองแบบ",
+        "example": "We have a few questions and a little time.",
+        "note": "questions นับได้; time ในความหมายเวลาที่มีเป็นนามนับไม่ได้"
+      },
+      {
+        "title": "3. ถ้าต้องนับ ให้เพิ่มหน่วย",
+        "body": "ใช้ a piece of, a bottle of หรือหน่วยที่เหมาะสม แล้วผันที่หน่วยนับ ไม่ใช่นามนับไม่ได้",
+        "example": "She gave me two pieces of advice.",
+        "note": "pieces เป็นพหูพจน์ ส่วน advice คงรูปเดิม"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The tutor gave us useful advice.",
+        "th": "ครูให้คำแนะนำที่เป็นประโยชน์แก่เรา",
+        "note": "advice เป็นนามนับไม่ได้ ไม่ใช้ an advice"
+      },
+      {
+        "en": "I packed two bags and some luggage labels.",
+        "th": "ฉันจัดกระเป๋าสองใบและป้ายติดสัมภาระจำนวนหนึ่ง",
+        "note": "bags และ labels นับได้; luggage ที่ขยาย labels ไม่เติม s"
+      },
+      {
+        "en": "There is little information on the noticeboard.",
+        "th": "มีข้อมูลบนกระดานประกาศอยู่น้อย",
+        "note": "information เป็นนามนับไม่ได้ และ little สื่อว่าน้อยจนไม่มากพอในมุมผู้พูด"
+      },
+      {
+        "en": "We have a little rice left.",
+        "th": "เรามีข้าวเหลืออยู่บ้าง",
+        "note": "a little + นามนับไม่ได้ เน้นว่ายังมีอยู่บ้าง"
+      },
+      {
+        "en": "Only a few seats are available.",
+        "th": "มีที่นั่งว่างเพียงไม่กี่ที่",
+        "note": "a few + นามนับได้พหูพจน์"
+      },
+      {
+        "en": "Please bring three bottles of water.",
+        "th": "กรุณานำน้ำมาสามขวด",
+        "note": "จำนวนผูกกับ bottles ไม่เติม s ที่ water"
+      }
+    ],
+    "traps": [
+      {
+        "title": "นามเดียวกันเปลี่ยนการนับตามความหมายได้",
+        "body": "paper หมายถึงวัสดุเป็นนามนับไม่ได้ แต่ a paper อาจหมายถึงบทความ งานวิจัย หรือหนังสือพิมพ์ จึงต้องอ่านความหมาย",
+        "good": "We need more paper for the printer.",
+        "source": "cam-countability",
+        "contrast": "I read two papers about urban transport."
+      },
+      {
+        "title": "กาแฟสองแก้วใช้ coffees ได้",
+        "body": "ในบริบทสั่งอาหาร coffees หมายถึงกาแฟสองหน่วยหรือสองแก้ว ไม่ได้แปลว่า coffee ต้องนับไม่ได้ทุกครั้ง",
+        "good": "We ordered two coffees after lunch.",
+        "source": "cam-countability"
+      },
+      {
+        "title": "few กับ a few ให้น้ำหนักไม่เท่ากัน",
+        "body": "few เน้นว่าน้อย ส่วน a few เน้นว่ามีอยู่บ้าง; little กับ a little ต่างกันคล้ายกันแต่ใช้กับนามนับไม่ได้",
+        "good": "A few colleagues offered to help.",
+        "source": "cam-countability",
+        "contrast": "Few colleagues offered to help."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกคำนามในความหมายข้อมูลทั่วไป",
+        "sentence": "The website provides useful ___.",
+        "answers": [
+          "information"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "information เป็นนามนับไม่ได้ จึงคงรูปเดิม",
+        "focus": "information",
+        "options": [
+          "information",
+          "informations",
+          "an information"
+        ],
+        "wrong": {
+          "informations": "information ในความหมายนี้ไม่เติม s",
+          "an information": "ไม่ใช้ an กับ information โดยตรง"
+        },
+        "id": "countability-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำบอกจำนวนสำหรับ tickets",
+        "sentence": "How ___ tickets do we need?",
+        "answers": [
+          "many"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "tickets นับได้พหูพจน์ ใช้ How many",
+        "focus": "many/much",
+        "options": [
+          "many",
+          "much",
+          "a little"
+        ],
+        "wrong": {
+          "much": "much ใช้กับนามนับไม่ได้",
+          "a little": "a little ไม่ใช้กับ tickets พหูพจน์และไม่เข้ากับ How ในแบบนี้"
+        },
+        "id": "countability-02",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม much หรือ many",
+        "sentence": "How ___ time do we have before the lesson?",
+        "answers": [
+          "much"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "time หมายถึงปริมาณเวลา จึงใช้ much",
+        "focus": "many/much",
+        "id": "countability-03",
+        "phase": "guided"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้เฉพาะ advices ให้เป็นรูปที่ถูกต้อง แล้วพิมพ์ทั้งประโยค",
+        "sentence": "Your advices helped me prepare.",
+        "answers": [
+          "Your advice helped me prepare."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "advice เป็นนามนับไม่ได้ ไม่เติม s",
+        "focus": "advice",
+        "id": "countability-04",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกหน่วยนับที่ใช้กับ advice ในภาษาอังกฤษมาตรฐาน",
+        "sentence": "She shared two ___ of advice.",
+        "answers": [
+          "pieces"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "ใช้ pieces of advice เมื่อต้องการนับคำแนะนำเป็นข้อ",
+        "focus": "หน่วยนับ",
+        "options": [
+          "pieces",
+          "bottles",
+          "litres"
+        ],
+        "wrong": {
+          "bottles": "advice เป็นคำแนะนำ ไม่ใช่ของเหลวที่นับเป็นขวด",
+          "litres": "litres เป็นหน่วยปริมาตร ใช้นับ advice ไม่ได้"
+        },
+        "id": "countability-05",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำให้หมายถึงมีขนมปังเหลืออยู่บ้าง",
+        "sentence": "There is ___ bread left.",
+        "answers": [
+          "a little"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "bread เป็นนามนับไม่ได้ และ a little สื่อว่ายังมีอยู่บ้าง",
+        "focus": "a little",
+        "options": [
+          "a few",
+          "many",
+          "a little"
+        ],
+        "wrong": {
+          "a few": "a few ใช้กับนามนับได้พหูพจน์",
+          "many": "many ใช้กับนามนับได้พหูพจน์"
+        },
+        "id": "countability-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม few หรือ little",
+        "sentence": "We have a ___ spare chairs in the hall.",
+        "answers": [
+          "few"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "chairs นับได้พหูพจน์ จึงใช้ a few",
+        "focus": "a few",
+        "id": "countability-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูปพหูพจน์ของ bottle",
+        "sentence": "Please recycle these three empty ___.",
+        "answers": [
+          "bottles"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "three ระบุจำนวนมากกว่าหนึ่งขวด จึงเติม s ที่ bottle เป็น bottles",
+        "focus": "หน่วยนับ",
+        "id": "countability-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "ลบเฉพาะ s ที่ผิดในคำว่า furnitures แล้วพิมพ์ประโยคเต็ม",
+        "sentence": "The furnitures looks modern.",
+        "answers": [
+          "The furniture looks modern."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "furniture เป็นนามนับไม่ได้ ใช้รูปเดิมและกริยา looks",
+        "focus": "furniture",
+        "id": "countability-09",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงคำ เริ่มด้วย We",
+        "sentence": "",
+        "answers": [
+          "We need some new equipment."
+        ],
+        "hints": [
+          "เริ่มจากประธาน แล้วหากริยาหลัก",
+          "วางส่วนขยายและเครื่องหมายตามความสัมพันธ์ของความหมาย"
+        ],
+        "explanation": "equipment เป็นนามนับไม่ได้ some ใช้ได้และไม่เติม s",
+        "focus": "equipment",
+        "tokens": [
+          "We",
+          "need",
+          "some",
+          "new",
+          "equipment."
+        ],
+        "id": "countability-10",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "ในประโยคนี้ paper หมายถึงวัสดุสำหรับเครื่องพิมพ์ เลือกรูปที่เหมาะสม",
+        "sentence": "The printer needs more ___.",
+        "answers": [
+          "paper"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "ความหมายเป็นวัสดุ จึงใช้ paper แบบนับไม่ได้",
+        "focus": "ความหมายเปลี่ยนการนับ",
+        "options": [
+          "paper",
+          "a paper",
+          "papers"
+        ],
+        "wrong": {
+          "a paper": "more a paper ไม่เป็นโครงสร้างที่ใช้ได้ และ a paper เปลี่ยนความหมาย",
+          "papers": "papers มักหมายถึงเอกสารหรือบทความที่นับเป็นชิ้น ไม่ใช่วัสดุในโจทย์"
+        },
+        "id": "countability-11",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม much หรือ many",
+        "sentence": "There are too ___ cars outside the school.",
+        "answers": [
+          "many"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "cars เป็นนามนับได้พหูพจน์ จึงใช้ too many",
+        "focus": "many/much",
+        "id": "countability-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยควางแผนจัดพื้นที่เรียน ใช้นามนับได้หนึ่งคำ นามนับไม่ได้หนึ่งคำ และหน่วยนับหนึ่งแบบ",
+      "model": "We need a few chairs and some equipment. I will bring two bottles of water. There is a little space beside the window.",
+      "translation": "เราต้องการเก้าอี้สองสามตัวและอุปกรณ์บางอย่าง ฉันจะนำน้ำมาสองขวด มีพื้นที่อยู่บ้างข้างหน้าต่าง",
+      "checklist": [
+        "นามนับไม่ได้มี s ที่ไม่จำเป็นหรือไม่",
+        "many/a few กับ much/a little ใช้ตรงกลุ่มหรือไม่",
+        "หากนับนามนับไม่ได้ มีหน่วยที่เหมาะสมหรือยัง"
+      ]
+    },
+    "sources": [
+      "cam-countability"
+    ]
+  },
+  {
+    "id": "tenses",
+    "number": 4,
+    "title": "Tense and time",
+    "thaiTitle": "เลือกเวลาจากความหมาย ไม่ใช่จำคำใบ้อย่างเดียว",
+    "group": "รากฐานประโยค",
+    "minutes": 18,
+    "outcome": "เลือก present simple, present continuous, past simple และ present perfect จากกรอบเวลา แล้วรู้ทางเลือกพื้นฐานเมื่อพูดถึงอนาคต",
+    "memory": "ถามว่าเมื่อไร จบหรือยัง และเน้นเหตุการณ์หรือช่วงดำเนินอยู่",
+    "why": "tense ทำให้ผู้อ่านเข้าใจว่าสิ่งใดเป็นกิจวัตร กำลังเกิด จบแล้ว หรือยังเชื่อมกับปัจจุบัน",
+    "steps": [
+      {
+        "title": "1. แยกกิจวัตรกับสิ่งที่กำลังเกิด",
+        "body": "present simple ใช้กับกิจวัตรและข้อเท็จจริง; present continuous ใช้กับสิ่งที่กำลังดำเนินหรือสถานการณ์ชั่วคราว",
+        "example": "I usually cycle to work, but I am taking the bus this week.",
+        "note": "usually บอกกิจวัตร ส่วน this week ในที่นี้เป็นช่วงเปลี่ยนวิธีเดินทางชั่วคราว"
+      },
+      {
+        "title": "2. แยกอดีตที่จบแล้วออกจาก present perfect",
+        "body": "ใช้ past simple เมื่อเล่าเหตุการณ์ที่มองว่าจบแล้วในช่วงอดีต เช่น yesterday หรือ last month; อย่าใช้ present perfect ระบุเวลาเกิดด้วยช่วงที่จบแล้ว รูปอดีตอื่นยังใช้ได้หากต้องการสื่อว่ากำลังดำเนินหรือเกิดก่อนอีกเหตุการณ์",
+        "example": "The workshop ended yesterday.",
+        "note": "yesterday เป็นช่วงเวลาที่จบแล้ว ไม่ใช้ has ended yesterday"
+      },
+      {
+        "title": "3. ถ้าเชื่อมถึงตอนนี้ พิจารณา present perfect",
+        "body": "ใช้ have/has + past participle กับประสบการณ์ ผลที่เกี่ยวกับปัจจุบัน หรือช่วงที่ยังต่อเนื่องถึงตอนนี้; since ระบุจุดเริ่ม for ระบุระยะ",
+        "example": "She has worked here since March.",
+        "note": "งานเริ่มเดือนมีนาคมและยังทำอยู่ จึงเชื่อมอดีตถึงปัจจุบัน"
+      },
+      {
+        "title": "4. อนาคตมีหลายรูปตามความหมาย",
+        "body": "be going to มักใช้กับแผนหรือหลักฐานที่เห็น; present continuous ใช้กับนัดหมายที่จัดไว้; will ใช้ได้กับการคาดการณ์ การตัดสินใจทันที และการเสนอช่วย ไม่ใช่สูตรหนึ่งคำต่อหนึ่งสถานการณ์เสมอ",
+        "example": "I am meeting my tutor at ten tomorrow.",
+        "note": "ใช้ present continuous เพื่อบอกนัดหมายที่จัดไว้แล้ว รูปอื่นอาจใช้ได้เมื่อเปลี่ยนมุมมอง"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The library opens at eight on weekdays.",
+        "th": "ห้องสมุดเปิดแปดโมงในวันธรรมดา",
+        "note": "present simple สำหรับตารางหรือกิจวัตร"
+      },
+      {
+        "en": "Please wait. I am uploading the report.",
+        "th": "กรุณารอสักครู่ ฉันกำลังอัปโหลดรายงาน",
+        "note": "am uploading เน้นการกระทำที่กำลังดำเนิน"
+      },
+      {
+        "en": "We replaced the old desks last July.",
+        "th": "เราเปลี่ยนโต๊ะเก่าเมื่อเดือนกรกฎาคมที่ผ่านมา",
+        "note": "last July เป็นช่วงอดีตที่จบแล้ว"
+      },
+      {
+        "en": "I have lost my access card, so I cannot enter the office.",
+        "th": "ฉันทำบัตรผ่านหาย จึงเข้าสำนักงานไม่ได้",
+        "note": "present perfect เน้นผลปัจจุบันจากการทำหาย"
+      },
+      {
+        "en": "They have lived near the station for six years.",
+        "th": "พวกเขาอาศัยใกล้สถานีมาหกปีแล้ว",
+        "note": "for + ระยะเวลา และบริบทสื่อว่ายังอาศัยอยู่"
+      },
+      {
+        "en": "We are going to repaint the classroom next month.",
+        "th": "เรามีแผนจะทาสีห้องเรียนใหม่เดือนหน้า",
+        "note": "going to แสดงแผนล่วงหน้า"
+      }
+    ],
+    "traps": [
+      {
+        "title": "this week ไม่ได้บังคับ present perfect",
+        "body": "present perfect ใช้ได้เมื่อผู้พูดมองช่วงเวลาว่ายังเปิดถึงตอนนี้ แต่ past simple ก็ใช้ได้เมื่อเล่าเหตุการณ์ที่จบแล้วภายในช่วงนั้น อย่าตัดสินจากคำบอกเวลาเพียงคำเดียว",
+        "good": "I have attended two seminars this week, and there may be more.",
+        "source": "bc-tenses",
+        "contrast": "I attended a seminar this week. It ended on Tuesday."
+      },
+      {
+        "title": "กริยาสภาวะมักไม่ใช้ continuous ในความหมายพื้นฐาน",
+        "body": "know, belong และ believe มักใช้รูป simple; บางกริยามีทั้งความหมายสภาวะและการกระทำ เช่น think จึงต้องอ่านความหมาย",
+        "good": "I know the answer.",
+        "source": "bc-tenses",
+        "contrast": "I am thinking about your suggestion."
+      },
+      {
+        "title": "since กับ for ไม่เหมือนกัน",
+        "body": "since ตามด้วยจุดเริ่ม เช่น 2022; for ตามด้วยช่วงเวลา เช่น three years แต่ for ไม่ได้บังคับให้ทุกประโยคเป็น present perfect",
+        "good": "I have taught here since 2022.",
+        "source": "bc-tenses",
+        "contrast": "I taught there for two years before moving."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือก present simple เพื่อบอกกิจวัตร",
+        "sentence": "Mina usually ___ to class.",
+        "answers": [
+          "walks"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "กิจวัตรของ Mina ใช้ present simple และประธานเอกพจน์จึงเติม s",
+        "focus": "กิจวัตร",
+        "options": [
+          "walks",
+          "is walking",
+          "has walked"
+        ],
+        "wrong": {
+          "is walking": "โจทย์ต้องการกิจวัตรปกติ ไม่ใช่สิ่งที่กำลังดำเนิน",
+          "has walked": "present perfect ไม่ใช่รูปสำหรับบอกกิจวัตรนี้ตามโจทย์"
+        },
+        "id": "tenses-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือก tense สำหรับช่วงอดีตที่จบแล้ว",
+        "sentence": "We ___ the museum yesterday.",
+        "answers": [
+          "visited"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "yesterday ระบุช่วงอดีตที่จบแล้ว ใช้ past simple",
+        "focus": "อดีตจบแล้ว",
+        "options": [
+          "have visited",
+          "visit",
+          "visited"
+        ],
+        "wrong": {
+          "have visited": "ไม่ใช้ present perfect คู่กับ yesterday เพื่อระบุเวลาของเหตุการณ์นี้",
+          "visit": "present simple ไม่ใช่รูปอดีตตามบริบทนี้"
+        },
+        "id": "tenses-02",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูป present continuous ของ type ให้ครบ",
+        "sentence": "Please be quiet. She ___ an email right now.",
+        "answers": [
+          "is typing"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "she ใช้ is + typing เพื่อแสดงสิ่งที่กำลังทำ",
+        "focus": "กำลังดำเนิน",
+        "id": "tenses-03",
+        "phase": "guided"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยนเฉพาะ have finished เป็น past simple ให้ตรงกับ yesterday",
+        "sentence": "I have finished the assignment yesterday.",
+        "answers": [
+          "I finished the assignment yesterday."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "yesterday ปิดช่วงเวลาแล้ว จึงเปลี่ยนเป็น finished",
+        "focus": "อดีตจบแล้ว",
+        "id": "tenses-04",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เติมคำเชื่อมเมื่อระบุจุดเริ่มเวลา",
+        "sentence": "He has worked here ___ 2021.",
+        "answers": [
+          "since"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "2021 เป็นจุดเริ่ม ใช้ since",
+        "focus": "since/for",
+        "options": [
+          "for",
+          "since",
+          "during"
+        ],
+        "wrong": {
+          "for": "for ต้องตามด้วยระยะเวลา ไม่ใช่ปีเริ่มต้น",
+          "during": "during ไม่ระบุความต่อเนื่องจากจุดเริ่มถึงตอนนี้ในโครงสร้างนี้"
+        },
+        "id": "tenses-05",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาในความหมายรู้คำตอบอยู่แล้ว",
+        "sentence": "I ___ the answer to this question.",
+        "answers": [
+          "know"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "know เป็นกริยาสภาวะในความหมายนี้ ใช้ simple",
+        "focus": "กริยาสภาวะ",
+        "options": [
+          "am knowing",
+          "know",
+          "knowing"
+        ],
+        "wrong": {
+          "am knowing": "know ในความหมายมีความรู้อยู่แล้วปกติไม่ใช้ continuous",
+          "knowing": "knowing อย่างเดียวไม่ใช่กริยาหลักแบบผัน"
+        },
+        "id": "tenses-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม for หรือ since",
+        "sentence": "We have used this room ___ three months.",
+        "answers": [
+          "for"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "three months เป็นระยะเวลา จึงใช้ for",
+        "focus": "since/for",
+        "id": "tenses-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม past participle ของ write",
+        "sentence": "She has ___ three reports so far today.",
+        "answers": [
+          "written"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "present perfect ใช้ has + past participle; write → written และ so far today มองถึงตอนนี้",
+        "focus": "past participle",
+        "id": "tenses-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยนเฉพาะ walks เป็น present continuous ตามสถานการณ์กำลังเดินตอนนี้",
+        "sentence": "He walks to the station right now.",
+        "answers": [
+          "He is walking to the station right now."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "โจทย์เน้นสิ่งที่กำลังทำ ใช้ is walking",
+        "focus": "กำลังดำเนิน",
+        "id": "tenses-09",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงคำเป็นประโยค present perfect เริ่มด้วย They และวาง already ระหว่าง have กับ sent",
+        "sentence": "",
+        "answers": [
+          "They have already sent the invitations."
+        ],
+        "hints": [
+          "เริ่มจากประธาน แล้วหากริยาหลัก",
+          "วางส่วนขยายและเครื่องหมายตามความสัมพันธ์ของความหมาย"
+        ],
+        "explanation": "have + sent เป็น present perfect และ already วางระหว่างกริยาช่วยกับ participle ในแบบนี้",
+        "focus": "present perfect",
+        "tokens": [
+          "They",
+          "have",
+          "already",
+          "sent",
+          "the",
+          "invitations."
+        ],
+        "id": "tenses-10",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "ต้องการประโยค be going to สำหรับแผนที่ตัดสินใจไว้แล้ว เลือกรูปที่ถูก",
+        "sentence": "We ___ a study group next term.",
+        "answers": [
+          "are going to start"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "ประธาน we ใช้ are going to + start",
+        "focus": "แผนอนาคต",
+        "options": [
+          "are going to start",
+          "are going start",
+          "going to start"
+        ],
+        "wrong": {
+          "are going start": "going ต้องมี to ก่อนกริยาพื้นฐานในโครงสร้างนี้",
+          "going to start": "ประโยคนี้ขาด are"
+        },
+        "id": "tenses-11",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม past simple ของ leave",
+        "sentence": "The last bus ___ ten minutes ago.",
+        "answers": [
+          "left"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "ago นับย้อนจากตอนนี้ถึงจุดในอดีต ใช้ past simple; leave → left",
+        "focus": "อดีตจบแล้ว",
+        "id": "tenses-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับการเรียน: กิจวัตรหนึ่งอย่าง สิ่งที่ทำเสร็จในอดีตพร้อมเวลาที่จบแล้ว และสิ่งที่ทำสำเร็จจนถึงตอนนี้",
+      "model": "I review my notes every evening. Yesterday, I completed a practice test. I have learned five new expressions so far today.",
+      "translation": "ฉันทบทวนโน้ตทุกเย็น เมื่อวานทำแบบทดสอบฝึกหนึ่งชุดเสร็จ จนถึงตอนนี้ของวันนี้ฉันได้เรียนสำนวนใหม่ห้าสำนวน",
+      "checklist": [
+        "แต่ละประโยคมีกรอบเวลาชัดหรือไม่",
+        "เลือก tense ให้ตรงความหมาย และไม่ใช้ present perfect ระบุเวลาเกิดด้วยช่วงที่จบแล้วใช่ไหม",
+        "present perfect ใช้ have/has และ past participle ครบหรือไม่"
+      ]
+    },
+    "sources": [
+      "bc-tenses"
+    ]
+  },
+  {
+    "id": "passive",
+    "number": 5,
+    "title": "Passive voice",
+    "thaiTitle": "ย้ายจุดสนใจไปที่สิ่งที่ถูกกระทำ",
+    "group": "รากฐานประโยค",
+    "minutes": 18,
+    "outcome": "เปลี่ยน active เป็น passive โดยรักษาเวลา และเลือกว่าจะบอกผู้กระทำหรือไม่",
+    "memory": "ผู้รับการกระทำ + be ตามเวลา + past participle",
+    "why": "passive มีประโยชน์เมื่อผล ขั้นตอน หรือสิ่งที่ได้รับการกระทำสำคัญกว่าคนทำ",
+    "steps": [
+      {
+        "title": "1. ตรวจว่ากริยามีกรรมที่ย้ายขึ้นหน้าได้",
+        "body": "ในโครงสร้างพื้นฐาน passive ใช้กับกริยาที่รับกรรม นำกรรมของ active มาเป็นประธานใหม่",
+        "example": "Workers inspect the lifts. → The lifts are inspected.",
+        "note": "the lifts เป็นสิ่งที่ได้รับการตรวจ จึงขึ้นต้นประโยคได้"
+      },
+      {
+        "title": "2. ผัน be ให้เข้ากับเวลาและประธานใหม่",
+        "body": "ใช้ be + past participle โดยให้ be รับหน้าที่แสดง tense; present simple ใช้ am/is/are และ past simple ใช้ was/were ตามประธาน",
+        "example": "The windows were cleaned yesterday.",
+        "note": "windows เป็นพหูพจน์และเหตุการณ์อยู่ในอดีต จึงใช้ were cleaned"
+      },
+      {
+        "title": "3. เก็บกริยาช่วยให้ครบ",
+        "body": "หลัง modal ใช้ be + past participle; present perfect ใช้ has/have been + past participle",
+        "example": "The form must be signed. The forms have been checked.",
+        "note": "must be signed และ have been checked ต้องมี be/been ไม่ตกหล่น"
+      },
+      {
+        "title": "4. ใส่ by เฉพาะเมื่อคนทำสำคัญ",
+        "body": "ไม่จำเป็นต้องใส่ by someone ถ้าไม่รู้ ไม่สำคัญ หรือเข้าใจได้อยู่แล้ว แต่ใส่ by เมื่อผู้กระทำเป็นข้อมูลที่ต้องการเน้น",
+        "example": "The mural was painted by local students.",
+        "note": "local students เป็นข้อมูลสำคัญจึงระบุผู้กระทำ"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The entrance is locked at nine every night.",
+        "th": "ทางเข้าถูกล็อกตอนสามทุ่มทุกคืน",
+        "note": "present simple passive สำหรับขั้นตอนประจำ"
+      },
+      {
+        "en": "The damaged bridge was repaired last winter.",
+        "th": "สะพานที่เสียหายได้รับการซ่อมเมื่อฤดูหนาวที่ผ่านมา",
+        "note": "past simple passive เล่าการซ่อมที่จบแล้ว"
+      },
+      {
+        "en": "The tickets have been emailed to all participants.",
+        "th": "ตั๋วถูกส่งทางอีเมลให้ผู้เข้าร่วมทุกคนแล้ว",
+        "note": "present perfect passive เน้นผลที่เสร็จถึงตอนนี้"
+      },
+      {
+        "en": "The report will be published on Friday.",
+        "th": "รายงานจะเผยแพร่ในวันศุกร์",
+        "note": "will + be + published"
+      },
+      {
+        "en": "The old laboratory is being renovated.",
+        "th": "ห้องปฏิบัติการเก่ากำลังได้รับการปรับปรุง",
+        "note": "is being + renovated คือ present continuous passive"
+      },
+      {
+        "en": "The proposal was approved by the director.",
+        "th": "ข้อเสนอได้รับการอนุมัติจากผู้อำนวยการ",
+        "note": "by ระบุผู้อนุมัติ"
+      }
+    ],
+    "traps": [
+      {
+        "title": "กริยาที่ไม่มีกรรมไม่ทำ passive แบบนี้",
+        "body": "arrive และ happen ไม่มีกรรมตรงในความหมายทั่วไป จึงไม่เขียน was arrived หรือ was happened",
+        "good": "The parcel arrived at noon.",
+        "source": "bc-passive"
+      },
+      {
+        "title": "อย่าเปลี่ยน tense ระหว่างแปลง",
+        "body": "ย้ายจุดสนใจได้โดยไม่เปลี่ยนเวลา active ในอดีตควรคงเป็น passive ในอดีตหากความหมายเดิมไม่เปลี่ยน",
+        "good": "A technician fixed the screen. → The screen was fixed by a technician.",
+        "source": "bc-passive"
+      },
+      {
+        "title": "passive ไม่ได้ดีกว่า active ทุกครั้ง",
+        "body": "เลือกตามจุดสนใจ ไม่ต้องเพิ่ม passive ให้ครบโควตาในงานเขียน; active มักชัดกว่าเมื่อคนทำสำคัญ",
+        "good": "The council approved the budget.",
+        "source": "bc-passive",
+        "contrast": "The budget was approved yesterday."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือก present simple passive",
+        "sentence": "The classrooms ___ every evening.",
+        "answers": [
+          "are cleaned"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "classrooms รับการกระทำและเป็นพหูพจน์ ใช้ are cleaned",
+        "focus": "be + participle",
+        "options": [
+          "clean",
+          "are cleaned",
+          "are clean"
+        ],
+        "wrong": {
+          "clean": "รูปนี้ทำให้ classrooms เป็นผู้ทำความสะอาดเอง",
+          "are clean": "clean ตรงนี้เป็นคุณศัพท์ หมายถึงสะอาด ไม่ได้บอกการทำความสะอาดตามโจทย์"
+        },
+        "id": "passive-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือก past simple passive",
+        "sentence": "The sign ___ yesterday.",
+        "answers": [
+          "was replaced"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "sign เอกพจน์และอดีต จึงเป็น was replaced",
+        "focus": "เวลาใน passive",
+        "options": [
+          "is replaced",
+          "was replaced",
+          "was replace"
+        ],
+        "wrong": {
+          "is replaced": "ไม่ตรงเวลาที่จบแล้ว yesterday",
+          "was replace": "หลัง was ใน passive ต้องใช้ replaced"
+        },
+        "id": "passive-02",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม past participle ของ write",
+        "sentence": "The guide was ___ by a local teacher.",
+        "answers": [
+          "written"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "write → written; passive ต้องใช้ participle ไม่ใช่ wrote",
+        "focus": "past participle",
+        "id": "passive-03",
+        "phase": "guided"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยนเป็น passive ขึ้นต้น The room และจบ by the staff. คงเวลาเดิม",
+        "sentence": "The staff cleaned the room.",
+        "answers": [
+          "The room was cleaned by the staff."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "กรรม room ย้ายขึ้นเป็นประธาน และ cleaned อดีตเปลี่ยนเป็น was cleaned",
+        "focus": "active → passive",
+        "id": "passive-04",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือก passive หลัง must",
+        "sentence": "Safety glasses must ___ in the laboratory.",
+        "answers": [
+          "be worn"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "modal + be + past participle; wear → worn",
+        "focus": "modal passive",
+        "options": [
+          "wear",
+          "be worn",
+          "been worn"
+        ],
+        "wrong": {
+          "wear": "จะหมายถึงแว่นเป็นผู้สวมและขาดกรรม",
+          "been worn": "หลัง modal ต้องเริ่มด้วย be ไม่ใช่ been"
+        },
+        "id": "passive-05",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยา arrive ในอดีต",
+        "sentence": "The train ___ at six yesterday.",
+        "answers": [
+          "arrived"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "arrive ในความหมายมาถึงใช้ active; past simple คือ arrived",
+        "focus": "กริยาไม่มีกรรม",
+        "options": [
+          "was arrived",
+          "arrived",
+          "has arrived"
+        ],
+        "wrong": {
+          "was arrived": "arrive ไม่รับกรรมตรงจึงไม่ทำ passive แบบนี้",
+          "has arrived": "yesterday ระบุช่วงอดีตที่จบแล้ว"
+        },
+        "id": "passive-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม is หรือ are",
+        "sentence": "The new timetable ___ displayed near the stairs.",
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "timetable เป็นเอกพจน์ ใช้ is displayed",
+        "focus": "ประธานใหม่",
+        "id": "passive-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม be หรือ been",
+        "sentence": "All the applications have ___ reviewed.",
+        "answers": [
+          "been"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "present perfect passive = have been reviewed",
+        "focus": "perfect passive",
+        "id": "passive-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยนเป็น passive ขึ้นต้น The results และไม่ต้องใส่ผู้กระทำ คง on Monday ไว้ท้ายประโยค",
+        "sentence": "They will announce the results on Monday.",
+        "answers": [
+          "The results will be announced on Monday."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "will announce เปลี่ยนเป็น will be announced; ตัด by them เพราะโจทย์ไม่ต้องการ",
+        "focus": "อนาคต passive",
+        "id": "passive-09",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงคำโดยเริ่มด้วย The",
+        "sentence": "",
+        "answers": [
+          "The documents were checked yesterday."
+        ],
+        "hints": [
+          "เริ่มจากประธาน แล้วหากริยาหลัก",
+          "วางส่วนขยายและเครื่องหมายตามความสัมพันธ์ของความหมาย"
+        ],
+        "explanation": "documents พหูพจน์และอดีต ใช้ were checked",
+        "focus": "อดีต passive",
+        "tokens": [
+          "The",
+          "documents",
+          "were",
+          "checked",
+          "yesterday."
+        ],
+        "id": "passive-10",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือก present continuous passive เพื่อบอกว่ากำลังซ่อมถนน",
+        "sentence": "The road ___ at the moment.",
+        "answers": [
+          "is being repaired"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "is being + repaired แสดงว่าถนนกำลังรับการซ่อม",
+        "focus": "continuous passive",
+        "options": [
+          "is repairing",
+          "is being repaired",
+          "being repaired"
+        ],
+        "wrong": {
+          "is repairing": "จะทำให้ road เป็นผู้ซ่อมเอง",
+          "being repaired": "ขาดกริยาช่วยที่ผันตามประธาน"
+        },
+        "id": "passive-11",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม by หรือ with เพื่อระบุผู้กระทำ",
+        "sentence": "The logo was designed ___ a student.",
+        "answers": [
+          "by"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "by ระบุคนออกแบบ ส่วน with ใช้ระบุเครื่องมือได้ในบริบทอื่น",
+        "focus": "ผู้กระทำ",
+        "id": "passive-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคอธิบายขั้นตอนในห้องสมุดหรือสำนักงาน ใช้ present simple passive หนึ่งประโยค และ modal passive อีกหนึ่งประโยค",
+      "model": "Library cards are checked at the entrance. Large bags must be left in a locker. Visitors can ask the librarian for help.",
+      "translation": "มีการตรวจบัตรห้องสมุดที่ทางเข้า กระเป๋าใบใหญ่ต้องเก็บไว้ในล็อกเกอร์ ผู้ใช้บริการขอความช่วยเหลือจากบรรณารักษ์ได้",
+      "checklist": [
+        "ประธานเป็นผู้รับการกระทำจริงหรือไม่",
+        "มี be และ past participle ครบหรือไม่",
+        "เลือก active ได้เมื่อทำให้อีกประโยคชัดกว่า"
+      ]
+    },
+    "sources": [
+      "bc-passive"
+    ]
+  },
+  {
+    "id": "sentences",
+    "number": 6,
+    "title": "Complete sentences",
+    "thaiTitle": "ต่อความคิดให้ครบ ไม่ปล่อยประโยคขาดหรือติดกัน",
+    "group": "รากฐานประโยค",
+    "minutes": 18,
+    "outcome": "แยก fragment, fused sentence และ comma splice แล้วซ่อมตามรูปแบบที่กำหนด",
+    "memory": "หนึ่งประโยคต้องมีแกนที่ยืนได้เอง; สองแกนต้องเชื่อมให้ถูก",
+    "why": "ประโยคที่มีโครงสร้างครบช่วยให้ผู้อ่านรู้ว่าแต่ละความคิดเริ่มและจบที่ไหน",
+    "steps": [
+      {
+        "title": "1. หาแกนที่ยืนได้เอง",
+        "body": "ประโยคบอกเล่าทั่วไปต้องมีประธานและกริยาที่ผันแล้ว พร้อมความคิดที่สมบูรณ์; กลุ่มคำที่มีเพียง -ing อาจยังขาดกริยาหลัก",
+        "example": "The students are waiting outside.",
+        "note": "are waiting เป็นกริยาของ students; The students waiting outside อย่างเดียวมักยังไม่ใช่ประโยคสมบูรณ์"
+      },
+      {
+        "title": "2. ตรวจคำที่ทำให้ประโยคต้องพึ่งอีกส่วน",
+        "body": "because, although และ if สร้างส่วนที่พึ่งประโยคหลัก ถ้าอยู่เดี่ยว ๆ ในงานเขียนต่อเนื่องมักเป็น fragment",
+        "example": "Because the lift was broken, we used the stairs.",
+        "note": "Because the lift was broken บอกเหตุ แต่ต้องมี we used the stairs เป็นใจความหลัก"
+      },
+      {
+        "title": "3. ถ้ามีสองใจความหลัก เลือกวิธีเชื่อม",
+        "body": "ใช้จุดแยก ใช้ semicolon หรือใช้ comma ร่วมกับ coordinating conjunction เช่น and, but, so อย่าใช้ comma อย่างเดียวเชื่อมสองประโยคหลัก",
+        "example": "The room was small, but it was comfortable.",
+        "note": "สองด้านยืนได้เอง จึงใช้ comma + but เพื่อบอกความขัดแย้ง"
+      },
+      {
+        "title": "4. อ่านหลังแก้แล้วเช็กความหมาย",
+        "body": "เลือกคำเชื่อมที่แสดงเหตุ ผล หรือความขัดแย้งได้จริง ไม่ใช่เพียงทำให้รูปประโยคถูก",
+        "example": "The bus was full, so we waited for the next one.",
+        "note": "so แสดงผลจากรถเต็มได้ตรงความหมาย"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The new library closes at seven.",
+        "th": "ห้องสมุดใหม่ปิดหนึ่งทุ่ม",
+        "note": "มีประธาน library และกริยา closes ครบ"
+      },
+      {
+        "en": "Although the route is longer, it is safer.",
+        "th": "แม้เส้นทางจะยาวกว่า แต่ก็ปลอดภัยกว่า",
+        "note": "although-clause มีประโยคหลักตามมา"
+      },
+      {
+        "en": "I checked the address before I left home.",
+        "th": "ฉันตรวจที่อยู่ก่อนออกจากบ้าน",
+        "note": "มีแกน I checked the address และส่วนขยายเวลา"
+      },
+      {
+        "en": "The seminar ended. We stayed to ask questions.",
+        "th": "สัมมนาจบแล้ว เรายังอยู่เพื่อถามคำถาม",
+        "note": "ใช้จุดแยกสองประโยคสมบูรณ์"
+      },
+      {
+        "en": "The deadline is close; we need to decide today.",
+        "th": "ใกล้กำหนดแล้ว เราต้องตัดสินใจวันนี้",
+        "note": "semicolon เชื่อมสองใจความหลักที่เกี่ยวข้องกัน"
+      },
+      {
+        "en": "Please keep the doorway clear.",
+        "th": "กรุณาอย่าวางสิ่งกีดขวางทางเข้า",
+        "note": "ประโยคคำสั่งมีประธาน you ที่เข้าใจได้ ไม่ใช่ fragment"
+      }
+    ],
+    "traps": [
+      {
+        "title": "ความยาวไม่ใช่ตัวตัดสิน run-on",
+        "body": "run-on เกิดจากวิธีเชื่อมผิด ไม่ใช่เพราะประโยคยาว ประโยคสั้นสองอันที่ติดกันก็ผิดได้",
+        "good": "I called. She answered.",
+        "source": "purdue-sentences"
+      },
+      {
+        "title": "คำสั่งไม่จำเป็นต้องมีประธานให้เห็น",
+        "body": "ประโยคคำสั่งอย่าง Check the date. สมบูรณ์ได้ เพราะมี you เป็นประธานที่เข้าใจร่วมกัน อย่าเติมประธานโดยไม่จำเป็น",
+        "good": "Check the date before submitting the form.",
+        "source": "purdue-sentences"
+      },
+      {
+        "title": "however ไม่ทำหน้าที่เหมือน but",
+        "body": "เมื่อ however เชื่อมสองประโยคหลัก ใช้จุดหรือ semicolon ก่อน และมักใช้ comma ตามหลัง ไม่ใช่ comma อย่างเดียวระหว่างสองประโยคหลัก",
+        "good": "The plan is simple; however, it may be expensive.",
+        "source": "purdue-sentences"
+      },
+      {
+        "title": "fragment อาจมีหน้าที่ในงานบางประเภท",
+        "body": "หัวข้อ ป้าย โฆษณา หรือคำตอบสั้นอาจจงใจใช้ fragment ได้ บทนี้ฝึกประโยคเต็มสำหรับย่อหน้าอธิบาย ไม่ได้ตัดสินทุกข้อความสั้นว่าผิด",
+        "good": "The office is closed for maintenance.",
+        "source": "purdue-sentences"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกประโยคเต็มสำหรับย่อหน้าอธิบาย",
+        "sentence": "Which option is a complete declarative sentence?",
+        "answers": [
+          "The students need more time."
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "ตัวเลือกที่ถูกมี students เป็นประธานและ need เป็นกริยาที่ผันแล้ว โดยไม่ถูกทำให้เป็นส่วนพึ่งพา",
+        "focus": "ประโยคสมบูรณ์",
+        "options": [
+          "Because the students need more time.",
+          "The students need more time.",
+          "The students needing more time."
+        ],
+        "wrong": {
+          "Because the students need more time.": "because ทำให้ส่วนนี้ต้องพึ่งประโยคหลัก",
+          "The students needing more time.": "needing อย่างเดียวไม่ใช่กริยาที่ผันเป็นแกนประโยคนี้"
+        },
+        "id": "sentences-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกวิธีเชื่อมสองประโยคที่ถูกต้อง",
+        "sentence": "Choose the correctly joined sentence.",
+        "answers": [
+          "The bus was late, so I walked."
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "comma + so เชื่อมสองใจความหลักและแสดงเหตุ–ผล",
+        "focus": "comma splice",
+        "options": [
+          "The bus was late, I walked.",
+          "The bus was late I walked.",
+          "The bus was late, so I walked."
+        ],
+        "wrong": {
+          "The bus was late, I walked.": "ใช้ comma อย่างเดียวเชื่อมสองประโยคหลัก เป็น comma splice",
+          "The bus was late I walked.": "สองประโยคหลักติดกันโดยไม่มีตัวเชื่อม เป็น fused sentence"
+        },
+        "id": "sentences-02",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมกริยา be ใน present simple ให้เป็นประโยคเต็ม",
+        "sentence": "The trainees ___ ready for the workshop.",
+        "answers": [
+          "are"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "trainees พหูพจน์ต้องมี are เชื่อมกับ ready ซึ่งเป็นคุณศัพท์",
+        "focus": "ขาดกริยา",
+        "id": "sentences-03",
+        "phase": "guided"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "ลบเฉพาะ Because แล้วเริ่มคำแรกด้วยตัวใหญ่ เพื่อให้เป็นประโยคเต็ม",
+        "sentence": "Because the classroom was empty.",
+        "answers": [
+          "The classroom was empty."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "เมื่อตัด because ส่วนที่เหลือยืนเป็นประโยคหลักได้",
+        "focus": "dependent fragment",
+        "id": "sentences-04",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำอธิบายประโยคคำสั่งนี้",
+        "sentence": "Please save your work.",
+        "answers": [
+          "เป็นประโยคสมบูรณ์แบบคำสั่ง"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "ประโยคคำสั่งไม่ต้องแสดง you ก็สมบูรณ์ได้",
+        "focus": "คำสั่ง",
+        "options": [
+          "ขาดประธานจึงผิดเสมอ",
+          "เป็นประโยคสมบูรณ์แบบคำสั่ง",
+          "เป็น comma splice"
+        ],
+        "wrong": {
+          "ขาดประธานจึงผิดเสมอ": "คำสั่งมีประธาน you ที่เข้าใจได้",
+          "เป็น comma splice": "ไม่มีสองประโยคหลักที่ถูกเชื่อมด้วย comma"
+        },
+        "id": "sentences-05",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกการเชื่อมที่ถูกในงานเขียนมาตรฐาน",
+        "sentence": "Choose the correct punctuation with however.",
+        "answers": [
+          "The room is quiet; however, it is small."
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "ใช้ semicolon ก่อน however และ comma หลังคำนี้",
+        "focus": "however",
+        "options": [
+          "The room is quiet, however, it is small.",
+          "The room is quiet; however, it is small.",
+          "The room is quiet however it is small."
+        ],
+        "wrong": {
+          "The room is quiet, however, it is small.": "comma ก่อน however ไม่เพียงพอที่จะเชื่อมสองประโยคหลักนี้",
+          "The room is quiet however it is small.": "ขาดเครื่องหมายแบ่งสองประโยคหลัก"
+        },
+        "id": "sentences-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม because หรือ although เพื่อบอกเหตุผล ไม่ใช่ความขัดแย้ง",
+        "sentence": "We stayed inside ___ the storm was dangerous.",
+        "answers": [
+          "because"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "พายุอันตรายเป็นเหตุผลที่อยู่ข้างใน จึงใช้ because",
+        "focus": "เหตุผล",
+        "id": "sentences-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม is เพื่อให้กลุ่มคำเป็นประโยค present continuous ที่สมบูรณ์",
+        "sentence": "The technician ___ repairing the screen.",
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "is + repairing ทำให้มีกริยาที่ผันแล้วสำหรับประธานเอกพจน์",
+        "focus": "ขาดกริยาช่วย",
+        "id": "sentences-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้ comma splice โดยเปลี่ยน comma เป็นจุด แล้วเริ่มประโยคที่สองด้วยตัวใหญ่ ห้ามเปลี่ยนคำอื่น",
+        "sentence": "The shop was closed, we went home.",
+        "answers": [
+          "The shop was closed. We went home."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "ทั้งสองส่วนเป็นประโยคหลัก ใช้จุดแยกได้โดยไม่ต้องเพิ่มคำเชื่อม",
+        "focus": "comma splice",
+        "id": "sentences-09",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงคำโดยเริ่มด้วย Although และให้จบด้วย continued.",
+        "sentence": "",
+        "answers": [
+          "Although it rained, the match continued."
+        ],
+        "hints": [
+          "เริ่มจากประธาน แล้วหากริยาหลัก",
+          "วางส่วนขยายและเครื่องหมายตามความสัมพันธ์ของความหมาย"
+        ],
+        "explanation": "Although it rained เป็นส่วนพึ่งพา ส่วน the match continued เป็นประโยคหลัก",
+        "focus": "dependent + main",
+        "tokens": [
+          "Although",
+          "it",
+          "rained,",
+          "the",
+          "match",
+          "continued."
+        ],
+        "id": "sentences-10",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกประโยคเต็มที่ใช้ although โดยไม่ซ้อน but",
+        "sentence": "Choose the complete standard sentence.",
+        "answers": [
+          "Although the task was difficult, we finished it."
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "although เปิดส่วนพึ่งพาและตามด้วยประโยคหลัก โดยไม่ต้องมี but",
+        "focus": "although",
+        "options": [
+          "Although the task was difficult, we finished it.",
+          "Although the task was difficult, but we finished it.",
+          "Although the task was difficult."
+        ],
+        "wrong": {
+          "Although the task was difficult, but we finished it.": "ในโครงสร้างนี้ although เชื่อมไว้แล้ว ไม่เติม but ซ้ำ",
+          "Although the task was difficult.": "ส่วน although-clause ยังขาดประโยคหลัก"
+        },
+        "id": "sentences-11",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม and หรือ but เพื่อแสดงความขัดแย้งอย่างชัดเจน",
+        "sentence": "The room is tiny, ___ it feels comfortable.",
+        "answers": [
+          "but"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "but ชี้ความขัดแย้งระหว่างพื้นที่เล็กกับความสบายตามเป้าหมายโจทย์",
+        "focus": "ความสัมพันธ์ของใจความ",
+        "id": "sentences-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับการเดินทางไปเรียน: ประโยคธรรมดา 1 ประโยค ประโยคขึ้นต้น Although 1 ประโยค และประโยคใช้ comma + so 1 ประโยค",
+      "model": "I usually take the bus to college. Although the journey is long, I can read on the way. The bus was full today, so I waited for the next one.",
+      "translation": "ปกติฉันนั่งรถบัสไปวิทยาลัย แม้การเดินทางจะนานแต่ฉันอ่านหนังสือระหว่างทางได้ วันนี้รถบัสเต็ม ฉันจึงรอคันถัดไป",
+      "checklist": [
+        "ทุกประโยคมีใจความหลักที่ยืนได้เองหรือไม่",
+        "หลัง Although มีประโยคหลักครบหรือไม่",
+        "ไม่ได้ใช้ comma เดี่ยว ๆ เชื่อมสองประโยคหลักใช่ไหม"
+      ]
+    },
+    "sources": [
+      "purdue-sentences"
+    ]
+  },
+  {
+    "id": "punctuation",
+    "number": 7,
+    "title": "Punctuation",
+    "thaiTitle": "ใช้เครื่องหมายให้ผู้อ่านเห็นโครงประโยค",
+    "group": "รากฐานประโยค",
+    "minutes": 18,
+    "outcome": "ใช้ full stop, comma, semicolon, colon และ apostrophe ในโครงสร้างพื้นฐานได้",
+    "memory": "จุดจบความคิด; comma จัดส่วน; semicolon เชื่อมสองแกน",
+    "why": "เครื่องหมายวรรคตอนบอกความสัมพันธ์ของส่วนต่าง ๆ และบางครั้งเปลี่ยนความหมายได้",
+    "steps": [
+      {
+        "title": "1. ใช้จุดและ comma ตามโครงสร้าง",
+        "body": "จุดปิดประโยค; comma ใช้แบ่งรายการ หลังส่วนขึ้นต้นที่เป็นอนุประโยค และก่อน and/but/so ที่เชื่อมสองประโยคหลักในรูปแบบที่ฝึกนี้",
+        "example": "When the lesson ended, we packed our bags.",
+        "note": "comma แยกอนุประโยคขึ้นต้นออกจากประโยคหลัก ไม่ใช่ใส่ทุกครั้งที่หยุดหายใจ"
+      },
+      {
+        "title": "2. แยก semicolon กับ colon",
+        "body": "semicolon เชื่อมสองประโยคหลักที่สัมพันธ์กัน; colon ใช้หลังส่วนที่ยืนเป็นประโยคได้เพื่อแนะนำรายการหรือคำอธิบาย",
+        "example": "Bring three things: a pen, a notebook and your ID.",
+        "note": "ก่อน colon คือคำสั่งที่สมบูรณ์ ไม่แทรก colon ระหว่างกริยากับกรรมในรายการธรรมดา"
+      },
+      {
+        "title": "3. ใช้ apostrophe เพื่อแสดงเจ้าของหรือรูปย่อ",
+        "body": "เอกพจน์ทั่วไปเติม ’s; พหูพจน์ที่ลงท้าย s เติม apostrophe หลัง s ส่วนรูปย่อแสดงตำแหน่งตัวอักษรที่ละ เช่น it is → it’s",
+        "example": "The student’s folder is on the students’ table.",
+        "note": "folder ของนักเรียนหนึ่งคน แต่ table เป็นของนักเรียนหลายคน"
+      },
+      {
+        "title": "4. อ่านโดยแยกส่วนจำเป็นกับส่วนแทรก",
+        "body": "ส่วนขยายที่เป็นข้อมูลเสริมสามารถคั่นด้วย comma ทั้งสองด้านเมื่ออยู่กลางประโยค แต่ข้อมูลที่จำเป็นต่อการระบุสิ่งที่พูดถึงมักไม่คั่นแบบนั้น",
+        "example": "Our tutor, who lives nearby, cycles to work.",
+        "note": "บริบทระบุ tutor ได้อยู่แล้ว; who lives nearby เป็นข้อมูลเสริม"
+      }
+    ],
+    "examples": [
+      {
+        "en": "If you need help, contact the librarian.",
+        "th": "ถ้าต้องการความช่วยเหลือ ให้ติดต่อบรรณารักษ์",
+        "note": "comma ตามหลัง if-clause ที่ขึ้นต้นประโยค"
+      },
+      {
+        "en": "I called the office, but nobody answered.",
+        "th": "ฉันโทรหาสำนักงานแต่ไม่มีใครรับ",
+        "note": "comma + but เชื่อมสองประโยคหลัก"
+      },
+      {
+        "en": "The doors are locked; the building is empty.",
+        "th": "ประตูล็อกอยู่ อาคารไม่มีคนอยู่",
+        "note": "semicolon เชื่อมสองประโยคหลักที่เกี่ยวข้องกัน"
+      },
+      {
+        "en": "We need two volunteers: one to welcome guests and one to collect tickets.",
+        "th": "เราต้องการอาสาสมัครสองคน คนหนึ่งต้อนรับแขก อีกคนเก็บตั๋ว",
+        "note": "colon แนะนำรายละเอียดหลังประโยคที่สมบูรณ์"
+      },
+      {
+        "en": "The teacher’s laptop is new.",
+        "th": "แล็ปท็อปของครูหนึ่งคนเป็นเครื่องใหม่",
+        "note": "teacher’s แสดงเจ้าของเอกพจน์"
+      },
+      {
+        "en": "It’s cold, and the café has closed its windows.",
+        "th": "อากาศหนาวและคาเฟ่ปิดหน้าต่างแล้ว",
+        "note": "It’s = It is; its แสดงความเป็นเจ้าของ ไม่ใส่ apostrophe"
+      }
+    ],
+    "traps": [
+      {
+        "title": "Oxford comma เป็นเรื่องแนวรูปแบบ",
+        "body": "comma ก่อน and ในรายการตั้งแต่สามรายการอาจใส่หรือไม่ใส่ตามคู่มือรูปแบบ แต่ควรใส่เมื่อช่วยลดความกำกวม แบบฝึกนี้รับทั้งสองแบบเมื่อไม่เปลี่ยนความหมาย",
+        "good": "We packed pens, folders, and notebooks.",
+        "source": "purdue-punctuation",
+        "contrast": "We packed pens, folders and notebooks."
+      },
+      {
+        "title": "อย่าแยกประธานกับกริยาด้วย comma เดี่ยว",
+        "body": "ความยาวของประธานไม่ใช่เหตุผลให้ใส่ comma ก่อนกริยา หากมีส่วนแทรกจริงต้องคั่นให้ครบคู่",
+        "good": "The schedule for all evening classes is online.",
+        "source": "purdue-punctuation"
+      },
+      {
+        "title": "its ไม่ใช่ it’s",
+        "body": "its แสดงความเป็นเจ้าของ ส่วน it’s ย่อจาก it is หรือ it has ลองขยายรูปย่อก่อนเลือก",
+        "good": "The company changed its name.",
+        "source": "purdue-punctuation",
+        "contrast": "It’s been a busy week."
+      },
+      {
+        "title": "พหูพจน์ทั่วไปไม่เติม apostrophe",
+        "body": "books เป็นหลายเล่ม ส่วน book’s อาจแสดงเจ้าของเอกพจน์หรือรูปย่อในบริบทอื่น อย่าใช้ apostrophe เพื่อทำพหูพจน์ของคำนามทั่วไป",
+        "good": "The shelf holds twenty books.",
+        "source": "purdue-punctuation"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกเครื่องหมายหลังอนุประโยคขึ้นต้น",
+        "sentence": "If the library is open___ we can study there.",
+        "answers": [
+          ","
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "หลัง if-clause ที่ขึ้นต้นประโยค ใช้ comma ก่อนประโยคหลัก",
+        "focus": "comma หลังส่วนขึ้นต้น",
+        "options": [
+          ",",
+          ";",
+          ":"
+        ],
+        "wrong": {
+          ";": "ส่วน If the library is open ยืนเป็นประโยคหลักไม่ได้ จึงไม่ใช้ semicolon เชื่อมแบบนี้",
+          ":": "ไม่ใช่ประโยคเต็มที่เกริ่นรายการหรือคำอธิบาย"
+        },
+        "id": "punctuation-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกเครื่องหมายเพื่อเชื่อมสองประโยคหลัก โดยโจทย์กำหนดให้คงเป็นประโยคเดียวและไม่เพิ่มคำ",
+        "sentence": "The lesson is over___ you may leave.",
+        "answers": [
+          ";"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "semicolon เชื่อมสองประโยคหลักที่เกี่ยวข้องกันได้",
+        "focus": "semicolon",
+        "options": [
+          ";",
+          ",",
+          "ไม่ใส่เครื่องหมาย"
+        ],
+        "wrong": {
+          ",": "comma เดี่ยว ๆ จะเป็น comma splice",
+          "ไม่ใส่เครื่องหมาย": "จะทำให้สองประโยคหลักติดกันโดยไม่มีตัวเชื่อม"
+        },
+        "id": "punctuation-02",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม its หรือ it’s ตามรูปสะกดมาตรฐานโดยใช้ apostrophe ตรงได้",
+        "sentence": "The centre changed ___ opening hours.",
+        "answers": [
+          "its"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "ช่องว่างแสดงความเป็นเจ้าของของ centre จึงเป็น its ไม่ใช่ it is",
+        "focus": "its/it’s",
+        "id": "punctuation-03",
+        "phase": "guided"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "ลบ comma ที่แยกประธานกับกริยาอย่างไม่จำเป็น ห้ามเปลี่ยนคำอื่น",
+        "sentence": "The cost of the new computers, is high.",
+        "answers": [
+          "The cost of the new computers is high."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "ประธานทั้งหมดคือ The cost of the new computers ไม่ควรคั่นจาก is ด้วย comma เดี่ยว",
+        "focus": "ประธานกับกริยา",
+        "id": "punctuation-04",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกเครื่องหมายที่แนะนำรายการหลังประโยคสมบูรณ์",
+        "sentence": "Bring these items___ a ruler, a pencil and an eraser.",
+        "answers": [
+          ":"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "Bring these items เป็นคำสั่งที่สมบูรณ์ colon จึงนำรายการตามมาได้",
+        "focus": "colon",
+        "options": [
+          ":",
+          ";",
+          "'"
+        ],
+        "wrong": {
+          ";": "ด้านหลังเป็นรายการ ไม่ใช่ประโยคหลักที่จะเชื่อมด้วย semicolon",
+          "'": "apostrophe ไม่ใช้เกริ่นรายการ"
+        },
+        "id": "punctuation-05",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "ครูหนึ่งคนเป็นเจ้าของกระเป๋า เลือกรูปให้ถูก",
+        "sentence": "The ___ bag is on the chair.",
+        "answers": [
+          "teacher's"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "เจ้าของเอกพจน์ teacher เติม apostrophe + s",
+        "focus": "เจ้าของเอกพจน์",
+        "options": [
+          "teacher's",
+          "teachers'",
+          "teachers"
+        ],
+        "wrong": {
+          "teachers'": "รูปนี้หมายถึงครูหลายคนเป็นเจ้าของ",
+          "teachers": "รูปนี้เป็นพหูพจน์ทั่วไป ไม่แสดงความเป็นเจ้าของตามโครงสร้างโจทย์"
+        },
+        "id": "punctuation-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "นักเรียนหลายคนเป็นเจ้าของห้อง เติม students พร้อม apostrophe ในรูปแสดงเจ้าของ ใช้เครื่องหมายตรงหรือโค้งก็ได้",
+        "sentence": "The ___ common room is upstairs.",
+        "answers": [
+          "students'",
+          "students’"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "students เป็นพหูพจน์ที่ลงท้าย s แล้ว จึงเติม apostrophe หลัง s",
+        "focus": "เจ้าของพหูพจน์",
+        "id": "punctuation-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูปย่อของ It is ใช้ apostrophe ตรงหรือโค้งก็ได้",
+        "sentence": "___ time to start the meeting.",
+        "answers": [
+          "It's",
+          "It’s"
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "It is ย่อเป็น It’s; its ไม่มี apostrophe เป็นคำแสดงความเป็นเจ้าของ",
+        "focus": "รูปย่อ",
+        "id": "punctuation-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เพิ่ม colon หลังสิ่งที่กำลังจะแจกแจง โดยไม่เปลี่ยนคำอื่น",
+        "sentence": "We have one goal to improve access.",
+        "answers": [
+          "We have one goal: to improve access."
+        ],
+        "hints": [
+          "เปลี่ยนเฉพาะส่วนที่โจทย์ระบุ และเก็บคำอื่นไว้",
+          "พิมพ์ทั้งประโยคตามรูปแบบที่กำหนด"
+        ],
+        "explanation": "We have one goal ยืนได้เอง และส่วนหลังอธิบาย goal นั้น",
+        "focus": "colon",
+        "id": "punctuation-09",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงชิ้นส่วน เริ่มด้วย When และจบด้วย home.",
+        "sentence": "",
+        "answers": [
+          "When the rain stopped, we walked home."
+        ],
+        "hints": [
+          "เริ่มจากประธาน แล้วหากริยาหลัก",
+          "วางส่วนขยายและเครื่องหมายตามความสัมพันธ์ของความหมาย"
+        ],
+        "explanation": "comma หลังส่วน When ที่ขึ้นต้น แยกออกจากประโยคหลัก",
+        "focus": "comma หลังส่วนขึ้นต้น",
+        "tokens": [
+          "When",
+          "the",
+          "rain",
+          "stopped,",
+          "we",
+          "walked",
+          "home."
+        ],
+        "id": "punctuation-10",
+        "phase": "solo"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกพหูพจน์ทั่วไป ไม่ใช่รูปเจ้าของ",
+        "sentence": "The office ordered ten new ___.",
+        "answers": [
+          "desks"
+        ],
+        "hints": [
+          "หาประธานหรือคำบอกบริบทก่อน แล้วค่อยดูตัวเลือก",
+          "เทียบรูปของคำกับกฎที่กำลังฝึก"
+        ],
+        "explanation": "มีสิบตัวจึงใช้ desks โดยไม่เติม apostrophe",
+        "focus": "พหูพจน์",
+        "options": [
+          "desks",
+          "desk's",
+          "desks'"
+        ],
+        "wrong": {
+          "desk's": "apostrophe + s ไม่ใช้ทำพหูพจน์ทั่วไป",
+          "desks'": "รูปนี้แสดงเจ้าของพหูพจน์ แต่โจทย์ต้องการชื่อสิ่งของสิบชิ้น"
+        },
+        "id": "punctuation-11",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมเครื่องหมายหนึ่งตัวเพื่อคั่นข้อมูลเสริมให้ครบคู่",
+        "sentence": "Our coach, who grew up here___ knows every local route.",
+        "answers": [
+          ","
+        ],
+        "hints": [
+          "อ่านทั้งประโยคเพื่อหาคำบอกบริบท",
+          "เติมเฉพาะคำที่ช่องว่างต้องการ ไม่ต้องพิมพ์ทั้งประโยค"
+        ],
+        "explanation": "ส่วน who grew up here ถูกเปิดด้วย comma แล้ว จึงต้องปิดด้วย comma ก่อนกลับสู่กริยาหลัก knows",
+        "focus": "comma คู่",
+        "id": "punctuation-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคเกี่ยวกับการเตรียมเรียนหรือทำงาน ใช้ประโยคขึ้นต้น If/When หนึ่งประโยค และ colon แนะนำรายการหนึ่งประโยค",
+      "model": "When the workshop ends, please return the equipment. Check these items: the camera, the microphone and the cables. The trainer’s bag will be beside the door.",
+      "translation": "เมื่อเวิร์กช็อปจบ กรุณาคืนอุปกรณ์ ตรวจรายการเหล่านี้ ได้แก่ กล้อง ไมโครโฟน และสายต่าง ๆ กระเป๋าของผู้สอนจะอยู่ข้างประตู",
+      "checklist": [
+        "comma ไม่แยกประธานออกจากกริยาโดยไม่มีเหตุผล",
+        "ก่อน colon เป็นประโยคที่ยืนได้เอง",
+        "apostrophe แสดงเจ้าของหรือรูปย่อ ไม่ได้ใช้ทำพหูพจน์ทั่วไป"
+      ]
+    },
+    "sources": [
+      "purdue-punctuation"
+    ]
+  }
+]

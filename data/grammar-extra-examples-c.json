@@ -1,0 +1,234 @@
+[
+  {
+    "lessonId": "link-bridges",
+    "examples": [
+      {
+        "en": "The jacket is thin but warm. The jacket is thin; however, it is warm.",
+        "th": "เสื้อแจ็กเก็ตบางแต่อุ่น ทั้งสองรูปสื่อความต่างเดียวกัน",
+        "note": "รูปแรก but เชื่อม adjective thin กับ warm ได้ทันที รูปที่สองเปลี่ยนเป็น however จึงเติม it is ให้ส่วนหลังเป็นประโยคหลัก และใช้ semicolon ก่อน however กับ comma หลังคำนี้ ไม่ใช่แทนคำในช่องเดิม",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "The cafe is not cheap, but is it worth the price? The cafe is not cheap. However, is it worth the price?",
+        "th": "คาเฟ่นี้ไม่ถูก แต่คุ้มราคาหรือเปล่า",
+        "note": "หลัง but เป็นประโยคคำถามจึงสลับ is ไว้หน้า it และจบด้วย ? เมื่อใช้ However ให้แยกเป็นประโยคใหม่และใส่ comma หลังคำเชื่อม การเปลี่ยนคำเชื่อมไม่ได้ทำให้คำถามต้องกลับเป็นลำดับประโยคบอกเล่า",
+        "tag": "ประโยคคำถาม"
+      },
+      {
+        "en": "The parcel has not arrived yet. The parcel is late, yet nobody has complained.",
+        "th": "พัสดุยังไม่มาถึง เทียบกับ พัสดุมาช้าแต่ยังไม่มีใครร้องเรียน",
+        "note": "yet ท้ายประโยคปฏิเสธแรกหมายถึง ยัง และเป็น adverb ไม่ใช้ however แทน ส่วน yet หลัง comma ในรูปที่สองเชื่อมประโยคหลักและหมายถึง แต่/ถึงกระนั้น ต้องดูหน้าที่ ไม่ใช่จำคำแปลเดียว",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The walk was steep. Even so, we enjoyed it. The walk was steep. Nevertheless, we enjoyed it.",
+        "th": "ทางเดินชัน ถึงอย่างนั้นเราก็สนุกกับการเดิน",
+        "note": "Even so และ Nevertheless เปิดประโยคใหม่โดยมี comma ตามหลัง ทั้งสองยอมรับอุปสรรคแล้วบอกผลที่ยังเกิด Even so ฟังเป็นกันเองกว่า ส่วน Nevertheless เหมาะกับน้ำเสียงเป็นทางการได้ แต่ไม่ได้ดีกว่าโดยอัตโนมัติ",
+        "tag": "น้ำเสียง"
+      }
+    ]
+  },
+  {
+    "lessonId": "link-concession",
+    "examples": [
+      {
+        "en": "Although the printer was noisy, we kept working. Despite the noisy printer, we kept working.",
+        "th": "แม้เครื่องพิมพ์เสียงดัง เราก็ทำงานต่อ",
+        "note": "although รับ clause ที่มี the printer + was ส่วน despite รับ noun phrase the noisy printer ต้องย้าย noisy มาเป็นคำขยายนาม ไม่เขียน despite the printer was noisy ทั้งสองวางส่วนยอมรับข้อขัดแย้งไว้หน้าจึงใช้ comma ก่อนประโยคหลัก",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "Although I did not know the area, I found the shop. Despite not knowing the area, I found the shop.",
+        "th": "แม้ฉันไม่รู้จักย่านนี้ ฉันก็หาร้านเจอ",
+        "note": "เปลี่ยน did not know ซึ่งเป็น finite verb phrase เป็น not knowing หลัง despite โดย not อยู่หน้า -ing ผู้ที่ไม่รู้จักพื้นที่คือ I เช่นเดียวกับประธานของ found ไม่เติม but หน้าประโยคหลักอีก",
+        "tag": "รูปปฏิเสธ"
+      },
+      {
+        "en": "Even though the shop is closed today, we will go there to check its opening hours. Even if the shop is closed today, we will go there to check its opening hours.",
+        "th": "รูปแรก: รู้ว่าร้านปิดแต่จะไปดูเวลาเปิด รูปที่สอง: ต่อให้ร้านปิดก็จะไปดูเวลาเปิด",
+        "note": "even though เสนอการปิดร้านเป็นข้อเท็จจริง ส่วน even if ยกกรณีที่เป็นไปได้และยืนยันว่าจะไปไม่ว่ากรณีนั้นเกิดหรือไม่ โครงสร้างหลังคำเชื่อมเหมือนกัน แต่เปลี่ยนคำแล้วสถานะข้อมูลเปลี่ยน จึงไม่ใช่คำแทนกันเสมอ",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The apartment has no balcony. It gets plenty of sunlight, though. Although the apartment has no balcony, it gets plenty of sunlight.",
+        "th": "ห้องชุดไม่มีระเบียง แต่ก็รับแสงแดดได้มาก",
+        "note": "though ท้ายประโยคหลัง comma ใช้เสริมข้อแย้งแบบภาษาสนทนาได้ หากเลือก although ต้องวางหน้าส่วน clause แทนการวางท้ายแบบ adverb ไม่เขียน sunlight, although. รูปที่สองรวมสองความคิดเป็นประโยคเดียวโดยไม่เปลี่ยนสารหลัก",
+        "tag": "ตำแหน่งคำ"
+      }
+    ]
+  },
+  {
+    "lessonId": "link-contrast",
+    "examples": [
+      {
+        "en": "The blue bag has two pockets, whereas the green bag has four. The blue bag has two pockets. In contrast, the green bag has four.",
+        "th": "กระเป๋าสีน้ำเงินมีสองช่อง ส่วนสีเขียวมีสี่ช่อง",
+        "note": "whereas นำ subordinate clause จึงรวมในประโยคเดียวได้ เมื่อเปลี่ยนเป็น In contrast ต้องแบ่งประโยคหลักด้วยจุดหรือ semicolon และคั่น comma หลังวลีนี้ ความสัมพันธ์คือเทียบลักษณะ ไม่ใช่หักล้างว่าข้อแรกไม่จริง",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "The update was not a waste of time. On the contrary, it saved us hours. The update saved time. On the other hand, it required extra training.",
+        "th": "ชุดแรกหักล้างว่าการอัปเดตเสียเวลา ชุดหลังชั่งข้อดีเรื่องเวลากับข้อเสียเรื่องการฝึกเพิ่ม",
+        "note": "On the contrary ยืนยันสิ่งตรงข้ามกับข้อกล่าวที่เพิ่งปฏิเสธ ส่วน On the other hand เพิ่มอีกด้านที่อยู่ร่วมกับข้อดีได้ ทั้งคู่ใช้ comma หลังวลีต้นประโยค แต่สลับกันแล้วตรรกะเปลี่ยน",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "While I was washing the cups, the kettle boiled. I prefer large cups, while my sister prefers small ones.",
+        "th": "ระหว่างฉันล้างถ้วย น้ำในกาต้มเดือด เทียบกับ ฉันชอบถ้วยใหญ่แต่พี่สาวหรือน้องสาวชอบถ้วยเล็ก",
+        "note": "while รูปแรกบอกช่วงเวลาที่เหตุการณ์เกิด จึงใช้ whereas แทนไม่ได้ รูปที่สองเปรียบเทียบความชอบ ใช้ whereas ได้เพื่อให้ชัดว่าไม่ใช่ความพร้อมกัน clause ที่อยู่หน้าประโยคแรกจบด้วย comma ส่วนรูปเปรียบต่างใช้ comma ก่อน while",
+        "tag": "จุดชวนสับสน"
+      },
+      {
+        "en": "We chose to mend the curtain rather than replace it. Instead of replacing the curtain, we chose to mend it.",
+        "th": "เราเลือกซ่อมผ้าม่านแทนการเปลี่ยนใหม่",
+        "note": "หลัง chose to mend รูป rather than replace รักษาความขนานของกริยา mend/replace โดยไม่ต้องซ้ำ to เมื่อเปลี่ยนเป็น instead of ต้องใช้ replacing และใช้ comma ปิดวลีต้นประโยค ทั้งสองเน้นการเลือกซ่อมแทนเปลี่ยน แต่จัดข้อมูลคนละลำดับ",
+        "tag": "เปลี่ยนโครงสร้าง"
+      }
+    ]
+  },
+  {
+    "lessonId": "link-reason",
+    "examples": [
+      {
+        "en": "The match stopped because lightning struck nearby. The match stopped because of a nearby lightning strike.",
+        "th": "การแข่งขันหยุดเพราะมีฟ้าผ่าใกล้ ๆ",
+        "note": "because รับ clause lightning struck nearby ส่วน because of รับ noun phrase a nearby lightning strike จึงต้องเปลี่ยน struck เป็นนาม strike ไม่ใช่เพิ่ม of หน้า clause เดิม เหตุผลอยู่ท้ายและผูกกับ stopped โดยตรงจึงไม่ต้องใช้ comma ในสองรูปนี้",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "The freezer broke, so the food spoiled. The freezer broke; therefore, the food spoiled.",
+        "th": "ช่องแช่แข็งเสีย อาหารจึงบูด",
+        "note": "so เป็น conjunction เชื่อมประโยคหลักโดยมี comma ก่อน ส่วน therefore ไม่ทำหน้าที่นั้น ต้องใช้ semicolon หรือจุดก่อนและ comma หลัง therefore เหตุและผลเหมือนเดิม รูปแรกเป็นธรรมชาติในบทสนทนา รูปหลังเหมาะกับการอธิบายเป็นทางการได้",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "Since the lock was replaced, we have used a new key. Because the lock was damaged, we replaced it.",
+        "th": "ตั้งแต่เปลี่ยนแม่กุญแจ เราก็ใช้กุญแจดอกใหม่ เทียบกับ เพราะแม่กุญแจชำรุด เราจึงเปลี่ยนมัน",
+        "note": "since ในรูปแรกอ่านเป็นจุดเริ่มต้นของช่วงเวลา โดย present perfect have used ช่วยบอกความต่อเนื่อง จึงไม่ควรเปลี่ยนเป็น therefore ส่วน because รูปหลังบอกสาเหตุ หาก since อาจกำกวมในบริบท ให้เลือก because เพื่อระบุเหตุผลหรือ from the time เพื่อเน้นเวลา",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The baker must be working because the lights are on. The lights are on because the baker is working.",
+        "th": "รูปแรก: ไฟเปิดอยู่ จึงคาดว่าคนทำขนมคงทำงาน รูปที่สอง: ไฟเปิดเพราะคนทำขนมกำลังทำงาน",
+        "note": "because รูปแรกนำหลักฐานสนับสนุนการคาดคะเน must be ไม่ได้หมายความว่าไฟบังคับให้คนทำงาน รูปหลังเสนอการทำงานเป็นเหตุให้เปิดไฟ ทั้งสองไม่ต้องมี comma ในบริบทนี้ แต่สลับข้อมูลแล้วทิศของเหตุผลต่างกัน",
+        "tag": "เหตุผลกับหลักฐาน"
+      }
+    ]
+  },
+  {
+    "lessonId": "link-addition",
+    "examples": [
+      {
+        "en": "The pass covers buses and trams. The pass covers buses. In addition, it covers trams.",
+        "th": "บัตรนี้ใช้ได้ทั้งรถเมล์และรถราง",
+        "note": "and เชื่อมนาม buses กับ trams โดยตรง แต่ In addition เป็นวลีเชื่อมความคิด ต้องเติม it covers ให้เป็นประโยค ไม่ใส่แทน and ระหว่างนาม ประโยคใหม่มี comma หลัง In addition รูปสั้นเพียงพอเมื่อไม่ต้องการเน้นข้อมูลที่เพิ่ม",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "The studio does not provide towels. It does not provide soap either. The studio provides towels. It also provides soap.",
+        "th": "ชุดแรกไม่ให้ทั้งผ้าเช็ดตัวและสบู่ ชุดหลังให้ทั้งสองอย่าง",
+        "note": "either ท้ายประโยคปฏิเสธเพิ่มข้อมูลในทางปฏิเสธ ส่วน also อยู่หน้ากริยาหลัก provides ในประโยคบอกเล่า อย่าแทน either ด้วย too เพียงเพราะแปลว่า ด้วย เหมือนกัน และ also does not อาจใช้ได้ในบริบทที่เพิ่มข้อเท็จจริงเชิงปฏิเสธ แต่ไม่ใช่รูปฝึกเดียวกัน",
+        "tag": "รูปปฏิเสธ"
+      },
+      {
+        "en": "The centre offers creative activities, such as pottery and weaving. The centre offers creative activities. For example, visitors can try pottery.",
+        "th": "ศูนย์มีกิจกรรมสร้างสรรค์ เช่น ปั้นเครื่องปั้นดินเผาและทอผ้า; อีกรูปยกกิจกรรมปั้นเป็นตัวอย่าง",
+        "note": "such as รับตัวอย่างแบบ noun phrase จึงต่อ pottery and weaving ได้ ส่วน For example ในรูปที่สองเปิดประโยคตัวอย่างที่มี visitors can try ครบ ใช้จุดก่อนและ comma หลังวลีนี้ ทั้งสองยกบางตัวอย่าง ไม่ได้อ้างว่าเป็นรายการทั้งหมด",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "The cabin is quiet. It also has a large kitchen. The cabin is quiet. Furthermore, it has a large kitchen.",
+        "th": "บ้านพักเงียบ และยังมีครัวขนาดใหญ่ด้วย",
+        "note": "also อยู่หน้ากริยาหลัก has โดยไม่ต้องคั่น comma ขณะที่ Furthermore เปิดประโยคใหม่และตามด้วย comma คำหลังทำให้การเพิ่มเหตุผลฟังเป็นทางการกว่า เหมาะเมื่อกำลังเรียงข้อสนับสนุน ไม่จำเป็นต้องเปลี่ยน also เป็นคำยาวในข้อความถึงเพื่อน",
+        "tag": "น้ำเสียง"
+      }
+    ]
+  },
+  {
+    "lessonId": "link-purpose",
+    "examples": [
+      {
+        "en": "I lowered the screen brightness to save power. I lowered the screen brightness so that the battery would last longer.",
+        "th": "ฉันลดความสว่างหน้าจอเพื่อประหยัดไฟ หรือเพื่อให้แบตเตอรี่ใช้งานได้นานขึ้น",
+        "note": "to + save เป็น infinitive บอกเป้าหมายของ I ส่วน so that รับ clause the battery would last longer จึงเปิดโอกาสให้ผลที่ต้องการมีประธานต่างจากผู้ลงมือ สองรูปสื่อเป้าหมายใกล้กันโดยปรับมุมมอง และไม่ต้องมี comma ก่อนวลีเป้าหมายในรูปนี้",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "She whispered so as not to wake the baby. She whispered so that she would not wake the baby.",
+        "th": "เธอกระซิบเพื่อไม่ให้ทารกตื่น",
+        "note": "รูปแรกวาง not หลัง so as และก่อน to wake ส่วนรูปที่สองมี she + would not + wake หลัง so that ทั้งคู่บอกเจตนาหลีกเลี่ยงผล ไม่ได้ยืนยันว่าทารกไม่ตื่นจริง และไม่ใช้ so as not waking",
+        "tag": "รูปปฏิเสธ"
+      },
+      {
+        "en": "If you do not press Save, your changes will be lost. Unless you press Save, your changes will be lost.",
+        "th": "ถ้าคุณไม่กดบันทึก สิ่งที่แก้ไขจะหายไป",
+        "note": "ในเงื่อนไขนี้ unless แทน if ... not ได้ จึงต้องเปลี่ยน do not press เป็น press หลัง unless ไม่ใส่ not ซ้ำ เพราะจะกลับเงื่อนไข ใช้ present simple ใน clause เงื่อนไข และ will ในผลลัพธ์ พร้อม comma เมื่อเงื่อนไขอยู่หน้า",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "I moved the lamp so that I could read. The lamp was so bright that I could read without my glasses.",
+        "th": "ฉันย้ายโคมไฟเพื่อให้อ่านได้ เทียบกับ โคมไฟสว่างมากจนอ่านได้โดยไม่ใส่แว่น",
+        "note": "so that ติดกันนำเป้าหมายของการย้าย แต่ so + adjective bright + that บอกระดับความสว่างที่ทำให้เกิดผล ประโยคแรกยังไม่รับรองว่าอ่านสำเร็จ ส่วนประโยคหลังนำเสนอความสามารถที่เป็นผล อย่าแยกจำเฉพาะ so กับ that โดยมองข้าม adjective ตรงกลาง",
+        "tag": "เป้าหมายกับผล"
+      }
+    ]
+  },
+  {
+    "lessonId": "link-time",
+    "examples": [
+      {
+        "en": "After you rinse the rice, put it in the pot. After rinsing the rice, put it in the pot.",
+        "th": "หลังจากล้างข้าวแล้ว ให้ใส่ข้าวลงหม้อ",
+        "note": "after รับได้ทั้ง clause you rinse และรูป -ing rinsing เมื่อลดรูป ผู้ล้างต้องเป็นคนเดียวกับประธาน you ที่ละไว้ในคำสั่ง put ใช้ comma จบส่วนต้นทั้งสองแบบ ไม่ลดรูปเช่นนี้หากทำให้เข้าใจว่าผู้ทำสองกิจกรรมเป็นคนเดียวกันทั้งที่ไม่ใช่",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "I will message you when the delivery arrives. When will the delivery arrive?",
+        "th": "ฉันจะส่งข้อความเมื่อของมาถึง เทียบกับ ของจะมาถึงเมื่อไร",
+        "note": "when รูปแรกนำ time clause ที่อ้างอนาคต จึงใช้ arrives ไม่ใช้ will arrive ตามรูปแบบนี้ แต่รูปที่สองเป็นคำถามหลัก จึงใช้ When + will + subject + arrive และจบด้วย ? ไม่มีกฎห้าม will หลัง when ทุกกรณี",
+        "tag": "ประโยคคำถาม"
+      },
+      {
+        "en": "Keep the door open until the paint dries. Close the door by six.",
+        "th": "เปิดประตูค้างไว้จนกว่าสีจะแห้ง เทียบกับ ปิดประตูภายในหกโมง",
+        "note": "until เน้นสภาพที่ดำเนินต่อจนถึงจุดสิ้นสุด และรับ clause the paint dries ส่วน by six กำหนดเส้นตายว่าต้องปิดไม่เกินหกโมง ไม่ได้บอกให้ปิดค้างจนหกโมง จึงแทน until กับ by ตรง ๆ แล้วคงความหมายเดิมไม่ได้",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The dough rested for twenty minutes. Meanwhile, I washed the bowls. The dough rested for twenty minutes. Then I washed the bowls.",
+        "th": "ชุดแรกฉันล้างชามระหว่างพักแป้ง ชุดหลังฉันล้างชามหลังพักแป้งแล้ว",
+        "note": "Meanwhile เชื่อมเหตุการณ์ที่ทับซ้อนกันทางเวลา มี comma หลังคำต้นประโยค ส่วน Then บอกลำดับถัดไปและในรูปสั้นนี้ไม่จำเป็นต้องมี comma ทั้งคู่ขึ้นประโยคใหม่ได้ แต่การสลับคำเปลี่ยนเส้นเวลาของกิจกรรม",
+        "tag": "เทียบความหมาย"
+      }
+    ]
+  },
+  {
+    "lessonId": "link-restate",
+    "examples": [
+      {
+        "en": "You may pay by card or by bank transfer. You may pay by card. Alternatively, you may pay by bank transfer.",
+        "th": "คุณจ่ายด้วยบัตรหรือโอนผ่านธนาคารก็ได้",
+        "note": "or เชื่อม prepositional phrases by card กับ by bank transfer ส่วน Alternatively ในรูปเขียนเต็มนี้ใช้เปิดอีกประโยค จึงเติม you may pay พร้อม comma หลังคำเชื่อม ทั้งสองยังเปิดสองทางเลือก ไม่ได้บอกว่าทางแรกถูกยกเลิกเหมือนการเลือกทำอีกอย่าง instead",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "Rather than buy a new shelf, we repaired the old one. Instead of buying a new shelf, we repaired the old one.",
+        "th": "แทนที่จะซื้อชั้นใหม่ เราซ่อมชั้นเดิม",
+        "note": "rather than ในรูปนี้ตามด้วยกริยารูปพื้นฐาน buy ได้ แต่ instead of ต้องตามด้วย buying ไม่ใช่ buy ทั้งสองวางทางที่ไม่ได้เลือกไว้ต้นประโยคและปิดด้วย comma ผู้ซื้อที่สมมุติไว้กับผู้ซ่อมคือ we เดียวกัน",
+        "tag": "เปลี่ยนโครงสร้าง"
+      },
+      {
+        "en": "The fee covers two items, namely lunch and materials. The fee covers several items, for example lunch and materials.",
+        "th": "รูปแรกระบุรายการที่รวมสองอย่างครบ รูปหลังยกอาหารกลางวันและอุปกรณ์เป็นเพียงตัวอย่างจากหลายอย่าง",
+        "note": "namely เจาะจงว่าคำว่า two items หมายถึงอะไร จึงต้องระบุครบตามจำนวน ส่วน for example ไม่รับรองว่ารายการครบ การเปลี่ยนคำเชื่อมจึงต้องทบทวน two/several ด้วย ในสองรูปนี้ส่วนท้ายเป็นรายการนาม ไม่ใช่ประโยคหลักใหม่ จึงใช้ comma ได้",
+        "tag": "เทียบความหมาย"
+      },
+      {
+        "en": "The charger works with both models. In other words, you do not need a different charger for each model. The charger works with the older model, or rather, the newer model.",
+        "th": "ชุดแรกอธิบายผลของการใช้ที่ชาร์จร่วมกัน ชุดหลังแก้ข้อมูลจากรุ่นเก่าเป็นรุ่นใหม่",
+        "note": "In other words ขยายสารเดิมโดยไม่เปลี่ยนข้อเท็จจริง ใช้จุดก่อนเมื่อส่วนถัดไปเป็นประโยคหลัก ส่วน or rather แก้ข้อมูลที่เพิ่งกล่าวและในตัวอย่างคั่นด้วย comma เพราะตามด้วย noun phrase ที่แทนคำเดิม ไม่ใช่คำแนะนำให้ใช้เพื่อถอดความทุกครั้ง",
+        "tag": "พูดใหม่หรือแก้ไข"
+      }
+    ]
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "cam-agreement",
+    "title": "Cambridge: Subject–verb agreement",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/subject-verb-agreement",
+    "notes": "การจับคู่ประธานกับกริยา รวมถึง collective nouns ที่เลือกเอกพจน์หรือพหูพจน์ได้ตามความหมาย"
+  },
+  {
+    "id": "cam-articles",
+    "title": "Cambridge: A/an and the",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/articles",
+    "notes": "การเลือก article ตามความหมายและเสียง ไม่ใช่ดูตัวอักษรเพียงอย่างเดียว"
+  },
+  {
+    "id": "cam-countability",
+    "title": "Cambridge: Nouns, countable and uncountable",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/nouns-uncountable-and-countable",
+    "notes": "คำนามนับได้และนับไม่ได้ รวมถึงความหมายที่เปลี่ยนประเภทการนับ"
+  },
+  {
+    "id": "bc-tenses",
+    "title": "British Council: Present perfect",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/present-perfect",
+    "notes": "การเชื่อมอดีตกับปัจจุบัน และความแตกต่างจากเวลาที่จบไปแล้ว"
+  },
+  {
+    "id": "bc-passive",
+    "title": "British Council: Passives",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/passives",
+    "notes": "รูป passive และการเลือกใช้เมื่อเน้นผู้รับการกระทำ"
+  },
+  {
+    "id": "purdue-sentences",
+    "title": "Purdue OWL: Sentence fragments",
+    "url": "https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html",
+    "notes": "การแยก fragment ออกจากประโยคที่มีใจความหลักครบ"
+  },
+  {
+    "id": "purdue-punctuation",
+    "title": "Purdue OWL: Run-on sentences",
+    "url": "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/runonsentences.html",
+    "notes": "การแก้ comma splice และการเชื่อม independent clauses อย่างเหมาะสม"
+  },
+  {
+    "id": "bc-relative",
+    "title": "British Council: Defining relative clauses",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-defining-relative-clauses",
+    "notes": "relative clauses ที่ระบุว่าสิ่งหรือคนใด รวมถึงการละ object relative pronoun"
+  },
+  {
+    "id": "bc-conditionals",
+    "title": "British Council: Verbs in time and if clauses",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-time-clauses-if-clauses",
+    "notes": "รูปกริยาในเงื่อนไขและเวลา รวมข้อยกเว้นของ will และเงื่อนไขสมมติ"
+  },
+  {
+    "id": "cam-comparison",
+    "title": "Cambridge: Comparison of adjectives",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/comparison-adjectives-bigger-biggest-more-and-most",
+    "notes": "comparative, superlative และคำขยายระดับความแตกต่าง"
+  },
+  {
+    "id": "cam-prepositions",
+    "title": "Cambridge: Prepositions",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/prepositions_2",
+    "notes": "ความสัมพันธ์ที่ preposition แสดง และการเลือกตามชุดคำกับความหมาย"
+  },
+  {
+    "id": "cam-wordforms",
+    "title": "Cambridge: Adverbs, forms",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/adverbs-forms",
+    "notes": "รูป adjective และ adverb รวมกรณีที่ไม่ได้ลงท้ายด้วย -ly"
+  },
+  {
+    "id": "bc-verbs",
+    "title": "British Council: Verbs followed by -ing or infinitive",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/verbs-followed-ing-or-infinitive",
+    "notes": "รูปกริยาที่ตามหลังคำกริยาอื่น และ verb patterns ที่ควรจำเป็นชุด"
+  },
+  {
+    "id": "cam-linking",
+    "title": "Cambridge: Conjunctions, contrasting",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/conjunctions-contrasting?q=Conjunc-",
+    "notes": "ความต่างระหว่าง but, although และ however รวมโครงสร้างที่ใช้เชื่อมความคิด"
+  },
+  {
+    "id": "cam-pronouns",
+    "title": "Cambridge: Pronouns, one, you, we, they",
+    "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/pronouns-one-you-we-they",
+    "notes": "การอ้างอิงทั่วไปและการใช้ they อ้างถึงบุคคลที่ไม่ระบุเพศ"
+  },
+  {
+    "id": "purdue-parallel",
+    "title": "Purdue OWL: Parallel structure",
+    "url": "https://owl.purdue.edu/owl/general_writing/mechanics/parallel_structure.html",
+    "notes": "การจัดคำ วลี และอนุประโยคให้ขนานกัน รวมการใช้ to ร่วมกัน"
+  },
+  {
+    "id": "bc-modals",
+    "title": "British Council: Modals, permission and obligation",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modals-permission-obligation",
+    "notes": "การอนุญาต หน้าที่ ข้อห้าม และความต่างระหว่าง must not กับ do not have to"
+  },
+  {
+    "id": "cam-nounphrases",
+    "title": "Cambridge: Noun phrases, dependent words",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/noun-phrases-premodifiers",
+    "notes": "head noun, modifiers และหน่วยวัดที่ขยายนาม"
+  },
+  {
+    "id": "cam-quantifiers",
+    "title": "Cambridge: Quantifiers",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/quantifiers",
+    "notes": "ภาพรวมคำบอกปริมาณและลิงก์อธิบายแต่ละกลุ่ม"
+  },
+  {
+    "id": "cam-order",
+    "title": "Cambridge: Word order, structures",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/word-order-structures",
+    "notes": "ลำดับองค์ประกอบประโยคและการเปลี่ยนตำแหน่งเพื่อเน้นข้อมูล"
+  },
+  {
+    "id": "ielts-descriptors",
+    "title": "IELTS: Official Writing band descriptors",
+    "url": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+    "notes": "เกณฑ์ทางการของ IELTS Writing; แบบฝึกหัดนี้ไม่ใช่การประเมิน band score"
+  },
+  {
+    "id": "bc-relative-nondefining",
+    "title": "British Council: Non-defining relative clauses",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-non-defining-relative-clauses",
+    "notes": "ข้อมูลเสริมที่แยกด้วย comma และเหตุผลที่ไม่ใช้ that"
+  },
+  {
+    "id": "bc-verbs-meaning",
+    "title": "British Council: -ing or infinitive with a change of meaning",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/verbs-followed-ing-or-infinitive-change-meaning",
+    "notes": "ความหมายที่เปลี่ยนเมื่อใช้ remember, stop, try กับรูปกริยาต่างกัน"
+  },
+  {
+    "id": "bc-conditionals-mixed",
+    "title": "British Council: Third and mixed conditionals",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-third-mixed",
+    "notes": "การสมมติเหตุการณ์ในอดีตและผลลัพธ์ที่อาจอยู่คนละช่วงเวลา"
+  },
+  {
+    "id": "cam-passive-errors",
+    "title": "Cambridge: Passive, typical errors",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/passive-typical-errors",
+    "notes": "ข้อผิดพลาดจากการสร้าง passive ด้วยกริยาที่ไม่รับกรรม"
+  },
+  {
+    "id": "cam-less-fewer",
+    "title": "Cambridge: Less or fewer?",
+    "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/less-and-fewer",
+    "notes": "ความต่างตามชนิดคำนาม และการใช้ less กับจำนวนที่มองเป็นปริมาณรวม"
+  },
+  {
+    "id": "cam-few-little",
+    "title": "Cambridge: Little, a little, few, a few",
+    "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/little-a-little",
+    "notes": "ความหมายของการมีอยู่บ้างกับการมีน้อย รวมชนิดคำนามที่ใช้ด้วย"
+  },
+  {
+    "id": "cam-time-prepositions",
+    "title": "Cambridge: At, on and in, time",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/at-on-in-time",
+    "notes": "prepositions of time และวลีที่ไม่ใช้ preposition"
+  },
+  {
+    "id": "cam-reduced-although",
+    "title": "Cambridge: Although or though?",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/although",
+    "notes": "although และ though รวม reduced clauses ที่ไม่มี subject และ verb ปรากฏครบ"
+  },
+  {
+    "id": "cam-despite",
+    "title": "Cambridge: In spite of and despite",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/in-spite-of-and-despite?q=In+spite+of+and+despite",
+    "notes": "โครงสร้าง noun phrase, -ing และ the fact that หลัง despite"
+  },
+  {
+    "id": "cam-indirect-questions",
+    "title": "Cambridge: Reported speech, indirect speech",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/indirect-speech-reporting-questions",
+    "notes": "ลำดับ subject + verb ใน indirect questions"
+  },
+  {
+    "id": "cam-inversion",
+    "title": "Cambridge: Inversion",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/inversion",
+    "notes": "การสลับ auxiliary กับ subject เมื่อเริ่มด้วยคำเชิงปฏิเสธเพื่อเน้น"
+  },
+  {
+    "id": "cam-adjective-order",
+    "title": "Cambridge: Adjectives, order",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/order-adjectives",
+    "notes": "ลำดับ adjective ที่ใช้โดยทั่วไป และความสัมพันธ์กับ noun phrase"
+  },
+  {
+    "id": "bc-noun-modifiers",
+    "title": "British Council: Noun modifiers",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/noun-modifiers",
+    "notes": "คำนามและจำนวนที่นำมาขยายนามอื่น"
+  },
+  {
+    "id": "cam-compounds",
+    "title": "Cambridge: Compounds",
+    "url": "https://dictionary.cambridge.org/grammar/british-grammar/compound-words",
+    "notes": "การสร้าง compound และการตรวจรูปสะกดหรือ hyphen จากพจนานุกรม"
+  },
+  {
+    "id": "bc-determiners",
+    "title": "British Council: Specific and general determiners",
+    "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/specific-general-determiners",
+    "notes": "determiners ที่มีความหมายเฉพาะและทั่วไป รวม any ที่ไม่จำกัดตัวเลือก"
+  },
+  {
+    "id": "learning-ies",
+    "title": "IES: Organizing Instruction and Study to Improve Student Learning",
+    "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/1",
+    "notes": "แนวทางการเว้นช่วง ตัวอย่างพร้อมวิธีคิด การฝึกแก้ปัญหา และการเรียกคืนความรู้"
+  },
+  {
+    "id": "learning-dunlosky",
+    "title": "Dunlosky et al.: Effective Learning Techniques",
+    "url": "https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html",
+    "notes": "บททบทวนหลักฐานเกี่ยวกับการทดสอบตัวเองและการฝึกแบบเว้นช่วง"
+  }
+]

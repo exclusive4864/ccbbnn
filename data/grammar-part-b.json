@@ -1,0 +1,2481 @@
+[
+  {
+    "id": "relatives",
+    "number": 8,
+    "title": "Relative clauses",
+    "thaiTitle": "ขยายคำนามให้ผู้อ่านรู้ว่าคนไหนหรือสิ่งใด",
+    "group": "เชื่อมและขยายความ",
+    "minutes": 20,
+    "outcome": "รวมข้อมูลเกี่ยวกับคนหรือสิ่งของโดยเลือกคำเชื่อม บทบาท และเครื่องหมายคอมมาได้",
+    "memory": "ระบุคนไหน ไม่คั่น; เสริมข้อมูล คั่นคอมมา",
+    "why": "ช่วยลดการกล่าวชื่อเดิมซ้ำ และแยกข้อมูลจำเป็นออกจากข้อมูลเสริม",
+    "steps": [
+      {
+        "title": "1. หาคำนามที่ต้องการขยาย",
+        "body": "เลือกคำนามก่อน แล้วถามว่าประโยคย่อยกำลังบอกว่าเป็นคนไหนหรือสิ่งไหน ถ้าต้องใช้เพื่อระบุสิ่งที่หมายถึง มักเป็น defining clause ซึ่งไม่คั่นคอมมา",
+        "example": "The student who designed the poster is absent.",
+        "note": "who designed the poster ระบุว่านักเรียนคนไหน ไม่ใช่นักเรียนทุกคน"
+      },
+      {
+        "title": "2. ดูบทบาทของคำที่แทนคำนาม",
+        "body": "ใช้ who กับคน และ which กับสิ่งของ; that ใช้แทนได้ใน defining clause หลายกรณี ถ้าคำเชื่อมเป็นประธาน ต้องเก็บไว้ ถ้าเป็นกรรมใน defining clause มักละได้",
+        "example": "The app that I tested works offline.",
+        "note": "I เป็นประธานของ tested; that เป็นกรรม จึงเขียน The app I tested ได้"
+      },
+      {
+        "title": "3. แยกข้อมูลเสริมด้วยคอมมา",
+        "body": "ถ้า clause เพียงเพิ่มข้อมูลเกี่ยวกับคนหรือสิ่งที่ระบุชัดแล้ว ไม่ได้ใช้จำกัดว่าหมายถึงคนไหนหรือสิ่งไหน ให้ใช้ non-defining clause และคอมมาคั่น ห้ามใช้ that หรือละ relative pronoun ในโครงสร้างนี้",
+        "example": "My tutor, who lives nearby, cycles to work.",
+        "note": "who lives nearby เพิ่มข้อมูลเกี่ยวกับติวเตอร์ที่ระบุอยู่แล้ว"
+      },
+      {
+        "title": "4. เชื่อมความเป็นเจ้าของและสถานที่",
+        "body": "ใช้ whose + คำนามเพื่อแสดงความเป็นเจ้าของ และ where เมื่อประโยคย่อยมีความหมายว่า ณ สถานที่นั้น แต่ถ้าสถานที่เป็นกรรมของกริยา ให้ใช้ which หรือ that",
+        "example": "This is the room where we practise.",
+        "note": "we practise in the room จึงใช้ where; แต่ the room that we painted ใช้ that เพราะ painted ต้องการกรรม"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The nurse who helped me works nights.",
+        "th": "พยาบาลคนที่ช่วยฉันเป็นคนทำงานกะดึก",
+        "note": "who เป็นประธานของ helped จึงละไม่ได้"
+      },
+      {
+        "en": "The folder I shared contains the schedule.",
+        "th": "โฟลเดอร์ที่ฉันแชร์มีตารางเวลาอยู่",
+        "note": "ละกรรม that หรือ which ได้ใน defining clause"
+      },
+      {
+        "en": "Our library, which reopened on Monday, has new desks.",
+        "th": "ห้องสมุดของเราซึ่งเปิดอีกครั้งเมื่อวันจันทร์มีโต๊ะใหม่",
+        "note": "ข้อมูลการเปิดอีกครั้งเป็นข้อมูลเสริม จึงคั่นคอมมา"
+      },
+      {
+        "en": "I met a designer whose studio uses recycled paper.",
+        "th": "ฉันพบนักออกแบบคนหนึ่งที่สตูดิโอของเขาใช้กระดาษรีไซเคิล",
+        "note": "whose studio เป็นกลุ่มคำนาม แสดงเจ้าของสตูดิโอ"
+      },
+      {
+        "en": "The station where we changed trains was crowded.",
+        "th": "สถานีที่เราเปลี่ยนรถไฟมีผู้คนหนาแน่น",
+        "note": "where แทนความหมาย at the station"
+      },
+      {
+        "en": "The colleague I spoke to recommended this course.",
+        "th": "เพื่อนร่วมงานที่ฉันคุยด้วยแนะนำหลักสูตรนี้",
+        "note": "ละกรรมได้ และวาง to ท้ายประโยคย่อยได้ตามธรรมชาติ"
+      }
+    ],
+    "traps": [
+      {
+        "title": "ห้ามเติมประธานหรือกรรมซ้ำ",
+        "body": "เมื่อ who หรือ which ทำหน้าที่แทนคำนามแล้ว อย่าเติม he หรือ it ซ้ำในตำแหน่งเดียวกัน",
+        "good": "The mentor who called me left a message.",
+        "source": "bc-relative"
+      },
+      {
+        "title": "คอมมาเปลี่ยนขอบเขตความหมาย",
+        "body": "แบบไม่คั่นคอมมาจำกัดกลุ่ม ส่วนแบบคั่นคอมมาให้ข้อมูลเกี่ยวกับกลุ่มที่ระบุแล้วทั้งหมด จึงไม่ใช่แค่ทางเลือกด้านรูปแบบ",
+        "good": "The volunteers who arrived early set up the chairs.",
+        "source": "bc-relative",
+        "contrast": "The volunteers, who arrived early, set up the chairs."
+      },
+      {
+        "title": "whom เป็นทางเลือก ไม่ใช่ข้อบังคับทุกบริบท",
+        "body": "ในภาษาทั่วไปมักใช้ who เป็นกรรมหรือวางบุพบทท้าย clause ได้ แต่หลังบุพบทที่วางหน้าคำเชื่อมในภาษาเขียนทางการ ใช้ whom กับคน",
+        "good": "The adviser to whom I wrote replied today.",
+        "source": "bc-relative",
+        "contrast": "The adviser who I wrote to replied today."
+      },
+      {
+        "title": "where ไม่ได้แทน which ทุกครั้งที่เห็นสถานที่",
+        "body": "เลือกตามบทบาทในประโยคย่อย ถ้าสถานที่นั้นเป็นกรรมของกริยา ใช้ which หรือ that ไม่ใช่ where; ใน defining clause อาจละ relative pronoun ที่เป็นกรรมได้ เช่น The café we visited",
+        "good": "The café that we visited was quiet.",
+        "source": "bc-relative",
+        "contrast": "The café where we studied was quiet."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกคำเชื่อมสำหรับคนที่เป็นประธาน",
+        "sentence": "The driver ___ found my bag called the office.",
+        "options": [
+          "who",
+          "whose",
+          "where"
+        ],
+        "answers": [
+          "who"
+        ],
+        "hints": [
+          "หาคำที่ทำกริยา found",
+          "ผู้พบกระเป๋าคือ the driver และเป็นคน"
+        ],
+        "explanation": "who แทน driver และเป็นประธานของ found",
+        "wrong": {
+          "whose": "whose ต้องมีคำนามที่แสดงสิ่งที่เป็นเจ้าของตามมา",
+          "where": "where ใช้บอกสถานที่ ไม่ใช่คนที่ทำกริยา"
+        },
+        "focus": "ประธานใน relative clause",
+        "id": "relatives-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำในประโยคข้อมูลเสริมที่คั่นคอมมาแล้ว",
+        "sentence": "Our printer, ___ is ten years old, still works.",
+        "options": [
+          "which",
+          "that",
+          "what"
+        ],
+        "answers": [
+          "which"
+        ],
+        "hints": [
+          "printer เป็นสิ่งของ",
+          "ข้อมูลเสริมใช้ which และห้ามใช้ that"
+        ],
+        "explanation": "which ใช้กับสิ่งของใน non-defining clause",
+        "wrong": {
+          "that": "that ใช้ไม่ได้ใน non-defining clause",
+          "what": "what ไม่ใช้ต่อจากคำนาม printer แบบนี้"
+        },
+        "focus": "non-defining clause",
+        "id": "relatives-02",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำที่แสดงว่าเป็นโทรศัพท์ของผู้หญิงคนนั้น",
+        "sentence": "The woman ___ phone rang stepped outside.",
+        "options": [
+          "whose",
+          "who",
+          "which"
+        ],
+        "answers": [
+          "whose"
+        ],
+        "hints": [
+          "หลังช่องว่างมีคำนาม phone",
+          "ต้องการความหมายว่าโทรศัพท์ของเธอ"
+        ],
+        "explanation": "whose + phone แสดงความเป็นเจ้าของ",
+        "wrong": {
+          "who": "who ใช้เป็นคน แต่ไม่ทำหน้าที่กำหนดเจ้าของ phone",
+          "which": "which ไม่แสดงความเป็นเจ้าของของผู้หญิง"
+        },
+        "focus": "whose + noun",
+        "id": "relatives-03",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกประโยคที่ละคำเชื่อมได้โดยยังครบโครงสร้าง",
+        "sentence": "Which sentence is complete?",
+        "options": [
+          "The guide I hired speaks Thai.",
+          "The guide lives nearby speaks Thai.",
+          "The guide who I hired him speaks Thai."
+        ],
+        "answers": [
+          "The guide I hired speaks Thai."
+        ],
+        "hints": [
+          "ใน clause ต้องเหลือประธานและกริยาที่ครบ",
+          "I hired มี I เป็นประธาน และกรรมคือ guide"
+        ],
+        "explanation": "กรรมของ hired ละ relative pronoun ได้ใน defining clause",
+        "wrong": {
+          "The guide lives nearby speaks Thai.": "ละ who ที่เป็นประธานของ lives ไม่ได้",
+          "The guide who I hired him speaks Thai.": "who แทนกรรมแล้ว จึงไม่เติม him ซ้ำ"
+        },
+        "focus": "การละ relative pronoun",
+        "id": "relatives-04",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม who เพื่อเชื่อมคนที่เป็นประธาน ใช้คำเดียว",
+        "sentence": "A mechanic ___ works upstairs checked my bike.",
+        "answers": [
+          "who"
+        ],
+        "hints": [
+          "คำหลังช่องว่างคือกริยา works",
+          "โจทย์กำหนดให้ฝึก who"
+        ],
+        "explanation": "who เป็นประธานของ works; that ก็ใช้ได้ในบริบททั่วไป แต่ข้อนี้กำหนดรูป who",
+        "focus": "คนเป็นประธาน",
+        "id": "relatives-05",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม whose เพื่อบอกความเป็นเจ้าของ ใช้คำเดียว",
+        "sentence": "We thanked the team ___ idea saved time.",
+        "answers": [
+          "whose"
+        ],
+        "hints": [
+          "idea เป็นสิ่งที่เป็นของ team",
+          "คำแสดงเจ้าของต้องวางหน้าคำนาม"
+        ],
+        "explanation": "whose idea หมายถึงความคิดของทีมนั้น",
+        "focus": "ความเป็นเจ้าของ",
+        "id": "relatives-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม where ให้มีความหมายว่า ณ สถานที่นั้น",
+        "sentence": "Show me the desk ___ you usually study.",
+        "answers": [
+          "where"
+        ],
+        "hints": [
+          "you study at the desk",
+          "ต้องการคำแทน at the desk"
+        ],
+        "explanation": "where เชื่อมสถานที่กับการเรียนที่เกิด ณ จุดนั้น",
+        "focus": "สถานที่ของเหตุการณ์",
+        "id": "relatives-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม which ในข้อมูลเสริมเกี่ยวกับสิ่งของ",
+        "sentence": "The new gate, ___ opens automatically, is safer.",
+        "answers": [
+          "which"
+        ],
+        "hints": [
+          "มีคอมมาคั่น clause",
+          "สิ่งที่ทำกริยา opens คือ gate"
+        ],
+        "explanation": "which เป็นประธานใน non-defining clause จึงใช้ that แทนไม่ได้",
+        "focus": "which ในข้อมูลเสริม",
+        "id": "relatives-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "รวมสองประโยคเป็นประโยคเดียว เริ่ม The book ใช้ that และไม่ใช้คอมมา",
+        "sentence": "The book is on the shelf. I borrowed the book.",
+        "answers": [
+          "The book that I borrowed is on the shelf."
+        ],
+        "hints": [
+          "นำ that I borrowed ไปวางหลัง book",
+          "ตัด the book ที่เป็นกรรมซ้ำออก"
+        ],
+        "explanation": "that I borrowed ขยาย book แล้วตามด้วยกริยาหลัก is",
+        "focus": "รวมประโยคแบบ defining",
+        "id": "relatives-09",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "รวมเป็นประโยคเดียว เริ่ม Maya ใช้ who และคอมมาสองตัว เก็บคำอื่นเดิม",
+        "sentence": "Maya is our captain. Maya lives next door.",
+        "answers": [
+          "Maya, who lives next door, is our captain.",
+          "Maya, who is our captain, lives next door."
+        ],
+        "hints": [
+          "ชื่อ Maya ระบุคนแล้ว",
+          "ใส่ who lives next door ระหว่างคอมมา"
+        ],
+        "explanation": "ใช้ who-clause เป็นข้อมูลเสริมและคั่นคอมมาสองตัวได้ทั้งสองลำดับ: Maya, who lives next door, is our captain. หรือ Maya, who is our captain, lives next door.",
+        "focus": "รวมประโยคแบบ non-defining",
+        "id": "relatives-10",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้นให้เป็นประโยค เริ่ม The student",
+        "sentence": "won / The student / whose project / is here.",
+        "tokens": [
+          "won",
+          "The student",
+          "whose project",
+          "is here."
+        ],
+        "answers": [
+          "The student whose project won is here."
+        ],
+        "hints": [
+          "whose project เป็นประธานของ won",
+          "is here เป็นกริยาและส่วนเติมเต็มของประโยคหลัก"
+        ],
+        "explanation": "whose project won ขยาย student โดยไม่แทรกประธานซ้ำ",
+        "focus": "ขอบเขตประโยคย่อย",
+        "id": "relatives-11",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้นให้เป็นประโยค เริ่ม This is",
+        "sentence": "we met. / where / the office / This is",
+        "tokens": [
+          "we met.",
+          "where",
+          "the office",
+          "This is"
+        ],
+        "answers": [
+          "This is the office where we met."
+        ],
+        "hints": [
+          "วางชื่อสถานที่หลัง This is",
+          "where we met ขยาย office"
+        ],
+        "explanation": "where แทนสถานที่ที่การพบกันเกิดขึ้น",
+        "focus": "where clause",
+        "id": "relatives-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคแนะนำสถานที่เรียนหรือเพื่อนร่วมงาน ใช้ defining clause หนึ่งครั้ง และ non-defining clause หนึ่งครั้ง",
+      "model": "The room where we study has large windows. Our tutor, who also teaches online, arrives early.",
+      "translation": "ห้องที่เราเรียนมีหน้าต่างบานใหญ่ ติวเตอร์ของเราซึ่งสอนออนไลน์ด้วยมาถึงแต่เช้า",
+      "checklist": [
+        "คำเชื่อมตรงกับคน สิ่งของ หรือสถานที่หรือไม่",
+        "ข้อมูลเสริมคั่นคอมมาแล้วหรือยัง",
+        "ไม่มีประธานหรือกรรมซ้ำใน clause"
+      ]
+    },
+    "sources": [
+      "bc-relative"
+    ]
+  },
+  {
+    "id": "conditionals",
+    "number": 9,
+    "title": "Conditionals",
+    "thaiTitle": "เลือกเงื่อนไขตามเวลาและความเป็นจริง",
+    "group": "เชื่อมและขยายความ",
+    "minutes": 20,
+    "outcome": "สื่อกฎทั่วไป แผนที่เป็นไปได้ เหตุการณ์สมมติ และอดีตที่เปลี่ยนไม่ได้ด้วยรูปกริยาที่เหมาะสม",
+    "memory": "จริงทั่วไป: present; เป็นไปได้: will; สมมติ: would; ย้อนอดีต: had + would have",
+    "why": "รูปกริยาในเงื่อนไขช่วยให้คนอ่านรู้ว่ากำลังวางแผน จินตนาการ หรือมองย้อนกลับ",
+    "steps": [
+      {
+        "title": "1. แยกกฎทั่วไปจากเหตุการณ์ครั้งหน้า",
+        "body": "กฎหรือความสัมพันธ์ที่เกิดเป็นประจำมักใช้ if + present, present ส่วนเหตุการณ์อนาคตที่เป็นไปได้มักใช้ if + present, will + กริยารูปพื้นฐาน",
+        "example": "If the sensor detects smoke, the alarm sounds.",
+        "note": "เป็นวิธีทำงานตามปกติของระบบ ไม่ใช่การทำนายเหตุการณ์ครั้งเดียว"
+      },
+      {
+        "title": "2. วางแผนที่ยังเป็นไปได้",
+        "body": "ในเงื่อนไขอนาคตทั่วไป ใช้ present ใน if-clause แม้ความหมายเป็นอนาคต ส่วนผลลัพธ์ใช้ will หรือ modal/คำสั่งตามความหมายได้",
+        "example": "If the bus is late, we will take a taxi.",
+        "note": "is ไม่ใช่ will be ในเงื่อนไขอนาคตทั่วไปนี้"
+      },
+      {
+        "title": "3. ถอยรูปกริยาเพื่อแสดงระยะห่างจากความจริง",
+        "body": "if + past simple, would + รูปพื้นฐาน มักพูดถึงปัจจุบันหรืออนาคตที่สมมติหรือเป็นไปได้น้อย ไม่จำเป็นต้องหมายถึงอดีต",
+        "example": "If I had a larger desk, I would use two screens.",
+        "note": "had กล่าวถึงขนาดโต๊ะในปัจจุบัน ไม่ใช่โต๊ะในอดีต"
+      },
+      {
+        "title": "4. ย้อนอดีตและเชื่อมผลถึงปัจจุบัน",
+        "body": "อดีตที่ไม่เกิดจริงใช้ if + had + V3, would have + V3 ถ้าผลยังอยู่ในปัจจุบัน ใช้ผลแบบ would + รูปพื้นฐานได้ เรียกว่า mixed conditional",
+        "example": "If I had saved the map, I would know the route now.",
+        "note": "ไม่ได้บันทึกแผนที่ในอดีต จึงไม่รู้เส้นทางตอนนี้"
+      }
+    ],
+    "examples": [
+      {
+        "en": "If you press this button, the screen lights up.",
+        "th": "ถ้ากดปุ่มนี้ หน้าจอจะสว่าง",
+        "note": "present ทั้งสองส่วนบอกการทำงานปกติ"
+      },
+      {
+        "en": "If it rains tonight, we will move the class indoors.",
+        "th": "ถ้าฝนตกคืนนี้ เราจะย้ายชั้นเรียนเข้าอาคาร",
+        "note": "เงื่อนไขอนาคตใช้ rains ส่วนผลใช้ will move"
+      },
+      {
+        "en": "If you finish early, call me.",
+        "th": "ถ้าทำเสร็จเร็ว โทรหาฉันนะ",
+        "note": "ผลลัพธ์เป็นคำสั่งได้ ไม่ต้องเป็น will เสมอ"
+      },
+      {
+        "en": "If I knew the password, I would open the file.",
+        "th": "ถ้าฉันรู้รหัสผ่าน ฉันก็คงเปิดไฟล์ได้",
+        "note": "สมมติว่ารู้ในปัจจุบัน แต่จริง ๆ ไม่รู้"
+      },
+      {
+        "en": "If we had booked earlier, we would have paid less.",
+        "th": "ถ้าเราจองเร็วกว่านั้น เราคงจ่ายน้อยกว่านี้แล้ว",
+        "note": "ทั้งเงื่อนไขและผลเป็นอดีตที่ไม่ได้เกิดขึ้น"
+      },
+      {
+        "en": "If she had accepted the job, she would live abroad now.",
+        "th": "ถ้าเธอรับงานนั้น เธอคงอยู่ต่างประเทศตอนนี้",
+        "note": "อดีตที่ไม่เกิดส่งผลสมมติถึงปัจจุบัน"
+      }
+    ],
+    "traps": [
+      {
+        "title": "will ใน if-clause ไม่ได้ผิดทุกกรณี",
+        "body": "มักไม่ใช้ will เพื่อบอกอนาคตธรรมดาหลัง if แต่ใช้ได้เมื่อเน้นความเต็มใจ เช่นคำขอสุภาพ จึงควรดูความหมายก่อนตัดสิน",
+        "good": "If you will wait here, I will find the manager.",
+        "source": "bc-conditionals"
+      },
+      {
+        "title": "were กับ was ขึ้นกับความหมายและระดับภาษา",
+        "body": "ในสมมติปัจจุบัน ใช้ were ได้กับทุกประธาน โดยเฉพาะภาษาเขียนทางการและ If I were you; was พบได้ในภาษาทั่วไปกับ I/he/she/it อย่าสับสนกับ if ที่ถามถึงข้อเท็จจริงในอดีต",
+        "good": "If I were the manager, I would change the schedule.",
+        "source": "bc-conditionals"
+      },
+      {
+        "title": "unless หมายถึง if not แต่ไม่แทนได้ทุกประโยค",
+        "body": "ใช้ unless เมื่อมีข้อยกเว้นหรือเงื่อนไขด้านลบที่ชัดเจน อย่าเติม not ซ้ำโดยไม่ตั้งใจ และอย่าแทน if not แบบอัตโนมัติในเงื่อนไขที่ความหมายไม่เข้ากัน",
+        "good": "We will walk unless it rains.",
+        "source": "bc-conditionals",
+        "contrast": "We will walk if it does not rain."
+      },
+      {
+        "title": "ลำดับ clause ไม่เปลี่ยนเงื่อนไข",
+        "body": "วาง if-clause ก่อนมักตามด้วยคอมมา ถ้าวางไว้ท้ายประโยคมักไม่ต้องมีคอมมา",
+        "good": "If the café is full, we will eat outside.",
+        "source": "bc-conditionals",
+        "contrast": "We will eat outside if the café is full."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกคำสำหรับแผนอนาคตที่เป็นไปได้ ไม่ใช่ความเต็มใจ",
+        "sentence": "If the train ___ late tomorrow, I will text you.",
+        "options": [
+          "is",
+          "will be",
+          "would be"
+        ],
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "หลัง if พูดถึงเงื่อนไขอนาคตทั่วไป",
+          "ใช้ present simple กับ train"
+        ],
+        "explanation": "is ใช้แสดงเงื่อนไขอนาคตได้ แม้มี tomorrow",
+        "wrong": {
+          "will be": "will be ไม่ใช้บอกอนาคตธรรมดาใน if-clause นี้",
+          "would be": "would be ไม่ตรงกับแผนอนาคตแบบ first conditional"
+        },
+        "focus": "เงื่อนไขอนาคต",
+        "id": "conditionals-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "ผู้พูดไม่มีรถ เลือกรูปสำหรับสถานการณ์สมมติปัจจุบัน",
+        "sentence": "If I owned a car, I ___ to campus.",
+        "options": [
+          "would drive",
+          "will drive",
+          "had driven"
+        ],
+        "answers": [
+          "would drive"
+        ],
+        "hints": [
+          "owned ตรงนี้ไม่ใช่อดีตจริง",
+          "ผลสมมติใช้ would + รูปพื้นฐาน"
+        ],
+        "explanation": "would drive เป็นผลสมมติจากเงื่อนไขที่ไม่จริงในปัจจุบัน",
+        "wrong": {
+          "will drive": "will drive ไม่สอดคล้องกับเงื่อนไขสมมติที่กำหนด",
+          "had driven": "had driven เป็น past perfect ไม่ใช่ผลแบบ would"
+        },
+        "focus": "second conditional",
+        "id": "conditionals-02",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "พวกเขาออกช้าและพลาดเที่ยวบิน เลือกผลสมมติในอดีต",
+        "sentence": "If they had left earlier, they ___ the flight.",
+        "options": [
+          "would have caught",
+          "will catch",
+          "would catch"
+        ],
+        "answers": [
+          "would have caught"
+        ],
+        "hints": [
+          "had left ย้อนเงื่อนไขในอดีต",
+          "ผลที่พลาดไปต้องใช้ would have + V3"
+        ],
+        "explanation": "would have caught กล่าวถึงผลในอดีตที่ไม่ได้เกิด",
+        "wrong": {
+          "will catch": "will catch พูดถึงอนาคต",
+          "would catch": "would catch ไม่แสดงผลในอดีตที่พลาดไปตามโจทย์"
+        },
+        "focus": "third conditional",
+        "id": "conditionals-03",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำที่มีความหมายว่า ถ้าไม่",
+        "sentence": "I will attend ___ I am ill.",
+        "options": [
+          "unless",
+          "because",
+          "although"
+        ],
+        "answers": [
+          "unless"
+        ],
+        "hints": [
+          "ผู้พูดจะไป ยกเว้นถ้าป่วย",
+          "unless แทนเงื่อนไขด้านลบนี้ได้"
+        ],
+        "explanation": "unless I am ill หมายถึง if I am not ill ในการบอกว่าจะเข้าร่วม",
+        "wrong": {
+          "because": "because ให้เหตุผลว่าป่วยจึงจะไป ไม่ใช่เงื่อนไขถ้าไม่",
+          "although": "although แสดงความขัดแย้ง ไม่ได้ให้ข้อยกเว้นแบบถ้าไม่"
+        },
+        "focus": "unless",
+        "id": "conditionals-04",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูป present simple ของ freeze เพื่อบอกข้อเท็จจริงทั่วไป",
+        "sentence": "If water ___, it expands.",
+        "answers": [
+          "freezes"
+        ],
+        "hints": [
+          "water ใช้กริยาเอกพจน์",
+          "กฎทั่วไปใช้ present simple"
+        ],
+        "explanation": "freezes เป็นรูป present simple สำหรับ water",
+        "focus": "zero conditional",
+        "id": "conditionals-05",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมคำจาก take ให้เป็นผลอนาคตด้วย will",
+        "sentence": "If the lift is broken, we ___ the stairs.",
+        "answers": [
+          "will take"
+        ],
+        "hints": [
+          "ผลลัพธ์คือสิ่งที่จะทำ",
+          "ใช้ will + take"
+        ],
+        "explanation": "will take เป็นผลที่วางแผนไว้เมื่อเกิดเงื่อนไข",
+        "focus": "first conditional",
+        "id": "conditionals-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูป past simple ของ have ให้เป็นสมมติปัจจุบัน",
+        "sentence": "If I ___ more free time, I would join the club.",
+        "answers": [
+          "had"
+        ],
+        "hints": [
+          "ผู้พูดกำลังสมมติว่ามีเวลามากขึ้น",
+          "past simple ของ have คืออะไร"
+        ],
+        "explanation": "had ทำหน้าที่แสดงระยะห่างจากความจริงในปัจจุบัน",
+        "focus": "second conditional",
+        "id": "conditionals-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูป past perfect ของ check",
+        "sentence": "If we ___ the address, we would not have got lost.",
+        "answers": [
+          "had checked"
+        ],
+        "hints": [
+          "เงื่อนไขเป็นอดีตที่เปลี่ยนไม่ได้",
+          "past perfect = had + V3"
+        ],
+        "explanation": "had checked จับคู่กับผลในอดีต would not have got lost",
+        "focus": "third conditional",
+        "id": "conditionals-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยน if ... not เป็น unless เท่านั้น เก็บส่วนอื่นและลำดับเดิม",
+        "sentence": "We will start if the tutor is not absent.",
+        "answers": [
+          "We will start unless the tutor is absent."
+        ],
+        "hints": [
+          "unless รวมความหมาย if not ไว้แล้ว",
+          "ตัด not หลัง is"
+        ],
+        "explanation": "unless the tutor is absent ให้ข้อยกเว้นเดียวกับ if the tutor is not absent",
+        "focus": "unless โดยไม่ปฏิเสธซ้ำ",
+        "id": "conditionals-09",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "ย้าย if-clause ไว้หน้าประโยค เติมคอมมา และเก็บคำอื่นเดิม",
+        "sentence": "I will wait outside if the room is locked.",
+        "answers": [
+          "If the room is locked, I will wait outside."
+        ],
+        "hints": [
+          "เริ่ม If the room is locked",
+          "คั่นคอมมาก่อนผลลัพธ์"
+        ],
+        "explanation": "เมื่อวาง if-clause ข้างหน้า ใช้คอมมาคั่นก่อน main clause",
+        "focus": "ลำดับและคอมมา",
+        "id": "conditionals-10",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม If I had studied; ผลเกิดตอนนี้",
+        "sentence": "I would understand / If I had studied / this chart now. / statistics,",
+        "tokens": [
+          "I would understand",
+          "If I had studied",
+          "this chart now.",
+          "statistics,"
+        ],
+        "answers": [
+          "If I had studied statistics, I would understand this chart now."
+        ],
+        "hints": [
+          "เงื่อนไขอดีตใช้ had studied",
+          "ผลปัจจุบันใช้ would understand"
+        ],
+        "explanation": "นี่คือ mixed conditional: การเรียนในอดีตกับความเข้าใจตอนนี้",
+        "focus": "mixed conditional",
+        "id": "conditionals-11",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม If you need; ผลเป็นคำสั่ง",
+        "sentence": "ask / If you need / for help. / a hand,",
+        "tokens": [
+          "ask",
+          "If you need",
+          "for help.",
+          "a hand,"
+        ],
+        "answers": [
+          "If you need a hand, ask for help."
+        ],
+        "hints": [
+          "a hand หมายถึงความช่วยเหลือ",
+          "ผลเป็นคำสั่งขึ้นต้นด้วย ask"
+        ],
+        "explanation": "เงื่อนไขตามด้วย imperative ได้ ไม่จำเป็นต้องมี will",
+        "focus": "ผลแบบคำสั่ง",
+        "id": "conditionals-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับการเดินทาง: แผนถ้าฝนตก สถานการณ์สมมติว่ามีเวลามากขึ้น และสิ่งที่อยากเปลี่ยนในทริปครั้งก่อน",
+      "model": "If it rains, I will take the bus. If I had more time, I would walk. If I had checked the timetable yesterday, I would have caught the early train.",
+      "translation": "ถ้าฝนตก ฉันจะขึ้นรถเมล์ ถ้ามีเวลามากกว่านี้ ฉันคงเดิน ถ้าตรวจตารางเวลาเมื่อวาน ฉันคงทันรถไฟเที่ยวเช้าแล้ว",
+      "checklist": [
+        "เลือกเวลาของเงื่อนไขและผลก่อนเลือก tense",
+        "รูปกริยาสอดคล้องกับความจริงหรือความสมมติ",
+        "if-clause ที่อยู่หน้าคั่นด้วยคอมมา"
+      ]
+    },
+    "sources": [
+      "bc-conditionals"
+    ]
+  },
+  {
+    "id": "comparison",
+    "number": 10,
+    "title": "Comparison",
+    "thaiTitle": "เปรียบเทียบให้ชัด ทั้งระดับและสิ่งที่เทียบ",
+    "group": "สร้างความแม่นยำ",
+    "minutes": 20,
+    "outcome": "สร้าง comparative, superlative และ as ... as พร้อมเลือกตัวขยายระดับและคู่เทียบที่สอดคล้องกัน",
+    "memory": "กว่า: comparative; ที่สุดในกลุ่ม: superlative; เท่ากัน: as ... as",
+    "why": "ช่วยอธิบายตัวเลือกและข้อมูลโดยไม่ทำให้คนอ่านสับสนว่าอะไรดีกว่าหรือมากกว่าอะไร",
+    "steps": [
+      {
+        "title": "1. เลือกรูปคำให้เหมาะ",
+        "body": "คำคุณศัพท์สั้นหลายคำใช้ -er/-est ส่วนคำยาวส่วนใหญ่ใช้ more/most บางคำสองพยางค์มีได้มากกว่าหนึ่งรูป และบางคำเปลี่ยนรูปเฉพาะ เช่น good → better → best",
+        "example": "This route is shorter but more expensive.",
+        "note": "short ใช้ shorter; expensive ใช้ more expensive ไม่เติม -er ซ้ำ"
+      },
+      {
+        "title": "2. บอกคู่เทียบหรือกลุ่ม",
+        "body": "ใช้ than เมื่อต้องระบุสิ่งที่นำมาเทียบ ส่วน superlative มักใช้ the และระบุกลุ่มด้วย in/of ตามโครงสร้าง แต่ถ้ามี possessive เช่น my ไม่ใช้ the ซ้อน",
+        "example": "This is the quietest room in the building.",
+        "note": "quietest บอกลำดับสูงสุดในกลุ่มห้องของอาคาร"
+      },
+      {
+        "title": "3. เปรียบเทียบความเท่ากันและระดับที่น้อยกว่า",
+        "body": "ใช้ as + adjective/adverb + as เพื่อบอกว่าเท่ากัน และ not as ... as เพื่อบอกว่ามีคุณสมบัติหรือระดับนั้นน้อยกว่า ใช้ less + คำคุณศัพท์หลายคำเพื่อบอกระดับที่น้อยกว่า",
+        "example": "The online form is as clear as the paper form.",
+        "note": "clear คงรูปปกติระหว่าง as สองตัว"
+      },
+      {
+        "title": "4. ตรวจระดับและชนิดสิ่งที่เทียบ",
+        "body": "ขยาย comparative ด้วย much, far, a little หรือ slightly แทน very และเทียบสิ่งชนิดเดียวกัน เช่นค่าเช่ากับค่าเช่า ไม่ใช่ค่าเช่ากับเมือง",
+        "example": "Rent here is lower than rent near the station.",
+        "note": "คู่เทียบทั้งสองฝั่งเป็นค่าเช่า จึงอ่านตรงความหมาย"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The second tutorial is easier than the first.",
+        "th": "บทเรียนสอนครั้งที่สองง่ายกว่าครั้งแรก",
+        "note": "easy เปลี่ยน y เป็น i ก่อนเติม -er"
+      },
+      {
+        "en": "This headset is more comfortable than mine.",
+        "th": "หูฟังชุดนี้สวมสบายกว่าของฉัน",
+        "note": "comfortable ใช้ more และ mine แทน my headset"
+      },
+      {
+        "en": "It was the worst delay of the week.",
+        "th": "นั่นเป็นความล่าช้าที่แย่ที่สุดของสัปดาห์",
+        "note": "bad เปลี่ยนเป็น worse/worst ไม่ใช้ most bad"
+      },
+      {
+        "en": "Our new office is not as spacious as the old one.",
+        "th": "สำนักงานใหม่ของเราไม่กว้างเท่าแห่งเดิม",
+        "note": "not as ... as ใช้ spacious รูปปกติ"
+      },
+      {
+        "en": "The revised instructions are much clearer.",
+        "th": "คำแนะนำฉบับปรับปรุงชัดเจนขึ้นมาก",
+        "note": "much ขยาย comparative clearer"
+      },
+      {
+        "en": "The earlier we leave, the less traffic we will encounter.",
+        "th": "ยิ่งเราออกเร็วเท่าไร ก็จะยิ่งเจอรถติดน้อยลง",
+        "note": "the + comparative สองส่วนแสดงความเปลี่ยนแปลงที่สัมพันธ์กัน"
+      }
+    ],
+    "traps": [
+      {
+        "title": "อย่าใช้รูปเปรียบเทียบซ้ำ",
+        "body": "ใช้ cheaper หรือ more expensive ไม่ซ้อน more กับ cheaper; แต่ more มีหน้าที่อื่นได้ในประโยค จึงพิจารณากลุ่มคำที่มันขยาย",
+        "good": "The smaller bag is cheaper.",
+        "source": "cam-comparison"
+      },
+      {
+        "title": "คำสองพยางค์ไม่มีกฎเดียวครอบทุกคำ",
+        "body": "บางคำมีได้ทั้ง -er และ more เช่น simpler/more simple ความนิยมต่างกันตามคำและบริบท ควรตรวจพจนานุกรมเมื่อไม่แน่ใจ",
+        "good": "We need a simpler explanation.",
+        "source": "cam-comparison",
+        "contrast": "We need a more simple explanation."
+      },
+      {
+        "title": "superlative ไม่ได้มี the ทุกตำแหน่ง",
+        "body": "เมื่อมี possessive ไม่เติม the เช่น my best friend; หลัง linking verb บางบริบทละ the ได้ โดยเฉพาะเปรียบเทียบคนหรือสิ่งเดียวกันต่างสถานการณ์",
+        "good": "This is our best option.",
+        "source": "cam-comparison"
+      },
+      {
+        "title": "very ไม่ขยาย comparative โดยตรงตามแบบมาตรฐาน",
+        "body": "ใช้ much หรือ far เมื่อต้องการบอกว่ามาก และใช้ slightly/a little เพื่อบอกว่านิดหน่อย; very ใช้กับรูปปกติได้",
+        "good": "The express service is much faster.",
+        "source": "cam-comparison",
+        "contrast": "The express service is very fast."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือก comparative ของ easy",
+        "sentence": "The new task is ___ than the previous one.",
+        "options": [
+          "easier",
+          "more easier",
+          "easiest"
+        ],
+        "answers": [
+          "easier"
+        ],
+        "hints": [
+          "มี than เพื่อเทียบสองงาน",
+          "easy เปลี่ยน y เป็น i แล้วเติม -er"
+        ],
+        "explanation": "easier เป็น comparative ที่ถูกต้อง",
+        "wrong": {
+          "more easier": "more easier ทำเครื่องหมาย comparative ซ้ำ",
+          "easiest": "easiest เป็น superlative ไม่เข้ากับ than นี้"
+        },
+        "focus": "รูป comparative",
+        "id": "comparison-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำให้หมายถึงสบายกว่ารุ่นเก่า",
+        "sentence": "This chair is ___ than the old model.",
+        "options": [
+          "more comfortable",
+          "comfortabler",
+          "most comfortable"
+        ],
+        "answers": [
+          "more comfortable"
+        ],
+        "hints": [
+          "comfortable เป็นคำยาว",
+          "comparative ใช้ more"
+        ],
+        "explanation": "more comfortable แสดงระดับที่มากกว่าของเดิม",
+        "wrong": {
+          "comfortabler": "comfortabler ไม่ใช่รูปมาตรฐานของคำนี้",
+          "most comfortable": "most comfortable เป็น superlative"
+        },
+        "focus": "more + adjective",
+        "id": "comparison-02",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำขยายให้หมายถึงเร็วขึ้นมาก",
+        "sentence": "The upgrade made loading ___ faster.",
+        "options": [
+          "much",
+          "very",
+          "many"
+        ],
+        "answers": [
+          "much"
+        ],
+        "hints": [
+          "faster เป็น comparative",
+          "เลือกคำบอกระดับที่ขยาย comparative ได้"
+        ],
+        "explanation": "much faster หมายถึงเร็วขึ้นมาก",
+        "wrong": {
+          "very": "very ไม่ขยาย faster โดยตรงในรูปมาตรฐาน",
+          "many": "many ใช้กับคำนามนับได้พหูพจน์ ไม่ใช่ faster"
+        },
+        "focus": "ตัวขยาย comparative",
+        "id": "comparison-03",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกประโยคที่ถูกตามรูปมาตรฐาน",
+        "sentence": "Which sentence is correctly formed?",
+        "options": [
+          "This is my best score.",
+          "This is my the best score.",
+          "This is my most best score."
+        ],
+        "answers": [
+          "This is my best score."
+        ],
+        "hints": [
+          "my อยู่หน้ากลุ่มคำนามแล้ว",
+          "best เป็น superlative ของ good"
+        ],
+        "explanation": "my best score ใช้ possessive โดยไม่เติม the",
+        "wrong": {
+          "This is my the best score.": "ไม่วาง my และ the ซ้อนกันแบบนี้",
+          "This is my most best score.": "best เป็น superlative อยู่แล้ว ไม่เติม most ซ้ำ"
+        },
+        "focus": "possessive กับ superlative",
+        "id": "comparison-04",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม comparative ของ heavy",
+        "sentence": "This parcel is ___ than that one.",
+        "answers": [
+          "heavier"
+        ],
+        "hints": [
+          "ลงท้ายพยัญชนะ + y",
+          "เปลี่ยน y เป็น i แล้วเติม -er"
+        ],
+        "explanation": "heavier แสดงการเทียบน้ำหนักสองกล่อง",
+        "focus": "การสะกด comparative",
+        "id": "comparison-05",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม superlative ของ good โดยไม่ต้องเติม the",
+        "sentence": "This is the ___ result in our group.",
+        "answers": [
+          "best"
+        ],
+        "hints": [
+          "good เป็นคำเปลี่ยนรูปเฉพาะ",
+          "good, better, ..."
+        ],
+        "explanation": "best แสดงผลที่ดีที่สุดในกลุ่ม",
+        "focus": "irregular superlative",
+        "id": "comparison-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมคำเดียวในโครงสร้างที่แปลว่า เงียบเท่ากัน",
+        "sentence": "The study room is as quiet ___ the library.",
+        "answers": [
+          "as"
+        ],
+        "hints": [
+          "as ตัวแรกอยู่แล้ว",
+          "โครงสร้าง as + adjective + as"
+        ],
+        "explanation": "as ตัวหลังเชื่อมกับสิ่งที่นำมาเทียบ",
+        "focus": "as ... as",
+        "id": "comparison-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูปปกติหรือ comparative ของ careful ให้ครบโครงสร้างเท่ากัน",
+        "sentence": "She is as ___ as her colleague.",
+        "answers": [
+          "careful"
+        ],
+        "hints": [
+          "ระหว่าง as ใช้รูปปกติ",
+          "ไม่ใส่ more ในโครงสร้างนี้"
+        ],
+        "explanation": "careful คงรูปปกติใน as careful as",
+        "focus": "รูปคำใน equality",
+        "id": "comparison-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เขียนใหม่โดยแทน faster than ด้วย not as ... as เริ่ม The tram และจบ the metro",
+        "sentence": "The metro is faster than the tram.",
+        "answers": [
+          "The tram is not as fast as the metro."
+        ],
+        "hints": [
+          "เปลี่ยนประธานเป็นสิ่งที่ช้ากว่า",
+          "ใช้ fast รูปปกติระหว่าง as"
+        ],
+        "explanation": "การกลับคู่เทียบเป็น not as fast as รักษาความหมายเดิม",
+        "focus": "กลับมุมมองคู่เทียบ",
+        "id": "comparison-09",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้เฉพาะ more cheaper ให้เป็น comparative มาตรฐาน เก็บส่วนอื่นเดิม",
+        "sentence": "The weekly pass is more cheaper than two day tickets.",
+        "answers": [
+          "The weekly pass is cheaper than two day tickets."
+        ],
+        "hints": [
+          "cheap ใช้ -er ได้อยู่แล้ว",
+          "ตัดคำขยาย comparative ที่ซ้ำ"
+        ],
+        "explanation": "cheaper ไม่ต้องมี more นำหน้า",
+        "focus": "ไม่ซ้อน comparative",
+        "id": "comparison-10",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม This is",
+        "sentence": "in our class. / This is / the most detailed / report",
+        "tokens": [
+          "in our class.",
+          "This is",
+          "the most detailed",
+          "report"
+        ],
+        "answers": [
+          "This is the most detailed report in our class."
+        ],
+        "hints": [
+          "superlative อยู่หน้าคำนาม report",
+          "in our class บอกกลุ่มที่เทียบ"
+        ],
+        "explanation": "the most detailed ขยาย report และระบุขอบเขตการเทียบ",
+        "focus": "superlative ในกลุ่ม",
+        "id": "comparison-11",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม The more",
+        "sentence": "you become. / The more / the more confident / you practise,",
+        "tokens": [
+          "you become.",
+          "The more",
+          "the more confident",
+          "you practise,"
+        ],
+        "answers": [
+          "The more you practise, the more confident you become."
+        ],
+        "hints": [
+          "ส่วนแรกคือยิ่งฝึกมาก",
+          "ส่วนที่สองคือยิ่งมั่นใจ"
+        ],
+        "explanation": "the more ... the more ... เชื่อมระดับที่เปลี่ยนไปด้วยกัน",
+        "focus": "comparative คู่",
+        "id": "comparison-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคเปรียบเทียบการเดินทางสองวิธี ใช้ comparative พร้อม than หนึ่งครั้ง และ as ... as หรือ superlative อีกหนึ่งครั้ง",
+      "model": "The bus is cheaper than a taxi. It is not as fast as the train. The train is the most convenient option for me.",
+      "translation": "รถเมล์ถูกกว่าแท็กซี่ แต่ไม่เร็วเท่ารถไฟ รถไฟเป็นตัวเลือกที่สะดวกที่สุดสำหรับฉัน",
+      "checklist": [
+        "รูป -er หรือ more ไม่ซ้ำกัน",
+        "คู่เทียบเป็นสิ่งที่เปรียบเทียบกันได้",
+        "superlative มีขอบเขตกลุ่มหรือบริบทชัดเจน"
+      ]
+    },
+    "sources": [
+      "cam-comparison"
+    ]
+  },
+  {
+    "id": "prepositions",
+    "number": 11,
+    "title": "Prepositions",
+    "thaiTitle": "เลือกบุพบทจากความสัมพันธ์ ไม่แปลตรงคำ",
+    "group": "สร้างความแม่นยำ",
+    "minutes": 20,
+    "outcome": "แยกเวลา ตำแหน่ง การเคลื่อนที่ และคู่คำที่ใช้บุพบทประจำได้",
+    "memory": "เวลา: จุด วัน ช่วง; สถานที่: จุด พื้นที่ ผิว; คู่คำ: จำเป็นชุด",
+    "why": "บุพบทสั้น ๆ เปลี่ยนทั้งเวลา ทิศทาง และความสัมพันธ์ จึงต้องอ่านเป็นกลุ่มคำ",
+    "steps": [
+      {
+        "title": "1. จัดเวลาเป็นจุด วัน หรือช่วง",
+        "body": "จุดเวลามักใช้ at; วันและวันที่มักใช้ on; เดือน ปี และช่วงยาวมักใช้ in แต่มีสำนวนเฉพาะ เช่น at night และไม่เติมบุพบทหน้า next Monday",
+        "example": "The workshop starts at nine on Friday in July.",
+        "note": "at nine เป็นเวลาเฉพาะ on Friday เป็นวัน และ in July เป็นเดือน"
+      },
+      {
+        "title": "2. มองสถานที่จากมุมที่ต้องการสื่อ",
+        "body": "at เน้นจุดหรือสถานที่กิจกรรม; in เน้นอยู่ในพื้นที่หรือภาชนะ; on เน้นอยู่บนพื้นผิว ไม่ใช่สูตรตามขนาดที่ไม่มีข้อยกเว้น",
+        "example": "We met at the station and waited in the hall.",
+        "note": "station เป็นจุดนัด ส่วน hall เป็นพื้นที่ที่อยู่ข้างใน"
+      },
+      {
+        "title": "3. แยกตำแหน่งกับทิศทาง",
+        "body": "in/on มักบอกตำแหน่ง ส่วน into/onto เน้นเคลื่อนเข้าไปหรือขึ้นไป และ to บอกปลายทาง ทั้งนี้คำกริยาและสำนวนมีผลต่อการเลือก",
+        "example": "She walked into the room and put her bag on the desk.",
+        "note": "into บอกการเคลื่อนเข้า ส่วน on บอกตำแหน่งกระเป๋า"
+      },
+      {
+        "title": "4. จำคู่คำพร้อมตัวอย่าง",
+        "body": "หลายคำมีบุพบทที่ใช้ร่วมกัน เช่น depend on, interested in และ responsible for คำเดียวกันอาจใช้บุพบทต่างกันเพื่อเปลี่ยนความหมาย จึงเรียนเป็นกลุ่มพร้อมบริบท",
+        "example": "Our arrival time depends on traffic.",
+        "note": "จำ depend on เป็นชุด ไม่แปล on เดี่ยว ๆ"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The interview is at half past ten.",
+        "th": "สัมภาษณ์ตอนสิบโมงครึ่ง",
+        "note": "at ใช้กับเวลาตามนาฬิกา"
+      },
+      {
+        "en": "We have a review meeting on Tuesday morning.",
+        "th": "เรามีประชุมทบทวนเช้าวันอังคาร",
+        "note": "เมื่อระบุวันด้วย ใช้ on Tuesday morning ไม่ใช่ in"
+      },
+      {
+        "en": "The new term begins in August.",
+        "th": "ภาคเรียนใหม่เริ่มเดือนสิงหาคม",
+        "note": "in ใช้กับเดือน"
+      },
+      {
+        "en": "Please leave the receipt on the counter.",
+        "th": "กรุณาวางใบเสร็จไว้บนเคาน์เตอร์",
+        "note": "on แสดงตำแหน่งบนพื้นผิว"
+      },
+      {
+        "en": "The cyclist rode through the tunnel.",
+        "th": "นักปั่นจักรยานปั่นผ่านอุโมงค์",
+        "note": "through เน้นผ่านด้านในของพื้นที่"
+      },
+      {
+        "en": "I am interested in learning sign language.",
+        "th": "ฉันสนใจเรียนภาษามือ",
+        "note": "interested in เป็นคู่คำ และหลัง in ใช้ learning"
+      }
+    ],
+    "traps": [
+      {
+        "title": "บางสำนวนต่างกันตามสำเนียง",
+        "body": "BrE มักใช้ at the weekend ส่วน AmE มักใช้ on the weekend ทั้งสองรูปถูกต้องตามแบบภาษาที่ใช้ ไม่ควรตัดสินอีกแบบว่าผิด",
+        "good": "We often study at the weekend.",
+        "source": "cam-prepositions",
+        "contrast": "We often study on the weekend."
+      },
+      {
+        "title": "by กับ until ไม่ได้บอกเวลาเหมือนกัน",
+        "body": "by ให้เส้นตายว่าต้องเกิดไม่ช้ากว่านั้น ส่วน until บอกว่าการกระทำหรือสภาพดำเนินต่อถึงเวลานั้น",
+        "good": "Submit the form by Friday.",
+        "source": "cam-prepositions",
+        "contrast": "The office will remain open until Friday."
+      },
+      {
+        "title": "for กับ since แยกระยะกับจุดเริ่ม",
+        "body": "for ใช้กับช่วงระยะเวลา ส่วน since ใช้กับจุดเริ่มในเวลา ไม่ใช่ว่าคำใดคำหนึ่งต้องใช้กับ tense เดียวเสมอ",
+        "good": "I have worked here for three months.",
+        "source": "cam-prepositions",
+        "contrast": "I have worked here since June."
+      },
+      {
+        "title": "ไม่เติมบุพบทเวลาโดยอัตโนมัติ",
+        "body": "หน้า last, next, this, every ที่ประกอบสำนวนเวลาทั่วไป มักไม่มี at/on/in เช่น next week แต่โครงสร้างอื่นที่มี article อาจใช้บุพบทได้",
+        "good": "We will meet next Thursday.",
+        "source": "cam-prepositions"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกบุพบทของเวลาตามนาฬิกา",
+        "sentence": "The lesson ends ___ 4:30.",
+        "options": [
+          "at",
+          "on",
+          "in"
+        ],
+        "answers": [
+          "at"
+        ],
+        "hints": [
+          "4:30 เป็นเวลาจุดหนึ่ง",
+          "ใช้ at กับเวลาตามนาฬิกา"
+        ],
+        "explanation": "at 4:30 ระบุจุดเวลา",
+        "wrong": {
+          "on": "on ใช้กับวันหรือวันที่ ไม่ใช่เวลานี้",
+          "in": "in ใช้กับเดือน ปี หรือช่วงเวลา ไม่ใช่เวลานี้"
+        },
+        "focus": "at + เวลา",
+        "id": "prepositions-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกบุพบทเมื่อระบุวันและช่วงเช้า",
+        "sentence": "The test is ___ Monday morning.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "answers": [
+          "on"
+        ],
+        "hints": [
+          "อย่าดู morning เพียงคำเดียว",
+          "Monday ทำให้เป็นวันเฉพาะ"
+        ],
+        "explanation": "on Monday morning ใช้ on เพราะระบุวัน",
+        "wrong": {
+          "in": "in the morning ใช้เมื่อไม่ได้ระบุวันแบบนี้",
+          "at": "at ไม่ใช้กับ Monday morning ในรูปนี้"
+        },
+        "focus": "on + วันและช่วงวัน",
+        "id": "prepositions-02",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "ต้องส่งงานไม่ช้ากว่าเที่ยง เลือกบุพบทเส้นตาย",
+        "sentence": "Please submit the report ___ noon.",
+        "options": [
+          "by",
+          "until",
+          "during"
+        ],
+        "answers": [
+          "by"
+        ],
+        "hints": [
+          "งานต้องส่งเสร็จก่อนหรือเวลาเที่ยง",
+          "ไม่ได้สั่งให้ส่งต่อเนื่องไปถึงเที่ยง"
+        ],
+        "explanation": "by noon กำหนดเส้นตาย",
+        "wrong": {
+          "until": "until บอกการดำเนินต่อถึงเวลา ไม่ใช่เส้นตายส่งครั้งเดียว",
+          "during": "during ต้องตามด้วยช่วงหรือเหตุการณ์ และไม่สื่อเส้นตายนี้"
+        },
+        "focus": "by กับเส้นตาย",
+        "id": "prepositions-03",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคู่คำที่ถูกต้อง",
+        "sentence": "We are responsible ___ the equipment.",
+        "options": [
+          "for",
+          "of",
+          "to"
+        ],
+        "answers": [
+          "for"
+        ],
+        "hints": [
+          "responsible ตามด้วยสิ่งที่รับผิดชอบ",
+          "เรียน responsible for เป็นชุด"
+        ],
+        "explanation": "responsible for ระบุสิ่งที่อยู่ในความรับผิดชอบ",
+        "wrong": {
+          "of": "responsible of ไม่ใช่คู่คำมาตรฐานนี้",
+          "to": "responsible to ใช้กับผู้ที่ต้องรายงานหรือรับผิดชอบต่อ ไม่ใช่อุปกรณ์"
+        },
+        "focus": "adjective + preposition",
+        "id": "prepositions-04",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม in, on หรือ at สำหรับปี",
+        "sentence": "The school opened ___ 2018.",
+        "answers": [
+          "in"
+        ],
+        "hints": [
+          "2018 เป็นปี",
+          "ปีใช้ in"
+        ],
+        "explanation": "in ใช้กับปีที่เหตุการณ์เกิดขึ้น",
+        "focus": "in + ปี",
+        "id": "prepositions-05",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม for หรือ since เพื่อบอกจุดเริ่ม",
+        "sentence": "I have known this route ___ March.",
+        "answers": [
+          "since"
+        ],
+        "hints": [
+          "March เป็นจุดเริ่ม ไม่ใช่ความยาวช่วงเวลา",
+          "since บอกว่าตั้งแต่เมื่อไร"
+        ],
+        "explanation": "since March ระบุจุดเริ่มของความคุ้นเคยที่ต่อเนื่องถึงปัจจุบัน",
+        "focus": "since + จุดเริ่ม",
+        "id": "prepositions-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม for หรือ since เพื่อบอกระยะเวลา",
+        "sentence": "We stayed in the village ___ two nights.",
+        "answers": [
+          "for"
+        ],
+        "hints": [
+          "two nights เป็นความยาวของการพัก",
+          "ใช้ for กับช่วงระยะ"
+        ],
+        "explanation": "for ใช้กับระยะเวลาได้ในอดีตด้วย ไม่จำกัดแค่ present perfect",
+        "focus": "for + ระยะเวลา",
+        "id": "prepositions-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมบุพบทที่ใช้กับ depend",
+        "sentence": "The price will depend ___ the number of passengers.",
+        "answers": [
+          "on",
+          "upon"
+        ],
+        "hints": [
+          "จำคู่คำ depend on",
+          "upon เป็นอีกรูปที่เป็นทางการกว่า"
+        ],
+        "explanation": "depend on เป็นคู่คำปกติ และ depend upon ใช้ได้เช่นกัน",
+        "focus": "verb + preposition",
+        "id": "prepositions-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้เฉพาะ in Friday เป็นรูปที่ถูกต้อง เก็บคำอื่นเดิม",
+        "sentence": "The parcel arrived in Friday.",
+        "answers": [
+          "The parcel arrived on Friday."
+        ],
+        "hints": [
+          "Friday เป็นวัน",
+          "ใช้ on กับชื่อวัน"
+        ],
+        "explanation": "on Friday ระบุวันที่มาถึง",
+        "focus": "บุพบทวัน",
+        "id": "prepositions-09",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "ตัดบุพบทเวลาที่เกินออกเพียงคำเดียว เก็บส่วนอื่นเดิม",
+        "sentence": "We will practise on next Tuesday.",
+        "answers": [
+          "We will practise next Tuesday."
+        ],
+        "hints": [
+          "next Tuesday ใช้เป็นคำบอกเวลาได้เอง",
+          "ไม่ต้องมี on นำหน้า"
+        ],
+        "explanation": "สำนวน next Tuesday ในโครงสร้างนี้ไม่ใช้บุพบท",
+        "focus": "ไม่มีบุพบทหน้า next",
+        "id": "prepositions-10",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม The keys",
+        "sentence": "in / The keys / the drawer. / are",
+        "tokens": [
+          "in",
+          "The keys",
+          "the drawer.",
+          "are"
+        ],
+        "answers": [
+          "The keys are in the drawer."
+        ],
+        "hints": [
+          "เริ่มประธานแล้วกริยา are",
+          "in บอกตำแหน่งภายในลิ้นชัก"
+        ],
+        "explanation": "in the drawer เป็นกลุ่มบุพบทบอกตำแหน่ง",
+        "focus": "ตำแหน่งภายใน",
+        "id": "prepositions-11",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม She is",
+        "sentence": "learning / She is / interested in / to code.",
+        "tokens": [
+          "learning",
+          "She is",
+          "interested in",
+          "to code."
+        ],
+        "answers": [
+          "She is interested in learning to code."
+        ],
+        "hints": [
+          "interested in ต้องอยู่ด้วยกัน",
+          "หลังบุพบทใช้รูป -ing ของ learn"
+        ],
+        "explanation": "learning to code เป็นส่วนเติมเต็มของ in โดยกริยาที่อยู่ถัดจากบุพบทต้องเป็น learning ไม่ใช่ to learn",
+        "focus": "บุพบท + -ing",
+        "id": "prepositions-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคนัดเรียนหรือประชุม ระบุวัน เวลา สถานที่ และเส้นตายส่งสิ่งหนึ่ง",
+      "model": "We will meet at the library on Thursday at three. Please send your questions by Wednesday. I am interested in discussing the new project.",
+      "translation": "เราจะพบกันที่ห้องสมุดวันพฤหัสบดีตอนบ่ายสาม กรุณาส่งคำถามไม่เกินวันพุธ ฉันสนใจพูดคุยเกี่ยวกับโครงการใหม่",
+      "checklist": [
+        "วัน เวลา และสถานที่เลือกบุพบทตามความหมาย",
+        "แยกเส้นตาย by จากการต่อเนื่อง until",
+        "ตรวจคู่คำ เช่น interested in"
+      ]
+    },
+    "sources": [
+      "cam-prepositions"
+    ]
+  },
+  {
+    "id": "wordforms",
+    "number": 12,
+    "title": "Word forms",
+    "thaiTitle": "ดูหน้าที่ในประโยค ก่อนเลือกรูปคำ",
+    "group": "สร้างความแม่นยำ",
+    "minutes": 20,
+    "outcome": "เลือก noun, verb, adjective และ adverb โดยดูโครงสร้างและความหมาย ไม่เดาจากท้ายคำอย่างเดียว",
+    "memory": "ช่องว่างทำหน้าที่อะไร แล้วค่อยเลือกรูปคำ",
+    "why": "คำจากตระกูลเดียวกันมีความหมายเกี่ยวข้องกัน แต่แทนกันในประโยคไม่ได้ทุกตำแหน่ง",
+    "steps": [
+      {
+        "title": "1. มองคำรอบช่องว่าง",
+        "body": "หลัง article หรือ possessive มักต้องมีคำนามเป็นแกน แต่อาจมี adjective คั่นได้ ส่วนคำที่ขยายคำนามมักเป็น adjective ให้หาทั้งกลุ่มคำ ไม่ดูคำติดช่องว่างเพียงคำเดียว",
+        "example": "The team made a careful decision.",
+        "note": "decision เป็นคำนามแกน หลัง a มี careful ขยายได้"
+      },
+      {
+        "title": "2. แยกการบอกลักษณะกับการบอกวิธีทำ",
+        "body": "adjective บอกลักษณะคำนามและใช้หลัง linking verb เช่น seem ส่วน adverb มักขยายกริยาการกระทำ adjective หรือ adverb อื่น",
+        "example": "The explanation seems clear. The tutor explains clearly.",
+        "note": "clear บอกลักษณะคำอธิบาย; clearly บอกวิธีอธิบาย"
+      },
+      {
+        "title": "3. ดูประธานและรูปกริยาที่ต้องใช้",
+        "body": "ถ้าช่องว่างเป็นกริยาหลัก ให้เลือกรูป verb ก่อน แล้วตรวจ tense และประธาน ส่วน suffix เช่น -tion หรือ -ment ช่วยเดาคำนามได้ แต่ไม่รับประกันทุกคำ",
+        "example": "The committee approved the proposal.",
+        "note": "approved เป็นกริยาอดีต; approval เป็นคำนาม ใช้แทนตำแหน่งนี้ไม่ได้"
+      },
+      {
+        "title": "4. ตรวจความหมายและคู่คำ",
+        "body": "รูปคำถูกหน้าที่อาจยังไม่ตรงความหมาย เช่น hard กับ hardly ไม่ใช่แค่รูป adjective กับ adverb ของความหมายเดียวกัน ใช้พจนานุกรมตรวจคำที่ไม่แน่ใจพร้อมตัวอย่าง",
+        "example": "She works hard but hardly takes a break.",
+        "note": "hard = อย่างหนัก; hardly = แทบไม่"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The announcement surprised the class.",
+        "th": "ประกาศนั้นทำให้ทั้งชั้นเรียนประหลาดใจ",
+        "note": "announcement เป็นคำนามประธาน; surprised เป็นกริยา"
+      },
+      {
+        "en": "Please announce the result after lunch.",
+        "th": "กรุณาประกาศผลหลังอาหารกลางวัน",
+        "note": "หลัง Please ในคำสั่งใช้กริยารูปพื้นฐาน announce"
+      },
+      {
+        "en": "We need a reliable timetable.",
+        "th": "เราต้องการตารางเวลาที่เชื่อถือได้",
+        "note": "reliable เป็น adjective ขยาย timetable"
+      },
+      {
+        "en": "The service operates reliably in winter.",
+        "th": "บริการนี้ดำเนินงานได้อย่างเชื่อถือได้ในฤดูหนาว",
+        "note": "reliably เป็น adverb ขยาย operates"
+      },
+      {
+        "en": "The children looked excited about the visit.",
+        "th": "เด็ก ๆ ดูตื่นเต้นกับการไปเยี่ยมชม",
+        "note": "looked เป็น linking verb จึงตามด้วย adjective excited"
+      },
+      {
+        "en": "This is a friendly place to study.",
+        "th": "ที่นี่เป็นสถานที่เรียนที่เป็นมิตร",
+        "note": "friendly เป็น adjective แม้ลงท้าย -ly"
+      }
+    ],
+    "traps": [
+      {
+        "title": "ลงท้าย -ly ไม่ได้เป็น adverb ทุกคำ",
+        "body": "friendly, lovely และ lively เป็น adjective ที่พบบ่อย ถ้าต้องบอกวิธีทำแบบเป็นมิตร อาจใช้ in a friendly way",
+        "good": "The receptionist gave us a friendly smile.",
+        "source": "cam-wordforms"
+      },
+      {
+        "title": "linking verb ตามด้วย adjective ได้",
+        "body": "be, seem, become และกริยารับสัมผัสบางความหมายใช้ adjective อธิบายประธาน อย่าเปลี่ยนเป็น adverb เพียงเพราะอยู่หลังกริยา",
+        "good": "The soup smells delicious.",
+        "source": "cam-wordforms",
+        "contrast": "The chef smelled the soup carefully."
+      },
+      {
+        "title": "hard กับ hardly และ late กับ lately ต่างความหมาย",
+        "body": "hard เป็นได้ทั้ง adjective และ adverb ส่วน hardly หมายถึงแทบไม่; late คือสาย ส่วน lately หมายถึงช่วงหลังมานี้",
+        "good": "The last bus arrived late.",
+        "source": "cam-wordforms",
+        "contrast": "We have used the bus a lot lately."
+      },
+      {
+        "title": "suffix ช่วยเดา ไม่แทนการดูประโยค",
+        "body": "คำอย่าง work และ change เป็นได้ทั้ง noun และ verb โดยไม่เปลี่ยนรูป จึงต้องใช้ตำแหน่งและความหมายร่วมกัน",
+        "good": "We need a change.",
+        "source": "cam-wordforms",
+        "contrast": "We change seats every week."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกคำนามที่เป็นสิ่งที่ทีมต้องการ",
+        "sentence": "The team needs your ___.",
+        "options": [
+          "approval",
+          "approve",
+          "approvingly"
+        ],
+        "answers": [
+          "approval"
+        ],
+        "hints": [
+          "your ต้องตามด้วยกลุ่มคำนาม",
+          "ต้องการความหมายว่าการอนุมัติ"
+        ],
+        "explanation": "approval เป็นคำนามกรรมของ needs",
+        "wrong": {
+          "approve": "approve เป็นกริยา ไม่ใช่คำนามในตำแหน่งนี้",
+          "approvingly": "approvingly เป็น adverb ไม่ใช่สิ่งที่ทีมต้องการ"
+        },
+        "focus": "noun หลัง possessive",
+        "id": "wordforms-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำบอกวิธีอธิบาย",
+        "sentence": "The guide explained the route ___.",
+        "options": [
+          "clearly",
+          "clear",
+          "clarity"
+        ],
+        "answers": [
+          "clearly"
+        ],
+        "hints": [
+          "คำนี้ขยาย explained",
+          "ต้องการ adverb บอกวิธี"
+        ],
+        "explanation": "clearly ขยายการอธิบายว่าชัดเจน",
+        "wrong": {
+          "clear": "clear เป็น adjective ไม่ใช้บอกวิธีในรูปมาตรฐานนี้",
+          "clarity": "clarity เป็นคำนาม ไม่ใช่ adverb"
+        },
+        "focus": "adverb ขยายกริยา",
+        "id": "wordforms-02",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำบอกลักษณะของแผนหลัง seems",
+        "sentence": "The plan seems ___.",
+        "options": [
+          "practical",
+          "practically",
+          "practice"
+        ],
+        "answers": [
+          "practical"
+        ],
+        "hints": [
+          "seems เป็น linking verb",
+          "ใช้ adjective อธิบาย plan"
+        ],
+        "explanation": "practical บอกว่าแผนใช้งานได้จริง",
+        "wrong": {
+          "practically": "practically เป็น adverb ไม่ใช่ส่วนเติมเต็มลักษณะของ plan นี้",
+          "practice": "practice เป็นคำนามหรือกริยา ไม่ใช่ adjective ที่ต้องการ"
+        },
+        "focus": "adjective หลัง linking verb",
+        "id": "wordforms-03",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เติมคำให้หมายถึง ทำงานอย่างหนัก",
+        "sentence": "The volunteers worked ___ all morning.",
+        "options": [
+          "hard",
+          "hardly",
+          "hardness"
+        ],
+        "answers": [
+          "hard"
+        ],
+        "hints": [
+          "hard ใช้เป็น adverb ได้อยู่แล้ว",
+          "hardly แปลว่าแทบไม่"
+        ],
+        "explanation": "hard หมายถึงอย่างหนักหรือทุ่มเท",
+        "wrong": {
+          "hardly": "hardly เปลี่ยนความหมายเป็นแทบไม่ได้ทำงาน",
+          "hardness": "hardness เป็นคำนาม ไม่ขยาย worked แบบนี้"
+        },
+        "focus": "ความหมายของรูปใกล้กัน",
+        "id": "wordforms-04",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เปลี่ยน inform เป็นคำนามที่หมายถึงข้อมูล",
+        "sentence": "The website provides useful ___.",
+        "answers": [
+          "information"
+        ],
+        "hints": [
+          "คำนี้เป็นสิ่งที่เว็บให้",
+          "คำนามคือ information ไม่เติม s ในความหมายข้อมูลทั่วไป"
+        ],
+        "explanation": "information เป็นคำนามนับไม่ได้ โดย useful ขยาย information และทั้งกลุ่ม useful information เป็นกรรมของ provides",
+        "focus": "noun formation",
+        "id": "wordforms-05",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เปลี่ยน success เป็น adjective",
+        "sentence": "The trial was ___.",
+        "answers": [
+          "successful"
+        ],
+        "hints": [
+          "was เชื่อมประธานกับลักษณะ",
+          "success เติม -ful เพื่อเป็น adjective"
+        ],
+        "explanation": "successful บอกว่าการทดลองประสบความสำเร็จ",
+        "focus": "adjective formation",
+        "id": "wordforms-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เปลี่ยน careful เป็น adverb",
+        "sentence": "Please check the numbers ___.",
+        "answers": [
+          "carefully"
+        ],
+        "hints": [
+          "ขยายวิธี check",
+          "เติม -ly หลัง careful"
+        ],
+        "explanation": "carefully เป็น adverb ขยายกริยา check",
+        "focus": "adverb formation",
+        "id": "wordforms-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เปลี่ยน decision เป็นกริยารูปพื้นฐาน",
+        "sentence": "We must ___ before noon.",
+        "answers": [
+          "decide"
+        ],
+        "hints": [
+          "หลัง must ใช้กริยารูปพื้นฐาน",
+          "ตระกูลคำคือ decide / decision"
+        ],
+        "explanation": "decide เป็น verb ที่ถูกต้องหลัง modal must",
+        "focus": "verb formation",
+        "id": "wordforms-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้เฉพาะ quick เป็น adverb แบบภาษาเขียนมาตรฐาน เก็บคำอื่นเดิม",
+        "sentence": "The assistant responded quick.",
+        "answers": [
+          "The assistant responded quickly."
+        ],
+        "hints": [
+          "คำนี้บอกวิธี responded",
+          "รูป adverb มาตรฐานคือ quickly"
+        ],
+        "explanation": "quickly ขยายกริยา responded; โจทย์ฝึกแบบภาษาเขียนมาตรฐาน",
+        "focus": "adverb ในภาษาเขียน",
+        "id": "wordforms-09",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้เฉพาะ confidently ให้เป็น adjective เพื่อสื่อว่าผู้พูดดูมั่นใจ เก็บคำอื่นเดิม",
+        "sentence": "The speaker looked confidently.",
+        "answers": [
+          "The speaker looked confident."
+        ],
+        "hints": [
+          "looked ในประโยคนี้หมายถึงดูมีลักษณะ",
+          "ใช้ adjective บอกสภาพของ speaker"
+        ],
+        "explanation": "confident เป็นส่วนเติมเต็มหลัง linking verb looked",
+        "focus": "linking verb กับ adjective",
+        "id": "wordforms-10",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม Her",
+        "sentence": "impressed / Her / careful preparation / the panel.",
+        "tokens": [
+          "impressed",
+          "Her",
+          "careful preparation",
+          "the panel."
+        ],
+        "answers": [
+          "Her careful preparation impressed the panel."
+        ],
+        "hints": [
+          "Her careful preparation เป็นกลุ่มคำนามประธาน",
+          "impressed เป็นกริยาหลัก"
+        ],
+        "explanation": "careful ขยาย preparation และ preparation เป็นแกนประธาน",
+        "focus": "โครงสร้างกลุ่มคำนาม",
+        "id": "wordforms-11",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม The software",
+        "sentence": "automatically. / The software / updates / the records",
+        "tokens": [
+          "automatically.",
+          "The software",
+          "updates",
+          "the records"
+        ],
+        "answers": [
+          "The software updates the records automatically."
+        ],
+        "hints": [
+          "software เป็นประธาน",
+          "automatically ขยาย updates และวางท้ายได้"
+        ],
+        "explanation": "updates เป็นกริยาและ automatically เป็น adverb บอกวิธีทำงาน",
+        "focus": "หน้าที่คำในประโยค",
+        "id": "wordforms-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคเกี่ยวกับงานกลุ่ม ใช้คำตระกูลเดียวกันสองหน้าที่ เช่น prepare/preparation หรือ clear/clearly แล้วใช้ adjective หลัง seem หรือ look",
+      "model": "Our preparation took two days. We prepared carefully for the presentation. The final plan seemed clear.",
+      "translation": "การเตรียมงานของเราใช้เวลาสองวัน เราเตรียมการนำเสนออย่างรอบคอบ แผนสุดท้ายดูชัดเจน",
+      "checklist": [
+        "คำนามและกริยาทำหน้าที่ถูกตำแหน่ง",
+        "adverb ขยายการกระทำ ส่วน adjective บอกลักษณะ",
+        "ตรวจความหมายของคำ ไม่พึ่งท้ายคำอย่างเดียว"
+      ]
+    },
+    "sources": [
+      "cam-wordforms"
+    ]
+  },
+  {
+    "id": "verbpatterns",
+    "number": 13,
+    "title": "Gerunds and infinitives",
+    "thaiTitle": "จับรูปกริยาที่ตามหลังคำหลัก",
+    "group": "สร้างความแม่นยำ",
+    "minutes": 20,
+    "outcome": "เลือก -ing, to + verb และ bare infinitive พร้อมแยกคำที่เปลี่ยนความหมายเมื่อเปลี่ยนรูป",
+    "memory": "จำคำหน้าเป็นชุด: enjoy doing, plan to do, can do",
+    "why": "ภาษาไทยมักต่อกริยาได้ตรง ๆ แต่ภาษาอังกฤษต้องเลือกรูปตามคำหลักและความหมาย",
+    "steps": [
+      {
+        "title": "1. หาคำที่ควบคุมรูปกริยาถัดไป",
+        "body": "เริ่มจากคำหน้า เช่น enjoy, avoid และ finish มักตามด้วย -ing ส่วน decide, hope และ plan มักตามด้วย to + กริยารูปพื้นฐาน",
+        "example": "We decided to revise the introduction.",
+        "note": "decide เป็นคำหลักที่กำหนดรูป to revise"
+      },
+      {
+        "title": "2. แยก to ที่เป็น infinitive จาก to ที่เป็นบุพบท",
+        "body": "หลังบุพบททั่วไปใช้รูป -ing เมื่อเป็นกริยา ส่วน to บางชุดเป็นบุพบท เช่น look forward to จึงตามด้วย -ing ไม่ใช่กริยารูปพื้นฐาน",
+        "example": "I look forward to meeting the new team.",
+        "note": "to อยู่ในชุด look forward to จึงใช้ meeting"
+      },
+      {
+        "title": "3. ตรวจว่ามีกรรมคั่นหรือไม่",
+        "body": "บางคำใช้ verb + object + to-infinitive เช่น ask someone to do; modal เช่น can ตามด้วยรูปพื้นฐานไม่มี to ส่วน let และ make ใน active pattern ใช้ object + รูปพื้นฐาน",
+        "example": "The tutor asked us to read the summary.",
+        "note": "us เป็นคนที่ถูกขอให้ทำ และ to read บอกสิ่งที่ให้ทำ"
+      },
+      {
+        "title": "4. ดูความหมายเมื่อใช้ได้สองรูป",
+        "body": "remember, stop และ try มีความหมายต่างกันเมื่อเปลี่ยน -ing กับ to-infinitive ส่วน like/love บางบริบทใช้ได้ทั้งคู่ โดยเน้นต่างกันเล็กน้อย",
+        "example": "We stopped to check the map.",
+        "note": "หยุดกิจกรรมเดิมเพื่อเช็กแผนที่; stopped checking the map คือเลิกเช็กแผนที่"
+      }
+    ],
+    "examples": [
+      {
+        "en": "I enjoy solving practical problems.",
+        "th": "ฉันชอบแก้ปัญหาในทางปฏิบัติ",
+        "note": "enjoy ตามด้วย -ing"
+      },
+      {
+        "en": "They hope to launch the course next month.",
+        "th": "พวกเขาหวังเปิดหลักสูตรเดือนหน้า",
+        "note": "hope ตามด้วย to-infinitive"
+      },
+      {
+        "en": "We discussed moving the meeting online.",
+        "th": "เราหารือเรื่องย้ายการประชุมไปออนไลน์",
+        "note": "discuss ตามด้วย -ing ไม่ใช่ to move ในความหมายนี้"
+      },
+      {
+        "en": "The manager reminded me to save a copy.",
+        "th": "ผู้จัดการเตือนให้ฉันบันทึกสำเนา",
+        "note": "remind + object + to-infinitive"
+      },
+      {
+        "en": "I remember saving the file before lunch.",
+        "th": "ฉันจำได้ว่าบันทึกไฟล์ก่อนอาหารกลางวันแล้ว",
+        "note": "remember + -ing มองกลับไปยังสิ่งที่ทำแล้ว"
+      },
+      {
+        "en": "Please remember to save the file before you leave.",
+        "th": "กรุณาอย่าลืมบันทึกไฟล์ก่อนกลับ",
+        "note": "remember + to-infinitive เตือนให้ทำสิ่งที่ยังต้องทำ"
+      }
+    ],
+    "traps": [
+      {
+        "title": "like และ love ไม่ได้ตามด้วย -ing เท่านั้น",
+        "body": "ในหลายบริบทใช้ได้ทั้ง -ing และ to-infinitive โดยอาจเน้นประสบการณ์หรือความชอบ/นิสัยต่างกัน อย่าสร้างข้อสอบที่ตัดรูปหนึ่งว่าผิดโดยไม่มีบริบท",
+        "good": "I like reading on the train.",
+        "source": "bc-verbs",
+        "contrast": "I like to read on the train."
+      },
+      {
+        "title": "stop doing กับ stop to do ต่างความหมาย",
+        "body": "stop + -ing คือหยุดทำกิจกรรมนั้น ส่วน stop + to-infinitive คือหยุดกิจกรรมอื่นเพื่อทำสิ่งที่ตามมา",
+        "good": "We stopped talking when the film began.",
+        "source": "bc-verbs",
+        "contrast": "We stopped to talk to a colleague."
+      },
+      {
+        "title": "try doing กับ try to do ต่างจุดเน้น",
+        "body": "try doing เสนอให้ทดลองวิธีหนึ่ง ส่วน try to do เน้นความพยายามทำให้สำเร็จ บริบทบางอย่างใช้ได้ทั้งสองรูปแต่ความหมายไม่เหมือนกัน",
+        "good": "Try restarting the router.",
+        "source": "bc-verbs",
+        "contrast": "I tried to restart the router, but the button was broken."
+      },
+      {
+        "title": "to ไม่ได้ตามด้วยกริยารูปพื้นฐานเสมอ",
+        "body": "to ที่เป็นบุพบทใน look forward to และ be used to ตามด้วยคำนามหรือ -ing ต่างจาก used to + รูปพื้นฐานที่บอกนิสัยในอดีต",
+        "good": "I am used to studying at night.",
+        "source": "bc-verbs",
+        "contrast": "I used to study at night."
+      },
+      {
+        "title": "make ใน passive ต้องมี to",
+        "body": "active ใช้ make + object + รูปพื้นฐาน แต่ passive ใช้ be made + to-infinitive ส่วน help ใช้ได้ทั้งมีและไม่มี to",
+        "good": "The delay made us wait.",
+        "source": "bc-verbs",
+        "contrast": "We were made to wait."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาที่ตามหลัง enjoy ได้",
+        "sentence": "She enjoys ___ short videos for class.",
+        "options": [
+          "making",
+          "to make",
+          "make"
+        ],
+        "answers": [
+          "making"
+        ],
+        "hints": [
+          "enjoy เป็นคำที่ควบคุมรูปถัดไป",
+          "enjoy ตามด้วย -ing"
+        ],
+        "explanation": "making เป็น -ing form หลัง enjoy",
+        "wrong": {
+          "to make": "enjoy ไม่ตามด้วย to-infinitive ในรูปนี้",
+          "make": "กริยารูปพื้นฐานตรง ๆ ใช้ไม่ได้หลัง enjoy"
+        },
+        "focus": "enjoy + -ing",
+        "id": "verbpatterns-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาที่ตามหลัง plan ได้",
+        "sentence": "We plan ___ early tomorrow.",
+        "options": [
+          "to leave",
+          "leaving",
+          "leave"
+        ],
+        "answers": [
+          "to leave"
+        ],
+        "hints": [
+          "plan ตามด้วย to-infinitive",
+          "to ตามด้วยกริยารูปพื้นฐาน"
+        ],
+        "explanation": "plan to leave บอกแผนที่จะออกเดินทาง",
+        "wrong": {
+          "leaving": "ถ้าใช้ -ing มักต้องมี on ใน plan on leaving ไม่ใช่รูปนี้",
+          "leave": "plan ไม่ตามด้วย bare infinitive ในรูปนี้"
+        },
+        "focus": "plan + to-infinitive",
+        "id": "verbpatterns-02",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาหลัง modal can",
+        "sentence": "You can ___ the draft here.",
+        "options": [
+          "upload",
+          "to upload",
+          "uploading"
+        ],
+        "answers": [
+          "upload"
+        ],
+        "hints": [
+          "can เป็น modal",
+          "modal ตามด้วยรูปพื้นฐานไม่มี to"
+        ],
+        "explanation": "can upload ใช้ bare infinitive",
+        "wrong": {
+          "to upload": "ไม่เติม to หลัง can",
+          "uploading": "ไม่ใช้ -ing ตรง ๆ หลัง can"
+        },
+        "focus": "modal + bare infinitive",
+        "id": "verbpatterns-03",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกกริยาหลัง look forward to",
+        "sentence": "I look forward to ___ you.",
+        "options": [
+          "meeting",
+          "meet",
+          "met"
+        ],
+        "answers": [
+          "meeting"
+        ],
+        "hints": [
+          "to ในชุดนี้เป็นบุพบท",
+          "หลังบุพบทใช้ -ing"
+        ],
+        "explanation": "meeting ตามหลังบุพบท to ใน look forward to",
+        "wrong": {
+          "meet": "to นี้ไม่ใช่ infinitive marker จึงไม่ตามด้วย meet",
+          "met": "met เป็นรูปอดีตหรือ V3 ไม่ใช่ส่วนเติมเต็มที่ต้องการ"
+        },
+        "focus": "prepositional to",
+        "id": "verbpatterns-04",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูปที่ถูกต้องของ avoid + drive",
+        "sentence": "We avoid ___ during rush hour.",
+        "answers": [
+          "driving"
+        ],
+        "hints": [
+          "avoid ตามด้วย -ing",
+          "drive ตัด e ก่อนเติม -ing"
+        ],
+        "explanation": "avoiding an activity ใช้ -ing จึงเป็น avoid driving",
+        "focus": "avoid + -ing",
+        "id": "verbpatterns-05",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูปของ decide + apply รวม to ถ้าจำเป็น",
+        "sentence": "I decided ___ for the scholarship.",
+        "answers": [
+          "to apply"
+        ],
+        "hints": [
+          "decide ตามด้วย to-infinitive",
+          "ใช้ apply รูปพื้นฐานหลัง to"
+        ],
+        "explanation": "decided to apply เป็น verb pattern ของ decide",
+        "focus": "decide + to-infinitive",
+        "id": "verbpatterns-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูปของ ask someone + wait รวม to ถ้าจำเป็น",
+        "sentence": "The receptionist asked us ___ outside.",
+        "answers": [
+          "to wait"
+        ],
+        "hints": [
+          "มีกรรม us คั่นหลัง asked",
+          "ask + object + to-infinitive"
+        ],
+        "explanation": "us เป็นผู้ที่ถูกขอให้รอ จึงใช้ to wait",
+        "focus": "verb + object + to-infinitive",
+        "id": "verbpatterns-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติมรูปของ leave หลังบุพบท before",
+        "sentence": "Check the windows before ___.",
+        "answers": [
+          "leaving"
+        ],
+        "hints": [
+          "before ทำหน้าที่บุพบทในรูปที่ให้เติมกริยาเดี่ยวนี้",
+          "leave ตัด e แล้วเติม -ing"
+        ],
+        "explanation": "before leaving เป็นโครงสร้างบุพบท + -ing; before you leave ก็ถูกแต่เป็นอีกโครงสร้างที่โจทย์ไม่ได้ให้เติม",
+        "focus": "preposition + -ing",
+        "id": "verbpatterns-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แก้เฉพาะ to work เป็นรูปที่ถูกหลัง finish เก็บส่วนอื่นเดิม",
+        "sentence": "We finished to work at six.",
+        "answers": [
+          "We finished working at six."
+        ],
+        "hints": [
+          "finish ตามด้วย -ing",
+          "เปลี่ยน to work เป็น working"
+        ],
+        "explanation": "finish working หมายถึงทำงานเสร็จ ไม่ใช้ finish to work",
+        "focus": "finish + -ing",
+        "id": "verbpatterns-09",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "เปลี่ยนเป็น passive เริ่ม We were made และเก็บ wait outside ไว้",
+        "sentence": "The guard made us wait outside.",
+        "answers": [
+          "We were made to wait outside.",
+          "We were made to wait outside by the guard."
+        ],
+        "hints": [
+          "กรรม us เปลี่ยนเป็นประธาน We",
+          "passive ของ make ต้องเติม to"
+        ],
+        "explanation": "be made to do ต่างจาก active make someone do; จะคงผู้กระทำไว้ด้วย by the guard หรือไม่ระบุก็ได้ตามโจทย์นี้",
+        "focus": "passive ของ make",
+        "id": "verbpatterns-10",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม Remember",
+        "sentence": "before / Remember / you log out. / to save",
+        "tokens": [
+          "before",
+          "Remember",
+          "you log out.",
+          "to save"
+        ],
+        "answers": [
+          "Remember to save before you log out."
+        ],
+        "hints": [
+          "เตือนให้ทำสิ่งที่ยังต้องทำ",
+          "remember ตามด้วย to save"
+        ],
+        "explanation": "remember to save คืออย่าลืมทำ ไม่ใช่จำว่าเคยทำแล้ว",
+        "focus": "remember + to-infinitive",
+        "id": "verbpatterns-11",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม We stopped",
+        "sentence": "a bottle of water. / We stopped / to buy",
+        "tokens": [
+          "a bottle of water.",
+          "We stopped",
+          "to buy"
+        ],
+        "answers": [
+          "We stopped to buy a bottle of water."
+        ],
+        "hints": [
+          "หยุดกิจกรรมอื่นเพื่อซื้อน้ำ",
+          "ใช้ to buy บอกจุดประสงค์"
+        ],
+        "explanation": "stopped to buy คือหยุดเพื่อซื้อ ต่างจาก stopped buying ที่หมายถึงเลิกซื้อ",
+        "focus": "stop + to-infinitive",
+        "id": "verbpatterns-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคเกี่ยวกับการเรียน ใช้ enjoy/avoid + -ing หนึ่งครั้ง plan/hope + to-infinitive หนึ่งครั้ง และคำเตือน remember to ...",
+      "model": "I enjoy learning with a partner. We plan to review the lesson tonight. I must remember to bring my notes.",
+      "translation": "ฉันชอบเรียนกับเพื่อน เราวางแผนทบทวนบทเรียนคืนนี้ ฉันต้องไม่ลืมเอาบันทึกมาด้วย",
+      "checklist": [
+        "ดูคำหลักก่อนเลือกรูปกริยาถัดไป",
+        "แยก to ที่เป็นบุพบทกับ to-infinitive",
+        "remember/stop/try สื่อความหมายตรงที่ตั้งใจ"
+      ]
+    },
+    "sources": [
+      "bc-verbs"
+    ]
+  },
+  {
+    "id": "linking",
+    "number": 14,
+    "title": "Linking words",
+    "thaiTitle": "เชื่อมเหตุ ผล และความขัดแย้งให้ถูกโครงสร้าง",
+    "group": "เชื่อมและขยายความ",
+    "minutes": 20,
+    "outcome": "เลือกคำเชื่อมตามความสัมพันธ์ของใจความและชนิดโครงสร้าง พร้อมใช้เครื่องหมายวรรคตอนอย่างเหมาะสม",
+    "memory": "ความหมายก่อน โครงสร้างถัดมา วรรคตอนปิดท้าย",
+    "why": "คำเชื่อมช่วยให้ผู้อ่านตามเหตุผลได้ แต่คำที่ความหมายคล้ายกันอาจต่อประโยคคนละแบบ",
+    "steps": [
+      {
+        "title": "1. ระบุความสัมพันธ์ของสองใจความ",
+        "body": "เลือกก่อนว่าใจความที่สองเพิ่มข้อมูล ขัดแย้ง ให้เหตุผล หรือบอกผล จากนั้นจึงเลือก and, but, because, so หรือคำเชื่อมอื่น",
+        "example": "The route is longer, but it is safer.",
+        "note": "but เชื่อมข้อเท็จจริงที่สวนความคาดหวังว่าเส้นทางยาวน่าจะเป็นตัวเลือกที่ด้อยกว่า"
+      },
+      {
+        "title": "2. แยก clause ออกจากกลุ่มคำนาม",
+        "body": "because ตามด้วย clause เช่น the road was closed ส่วน because of ตามด้วยกลุ่มคำนามหรือ -ing; although มักตามด้วย clause ส่วน despite/in spite of ใช้กลุ่มคำนามหรือ -ing",
+        "example": "We waited because the road was closed.",
+        "note": "เปลี่ยนเป็น because of the road closure ได้ แต่โครงสร้างหลังคำเชื่อมต้องเปลี่ยนตาม"
+      },
+      {
+        "title": "3. แยกตัวเชื่อมประโยคจากคำบอกความสัมพันธ์",
+        "body": "and/but/so เชื่อม independent clauses ได้โดยใช้คอมมาตามโครงสร้าง ส่วน however/therefore ไม่ทำหน้าที่เหมือน but/so เมื่อต่อสองประโยคสมบูรณ์ให้ใช้จุดหรือ semicolon",
+        "example": "The road was closed; therefore, we took a detour.",
+        "note": "therefore แสดงผล แต่ semicolon เป็นตัวคั่นประโยคสมบูรณ์สองส่วน"
+      },
+      {
+        "title": "4. ตรวจว่าข้อมูลแต่ละส่วนครบและไม่เชื่อมซ้ำ",
+        "body": "ในภาษาเขียนมาตรฐานไม่ใช้ Although ..., but ... หรือ Because ..., so ... เพื่อเชื่อมสอง clause ชุดเดียวกัน เลือกโครงสร้างหนึ่งให้ชัด",
+        "example": "Although the task was difficult, we finished on time.",
+        "note": "although เปิด subordinate clause แล้วตามด้วย main clause ได้เลย ไม่เติม but ซ้ำ"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The course is short, and the materials are free.",
+        "th": "หลักสูตรนี้สั้น และเอกสารประกอบฟรี",
+        "note": "and เพิ่มข้อมูลระหว่างสองประโยคสมบูรณ์"
+      },
+      {
+        "en": "We chose the morning train because it was cheaper.",
+        "th": "เราเลือกรถไฟรอบเช้าเพราะถูกกว่า",
+        "note": "because ตามด้วย it was cheaper ซึ่งเป็น clause"
+      },
+      {
+        "en": "The class was cancelled because of the storm.",
+        "th": "ชั้นเรียนถูกยกเลิกเพราะพายุ",
+        "note": "because of ตามด้วยกลุ่มคำนาม the storm"
+      },
+      {
+        "en": "Although the hall was noisy, I could hear the speaker.",
+        "th": "แม้ห้องโถงจะเสียงดัง ฉันก็ได้ยินผู้พูด",
+        "note": "although แสดงความขัดแย้งที่ไม่เป็นไปตามคาด"
+      },
+      {
+        "en": "The first draft was incomplete. However, the main argument was clear.",
+        "th": "ร่างแรกยังไม่ครบ แต่เหตุผลหลักชัดเจน",
+        "note": "ใช้จุดแยกสองประโยค และคอมมาหลัง However"
+      },
+      {
+        "en": "Despite feeling nervous, she answered calmly.",
+        "th": "แม้รู้สึกประหม่า เธอก็ตอบอย่างสงบ",
+        "note": "despite ตามด้วย -ing และผู้รู้สึกประหม่าคือ she"
+      }
+    ],
+    "traps": [
+      {
+        "title": "however ไม่ใช่ but ที่สลับแทนได้ตรง ๆ",
+        "body": "ในภาษาเขียนมาตรฐาน อย่าใช้คอมมาตัวเดียวเชื่อมสอง independent clauses ผ่าน however ให้ใช้จุดหรือ semicolon และคอมมาตามตำแหน่ง",
+        "good": "The room was small; however, it had enough seats.",
+        "source": "cam-linking",
+        "contrast": "The room was small, but it had enough seats."
+      },
+      {
+        "title": "although ไม่ต้องมีประธานและกริยาครบเสมอ",
+        "body": "ใช้ reduced clause ได้เมื่อความหมายชัด เช่น Although tired หรือ Although expensive จึงไม่ควรสอนว่าหลัง although ต้องมีประธานและกริยาครบทุกกรณี",
+        "good": "Although expensive, the headset was worth buying.",
+        "source": "cam-linking"
+      },
+      {
+        "title": "despite ไม่มี of แต่ in spite of ต้องมี",
+        "body": "ใช้ despite the delay หรือ in spite of the delay; หากต้องการตามด้วย full clause ใช้ despite the fact that ... ได้",
+        "good": "Despite the delay, we arrived before lunch.",
+        "source": "cam-linking",
+        "contrast": "In spite of the delay, we arrived before lunch."
+      },
+      {
+        "title": "เพราะกับดังนั้นไม่ต้องมาคู่แบบภาษาไทย",
+        "body": "ในรูปมาตรฐานที่เชื่อมสอง clause ชุดเดียวกัน ใช้ Because A, B หรือ A, so B ไม่ใช้ Because A, so B",
+        "good": "Because the lift was broken, we used the stairs.",
+        "source": "cam-linking",
+        "contrast": "The lift was broken, so we used the stairs."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "เลือกคำที่ตามด้วย clause เพื่อให้เหตุผล",
+        "sentence": "We stayed inside ___ the air quality was poor.",
+        "options": [
+          "because",
+          "because of",
+          "despite"
+        ],
+        "answers": [
+          "because"
+        ],
+        "hints": [
+          "หลังช่องว่างมีประธาน the air quality และกริยา was",
+          "ต้องการความหมายเหตุผล"
+        ],
+        "explanation": "because ตามด้วย clause และให้เหตุผลที่อยู่ข้างใน",
+        "wrong": {
+          "because of": "because of ต้องตามด้วยกลุ่มคำนามหรือ -ing ไม่ใช่ clause นี้โดยตรง",
+          "despite": "despite ไม่ตามด้วย finite clause นี้โดยตรงและไม่ตรงความหมายเหตุผล"
+        },
+        "focus": "because + clause",
+        "id": "linking-01",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำให้ความหมายว่า เพราะฝนตกหนัก",
+        "sentence": "The match was delayed ___ heavy rain.",
+        "options": [
+          "because of",
+          "because",
+          "although"
+        ],
+        "answers": [
+          "because of"
+        ],
+        "hints": [
+          "heavy rain เป็นกลุ่มคำนาม",
+          "ต้องการคำเชื่อมเหตุผลที่รับคำนาม"
+        ],
+        "explanation": "because of ตามด้วย heavy rain ได้",
+        "wrong": {
+          "because": "because ไม่รับกลุ่มคำนาม heavy rain โดยตรงในรูปนี้",
+          "although": "although ไม่ให้ความหมายเหตุผลตามโจทย์"
+        },
+        "focus": "because of + noun phrase",
+        "id": "linking-02",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกประโยคที่ใช้ however เชื่อมสองประโยคอย่างถูกต้องในภาษาเขียนมาตรฐาน",
+        "sentence": "Choose the correctly punctuated sentence.",
+        "options": [
+          "The bus was crowded; however, I found a seat.",
+          "The bus was crowded, however, I found a seat.",
+          "The bus was crowded however I found a seat."
+        ],
+        "answers": [
+          "The bus was crowded; however, I found a seat."
+        ],
+        "hints": [
+          "ทั้งสองฝั่งเป็นประโยคสมบูรณ์",
+          "however ไม่เชื่อมสองประโยคด้วยคอมมาตัวเดียว"
+        ],
+        "explanation": "semicolon คั่น independent clauses และคอมมาหลัง however แสดงคำเชื่อมในส่วนที่สอง",
+        "wrong": {
+          "The bus was crowded, however, I found a seat.": "คอมมาอย่างเดียวทำให้เกิด comma splice",
+          "The bus was crowded however I found a seat.": "ขาดเครื่องหมายคั่นสองประโยคสมบูรณ์"
+        },
+        "focus": "however และวรรคตอน",
+        "id": "linking-03",
+        "phase": "guided"
+      },
+      {
+        "type": "choice",
+        "prompt": "เลือกคำให้หมายถึง แม้เธอจะเหนื่อย ไม่ใช่เหตุผลที่เดินต่อ",
+        "sentence": "___ she was tired, she kept walking.",
+        "options": [
+          "Although",
+          "Because",
+          "So"
+        ],
+        "answers": [
+          "Although"
+        ],
+        "hints": [
+          "ผลคือยังเดินต่อแม้มีอุปสรรค",
+          "ต้องการความสัมพันธ์แบบขัดความคาดหวัง"
+        ],
+        "explanation": "Although เปิด clause ที่บอกอุปสรรคซึ่งไม่หยุดการกระทำ",
+        "wrong": {
+          "Because": "Because ทำให้ความเหนื่อยเป็นเหตุที่เดินต่อ ซึ่งไม่ตรงโจทย์",
+          "So": "So ใช้บอกผล ไม่ใช่เปิดเงื่อนไขแบบแม้ว่าในรูปนี้"
+        },
+        "focus": "although กับความขัดแย้ง",
+        "id": "linking-04",
+        "phase": "guided"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม of หากจำเป็นในวลี in spite ...",
+        "sentence": "In spite ___ the noise, we completed the recording.",
+        "answers": [
+          "of"
+        ],
+        "hints": [
+          "วลีเต็มคือ in spite of",
+          "คำนี้ต่างจาก despite ที่ไม่มี of"
+        ],
+        "explanation": "in spite of เป็นวลีบุพบทสามคำที่ตามด้วยกลุ่มคำนาม",
+        "focus": "in spite of",
+        "id": "linking-05",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม because หรือ because of ให้ถูกโครงสร้าง",
+        "sentence": "We changed the venue ___ the roof was leaking.",
+        "answers": [
+          "because"
+        ],
+        "hints": [
+          "หลังช่องว่างมี the roof was leaking",
+          "ใช้ตัวเชื่อมที่รับ clause"
+        ],
+        "explanation": "because เชื่อมเหตุผลที่เป็นประโยคย่อยครบโครงสร้าง",
+        "focus": "because รับ clause",
+        "id": "linking-06",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม because หรือ because of ให้ถูกโครงสร้าง",
+        "sentence": "The delivery was late ___ a traffic jam.",
+        "answers": [
+          "because of"
+        ],
+        "hints": [
+          "a traffic jam เป็นกลุ่มคำนาม",
+          "ต้องใช้ of เพื่อให้รับกลุ่มคำนาม"
+        ],
+        "explanation": "because of บอกสาเหตุด้วยกลุ่มคำนาม",
+        "focus": "because of รับคำนาม",
+        "id": "linking-07",
+        "phase": "solo"
+      },
+      {
+        "type": "fill",
+        "prompt": "เติม so หรือ although เพื่อบอกผล",
+        "sentence": "The platform was full, ___ we waited outside.",
+        "answers": [
+          "so"
+        ],
+        "hints": [
+          "ใจความหลังเป็นผลของความแออัด",
+          "so เชื่อมผลกับเหตุที่อยู่ก่อน"
+        ],
+        "explanation": "so ทำให้การรอข้างนอกเป็นผลจากชานชาลาเต็ม",
+        "focus": "so กับผลลัพธ์",
+        "id": "linking-08",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "ลบ but เพียงคำเดียวเพื่อแก้การเชื่อมซ้ำ เก็บส่วนอื่นเดิม",
+        "sentence": "Although the fee was high, but we enrolled.",
+        "answers": [
+          "Although the fee was high, we enrolled."
+        ],
+        "hints": [
+          "Although เชื่อมความขัดแย้งให้แล้ว",
+          "main clause เริ่ม we enrolled ได้เลย"
+        ],
+        "explanation": "Although A, B ไม่เติม but ในรูปภาษาเขียนมาตรฐานนี้",
+        "focus": "ไม่ใช้ although ... but",
+        "id": "linking-09",
+        "phase": "solo"
+      },
+      {
+        "type": "rewrite",
+        "prompt": "แทน despite of ด้วย despite เท่านั้น เก็บส่วนอื่นเดิม",
+        "sentence": "Despite of the warning, he entered the room.",
+        "answers": [
+          "Despite the warning, he entered the room."
+        ],
+        "hints": [
+          "despite เป็นบุพบทอยู่แล้ว",
+          "ไม่ต้องเติม of"
+        ],
+        "explanation": "despite ตามด้วยกลุ่มคำนามตรง ๆ ส่วน in spite of เป็นอีกวลีหนึ่ง",
+        "focus": "despite ไม่มี of",
+        "id": "linking-10",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม Because",
+        "sentence": "we rescheduled / Because / the exam. / the room was unavailable,",
+        "tokens": [
+          "we rescheduled",
+          "Because",
+          "the exam.",
+          "the room was unavailable,"
+        ],
+        "answers": [
+          "Because the room was unavailable, we rescheduled the exam."
+        ],
+        "hints": [
+          "เริ่มด้วยเหตุที่ห้องใช้ไม่ได้",
+          "ตามด้วยคอมมาแล้วผลว่าเลื่อนสอบ"
+        ],
+        "explanation": "because-clause ที่อยู่หน้าคั่นด้วยคอมมาก่อน main clause",
+        "focus": "because-clause ข้างหน้า",
+        "id": "linking-11",
+        "phase": "solo"
+      },
+      {
+        "type": "order",
+        "prompt": "เรียงทุกชิ้น เริ่ม The network",
+        "sentence": "therefore, / The network / we worked offline. / failed;",
+        "tokens": [
+          "therefore,",
+          "The network",
+          "we worked offline.",
+          "failed;"
+        ],
+        "answers": [
+          "The network failed; therefore, we worked offline."
+        ],
+        "hints": [
+          "ส่วนแรกคือ The network failed",
+          "therefore บอกผลหลัง semicolon"
+        ],
+        "explanation": "therefore เป็นตัวบอกผล ไม่ใช่ coordinating conjunction จึงใช้ semicolon คั่นสองประโยค",
+        "focus": "therefore และวรรคตอน",
+        "id": "linking-12",
+        "phase": "solo"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับการเรียนหรือการเดินทางที่สะดุด ใช้ because หรือ because of เพื่อให้เหตุผล แล้วใช้ however หรือ although เพื่อบอกสิ่งที่สวนความคาดหวัง",
+      "model": "Our class moved online because the building was closed. The connection was slow. However, everyone completed the activity.",
+      "translation": "ชั้นเรียนของเราย้ายไปออนไลน์เพราะอาคารปิด อินเทอร์เน็ตช้า แต่ทุกคนทำกิจกรรมเสร็จ",
+      "checklist": [
+        "คำเชื่อมตรงกับเหตุ ผล หรือความขัดแย้งที่ต้องการ",
+        "หลัง because of/despite เป็นกลุ่มคำที่เหมาะสม",
+        "however/therefore ไม่เชื่อมสองประโยคด้วยคอมมาตัวเดียว"
+      ]
+    },
+    "sources": [
+      "cam-linking"
+    ]
+  }
+]

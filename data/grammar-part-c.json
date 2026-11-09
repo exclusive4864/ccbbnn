@@ -1,0 +1,2158 @@
+[
+  {
+    "id": "pronouns",
+    "number": 15,
+    "title": "Pronouns and reference",
+    "thaiTitle": "เลือกสรรพนามให้ตรงหน้าที่และชี้คนให้ชัด",
+    "group": "ความชัดเจนและโครงสร้าง",
+    "minutes": 20,
+    "outcome": "เลือกสรรพนามประธาน กรรม เจ้าของ และสะท้อนกลับ พร้อมตรวจว่าผู้อ่านรู้ว่าหมายถึงใคร",
+    "memory": "ถามว่าใครทำ ใครรับ ของใคร และชี้กลับหาใคร",
+    "why": "สรรพนามช่วยลดคำซ้ำ แต่ถ้าเลือกผิดหน้าที่หรือชี้ไม่ชัด ผู้อ่านอาจเข้าใจว่าคนละคนทำสิ่งนั้น",
+    "steps": [
+      {
+        "title": "1. หาเจ้าของการกระทำ",
+        "body": "หาประธานของกริยาแล้วใช้ I, you, he, she, it, we หรือ they; หลังคำกริยาที่รับกรรมหรือหลังบุพบทมักใช้ me, him, her, us หรือ them",
+        "example": "They invited us to the workshop.",
+        "note": "They เป็นผู้เชิญ ส่วน us เป็นผู้ได้รับเชิญ"
+      },
+      {
+        "title": "2. แยกคำเจ้าของสองแบบ",
+        "body": "my, your, her, our, their ต้องมีคำนามตาม ส่วน mine, yours, hers, ours, theirs ใช้แทนกลุ่มคำนามได้",
+        "example": "My notebook is blue; yours is green.",
+        "note": "yours แทน your notebook จึงไม่ตามด้วย notebook อีก"
+      },
+      {
+        "title": "3. ใช้รูปสะท้อนเมื่อกรรมคือคนเดียวกับประธาน",
+        "body": "myself, yourself และรูปอื่นใช้เมื่อการกระทำย้อนกลับไปหาประธาน หรือใช้เน้น ไม่ใช่คำสุภาพแทน me ในทุกตำแหน่ง",
+        "example": "I reminded myself to save the file.",
+        "note": "ผู้เตือนและผู้รับคำเตือนคือคนเดียวกัน"
+      },
+      {
+        "title": "4. ย้อนหาคำนามที่อ้างถึง",
+        "body": "อ่านย้อนว่าคำอย่าง it, they หรือ this หมายถึงอะไร ถ้ามีสองคนหรือสองสิ่งที่เป็นไปได้ ให้ใช้ชื่อหรือคำนามซ้ำเพื่อความชัดเจน",
+        "example": "Nina emailed Sara because Nina needed the timetable.",
+        "note": "ใช้ Nina ซ้ำเพื่อบอกแน่นอนว่าใครต้องการตาราง"
+      }
+    ],
+    "examples": [
+      {
+        "en": "We met them outside the station.",
+        "th": "พวกเราเจอพวกเขาที่ด้านนอกสถานี",
+        "note": "We เป็นประธาน ส่วน them เป็นกรรมของ met"
+      },
+      {
+        "en": "The librarian gave her a receipt.",
+        "th": "บรรณารักษ์ให้ใบรับกับเธอ",
+        "note": "her ในที่นี้เป็นกรรม ไม่ใช่คำเจ้าของ เพราะ receipt มี a นำอยู่แล้ว"
+      },
+      {
+        "en": "Our classroom is upstairs; theirs is downstairs.",
+        "th": "ห้องเรียนของเราอยู่ชั้นบน ส่วนของพวกเขาอยู่ชั้นล่าง",
+        "note": "Our ต้องตามด้วย classroom แต่ theirs แทน their classroom"
+      },
+      {
+        "en": "The mechanic checked the brakes himself.",
+        "th": "ช่างตรวจเบรกด้วยตัวเขาเอง",
+        "note": "himself เน้นว่าเขาทำเอง ไม่ได้เป็นกรรมที่แทน brakes"
+      },
+      {
+        "en": "Each applicant should check their email.",
+        "th": "ผู้สมัครแต่ละคนควรตรวจอีเมลของตน",
+        "note": "their อ้างถึงบุคคลที่ไม่ระบุเพศได้ แม้ each applicant เป็นเอกพจน์"
+      },
+      {
+        "en": "The bus was late because it broke down.",
+        "th": "รถบัสมาช้าเพราะมันเสีย",
+        "note": "it ชี้กลับไปที่ the bus อย่างชัดเจน"
+      }
+    ],
+    "traps": [
+      {
+        "title": "Singular they ใช้ได้",
+        "body": "ใช้ they/them/their กับคนที่ไม่ระบุเพศหรือคนที่ใช้สรรพนามนี้ได้ รูปกริยาตาม they เช่น they are ไม่ใช่ they is",
+        "good": "Someone left their umbrella here.",
+        "source": "cam-pronouns",
+        "contrast": "If a visitor is waiting, tell them we are ready."
+      },
+      {
+        "title": "ไม่ใช้ myself แทน me เพียงเพราะดูสุภาพ",
+        "body": "เมื่อไม่ได้สะท้อนกลับหรือเน้นตัวผู้พูด ให้เลือกตามหน้าที่ หลัง to ในตัวอย่างนี้ใช้ me",
+        "good": "Please send the agenda to Leo and me.",
+        "source": "cam-pronouns"
+      },
+      {
+        "title": "คำเจ้าของกลุ่ม its, yours, theirs ไม่มี apostrophe",
+        "body": "its คือของมัน ส่วน it’s ย่อจาก it is หรือ it has; yours และ theirs ก็ไม่มี apostrophe",
+        "good": "The tablet has lost its connection.",
+        "source": "cam-pronouns",
+        "contrast": "It’s working again now."
+      },
+      {
+        "title": "ถูกไวยากรณ์แต่อ้างอิงไม่ชัดก็แก้ได้",
+        "body": "ประโยคที่มีสองคนแล้วตามด้วย she อาจตีความได้สองแบบ การใช้ชื่อซ้ำไม่ใช่ความผิด",
+        "good": "Maya thanked June because June had found the keys.",
+        "source": "cam-pronouns"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "pronouns-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกสรรพนามประธานที่หมายถึงผู้พูดและเพื่อน",
+        "sentence": "___ are preparing the slides.",
+        "answers": [
+          "We"
+        ],
+        "hints": [
+          "หาว่าใครกำลังเตรียม",
+          "ต้องใช้รูปประธานพหูพจน์ที่รวมผู้พูด"
+        ],
+        "explanation": "ช่องว่างทำหน้าที่ประธานของ are จึงใช้ We",
+        "focus": "รูปประธาน",
+        "options": [
+          "Us",
+          "We",
+          "Our"
+        ],
+        "wrong": {
+          "Us": "Us เป็นรูปกรรม",
+          "Our": "Our เป็นคำเจ้าของที่ต้องมีคำนามตาม"
+        }
+      },
+      {
+        "id": "pronouns-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำที่เป็นกรรมหลังบุพบท",
+        "sentence": "The guide waited for ___.",
+        "answers": [
+          "them"
+        ],
+        "hints": [
+          "มองคำว่า for",
+          "รูปกรรมของ they คืออะไร"
+        ],
+        "explanation": "for เป็นบุพบทและต้องการรูปกรรม them",
+        "focus": "รูปกรรม",
+        "options": [
+          "they",
+          "their",
+          "them"
+        ],
+        "wrong": {
+          "they": "they ใช้เป็นประธาน ไม่ใช่กรรมของ for",
+          "their": "their ต้องนำหน้าคำนาม"
+        }
+      },
+      {
+        "id": "pronouns-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมรูปแทนเจ้าของจาก our เพียงคำเดียว",
+        "sentence": "That desk is ___.",
+        "answers": [
+          "ours"
+        ],
+        "hints": [
+          "ไม่มีคำว่า desk หลังช่องว่าง",
+          "เปลี่ยน our เป็นรูปที่ยืนเดี่ยวได้"
+        ],
+        "explanation": "หลัง is ในประโยคนี้ไม่มีคำนามต่อ จึงใช้ ours แทน our desk",
+        "focus": "เจ้าของแบบยืนเดี่ยว"
+      },
+      {
+        "id": "pronouns-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "เปลี่ยนเฉพาะ myself เป็นรูปกรรมที่ถูกต้อง คงคำอื่นไว้",
+        "sentence": "Please call myself after lunch.",
+        "answers": [
+          "Please call me after lunch."
+        ],
+        "hints": [
+          "ใครเป็นคนโทร ใครรับสาย",
+          "เปลี่ยนเพียงหนึ่งคำ"
+        ],
+        "explanation": "ประธานที่ละไว้คือ you แต่ผู้รับการโทรคือผู้พูด จึงไม่ใช่การสะท้อนกลับ ใช้ me",
+        "focus": "ไม่ใช้ reflexive แทนกรรมทั่วไป"
+      },
+      {
+        "id": "pronouns-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำให้ตรงกับเอกพจน์ they ในประโยคนี้",
+        "sentence": "A new student says they ___ ready.",
+        "answers": [
+          "are"
+        ],
+        "hints": [
+          "แยกจำนวนคนออกจากรูปสรรพนาม",
+          "ดูประธานที่อยู่ติดช่องว่าง"
+        ],
+        "explanation": "แม้อ้างถึงนักเรียนคนเดียว แต่ they ใช้รูปกริยา are",
+        "focus": "กริยาของ singular they",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "wrong": {
+          "is": "ใช้กับ he/she/it ไม่ใช่ they",
+          "am": "ใช้กับ I"
+        }
+      },
+      {
+        "id": "pronouns-06",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำเจ้าของของเครื่องพิมพ์",
+        "sentence": "The printer has run out of ___ ink.",
+        "answers": [
+          "its"
+        ],
+        "hints": [
+          "ดูว่า ink ต้องการคำบอกเจ้าของ",
+          "คำเจ้าของนี้ไม่มี apostrophe"
+        ],
+        "explanation": "its นำหน้าคำนาม ink เพื่อบอกเจ้าของ",
+        "focus": "its กับ it’s",
+        "options": [
+          "it’s",
+          "its",
+          "it"
+        ],
+        "wrong": {
+          "it’s": "ย่อจาก it is หรือ it has ไม่ใช่คำเจ้าของ",
+          "it": "เป็นสรรพนาม ไม่ได้ทำหน้าที่เจ้าของในช่องนี้"
+        }
+      },
+      {
+        "id": "pronouns-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปสะท้อนกลับของ she",
+        "sentence": "She taught ___ to edit videos.",
+        "answers": [
+          "herself"
+        ],
+        "hints": [
+          "ผู้สอนกับผู้เรียนเป็นคนเดียวกัน",
+          "ใช้รูป reflexive ของ she"
+        ],
+        "explanation": "ประธานและผู้เรียนคือผู้หญิงคนเดียวกัน ใช้ herself",
+        "focus": "กรรมสะท้อนกลับ"
+      },
+      {
+        "id": "pronouns-08",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปกรรมของ we",
+        "sentence": "The tutor explained the task to ___.",
+        "answers": [
+          "us"
+        ],
+        "hints": [
+          "ดูคำว่า to",
+          "we เปลี่ยนเป็นอะไรเมื่อเป็นกรรม"
+        ],
+        "explanation": "หลัง to ต้องใช้ us ซึ่งเป็นรูปกรรมของ we",
+        "focus": "กรรมหลังบุพบท"
+      },
+      {
+        "id": "pronouns-09",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ให้ชัดว่า Ava เป็นคนเหนื่อย เปลี่ยนเฉพาะ she เป็น Ava",
+        "sentence": "Ava called Lina because she was tired.",
+        "answers": [
+          "Ava called Lina because Ava was tired."
+        ],
+        "hints": [
+          "มีผู้หญิงสองคน",
+          "ใช้ชื่อตามที่โจทย์กำหนดในอนุประโยค"
+        ],
+        "explanation": "การใช้ชื่อ Ava แทน she ทำให้รู้แน่นอนว่าใครเหนื่อย",
+        "focus": "ความชัดเจนของผู้ถูกอ้างถึง"
+      },
+      {
+        "id": "pronouns-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงคำให้เป็นคำบอกเล่า เริ่มด้วย These",
+        "sentence": "These / tickets / are / theirs.",
+        "answers": [
+          "These tickets are theirs."
+        ],
+        "hints": [
+          "เริ่มด้วยกลุ่มประธาน These tickets",
+          "ปิดท้ายด้วยคำแทนเจ้าของ"
+        ],
+        "explanation": "theirs แทน their tickets และอยู่หลัง are ได้โดยไม่ต้องมีคำนามตาม",
+        "focus": "เจ้าของแบบยืนเดี่ยว",
+        "tokens": [
+          "These",
+          "tickets",
+          "are",
+          "theirs."
+        ]
+      },
+      {
+        "id": "pronouns-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคมาตรฐานที่ใช้คำเจ้าของแบบยืนเดี่ยวถูกต้อง",
+        "sentence": "",
+        "answers": [
+          "This seat is yours."
+        ],
+        "hints": [
+          "หลัง is ไม่มีคำนามให้ your ขยาย",
+          "เลือกคำที่หมายถึงของคุณ"
+        ],
+        "explanation": "yours แทน your seat จึงเป็นรูปที่ต้องใช้เมื่อไม่มี seat ตามท้าย",
+        "focus": "your กับ yours",
+        "options": [
+          "This seat is your.",
+          "This seat is yours.",
+          "This seat is you."
+        ],
+        "wrong": {
+          "This seat is your.": "your ต้องตามด้วยคำนาม เช่น your seat",
+          "This seat is you.": "you หมายถึงตัวบุคคล ไม่ได้แสดงเจ้าของ"
+        }
+      },
+      {
+        "id": "pronouns-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมสรรพนามกรรมที่ไม่ระบุเพศ ใช้รูปของ they",
+        "sentence": "If anyone needs help, ask ___ to stay.",
+        "answers": [
+          "them"
+        ],
+        "hints": [
+          "ไม่จำเป็นต้องเดาเพศของ anyone",
+          "ช่องนี้เป็นกรรมของ ask"
+        ],
+        "explanation": "them ใช้อ้างถึง anyone โดยไม่ระบุเพศได้ และเป็นกรรมของ ask",
+        "focus": "singular they รูปกรรม"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคเกี่ยวกับงานกลุ่มในชั้นเรียน ใช้สรรพนามประธานหนึ่งคำ กรรมหนึ่งคำ และคำเจ้าของหนึ่งคำ โดยให้รู้ชัดว่าทุกคำชี้ถึงใคร",
+      "model": "Our group is making a poster. We asked the teacher to help us. The final design is ours.",
+      "translation": "กลุ่มของเรากำลังทำโปสเตอร์ เราขอให้ครูช่วยเรา แบบสุดท้ายเป็นของเรา",
+      "checklist": [
+        "สรรพนามประธานและกรรมอยู่ถูกหน้าที่",
+        "แยก our กับ ours ได้",
+        "ผู้อ่านระบุคนหรือสิ่งที่สรรพนามชี้ถึงได้"
+      ]
+    },
+    "sources": [
+      "cam-pronouns"
+    ]
+  },
+  {
+    "id": "parallel",
+    "number": 16,
+    "title": "Parallel structure",
+    "thaiTitle": "จัดรายการให้เดินด้วยโครงสร้างเดียวกัน",
+    "group": "ความชัดเจนและโครงสร้าง",
+    "minutes": 18,
+    "outcome": "ตรวจรายการและคู่คำเชื่อมแล้วปรับวลีที่ทำหน้าที่เท่ากันให้มีรูปสอดคล้องกัน",
+    "memory": "งานเดียวกันในประโยค ใช้รูปที่ไปด้วยกัน",
+    "why": "รายการที่มีรูปสม่ำเสมออ่านเร็วและทำให้เห็นว่าข้อมูลแต่ละชิ้นมีน้ำหนักเท่ากัน",
+    "steps": [
+      {
+        "title": "1. วงส่วนที่เชื่อมกัน",
+        "body": "มองหา and, or หรือคู่คำเชื่อม แล้วแยกว่ากำลังเชื่อมคำนาม กริยา วลี หรืออนุประโยค",
+        "example": "The course covers planning, drafting, and editing.",
+        "note": "ทั้งสามส่วนเป็นรูป -ing ที่ทำหน้าที่เป็นรายการหัวข้อ"
+      },
+      {
+        "title": "2. เลือกรูปให้เข้ากับคำหลัก",
+        "body": "เริ่มจากคำที่ควบคุมรายการ เช่น enjoy ตามด้วย -ing ส่วน plan ตามด้วย to-infinitive แล้วใช้รูปนั้นกับสมาชิกแต่ละตัว",
+        "example": "We plan to read, discuss, and revise the report.",
+        "note": "to จาก to read ใช้ร่วมกับ discuss และ revise ได้"
+      },
+      {
+        "title": "3. จับคู่ส่วนที่อยู่หลังคำเชื่อมคู่",
+        "body": "ใน not only … but also และ both … and ให้ดูว่าทั้งสองฝั่งเริ่มตรงระดับเดียวกัน ไม่ใช่ฝั่งหนึ่งเป็นสถานที่ อีกฝั่งเป็นการกระทำ",
+        "example": "The placement is both challenging and useful.",
+        "note": "challenging และ useful เป็น adjective ที่ขยาย placement"
+      },
+      {
+        "title": "4. อ่านเพื่อเช็กความหมายอีกครั้ง",
+        "body": "ความขนานเป็นเรื่องของหน้าที่และโครงสร้าง ไม่ใช่แค่ทำคำท้ายให้เหมือนกัน ต้องรักษาความหมายเดิมและใช้คำร่วมได้จริง",
+        "example": "The role involves answering calls and updating records.",
+        "note": "ทั้งสองกิจกรรมขึ้นกับ involves และมีรูป -ing เหมือนกัน"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The team needs patience, accuracy, and curiosity.",
+        "th": "ทีมต้องการความอดทน ความแม่นยำ และความอยากรู้",
+        "note": "รายการประกอบด้วยคำนามสามคำ"
+      },
+      {
+        "en": "I enjoy cycling, swimming, and walking.",
+        "th": "ฉันชอบปั่นจักรยาน ว่ายน้ำ และเดิน",
+        "note": "enjoy รับรูป -ing ทั้งสามรายการ"
+      },
+      {
+        "en": "We hope to learn, to practise, and to improve.",
+        "th": "เราหวังว่าจะเรียนรู้ ฝึกฝน และพัฒนาขึ้น",
+        "note": "จะใส่ to ซ้ำทุกตัวเพื่อเน้นจังหวะก็ได้"
+      },
+      {
+        "en": "We hope to learn, practise, and improve.",
+        "th": "เราหวังว่าจะเรียนรู้ ฝึกฝน และพัฒนาขึ้น",
+        "note": "ใช้ to ร่วมกันได้ จึงไม่ต้องแก้ให้ทุกตัวมี to"
+      },
+      {
+        "en": "The instructions are clear but detailed.",
+        "th": "คำแนะนำชัดเจนแต่ละเอียด",
+        "note": "but เชื่อม adjective สองตัวที่อยู่ระดับเดียวกัน"
+      },
+      {
+        "en": "The trainer explained how to register and where to wait.",
+        "th": "ผู้ฝึกสอนอธิบายวิธีลงทะเบียนและสถานที่รอ",
+        "note": "สองวลีคำถามตามด้วย to-infinitive ทำหน้าที่คู่กัน แม้คำแรกต่างกัน"
+      }
+    ],
+    "traps": [
+      {
+        "title": "to ใช้ร่วมกันได้",
+        "body": "to read and write และ to read and to write ถูกทั้งคู่ อย่าตัดสินว่ารายการผิดเพียงเพราะไม่มี to ซ้ำ",
+        "good": "She wants to study and work abroad.",
+        "source": "purdue-parallel",
+        "contrast": "She wants to study and to work abroad."
+      },
+      {
+        "title": "คำลงท้ายเหมือนกันไม่ได้แปลว่าหน้าที่เหมือนกัน",
+        "body": "ดูว่ารายการตอบคำถามเดียวกันหรือไม่ คำ -ing อาจเป็นกริยาหรือทำหน้าที่แบบคำนามก็ได้ จึงต้องดูประโยคเต็ม",
+        "good": "The job requires planning meetings and writing reports.",
+        "source": "purdue-parallel"
+      },
+      {
+        "title": "ไม่ใช่ว่าทุกอย่างที่เชื่อมด้วย and ต้องเหมือนกันทุกตัว",
+        "body": "คนละอนุประโยคอาจมีโครงสร้างภายในต่างกันได้โดยยังถูกไวยากรณ์ บทนี้เน้นรายการที่ทำหน้าที่เท่ากันและต้องการความขนาน",
+        "good": "I finished the report, and the printer was ready.",
+        "source": "purdue-parallel"
+      },
+      {
+        "title": "วางคู่คำเชื่อมให้ครอบส่วนที่จับคู่จริง",
+        "body": "ถ้าจะจับคู่กริยา วาง not only หน้ากริยาแรกและ but also หน้ากริยาที่สอง เพื่อลดความกำกวม",
+        "good": "The app not only saves time but also reduces errors.",
+        "source": "purdue-parallel"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "parallel-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เติมรายการหลัง enjoy ให้มีรูปเดียวกัน",
+        "sentence": "I enjoy reading, sketching, and ___.",
+        "answers": [
+          "cooking"
+        ],
+        "hints": [
+          "ดูรูปของสองรายการแรก",
+          "enjoy ตามด้วยรูปใด"
+        ],
+        "explanation": "enjoy รับรูป -ing และรายการเดิมใช้ reading, sketching",
+        "focus": "รายการ -ing",
+        "options": [
+          "to cook",
+          "cooking",
+          "cook"
+        ],
+        "wrong": {
+          "to cook": "ไม่ใช่รูปที่ enjoy รับในรายการนี้",
+          "cook": "รูปกริยาเปล่าไม่ขนานกับ reading และ sketching"
+        }
+      },
+      {
+        "id": "parallel-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือก adjective ให้ขนานกัน",
+        "sentence": "The handbook is concise and ___.",
+        "answers": [
+          "useful"
+        ],
+        "hints": [
+          "concise เป็นคำชนิดใด",
+          "ทั้งสองคำบรรยาย handbook"
+        ],
+        "explanation": "concise กับ useful เป็น adjective ที่บรรยาย handbook",
+        "focus": "รายการ adjective",
+        "options": [
+          "useful",
+          "usefully",
+          "use"
+        ],
+        "wrong": {
+          "usefully": "เป็น adverb ไม่ขนานกับ concise",
+          "use": "เป็นคำนามหรือกริยา ไม่ใช่ adjective ที่ต้องการ"
+        }
+      },
+      {
+        "id": "parallel-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมรูป -ing ของ check ให้ขนานกับ filing",
+        "sentence": "The assistant is responsible for filing letters and ___ invoices.",
+        "answers": [
+          "checking"
+        ],
+        "hints": [
+          "for ตามด้วยกลุ่มกิจกรรม",
+          "เปลี่ยน check เป็น -ing"
+        ],
+        "explanation": "for ครอบรายการ filing letters กับ checking invoices ซึ่งใช้รูป -ing เหมือนกัน",
+        "focus": "รายการหลังบุพบท"
+      },
+      {
+        "id": "parallel-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "เปลี่ยนเฉพาะ to swim เป็นรูป -ing คงคำอื่นไว้",
+        "sentence": "I like jogging and to swim.",
+        "answers": [
+          "I like jogging and swimming."
+        ],
+        "hints": [
+          "รายการแรกคือ jogging",
+          "แทนสองคำที่ระบุด้วย swimming"
+        ],
+        "explanation": "like ใช้ได้ทั้ง -ing และ to-infinitive แต่โจทย์นี้ฝึกรายการที่ใช้ -ing ให้ขนานกัน",
+        "focus": "ทำรายการให้สม่ำเสมอ"
+      },
+      {
+        "id": "parallel-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกรูปที่ใช้ to ร่วมกับ save ได้",
+        "sentence": "We need to save money and ___ costs.",
+        "answers": [
+          "reduce"
+        ],
+        "hints": [
+          "มอง to ที่อยู่ก่อน save",
+          "กริยาหลัง and ใช้รูปเดิมได้"
+        ],
+        "explanation": "to ใช้ร่วมกับ save และ reduce ได้ จึงใช้กริยารูปเดิม",
+        "focus": "ใช้ to ร่วมกัน",
+        "options": [
+          "reducing",
+          "reduce",
+          "reduced"
+        ],
+        "wrong": {
+          "reducing": "ไม่ขนานกับ to save ในรายการเป้าหมาย",
+          "reduced": "เป็นรูปอดีตหรือ participle ไม่ใช่ infinitive"
+        }
+      },
+      {
+        "id": "parallel-06",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคู่ที่เป็นคำนามเหมือนกัน",
+        "sentence": "The role requires confidence and ___.",
+        "answers": [
+          "patience"
+        ],
+        "hints": [
+          "confidence เป็นคำนาม",
+          "เลือกคำที่หมายถึงความอดทน"
+        ],
+        "explanation": "confidence และ patience เป็นคำนามที่เป็นกรรมของ requires",
+        "focus": "รายการคำนาม",
+        "options": [
+          "communicate",
+          "patience",
+          "patiently"
+        ],
+        "wrong": {
+          "communicate": "เป็นกริยา ไม่ใช่คำนามในรายการนี้",
+          "patiently": "เป็น adverb ไม่ใช่สิ่งที่ role requires"
+        }
+      },
+      {
+        "id": "parallel-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปเดิมของ revise หลัง to ที่ใช้ร่วมกัน",
+        "sentence": "The class aims to analyse evidence and ___ conclusions.",
+        "answers": [
+          "revise"
+        ],
+        "hints": [
+          "to อยู่หน้ารายการแล้ว",
+          "ใช้ revise รูปเดิม"
+        ],
+        "explanation": "to ครอบทั้ง analyse และ revise จึงไม่เติม -ing หรือ -s",
+        "focus": "infinitive ขนานกัน"
+      },
+      {
+        "id": "parallel-08",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมคำนามจาก accurate ให้ขนานกับ speed",
+        "sentence": "This exercise tests speed and ___.",
+        "answers": [
+          "accuracy"
+        ],
+        "hints": [
+          "ช่องว่างหมายถึงความแม่นยำ",
+          "accurate เป็น adjective ต้องเปลี่ยนรูป"
+        ],
+        "explanation": "ต้องการคำนาม accuracy เพื่อเป็นรายการคู่กับ speed",
+        "focus": "คำนามขนานกัน"
+      },
+      {
+        "id": "parallel-09",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "เปลี่ยนเฉพาะ carefully เป็น careful ให้เป็น adjective คู่กับ calm",
+        "sentence": "The driver was calm and carefully.",
+        "answers": [
+          "The driver was calm and careful."
+        ],
+        "hints": [
+          "กำลังบรรยายตัว driver",
+          "เปลี่ยนคำเดียวตามโจทย์"
+        ],
+        "explanation": "was เชื่อมประธานกับคุณสมบัติ calm และ careful ไม่ได้ขยายการขับด้วย adverb",
+        "focus": "adjective หลัง be"
+      },
+      {
+        "id": "parallel-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงคำ เริ่มด้วย She และจับคู่กริยาหลัง not only / but also",
+        "sentence": "She / not only / plans / lessons / but also / checks / homework.",
+        "answers": [
+          "She not only plans lessons but also checks homework."
+        ],
+        "hints": [
+          "เริ่มด้วย She not only",
+          "จับ plans lessons คู่กับ checks homework"
+        ],
+        "explanation": "not only และ but also อยู่หน้ากริยา plans กับ checks ที่ทำหน้าที่คู่กัน",
+        "focus": "คู่คำเชื่อม",
+        "tokens": [
+          "She",
+          "not only",
+          "plans",
+          "lessons",
+          "but also",
+          "checks",
+          "homework."
+        ]
+      },
+      {
+        "id": "parallel-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่ใช้ infinitive สองรายการได้ถูกต้อง",
+        "sentence": "",
+        "answers": [
+          "We hope to travel and to learn."
+        ],
+        "hints": [
+          "hope ตามด้วย to-infinitive",
+          "to ซ้ำได้ ไม่จำเป็นต้องตัด"
+        ],
+        "explanation": "hope ตามด้วย to-infinitive และสามารถใส่ to ซ้ำในรายการได้",
+        "focus": "เลือกโครงที่คำหลักรับ",
+        "options": [
+          "We hope to travel and learning.",
+          "We hope to travel and to learn.",
+          "We hope travelling and to learn."
+        ],
+        "wrong": {
+          "We hope to travel and learning.": "learning ไม่ขนานกับ to travel",
+          "We hope travelling and to learn.": "hope ไม่รับ travelling เป็นกรรมโดยตรงในโครงนี้"
+        }
+      },
+      {
+        "id": "parallel-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูป -ing ของ write ให้เป็นกิจกรรมคู่กับ editing",
+        "sentence": "The internship involves editing captions and ___ summaries.",
+        "answers": [
+          "writing"
+        ],
+        "hints": [
+          "ดู editing ที่เป็นรายการแรก",
+          "write ตัด e ก่อนเติม -ing"
+        ],
+        "explanation": "involves รับกิจกรรมรูป -ing สองรายการ writing ตัด e ของ write ก่อนเติม -ing",
+        "focus": "กิจกรรมขนานกัน"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคแนะนำงานหรือชมรม ใช้รายการกิจกรรม 3 อย่างในประโยคหนึ่ง และคู่ adjective ในอีกประโยคหนึ่ง",
+      "model": "Our media club practises interviewing, filming, and editing. The sessions are friendly and practical.",
+      "translation": "ชมรมสื่อของเราฝึกสัมภาษณ์ ถ่ายวิดีโอ และตัดต่อ กิจกรรมมีบรรยากาศเป็นมิตรและนำไปใช้ได้จริง",
+      "checklist": [
+        "รายการสามส่วนอยู่ระดับเดียวกัน",
+        "รูปคำเข้ากับกริยาหลัก",
+        "คู่ adjective บรรยายสิ่งเดียวกันได้"
+      ]
+    },
+    "sources": [
+      "purdue-parallel"
+    ]
+  },
+  {
+    "id": "modals",
+    "number": 17,
+    "title": "Modal verbs",
+    "thaiTitle": "บอกความสามารถ หน้าที่ และความเป็นไปได้ให้ตรง",
+    "group": "ความหมายและความแม่นยำ",
+    "minutes": 22,
+    "outcome": "เลือก modal ตามความหมาย แยกข้อห้ามกับไม่จำเป็น และใช้รูปกริยาหลัง modal ได้ถูกต้อง",
+    "memory": "เลือกความหมายก่อน แล้วตามด้วยกริยารูปเดิม",
+    "why": "เปลี่ยน modal เพียงคำเดียวอาจเปลี่ยนคำแนะนำเป็นคำสั่ง หรือเปลี่ยนสิ่งที่ไม่จำเป็นเป็นข้อห้าม",
+    "steps": [
+      {
+        "title": "1. ตัดสินว่าต้องการสื่ออะไร",
+        "body": "แยกความสามารถ การอนุญาต คำแนะนำ ความจำเป็น และความเป็นไปได้ อย่าแปล modal ทุกตัวว่า สามารถ",
+        "example": "You should check the platform number.",
+        "note": "should ในที่นี้เป็นคำแนะนำ ไม่ใช่การยืนยันความสามารถ"
+      },
+      {
+        "title": "2. ใช้กริยารูปเดิมหลัง modal หลัก",
+        "body": "can, could, may, might, must, should และ will ตามด้วยกริยารูปเดิมโดยไม่มี to; ไม่เติม -s ตามประธาน",
+        "example": "She can repair the screen.",
+        "note": "can ไม่เปลี่ยนตาม she และ repair ไม่เติม -s"
+      },
+      {
+        "title": "3. แยกปฏิเสธให้ตรงความหมาย",
+        "body": "must not หมายถึงห้าม ส่วน do not have to หมายถึงไม่จำเป็น ทำก็ได้ถ้าไม่มีข้อห้ามอื่น",
+        "example": "You must not park here. You do not have to pay online.",
+        "note": "ประโยคแรกห้ามจอด ประโยคที่สองบอกว่าจ่ายออนไลน์ไม่ใช่สิ่งจำเป็น"
+      },
+      {
+        "title": "4. ใช้บริบทช่วยเลือกเวลาและน้ำเสียง",
+        "body": "have to เปลี่ยนรูปเป็น had to เพื่อเล่าความจำเป็นในอดีต; may หรือ might ใช้บอกสิ่งที่ยังไม่แน่ใจ ส่วน could ใช้ขออย่างสุภาพได้",
+        "example": "We had to take a taxi yesterday.",
+        "note": "ความจำเป็นเกิดเมื่อวาน จึงใช้ had to ไม่ใช่ must เพื่อเล่าภาระในอดีต"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The new tutor can explain the method clearly.",
+        "th": "ติวเตอร์คนใหม่อธิบายวิธีนี้ได้ชัดเจน",
+        "note": "can บอกความสามารถ ตามด้วย explain"
+      },
+      {
+        "en": "Could you move your bag, please?",
+        "th": "ช่วยขยับกระเป๋าของคุณหน่อยได้ไหม",
+        "note": "could ในคำขอนี้ทำให้น้ำเสียงสุภาพ ไม่ได้หมายถึงอดีต"
+      },
+      {
+        "en": "You should keep a copy of the receipt.",
+        "th": "คุณควรเก็บสำเนาใบเสร็จไว้",
+        "note": "should ให้คำแนะนำ"
+      },
+      {
+        "en": "Visitors must not enter the laboratory alone.",
+        "th": "ผู้มาเยือนห้ามเข้าห้องปฏิบัติการตามลำพัง",
+        "note": "must not เป็นข้อห้าม"
+      },
+      {
+        "en": "We do not have to wear uniforms on Friday.",
+        "th": "วันศุกร์เราไม่จำเป็นต้องใส่เครื่องแบบ",
+        "note": "ไม่จำเป็นไม่ได้แปลว่าห้ามใส่"
+      },
+      {
+        "en": "The delivery might arrive before noon.",
+        "th": "ของที่ส่งอาจมาถึงก่อนเที่ยง",
+        "note": "might แสดงความเป็นไปได้ ไม่ได้ยืนยันว่าจะมาถึงแน่"
+      }
+    ],
+    "traps": [
+      {
+        "title": "must not ไม่ใช่ don’t have to",
+        "body": "ปฏิเสธของความจำเป็นกับข้อห้ามมีความหมายต่างกัน เลือกตามกติกาจริง",
+        "good": "You must not share this password.",
+        "source": "bc-modals",
+        "contrast": "You do not have to print the receipt."
+      },
+      {
+        "title": "modal หลักไม่ตามด้วย to แต่มีโครงสร้างอื่นที่ใช้ to",
+        "body": "can go และ should go ไม่มี to; have to go และ ought to go เป็นคนละโครงสร้าง จึงอย่าลบ to ทุกครั้งที่เห็นความหมายว่าควรหรือต้อง",
+        "good": "She should rest, but she has to finish one task first.",
+        "source": "bc-modals"
+      },
+      {
+        "title": "must กับ have to ทับซ้อนกันได้",
+        "body": "ทั้งคู่สื่อความจำเป็นได้ ความต่างเรื่องผู้พูดกำหนดหรือกฎภายนอกเป็นแนวโน้ม ไม่ใช่กฎตายตัว ในอดีตของหน้าที่ใช้ had to",
+        "good": "We had to show our tickets at the gate.",
+        "source": "bc-modals"
+      },
+      {
+        "title": "must ยังใช้อนุมานได้",
+        "body": "must ในการคาดคะเนแปลว่าผู้พูดมีเหตุผลเชื่ออย่างมาก ไม่ใช่คำสั่ง เช่น must be ไม่ได้สั่งให้ใครเป็นอะไร",
+        "good": "The lights are off; the office must be closed.",
+        "source": "bc-modals"
+      },
+      {
+        "title": "may กับ might ไม่ได้มีเปอร์เซ็นต์ตายตัว",
+        "body": "ทั้งสองบอกความเป็นไปได้ ระดับความมั่นใจขึ้นกับบริบทและน้ำเสียง อย่าใช้ข้อสอบให้เดาเปอร์เซ็นต์จากคำอย่างเดียว",
+        "good": "The meeting may finish early.",
+        "source": "bc-modals",
+        "contrast": "The meeting might finish early."
+      }
+    ],
+    "exercises": [
+      {
+        "id": "modals-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกกริยารูปที่ถูกหลัง can",
+        "sentence": "She can ___ this route on a map.",
+        "answers": [
+          "find"
+        ],
+        "hints": [
+          "can เป็น modal หลัก",
+          "ใช้กริยารูปเดิมโดยไม่มี to"
+        ],
+        "explanation": "can ตามด้วยกริยารูปเดิม find แม้ประธานเป็น she",
+        "focus": "รูปกริยาหลัง modal",
+        "options": [
+          "finds",
+          "to find",
+          "find"
+        ],
+        "wrong": {
+          "finds": "ไม่เติม -s หลังกริยา modal",
+          "to find": "can ไม่ตามด้วย to-infinitive"
+        }
+      },
+      {
+        "id": "modals-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "กฎห้ามถ่ายรูป เลือกคำที่ตรงความหมาย",
+        "sentence": "You ___ take photographs in this room.",
+        "answers": [
+          "must not"
+        ],
+        "hints": [
+          "คำสำคัญคือ ห้าม",
+          "ไม่จำเป็น กับ ห้าม ต่างกัน"
+        ],
+        "explanation": "โจทย์ระบุข้อห้าม จึงใช้ must not",
+        "focus": "ข้อห้าม",
+        "options": [
+          "must not",
+          "do not have to",
+          "might"
+        ],
+        "wrong": {
+          "do not have to": "แปลว่าไม่จำเป็น ไม่ได้ห้าม",
+          "might": "บอกความเป็นไปได้ ไม่ใช่ข้อห้าม"
+        }
+      },
+      {
+        "id": "modals-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมรูปเดิมของ bring หลัง should",
+        "sentence": "You should ___ a reusable bottle.",
+        "answers": [
+          "bring"
+        ],
+        "hints": [
+          "should ตามด้วยกริยารูปใด",
+          "ไม่ต้องเติม to"
+        ],
+        "explanation": "should ตามด้วย bring รูปเดิมเพื่อให้คำแนะนำ",
+        "focus": "คำแนะนำ"
+      },
+      {
+        "id": "modals-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "เปลี่ยนเฉพาะ must เป็น had to ให้เป็นหน้าที่ในอดีต",
+        "sentence": "We must leave early yesterday.",
+        "answers": [
+          "We had to leave early yesterday."
+        ],
+        "hints": [
+          "yesterday บอกอดีต",
+          "แทน must ด้วย had to ตามโจทย์"
+        ],
+        "explanation": "had to ใช้เล่าความจำเป็นที่เกิดเมื่อวาน ไม่ใช่การอนุมานเกี่ยวกับอดีต",
+        "focus": "หน้าที่ในอดีต"
+      },
+      {
+        "id": "modals-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "กิจกรรมนี้เป็นทางเลือก ไม่จำเป็นต้องเข้าร่วม เลือกให้ตรง",
+        "sentence": "You ___ attend the extra session.",
+        "answers": [
+          "do not have to"
+        ],
+        "hints": [
+          "optional หมายถึงเลือกได้",
+          "ตัดคำที่เป็นข้อห้ามหรือข้อบังคับ"
+        ],
+        "explanation": "do not have to บอกว่าไม่มีภาระจำเป็น จะเข้าร่วมก็ได้",
+        "focus": "ไม่จำเป็น",
+        "options": [
+          "must not",
+          "do not have to",
+          "must"
+        ],
+        "wrong": {
+          "must not": "จะกลายเป็นห้ามเข้าร่วม",
+          "must": "จะกลายเป็นต้องเข้าร่วม"
+        }
+      },
+      {
+        "id": "modals-06",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือก modal ที่เข้ากับคำขอสุภาพนี้",
+        "sentence": "___ you open the window, please?",
+        "answers": [
+          "Could"
+        ],
+        "hints": [
+          "ประโยคมี please",
+          "ใช้ Could you ตามด้วยกริยารูปเดิม"
+        ],
+        "explanation": "Could you …? เป็นรูปคำขอสุภาพที่ใช้ทั่วไป",
+        "focus": "คำขอสุภาพ",
+        "options": [
+          "Could",
+          "Must not",
+          "Should to"
+        ],
+        "wrong": {
+          "Must not": "เป็นรูปห้าม ไม่ใช่โครงคำขอนี้",
+          "Should to": "should ไม่ตามด้วย to และไม่ใช้เป็นคำเปิดเช่นนี้"
+        }
+      },
+      {
+        "id": "modals-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปของ have ให้ตรงกับ she ในหน้าที่ปัจจุบัน",
+        "sentence": "She ___ to wear a helmet at work.",
+        "answers": [
+          "has"
+        ],
+        "hints": [
+          "ประธาน she",
+          "have เปลี่ยนเป็นรูปใด"
+        ],
+        "explanation": "have to ไม่ผันเหมือน modal หลัก เมื่อประธาน she ใน present simple ใช้ has to",
+        "focus": "การผัน have to"
+      },
+      {
+        "id": "modals-08",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปเดิมของ be หลัง might",
+        "sentence": "The library might ___ busy this afternoon.",
+        "answers": [
+          "be"
+        ],
+        "hints": [
+          "busy เป็น adjective",
+          "ต้องใช้ be หลัง might"
+        ],
+        "explanation": "might ตามด้วย be รูปเดิม ไม่ใช่ is หรือ being",
+        "focus": "ความเป็นไปได้"
+      },
+      {
+        "id": "modals-09",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "แก้เฉพาะ can speaks เป็น can speak คงคำอื่นไว้",
+        "sentence": "My colleague can speaks three languages.",
+        "answers": [
+          "My colleague can speak three languages."
+        ],
+        "hints": [
+          "มองคำที่อยู่หลัง can",
+          "ตัด s ของ speaks"
+        ],
+        "explanation": "กริยาหลัง can ไม่เติม -s แม้ประธานเป็นเอกพจน์",
+        "focus": "รูปกริยาหลัง can"
+      },
+      {
+        "id": "modals-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงคำให้เป็นคำแนะนำ เริ่มด้วย You",
+        "sentence": "You / should / check / the weather / before / travelling.",
+        "answers": [
+          "You should check the weather before travelling."
+        ],
+        "hints": [
+          "เริ่ม You should check",
+          "วางก่อนเดินทางไว้ท้ายประโยค"
+        ],
+        "explanation": "should ตามด้วย check ส่วน before travelling บอกว่าควรตรวจเมื่อใด",
+        "focus": "คำแนะนำพร้อมส่วนขยาย",
+        "tokens": [
+          "You",
+          "should",
+          "check",
+          "the weather",
+          "before",
+          "travelling."
+        ]
+      },
+      {
+        "id": "modals-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ผู้พูดเห็นหลักฐานแล้วเชื่อมากว่าเป็นกระเป๋าของ Nina เลือกคำอนุมาน",
+        "sentence": "Her name is on the tag. This ___ be Nina’s bag.",
+        "answers": [
+          "must"
+        ],
+        "hints": [
+          "มีชื่อเป็นหลักฐาน",
+          "ต้องการความเชื่อมั่นเชิงบวก ไม่ใช่คำสั่ง"
+        ],
+        "explanation": "must be ใช้อนุมานอย่างมั่นใจจากป้ายชื่อ ไม่ใช่บังคับให้กระเป๋าเป็นของใคร",
+        "focus": "must เพื่ออนุมาน",
+        "options": [
+          "must",
+          "must not",
+          "does not have to"
+        ],
+        "wrong": {
+          "must not": "ไม่สื่อการอนุมานเชิงบวกที่โจทย์ต้องการ",
+          "does not have to": "แปลว่าไม่จำเป็นต้องเป็น ไม่ตรงความเชื่อมั่นตามหลักฐาน"
+        }
+      },
+      {
+        "id": "modals-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม modal might ตามความหมายว่าอาจ ใช้คำที่โจทย์กำหนด",
+        "sentence": "The timetable ___ change next month.",
+        "answers": [
+          "might"
+        ],
+        "hints": [
+          "โจทย์กำหนดให้ใช้ might",
+          "change เป็นรูปเดิมอยู่แล้ว"
+        ],
+        "explanation": "might change บอกความเป็นไปได้ในอนาคตโดยไม่รับรองว่าจะเปลี่ยน",
+        "focus": "ความเป็นไปได้"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคแนะนำผู้มาใช้ห้องเรียนหรือที่ทำงานใหม่ ให้มีคำแนะนำหนึ่งข้อ ข้อห้ามหนึ่งข้อ และสิ่งที่ไม่จำเป็นหนึ่งอย่าง",
+      "model": "You should save your work regularly. You must not unplug the main server. You do not have to bring your own laptop.",
+      "translation": "คุณควรบันทึกงานเป็นระยะ ห้ามถอดปลั๊กเซิร์ฟเวอร์หลัก คุณไม่จำเป็นต้องนำแล็ปท็อปมาเอง",
+      "checklist": [
+        "ใช้ should สำหรับคำแนะนำ",
+        "ใช้ must not เมื่อเป็นข้อห้ามจริง",
+        "ใช้ do not have to เมื่อทำหรือไม่ทำก็ได้"
+      ]
+    },
+    "sources": [
+      "bc-modals"
+    ]
+  },
+  {
+    "id": "nounphrases",
+    "number": 18,
+    "title": "Noun phrases",
+    "thaiTitle": "หาคำนามหลัก แล้วต่อรายละเอียดรอบตัว",
+    "group": "ความชัดเจนและโครงสร้าง",
+    "minutes": 20,
+    "outcome": "ระบุคำนามหลักในวลียาว จัดคำขยาย และเลือกกริยาโดยไม่หลงคำนามที่อยู่ใกล้กว่า",
+    "memory": "หาแกนก่อน อ่านส่วนขยายทีหลัง",
+    "why": "คำนามหนึ่งคำอาจมีคำขยายหลายชั้น ถ้าเห็นแกนของวลี จะอ่านประโยคยาวและเขียนรายละเอียดได้แม่นขึ้น",
+    "steps": [
+      {
+        "title": "1. หาคำที่บอกว่าพูดถึงอะไร",
+        "body": "ในกลุ่มคำนาม ให้ถามว่าทั้งกลุ่มหมายถึงคน สิ่งของ หรือเรื่องอะไร คำนั้นมักเป็นคำนามหลัก",
+        "example": "The small desk near the window is empty.",
+        "note": "ทั้งกลุ่มหมายถึง desk ไม่ใช่ window"
+      },
+      {
+        "title": "2. อ่านคำหน้าคำนามหลัก",
+        "body": "คำกำหนด เช่น the หรือ our ตามด้วยจำนวนและคำขยายตามความเหมาะสม คำนามอีกคำก็ขยายคำนามหลักได้",
+        "example": "Our two new science teachers arrived today.",
+        "note": "teachers เป็นแกน; our, two, new และ science เพิ่มข้อมูล"
+      },
+      {
+        "title": "3. ต่อรายละเอียดหลังคำนาม",
+        "body": "ใช้บุพบทวลีหรือ relative clause เพื่อบอกว่าคนหรือสิ่งไหน ไม่ต้องยัดรายละเอียดทั้งหมดไว้ข้างหน้า",
+        "example": "The student with the green folder is waiting.",
+        "note": "with the green folder ขยาย student และช่วยระบุตัว"
+      },
+      {
+        "title": "4. ตรวจแกนเมื่อเลือกกริยา",
+        "body": "ถ้ากลุ่มคำนามเป็นประธาน ให้ดูจำนวนของคำนามหลักในโครงทั่วไป อย่าให้คำนามในบุพบทวลีหลอกตา",
+        "example": "The box of spare cables is under the desk.",
+        "note": "box เป็นเอกพจน์ จึงใช้ is แม้ cables เป็นพหูพจน์"
+      }
+    ],
+    "examples": [
+      {
+        "en": "A quiet study room is available upstairs.",
+        "th": "มีห้องอ่านหนังสือเงียบ ๆ ว่างอยู่ชั้นบน",
+        "note": "room เป็นแกน; quiet และ study ขยาย room"
+      },
+      {
+        "en": "Those three blue folders belong to the office.",
+        "th": "แฟ้มสีน้ำเงินสามเล่มนั้นเป็นของสำนักงาน",
+        "note": "Those, three และ blue อยู่หน้าคำนามหลัก folders"
+      },
+      {
+        "en": "The woman at the reception desk can help.",
+        "th": "ผู้หญิงที่โต๊ะประชาสัมพันธ์ช่วยได้",
+        "note": "at the reception desk ขยาย woman"
+      },
+      {
+        "en": "The email that arrived this morning contains the link.",
+        "th": "อีเมลที่มาถึงเช้านี้มีลิงก์อยู่",
+        "note": "that arrived this morning ขยาย email ซึ่งเป็นประธานเอกพจน์"
+      },
+      {
+        "en": "A two-week training course starts on Monday.",
+        "th": "หลักสูตรอบรมสองสัปดาห์เริ่มวันจันทร์",
+        "note": "course เป็นแกน; two-week เป็นคำขยายหน้าคำนาม ใช้ week รูปเอกพจน์"
+      },
+      {
+        "en": "The students in the front row are taking notes.",
+        "th": "นักเรียนแถวหน้ากำลังจดบันทึก",
+        "note": "students เป็นแกนพหูพจน์ จึงใช้ are ไม่ตาม row"
+      }
+    ],
+    "traps": [
+      {
+        "title": "คำนามใกล้กริยาอาจไม่ใช่แกน",
+        "body": "ใน the list of rooms แกนคือ list ส่วน of rooms เป็นส่วนขยาย ใช้กริยาตาม list ในโครงนี้ ไม่ใช่ตามคำที่อยู่ใกล้กว่า",
+        "good": "The list of rooms is on the wall.",
+        "source": "cam-nounphrases"
+      },
+      {
+        "title": "คำนามขยายคำนามมักเป็นเอกพจน์ แต่ไม่เสมอ",
+        "body": "bus stop และ shoe shop ใช้คำนามรูปเอกพจน์นำหน้า แต่มีวลีใช้จริงอย่าง sports centre และ sales team จึงควรตรวจคำที่ใช้คู่กัน ไม่ตัด s ทุกคำ",
+        "good": "The sports centre has a new bus stop.",
+        "source": "cam-nounphrases"
+      },
+      {
+        "title": "ตัวเลขกับหน่วยที่เป็นคำขยายต่างจากหน่วยหลัง be",
+        "body": "ก่อนคำนามมักใช้รูปเชื่อมด้วยยัติภังค์และหน่วยเอกพจน์ เช่น a five-minute walk; เมื่อบอกระยะเวลาโดยตรงใช้ five minutes",
+        "good": "It is a five-minute walk to the station.",
+        "source": "cam-nounphrases",
+        "contrast": "The walk takes five minutes."
+      },
+      {
+        "title": "คำกำหนดบางชนิดใช้ซ้อนกันตรง ๆ ไม่ได้",
+        "body": "ไม่ใช้ the my desk ในอังกฤษมาตรฐาน เลือก my desk หรือใช้โครงอื่น เช่น the desk near mine; แต่ all my notes ใช้ได้ จึงไม่ใช่ว่าทุกวลีมีคำกำหนดได้เพียงหนึ่งคำเสมอ",
+        "good": "All my notes are in this folder.",
+        "source": "cam-nounphrases"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "nounphrases-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำนามหลักของกลุ่มประธาน",
+        "sentence": "The bag of library books is heavy.",
+        "answers": [
+          "bag"
+        ],
+        "hints": [
+          "ถามว่าสิ่งใดหนัก",
+          "ตัด of library books ออกชั่วคราว"
+        ],
+        "explanation": "ทั้งกลุ่มพูดถึงกระเป๋าหนึ่งใบ of library books ขยายว่าข้างในมีอะไร",
+        "focus": "หาคำนามหลัก",
+        "options": [
+          "bag",
+          "library",
+          "books"
+        ],
+        "wrong": {
+          "library": "เป็นคำขยาย books อยู่ในบุพบทวลี",
+          "books": "อยู่ในส่วนขยาย of library books ไม่ใช่แกนของประธาน"
+        }
+      },
+      {
+        "id": "nounphrases-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกกริยาตามคำนามหลัก",
+        "sentence": "The keys on the kitchen table ___ missing.",
+        "answers": [
+          "are"
+        ],
+        "hints": [
+          "พักส่วน on the kitchen table ไว้ก่อน",
+          "keys เป็นเอกพจน์หรือพหูพจน์"
+        ],
+        "explanation": "keys เป็นแกนพหูพจน์ ส่วน table อยู่ในวลีขยาย",
+        "focus": "แกนประธานกับกริยา",
+        "options": [
+          "is",
+          "are",
+          "be"
+        ],
+        "wrong": {
+          "is": "ถูกหลอกโดย table ซึ่งไม่ใช่แกนประธาน",
+          "be": "ไม่ใช่รูปกริยาปัจจุบันที่ใช้เดี่ยว ๆ กับประธานนี้"
+        }
+      },
+      {
+        "id": "nounphrases-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมรูปของ minute ให้เป็นคำขยายหน้าคำนาม",
+        "sentence": "We booked a thirty-___ appointment.",
+        "answers": [
+          "minute"
+        ],
+        "hints": [
+          "หน่วยนี้อยู่ก่อนคำนามหลัก",
+          "ใช้รูปเอกพจน์ของหน่วย"
+        ],
+        "explanation": "คำขยายจำนวนกับหน่วยก่อน appointment ใช้ minute เอกพจน์ใน thirty-minute",
+        "focus": "หน่วยในคำขยาย"
+      },
+      {
+        "id": "nounphrases-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "ลบเฉพาะ the ที่อยู่หน้า my คงคำอื่นไว้",
+        "sentence": "The my desk is near the door.",
+        "answers": [
+          "My desk is near the door."
+        ],
+        "hints": [
+          "มองคำกำหนดสองตัวที่ชนกัน",
+          "ลบ The แล้วขึ้นต้น My ด้วยตัวใหญ่"
+        ],
+        "explanation": "my กำหนดเจ้าของ desk ได้แล้ว ไม่วาง the ตรงหน้า my และเมื่อ my ขึ้นต้นประโยคต้องใช้ My",
+        "focus": "คำกำหนดหน้าคำนาม"
+      },
+      {
+        "id": "nounphrases-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "คำใดเป็นคำนามหลักของกลุ่มประธานในประโยคนี้",
+        "sentence": "The new science teacher from Canada starts tomorrow.",
+        "answers": [
+          "teacher"
+        ],
+        "hints": [
+          "ใครเป็นผู้เริ่มงาน",
+          "ตัดคำขยายออกแล้วเหลือ The teacher"
+        ],
+        "explanation": "กำลังบอกว่าครูเริ่มงาน ส่วน new, science และ from Canada ขยาย teacher",
+        "focus": "แกนในวลียาว",
+        "options": [
+          "science",
+          "teacher",
+          "Canada"
+        ],
+        "wrong": {
+          "science": "บอกสาขาของ teacher",
+          "Canada": "เป็นชื่อสถานที่ในส่วนขยาย from Canada"
+        }
+      },
+      {
+        "id": "nounphrases-06",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกวลีมาตรฐานที่ใช้คำกำหนดถูกต้อง",
+        "sentence": "___ are on the shelf.",
+        "answers": [
+          "These two manuals"
+        ],
+        "hints": [
+          "manuals เป็นพหูพจน์",
+          "these ใช้ร่วมกับจำนวนได้"
+        ],
+        "explanation": "These ใช้กับคำนามพหูพจน์ และ two บอกจำนวนได้",
+        "focus": "คำกำหนดและจำนวน",
+        "options": [
+          "These two manuals",
+          "The my manuals",
+          "A manuals"
+        ],
+        "wrong": {
+          "The my manuals": "the กับ my ไม่ซ้อนกันตรง ๆ เช่นนี้",
+          "A manuals": "a ใช้กับคำนามนับได้เอกพจน์ ไม่ใช่ manuals"
+        }
+      },
+      {
+        "id": "nounphrases-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม is หรือ are ตามแกนประธาน",
+        "sentence": "The roof of the old classrooms ___ damaged.",
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "หาคำนามที่อยู่ก่อน of",
+          "ประธานหลักคือ roof"
+        ],
+        "explanation": "roof เป็นเอกพจน์ ส่วน classrooms อยู่ในวลี of the old classrooms",
+        "focus": "อย่าผันตามคำนามใกล้สุด"
+      },
+      {
+        "id": "nounphrases-08",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปของ week หลัง lasts ให้ถูกจำนวน",
+        "sentence": "The course lasts six ___.",
+        "answers": [
+          "weeks"
+        ],
+        "hints": [
+          "ไม่มีคำนามหลักตามหลังหน่วยนี้",
+          "six มากกว่าหนึ่ง"
+        ],
+        "explanation": "หลัง lasts กำลังบอกระยะเวลา ไม่ใช่คำขยายหน้าคำนาม six จึงตามด้วย weeks พหูพจน์",
+        "focus": "หน่วยบอกระยะเวลา"
+      },
+      {
+        "id": "nounphrases-09",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "เปลี่ยนเฉพาะ books เป็น book ในคำขยาย shop คงคำอื่นไว้",
+        "sentence": "The books shop opens at nine.",
+        "answers": [
+          "The book shop opens at nine."
+        ],
+        "hints": [
+          "shop เป็นคำนามหลัก",
+          "ใช้ book รูปเอกพจน์ในวลีนี้"
+        ],
+        "explanation": "ในคำเรียกชนิดร้านนี้ใช้ book เป็นคำนามขยาย shop; bookshop ที่เขียนติดกันก็ใช้ได้ แต่แบบฝึกนี้ให้แก้เฉพาะคำ",
+        "focus": "คำนามขยายคำนาม"
+      },
+      {
+        "id": "nounphrases-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงคำ เริ่มด้วย The small office แล้วตามด้วยส่วนขยายสถานที่",
+        "sentence": "The small office / beside / the lift / is / empty.",
+        "answers": [
+          "The small office beside the lift is empty."
+        ],
+        "hints": [
+          "ส่วน beside the lift บอกว่า office ไหน",
+          "กริยาหลักคือ is"
+        ],
+        "explanation": "beside the lift ขยาย office และวางก่อนกริยา is ของประโยคหลัก",
+        "focus": "ขยายหลังคำนาม",
+        "tokens": [
+          "The small office",
+          "beside",
+          "the lift",
+          "is",
+          "empty."
+        ]
+      },
+      {
+        "id": "nounphrases-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำหลักที่กำหนด are ในประโยคนี้",
+        "sentence": "The notices on the classroom door are outdated.",
+        "answers": [
+          "notices"
+        ],
+        "hints": [
+          "ส่วน on… ใช้บอกสถานที่",
+          "สิ่งที่ล้าสมัยคืออะไร"
+        ],
+        "explanation": "notices เป็นประธานพหูพจน์ ส่วน on the classroom door บอกตำแหน่ง",
+        "focus": "ขอบเขตของวลีประธาน",
+        "options": [
+          "classroom",
+          "door",
+          "notices"
+        ],
+        "wrong": {
+          "classroom": "เป็นคำนามขยาย door ไม่ใช่แกนประธาน",
+          "door": "อยู่ในบุพบทวลีขยาย notices"
+        }
+      },
+      {
+        "id": "nounphrases-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปของ day ในคำขยายหน้าคำนาม",
+        "sentence": "They organised a three-___ workshop.",
+        "answers": [
+          "day"
+        ],
+        "hints": [
+          "workshop เป็นคำนามหลัก",
+          "หน่วยในคำขยายใช้รูปเอกพจน์"
+        ],
+        "explanation": "three-day เป็นคำขยาย workshop จึงใช้ day รูปเอกพจน์",
+        "focus": "จำนวนและหน่วยหน้าคำนาม"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 2–3 ประโยคบรรยายพื้นที่เรียนหรือที่ทำงาน ใช้กลุ่มคำนามที่มีคำขยายหน้าแกนหนึ่งกลุ่ม และส่วนขยายหลังแกนหนึ่งกลุ่ม",
+      "model": "Our new computer room opens at eight. The desks near the windows are reserved for group work. A two-hour workshop takes place there on Friday.",
+      "translation": "ห้องคอมพิวเตอร์ใหม่ของเราเปิดแปดโมง โต๊ะใกล้หน้าต่างกันไว้สำหรับงานกลุ่ม วันศุกร์มีเวิร์กช็อปสองชั่วโมงที่นั่น",
+      "checklist": [
+        "ระบุแกนของแต่ละวลีได้",
+        "กริยาตรงกับแกนประธาน",
+        "คำขยายทำให้ภาพชัดขึ้นโดยไม่ยาวเกินไป"
+      ]
+    },
+    "sources": [
+      "cam-nounphrases"
+    ]
+  },
+  {
+    "id": "quantifiers",
+    "number": 19,
+    "title": "Quantifiers",
+    "thaiTitle": "บอกปริมาณให้ตรงชนิดคำนามและเจตนา",
+    "group": "ความหมายและความแม่นยำ",
+    "minutes": 22,
+    "outcome": "เลือก many/much, few/little, some/any และ fewer/less โดยดูชนิดคำนามและความหมายในบริบท",
+    "memory": "นับชิ้นหรือวัดรวม แล้วถามว่าพอหรือขาด",
+    "why": "คำบอกปริมาณไม่เพียงบอกมากน้อย แต่ยังบอกมุมมองว่ามีน้อยจนขาดหรือยังพอมีอยู่",
+    "steps": [
+      {
+        "title": "1. แยกนามนับได้กับนับไม่ได้",
+        "body": "ถ้านับเป็นชิ้นโดยตรงใช้ many, a few หรือ few กับรูปพหูพจน์ ถ้ามองเป็นปริมาณรวมใช้ much, a little หรือ little",
+        "example": "We have many chairs but not much space.",
+        "note": "chairs นับเป็นตัวได้ ส่วน space ในความหมายพื้นที่มองเป็นปริมาณรวม"
+      },
+      {
+        "title": "2. ฟังความต่างของ a",
+        "body": "a few และ a little มักสื่อว่ามีอยู่บ้าง ส่วน few และ little มักเน้นว่ามีน้อยหรือไม่พอ แต่ข้อสรุปว่าพอหรือไม่ยังขึ้นกับบริบท",
+        "example": "We have a little time, so let’s check one example.",
+        "note": "a little เปิดมุมบวกว่ามีเวลาบ้าง ไม่ได้แปลว่ามาก"
+      },
+      {
+        "title": "3. เลือก some กับ any จากหน้าที่ประโยค",
+        "body": "some พบมากในคำบอกเล่า ส่วน any พบมากในคำถามและปฏิเสธ แต่คำเสนอหรือคำขออาจใช้ some และ any ในบอกเล่าอาจแปลว่าอันไหนก็ได้",
+        "example": "Would you like some water?",
+        "note": "นี่คือคำเสนอ จึงใช้ some ได้แม้เป็นคำถาม"
+      },
+      {
+        "title": "4. เปรียบเทียบด้วย fewer หรือ less",
+        "body": "โดยทั่วไปใช้ fewer กับสิ่งนับได้พหูพจน์ และ less กับปริมาณนับไม่ได้; less ใช้กับตัวเลขบอกระยะ เวลา เงิน หรือน้ำหนักเมื่อมองเป็นปริมาณรวมได้",
+        "example": "The new route takes less than twenty minutes.",
+        "note": "twenty minutes เป็นช่วงเวลารวม จึงใช้ less than ได้ตามปกติ"
+      }
+    ],
+    "examples": [
+      {
+        "en": "There are many empty seats on this train.",
+        "th": "รถไฟขบวนนี้มีที่นั่งว่างหลายที่",
+        "note": "seats เป็นคำนามนับได้พหูพจน์"
+      },
+      {
+        "en": "We do not have much information yet.",
+        "th": "เรายังมีข้อมูลไม่มาก",
+        "note": "information นับไม่ได้ในความหมายนี้ จึงใช้ much"
+      },
+      {
+        "en": "I have a few questions about the assignment.",
+        "th": "ฉันมีคำถามเกี่ยวกับงานอยู่สองสามข้อ",
+        "note": "a few ตามด้วย questions และสื่อว่ามีอยู่บ้าง"
+      },
+      {
+        "en": "Few students chose the early session.",
+        "th": "มีนักเรียนเลือกช่วงเช้าเพียงไม่กี่คน",
+        "note": "few เน้นว่าจำนวนน้อย ไม่ได้บอกจำนวนแน่นอน"
+      },
+      {
+        "en": "There is little water left in the tank.",
+        "th": "ในถังเหลือน้ำน้อยมาก",
+        "note": "little ใช้กับ water และเน้นความขาดแคลน"
+      },
+      {
+        "en": "The repair cost less than fifty dollars.",
+        "th": "ค่าซ่อมต่ำกว่าห้าสิบดอลลาร์",
+        "note": "dollars เป็นหน่วยนับได้ แต่จำนวนเงินรวมใช้ less than ได้"
+      }
+    ],
+    "traps": [
+      {
+        "title": "few ไม่เหมือน a few และ little ไม่เหมือน a little",
+        "body": "การเพิ่ม a มักเปลี่ยนมุมมองจากแทบไม่มีเป็นมีอยู่บ้าง แต่ a few ไม่รับรองว่าพอสำหรับทุกงาน ต้องอ่านบริบท",
+        "good": "We have a few spare pens, but not enough for everyone.",
+        "source": "cam-quantifiers"
+      },
+      {
+        "title": "some ใช้ในคำถามได้",
+        "body": "คำเสนอและคำขอมักใช้ some เมื่อคาดหวังหรือเปิดรับคำตอบเชิงบวก จึงไม่ใช่กฎว่าคำถามทุกประโยคต้องใช้ any",
+        "good": "Could I have some paper, please?",
+        "source": "cam-quantifiers"
+      },
+      {
+        "title": "less ใช้กับจำนวนหน่วยวัดได้",
+        "body": "less than five years และ less than ten dollars เป็นการใช้มาตรฐานเมื่อมองเป็นระยะเวลาหรือจำนวนเงินรวม ส่วนคนหรือชิ้นแยกกันในงานเขียนทั่วไปใช้ fewer",
+        "good": "The course lasts less than two years.",
+        "source": "cam-quantifiers",
+        "contrast": "Fewer students enrolled this year."
+      },
+      {
+        "title": "much ในประโยคบอกเล่าไม่ผิดเสมอ แต่ต้องดูน้ำเสียง",
+        "body": "ในภาษาทั่วไป a lot of มักเป็นธรรมชาติกว่า much ในบอกเล่าเรียบ ๆ แต่ much ใช้ได้ในบริบททางการหรือเมื่อมี so, too และ as",
+        "good": "The project needs a lot of time.",
+        "source": "cam-quantifiers",
+        "contrast": "We spent too much time on the introduction."
+      },
+      {
+        "title": "any ในบอกเล่าอาจแปลว่าอันไหนก็ได้",
+        "body": "เมื่อให้เลือกได้อย่างเสรี any ใช้ในบอกเล่าได้และมักตามด้วยคำนามเอกพจน์ในความหมายนี้",
+        "good": "You can use any computer in this room.",
+        "source": "cam-quantifiers"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "quantifiers-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำให้ตรงกับคำนามนับได้พหูพจน์",
+        "sentence": "How ___ chairs do we need?",
+        "answers": [
+          "many"
+        ],
+        "hints": [
+          "ดู s ของ chairs",
+          "ถามจำนวนชิ้นใช้ How many"
+        ],
+        "explanation": "chairs นับเป็นตัวได้และเป็นพหูพจน์ จึงใช้ How many",
+        "focus": "many กับนามนับได้",
+        "options": [
+          "much",
+          "many",
+          "little"
+        ],
+        "wrong": {
+          "much": "ใช้ถามปริมาณนับไม่ได้ ไม่ใช่ chairs",
+          "little": "ไม่ใช้ในโครง How little chairs นี้"
+        }
+      },
+      {
+        "id": "quantifiers-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำกับ information ในคำปฏิเสธ",
+        "sentence": "We do not have ___ information.",
+        "answers": [
+          "much"
+        ],
+        "hints": [
+          "information ไม่เติม s ในความหมายนี้",
+          "เลือกคำสำหรับปริมาณรวม"
+        ],
+        "explanation": "information เป็นคำนามนับไม่ได้ในความหมายข้อมูลทั่วไป",
+        "focus": "much กับนามนับไม่ได้",
+        "options": [
+          "many",
+          "much",
+          "a few"
+        ],
+        "wrong": {
+          "many": "ต้องตามด้วยนามนับได้พหูพจน์",
+          "a few": "ใช้กับจำนวนชิ้น ไม่ใช่ information โดยตรง"
+        }
+      },
+      {
+        "id": "quantifiers-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติม few หรือ little ให้ตรงชนิดคำนาม",
+        "sentence": "We have a ___ spare batteries.",
+        "answers": [
+          "few"
+        ],
+        "hints": [
+          "battery นับเป็นก้อนได้",
+          "a อยู่ในประโยคแล้ว เติมเฉพาะ few"
+        ],
+        "explanation": "batteries เป็นคำนามนับได้พหูพจน์ จึงใช้ a few",
+        "focus": "a few กับจำนวนชิ้น"
+      },
+      {
+        "id": "quantifiers-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "เปลี่ยนเฉพาะ many เป็น much คงคำอื่นไว้",
+        "sentence": "There is not many traffic today.",
+        "answers": [
+          "There is not much traffic today."
+        ],
+        "hints": [
+          "traffic ไม่ได้นับตรง ๆ เป็นชิ้น",
+          "แก้คำบอกปริมาณเพียงคำเดียว"
+        ],
+        "explanation": "traffic ในความหมายการจราจรนับไม่ได้ จึงใช้ much ไม่ใช่ many",
+        "focus": "ปริมาณนับไม่ได้"
+      },
+      {
+        "id": "quantifiers-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "ต้องการสื่อว่ามีอาสาสมัครน้อยจนไม่พอ เลือกคำให้ตรงชนิดคำนามและความหมาย",
+        "sentence": "We have ___ volunteers, so we cannot run all the activities.",
+        "answers": [
+          "few"
+        ],
+        "hints": [
+          "volunteers เป็นพหูพจน์",
+          "บริบทบอกว่าจัดครบทุกกิจกรรมไม่ได้"
+        ],
+        "explanation": "few ใช้กับ volunteers และเข้ากับบริบทคนไม่พอ",
+        "focus": "few เน้นความขาดแคลน",
+        "options": [
+          "few",
+          "a little",
+          "much"
+        ],
+        "wrong": {
+          "a little": "ใช้กับนามนับไม่ได้ แต่ volunteers นับได้",
+          "much": "ใช้กับนามนับไม่ได้ ไม่ใช่ volunteers"
+        }
+      },
+      {
+        "id": "quantifiers-06",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำเปรียบเทียบกับเงินที่มองเป็นจำนวนรวม",
+        "sentence": "The ticket costs ___ than ten dollars.",
+        "answers": [
+          "less"
+        ],
+        "hints": [
+          "โจทย์พูดถึงราคา ไม่ใช่จำนวนเหรียญ",
+          "จำนวนเงินรวมใช้ less than ได้"
+        ],
+        "explanation": "less than ใช้กับจำนวนเงินรวม ten dollars ได้ตามมาตรฐาน",
+        "focus": "less กับหน่วยวัดรวม",
+        "options": [
+          "fewer",
+          "less",
+          "few"
+        ],
+        "wrong": {
+          "fewer": "ในที่นี้เปรียบเทียบจำนวนเงินรวม ไม่ใช่จำนวนธนบัตรหรือเหรียญเป็นชิ้น",
+          "few": "few ไม่ใช้ตรงหน้า than ในการเปรียบเทียบนี้"
+        }
+      },
+      {
+        "id": "quantifiers-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม fewer หรือ less สำหรับจำนวนผู้โดยสารเป็นรายคน ตามแนวทางงานเขียนทางการ",
+        "sentence": "There are ___ passengers on the evening bus than on the morning bus.",
+        "answers": [
+          "fewer"
+        ],
+        "hints": [
+          "ไม่ได้วัดปริมาณรวมแบบเวลา",
+          "เปรียบเทียบจำนวนคน"
+        ],
+        "explanation": "passengers เป็นบุคคลนับได้เป็นรายคน งานเขียนทางการมักเลือก fewer; less กับนามนับได้พหูพจน์พบได้ในภาษาพูด แต่ไม่ใช่รูปเป้าหมายของแบบฝึกนี้",
+        "focus": "fewer กับนามนับได้"
+      },
+      {
+        "id": "quantifiers-08",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม little หรือ few หลัง a",
+        "sentence": "Add a ___ milk to the soup.",
+        "answers": [
+          "little"
+        ],
+        "hints": [
+          "milk ไม่ได้นับเป็นชิ้นตรง ๆ",
+          "a อยู่ก่อนช่องว่างแล้ว"
+        ],
+        "explanation": "milk เป็นปริมาณของเหลวนับไม่ได้ จึงใช้ a little",
+        "focus": "a little กับปริมาณรวม"
+      },
+      {
+        "id": "quantifiers-09",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "เปลี่ยนเฉพาะ fewer เป็น less เพื่อบอกระยะเวลารวม คงคำอื่นไว้",
+        "sentence": "The interview lasted fewer than thirty minutes.",
+        "answers": [
+          "The interview lasted less than thirty minutes."
+        ],
+        "hints": [
+          "ไม่ได้เปรียบเทียบนาทีเป็นชิ้นแยกกัน",
+          "แทน fewer ด้วย less"
+        ],
+        "explanation": "ระยะเวลาสามสิบนาทีมองเป็นปริมาณรวม จึงใช้ less than เป็นรูปปกติ",
+        "focus": "less กับระยะเวลา"
+      },
+      {
+        "id": "quantifiers-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงคำให้เป็นคำเสนอเครื่องดื่ม เริ่มด้วย Would",
+        "sentence": "Would / you / like / some / tea?",
+        "answers": [
+          "Would you like some tea?"
+        ],
+        "hints": [
+          "เริ่ม Would you like",
+          "ตามด้วย some และชื่อเครื่องดื่ม"
+        ],
+        "explanation": "คำเสนอใช้ some ได้ แม้รูปประโยคเป็นคำถาม",
+        "focus": "some ในคำเสนอ",
+        "tokens": [
+          "Would",
+          "you",
+          "like",
+          "some",
+          "tea?"
+        ]
+      },
+      {
+        "id": "quantifiers-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกคำที่ให้ความหมายว่าโต๊ะไหนก็ได้",
+        "sentence": "You may choose ___ desk in this room.",
+        "answers": [
+          "any"
+        ],
+        "hints": [
+          "ไม่ได้ปฏิเสธว่ามีโต๊ะ",
+          "ให้เลือกโต๊ะใดก็ได้หนึ่งตัว"
+        ],
+        "explanation": "any กับ desk เอกพจน์ในคำบอกเล่านี้ให้ความหมายว่าโต๊ะไหนก็ได้",
+        "focus": "any แบบเลือกได้เสรี",
+        "options": [
+          "any",
+          "many",
+          "a few"
+        ],
+        "wrong": {
+          "many": "ต้องตามด้วย desks พหูพจน์และหมายถึงหลายโต๊ะ",
+          "a few": "ต้องตามด้วย desks พหูพจน์และหมายถึงสองสามโต๊ะ"
+        }
+      },
+      {
+        "id": "quantifiers-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม some หรือ any ในประโยคปฏิเสธแบบกลาง ๆ นี้",
+        "sentence": "We did not receive ___ replies.",
+        "answers": [
+          "any"
+        ],
+        "hints": [
+          "มอง did not",
+          "โจทย์ต้องการบอกว่าไม่มีคำตอบเลย"
+        ],
+        "explanation": "any ใช้ตามปกติในปฏิเสธนี้เพื่อหมายถึงไม่ได้รับคำตอบเลย",
+        "focus": "any ในปฏิเสธ"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยควางแผนกิจกรรมในห้องเรียน บอกสิ่งที่มีอยู่บ้างหนึ่งอย่าง สิ่งที่ขาดหนึ่งอย่าง และเปรียบเทียบจำนวนหรือปริมาณกับครั้งก่อน",
+      "model": "We have a few spare notebooks. We have little time to prepare. This activity needs fewer tables than the last one.",
+      "translation": "เรามีสมุดสำรองอยู่สองสามเล่ม เรามีเวลาเตรียมน้อย กิจกรรมนี้ใช้โต๊ะน้อยกว่าครั้งก่อน",
+      "checklist": [
+        "เลือกคำตามชนิดคำนาม",
+        "ใช้ a few/a little กับ few/little ตามเจตนา",
+        "แยกจำนวนชิ้นกับปริมาณรวมหรือหน่วยวัดก่อนใช้ fewer/less"
+      ]
+    },
+    "sources": [
+      "cam-quantifiers"
+    ]
+  },
+  {
+    "id": "wordorder",
+    "number": 20,
+    "title": "Word order",
+    "thaiTitle": "วางคำให้ประโยคไหลและความหมายไม่เลื่อน",
+    "group": "ความชัดเจนและโครงสร้าง",
+    "minutes": 22,
+    "outcome": "จัดประโยคบอกเล่า คำถาม และตำแหน่ง adverb โดยแยกโครงพื้นฐานออกจากรูปที่ใช้เน้นหรือเปลี่ยนความหมาย",
+    "memory": "วางแกนประโยคก่อน แล้วเลือกที่ของคำขยาย",
+    "why": "คำภาษาอังกฤษแต่ละคำอาจถูก แต่ถ้าสลับตำแหน่งผิด ประโยคอาจผิดรูปหรือสื่อว่าเน้นคนละสิ่งกับที่ตั้งใจ",
+    "steps": [
+      {
+        "title": "1. เริ่มจากโครงบอกเล่าธรรมดา",
+        "body": "ใช้ประธานตามด้วยกริยาและกรรมเมื่อกริยานั้นต้องการกรรม แล้วเติมสถานที่และเวลา โครงนี้เป็นจุดเริ่มฝึก ไม่ได้ครอบคลุมประโยคทุกแบบ",
+        "example": "The team reviewed the plan in the office yesterday.",
+        "note": "The team เป็นประธาน reviewed เป็นกริยา the plan เป็นกรรม"
+      },
+      {
+        "title": "2. วางคำบอกความถี่ให้เหมาะกับกริยา",
+        "body": "often, usually และ never มักอยู่ก่อนกริยาหลัก แต่หลัง be เมื่อ be เป็นกริยาหลัก; ถ้ามีกริยาช่วย มักอยู่หลังตัวแรก",
+        "example": "She usually walks to work. She is usually early.",
+        "note": "ตำแหน่งของ usually เปลี่ยนตาม walks กับ is"
+      },
+      {
+        "title": "3. เปลี่ยนโครงเมื่อถามตรง ๆ",
+        "body": "คำถามทั่วไปที่ไม่ได้ถามหาประธานวางกริยาช่วยก่อนประธาน ถ้าเป็น present simple ของกริยาทั่วไปและไม่มีกริยาช่วย ใช้ do/does แล้วให้กริยาหลักเป็นรูปเดิม; ถ้าเป็น be ให้ย้าย be ไว้ก่อนประธาน เช่น Where is the office?",
+        "example": "Where does the bus stop?",
+        "note": "does อยู่ก่อน the bus และ stop ไม่เติม -s"
+      },
+      {
+        "title": "4. แยกคำถามแฝงและคำที่ขยับแล้วเปลี่ยนจุดเน้น",
+        "body": "หลัง Could you tell me ใช้ลำดับบอกเล่าในอนุประโยค ไม่สลับแบบคำถามตรง และวาง only ใกล้สิ่งที่ต้องการจำกัดเมื่ออยากให้ความหมายชัด",
+        "example": "Could you tell me where the bus stops?",
+        "note": "ในส่วน where… ใช้ the bus stops ไม่ใช่ does the bus stop"
+      }
+    ],
+    "examples": [
+      {
+        "en": "The receptionist checked my booking carefully.",
+        "th": "พนักงานต้อนรับตรวจการจองของฉันอย่างรอบคอบ",
+        "note": "carefully อยู่หลังกรรม my booking ในโครงทั่วไปนี้"
+      },
+      {
+        "en": "We often study at the public library.",
+        "th": "เรามักอ่านหนังสือที่ห้องสมุดสาธารณะ",
+        "note": "often อยู่ก่อนกริยาหลัก study"
+      },
+      {
+        "en": "The classroom is usually quiet before nine.",
+        "th": "ห้องเรียนมักเงียบก่อนเก้าโมง",
+        "note": "usually อยู่หลัง be คือ is"
+      },
+      {
+        "en": "I have never used this software.",
+        "th": "ฉันไม่เคยใช้ซอฟต์แวร์นี้",
+        "note": "never อยู่หลังกริยาช่วย have และก่อน used"
+      },
+      {
+        "en": "Why did the driver change the route?",
+        "th": "ทำไมคนขับจึงเปลี่ยนเส้นทาง",
+        "note": "คำถามมี did ก่อนประธาน และ change เป็นรูปเดิม"
+      },
+      {
+        "en": "Do you know when the next train leaves?",
+        "th": "คุณรู้ไหมว่ารถไฟขบวนถัดไปออกเมื่อไร",
+        "note": "คำถามหลักคือ Do you know ส่วน when the next train leaves ใช้ลำดับบอกเล่า"
+      }
+    ],
+    "traps": [
+      {
+        "title": "ตำแหน่ง adverb ยืดหยุ่นได้ ไม่ใช่มีที่เดียวเสมอ",
+        "body": "Usually วางต้นประโยคได้ และคำบอกวิธีอย่าง carefully อาจอยู่ก่อนกริยาหรือหลังกรรมได้ บทนี้ใช้ตำแหน่งกลางที่พบบ่อยเพื่อฝึก ไม่ตัดสินรูปที่ถูกอื่นว่าใช้ไม่ได้",
+        "good": "Usually, we meet in the library.",
+        "source": "cam-order",
+        "contrast": "She carefully checked the figures."
+      },
+      {
+        "title": "คำถามที่ถามประธานไม่เติม do เพียงเพราะเป็นคำถาม",
+        "body": "Who เมื่อเป็นประธานใช้กริยาต่อได้เลย เช่น Who called? ต่างจากคำถามที่ who เป็นกรรมอย่าง Who did you call?",
+        "good": "Who moved the chairs?",
+        "source": "cam-order",
+        "contrast": "Who did you invite?"
+      },
+      {
+        "title": "คำถามแฝงไม่สลับประธานกับกริยาแบบคำถามตรง",
+        "body": "ใน Do you know where… ส่วนอนุประโยคใช้ where the office is ส่วนคำถามหลักยังเรียง Do you know ตามปกติ",
+        "good": "Do you know where the office is?",
+        "source": "cam-order",
+        "contrast": "Where is the office?"
+      },
+      {
+        "title": "only เปลี่ยนขอบเขตความหมายได้",
+        "body": "Only Mina เน้นว่ามี Mina คนเดียว ส่วน only the notes เน้นว่าเฉพาะบันทึก ในภาษาพูดน้ำเสียงช่วยตีความได้ แต่ในงานเขียนควรวางใกล้ส่วนที่จำกัด",
+        "good": "Only Mina checked the notes.",
+        "source": "cam-order",
+        "contrast": "Mina checked only the notes."
+      },
+      {
+        "title": "สถานที่ก่อนเวลาเป็นแนวฝึก ไม่ใช่กฎห้ามสลับ",
+        "body": "ท้ายประโยคมักเรียงสถานที่ก่อนเวลา แต่เอาเวลาขึ้นต้นเพื่อจัดหัวข้อได้ ไม่ต้องแก้ทุกประโยคให้เหมือนกัน",
+        "good": "On Monday, we met at the station.",
+        "source": "cam-order"
+      }
+    ],
+    "exercises": [
+      {
+        "id": "wordorder-01",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกตำแหน่งกลางที่เป็นธรรมชาติของ usually กับ be",
+        "sentence": "",
+        "answers": [
+          "She is usually early."
+        ],
+        "hints": [
+          "มองหาประโยคที่บอกคุณสมบัติ early",
+          "ตำแหน่งกลางทั่วไปคือ is usually"
+        ],
+        "explanation": "เมื่อ be เป็นกริยาหลัก usually มักอยู่หลัง is และก่อน adjective early",
+        "focus": "ความถี่หลัง be",
+        "options": [
+          "She usually is to work early.",
+          "She is usually early.",
+          "She is early usually to."
+        ],
+        "wrong": {
+          "She usually is to work early.": "มีโครง is to work early ซึ่งเปลี่ยนความหมายและไม่ใช่โครงบอกว่าเธอมักมาเร็วตามโจทย์",
+          "She is early usually to.": "to ท้ายประโยคไม่มีส่วนตามและทำให้โครงไม่สมบูรณ์"
+        }
+      },
+      {
+        "id": "wordorder-02",
+        "type": "choice",
+        "phase": "guided",
+        "prompt": "เลือกคำถามตรงที่ใช้ does ถูกต้อง",
+        "sentence": "",
+        "answers": [
+          "Where does the shuttle stop?"
+        ],
+        "hints": [
+          "สลับกริยาช่วยไว้ก่อนประธาน",
+          "หลัง does ไม่เติม s ที่กริยาหลัก"
+        ],
+        "explanation": "does อยู่ก่อนประธาน และ stop เป็นรูปเดิม",
+        "focus": "คำถามตรง",
+        "options": [
+          "Where does the shuttle stop?",
+          "Where the shuttle does stop?",
+          "Where does the shuttle stops?"
+        ],
+        "wrong": {
+          "Where the shuttle does stop?": "ไม่ใช่ลำดับคำถามตรงทั่วไปที่โจทย์ต้องการ",
+          "Where does the shuttle stops?": "หลัง does ต้องใช้ stop ไม่ใช่ stops"
+        }
+      },
+      {
+        "id": "wordorder-03",
+        "type": "fill",
+        "phase": "guided",
+        "prompt": "เติมรูปเดิมของ open หลัง does",
+        "sentence": "What time does the museum ___?",
+        "answers": [
+          "open"
+        ],
+        "hints": [
+          "ประธาน museum เป็นเอกพจน์แต่มี does แล้ว",
+          "อย่าเติม s ซ้ำ"
+        ],
+        "explanation": "does เป็นตัวรับการผันแล้ว กริยาหลักใช้ open รูปเดิม",
+        "focus": "กริยาหลัง does"
+      },
+      {
+        "id": "wordorder-04",
+        "type": "rewrite",
+        "phase": "guided",
+        "prompt": "เปลี่ยนเฉพาะ where is the exit เป็น where the exit is คงคำอื่นไว้",
+        "sentence": "Could you tell me where is the exit?",
+        "answers": [
+          "Could you tell me where the exit is?"
+        ],
+        "hints": [
+          "คำถามหลักคือ Could you tell me",
+          "ย้าย is ไปหลัง the exit"
+        ],
+        "explanation": "ส่วน where the exit is เป็นคำถามแฝง ใช้ประธานก่อนกริยา",
+        "focus": "คำถามแฝง"
+      },
+      {
+        "id": "wordorder-05",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่ถามว่าใครเป็นคนโทร ใช้ who เป็นประธาน",
+        "sentence": "",
+        "answers": [
+          "Who called the office?"
+        ],
+        "hints": [
+          "ต้องการหาผู้ทำ ไม่ใช่ผู้รับ",
+          "วาง called หลัง Who ได้เลย"
+        ],
+        "explanation": "who เป็นประธานของ called จึงไม่ต้องเติม did ในคำถามธรรมดานี้",
+        "focus": "คำถามประธาน",
+        "options": [
+          "Who called the office?",
+          "Who did called the office?",
+          "Who the office called?"
+        ],
+        "wrong": {
+          "Who did called the office?": "รูป did called ไม่ถูก และไม่จำเป็นต้องมี did ในคำถามประธานแบบนี้",
+          "Who the office called?": "office กลายเป็นผู้โทร และไม่ใช่โครงคำถามตรงที่ต้องการ"
+        }
+      },
+      {
+        "id": "wordorder-06",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกประโยคที่สื่อชัดว่ามีเฉพาะ Ben คนเดียวตรวจแฟ้ม",
+        "sentence": "",
+        "answers": [
+          "Only Ben checked the files."
+        ],
+        "hints": [
+          "ต้องจำกัดผู้ทำคือ Ben",
+          "วาง only ติดหน้า Ben"
+        ],
+        "explanation": "Only อยู่หน้า Ben จึงจำกัดผู้ทำว่าเป็น Ben คนเดียว",
+        "focus": "ขอบเขตของ only",
+        "options": [
+          "Only Ben checked the files.",
+          "Ben checked only the files.",
+          "Ben checked the only files."
+        ],
+        "wrong": {
+          "Ben checked only the files.": "จำกัดสิ่งที่ตรวจว่าเป็นเฉพาะแฟ้ม ไม่ได้จำกัดคน",
+          "Ben checked the only files.": "the only files หมายถึงแฟ้มชุดเดียวที่มี ไม่ได้บอกว่ามี Ben คนเดียวตรวจ"
+        }
+      },
+      {
+        "id": "wordorder-07",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม is หรือ does ในคำถามแฝงที่ถามสถานที่",
+        "sentence": "Do you know where the lift ___?",
+        "answers": [
+          "is"
+        ],
+        "hints": [
+          "กำลังถามว่าลิฟต์อยู่ที่ไหน",
+          "ประธาน the lift ต้องมีกริยา be"
+        ],
+        "explanation": "where the lift is เป็นอนุประโยคที่เรียงประธานก่อน be; does ไม่แทนกริยา be บอกสถานที่",
+        "focus": "be ในคำถามแฝง"
+      },
+      {
+        "id": "wordorder-08",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติมรูปของ leave ให้เข้ากับประธานในคำถามแฝงปัจจุบัน",
+        "sentence": "Can you tell me when the train ___?",
+        "answers": [
+          "leaves"
+        ],
+        "hints": [
+          "ไม่มี does ในอนุประโยคนี้",
+          "train เป็นเอกพจน์ใน present simple"
+        ],
+        "explanation": "ส่วน when the train leaves ใช้ลำดับบอกเล่าและผัน leaves ตามประธานเอกพจน์",
+        "focus": "กริยาในคำถามแฝง"
+      },
+      {
+        "id": "wordorder-09",
+        "type": "rewrite",
+        "phase": "solo",
+        "prompt": "ย้าย carefully ไปท้ายประโยคหลัง the instructions โดยคงคำอื่นไว้",
+        "sentence": "She read carefully the instructions.",
+        "answers": [
+          "She read the instructions carefully."
+        ],
+        "hints": [
+          "อย่าแยก read กับกรรมสั้น ๆ ในแบบฝึกนี้",
+          "ย้าย carefully ไปก่อนจุดท้ายประโยค"
+        ],
+        "explanation": "ตำแหน่งหลังกรรมเป็นโครงทั่วไปที่ลื่นไหลกว่าในประโยคสั้นนี้ การวาง She carefully read the instructions ก็ใช้ได้ แต่โจทย์กำหนดตำแหน่งท้าย",
+        "focus": "adverb หลังกรรม"
+      },
+      {
+        "id": "wordorder-10",
+        "type": "order",
+        "phase": "solo",
+        "prompt": "เรียงตามโครง ประธาน–กริยา–กรรม–สถานที่–เวลา เริ่มด้วย We",
+        "sentence": "We / discussed / the schedule / in class / yesterday.",
+        "answers": [
+          "We discussed the schedule in class yesterday."
+        ],
+        "hints": [
+          "We discussed the schedule เป็นแกน",
+          "in class มาก่อน yesterday ตามโจทย์"
+        ],
+        "explanation": "วางกรรม the schedule หลัง discussed แล้วต่อสถานที่และเวลาตามลำดับที่โจทย์กำหนด",
+        "focus": "โครงบอกเล่า",
+        "tokens": [
+          "We",
+          "discussed",
+          "the schedule",
+          "in class",
+          "yesterday."
+        ]
+      },
+      {
+        "id": "wordorder-11",
+        "type": "choice",
+        "phase": "solo",
+        "prompt": "เลือกตำแหน่ง never ที่ถูกใน present perfect นี้",
+        "sentence": "",
+        "answers": [
+          "I have never seen this diagram."
+        ],
+        "hints": [
+          "present perfect ต้องใช้ have + seen",
+          "never อยู่ระหว่าง have กับ seen ได้"
+        ],
+        "explanation": "never อยู่หลัง have และก่อน past participle seen ในตำแหน่งกลางทั่วไป",
+        "focus": "adverb กับกริยาช่วย",
+        "options": [
+          "I have never seen this diagram.",
+          "I never have saw this diagram.",
+          "I have seen never diagram this."
+        ],
+        "wrong": {
+          "I never have saw this diagram.": "หลัง have ต้องใช้ seen ไม่ใช่ saw",
+          "I have seen never diagram this.": "ลำดับ this diagram ผิด และ never วางคั่นแบบนี้ไม่ได้"
+        }
+      },
+      {
+        "id": "wordorder-12",
+        "type": "fill",
+        "phase": "solo",
+        "prompt": "เติม do หรือ does ในคำถามตรง",
+        "sentence": "Where ___ your colleagues work?",
+        "answers": [
+          "do"
+        ],
+        "hints": [
+          "colleagues มีหลายคน",
+          "คำถามใช้ do/does ก่อนประธาน"
+        ],
+        "explanation": "your colleagues เป็นพหูพจน์ จึงใช้ do ไว้ก่อนประธานในคำถาม present simple",
+        "focus": "กริยาช่วยกับประธาน"
+      }
+    ],
+    "transfer": {
+      "prompt": "เขียน 3 ประโยคเกี่ยวกับการเดินทางหรือการเรียน: บอกกิจวัตรโดยใช้ usually หนึ่งประโยค ถามตรงหนึ่งประโยค และถามแฝงด้วย Do you know… อีกหนึ่งประโยค",
+      "model": "I usually take the bus to college. Where does the new bus stop? Do you know when the last bus leaves?",
+      "translation": "ปกติฉันนั่งรถบัสไปวิทยาลัย รถบัสสายใหม่จอดที่ไหน คุณรู้ไหมว่ารถบัสเที่ยวสุดท้ายออกเมื่อไร",
+      "checklist": [
+        "usually อยู่ในตำแหน่งที่เข้ากับกริยา",
+        "คำถามตรงใช้กริยาช่วยและกริยารูปเดิมถูกต้อง",
+        "คำถามแฝงเรียงประธานก่อนกริยาและผันกริยาให้ตรง"
+      ]
+    },
+    "sources": [
+      "cam-order"
+    ]
+  }
+]

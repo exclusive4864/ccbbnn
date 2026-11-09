@@ -1,0 +1,10 @@
+[
+ {"id":"image-cam-exceptional","title":"Cambridge Dictionary: Exceptional","url":"https://dictionary.cambridge.org/dictionary/english/exceptional?topic=extremely-good","notes":"exceptional มีความหมายว่าดีอย่างโดดเด่นหรือไม่ธรรมดา ไม่ใช่คำแทน good ทุกความหมาย"},
+ {"id":"image-cam-kindly","title":"Cambridge Dictionary: Kindly","url":"https://dictionary.cambridge.org/dictionary/english/kindly?q=kindly_1","notes":"kindly ในคำขออาจให้ความรู้สึกสั่งหรือไม่พอใจ จึงไม่ได้สุภาพกว่า please ทุกสถานการณ์"},
+ {"id":"image-cam-farewell","title":"Cambridge Dictionary: Farewell","url":"https://dictionary.cambridge.org/dictionary/english/farewell","notes":"Farewell! เป็นคำลาที่มีระดับภาษา formal หรือ old-fashioned ไม่ใช่การอัปเกรด goodbye ทุกครั้ง"},
+ {"id":"image-cam-about","title":"Cambridge: About","url":"https://dictionary.cambridge.org/grammar/british-grammar/about-","notes":"about ใช้ทั้งเรื่องหัวข้อและการประมาณจำนวน เวลา หรือปริมาณ; regarding ไม่แทนความหมายประมาณ"},
+ {"id":"image-cam-regarding","title":"Cambridge Dictionary: Regarding","url":"https://dictionary.cambridge.org/us/dictionary/english/regarding?topic=regarding-and-concerning","notes":"regarding เป็น preposition ค่อนข้างเป็นทางการสำหรับกล่าวถึงเรื่องหรือหัวข้อ"},
+ {"id":"image-cam-maybe","title":"Cambridge: Maybe or perhaps?","url":"https://dictionary.cambridge.org/grammar/british-grammar/maybe-or-","notes":"ความหมายความเป็นไปได้ใกล้กัน แต่ perhaps ค่อนข้างเป็นทางการกว่าและยืดหยุ่นในตำแหน่งกลางประโยคกว่า"},
+ {"id":"image-cam-excuse","title":"Cambridge Dictionary: Excuse me","url":"https://dictionary.cambridge.org/us/dictionary/english/excuse-me","notes":"วลีสุภาพที่ใช้เรียกความสนใจและในหน้าที่สนทนาอื่น ไม่ใช่ภาษาที่ด้อยกว่า"},
+ {"id":"image-cam-pardon","title":"Cambridge Dictionary: Pardon (me)","url":"https://dictionary.cambridge.org/dictionary/english/pardon-me","notes":"มีหน้าที่ทับซ้อนกับ excuse me รวมถึงเรียกความสนใจ และการขอให้กล่าวซ้ำ; ไม่ใช่ระดับสูงกว่าตายตัว"}
+]
